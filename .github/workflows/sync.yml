@@ -30,7 +30,7 @@ jobs:
   sync:
     name: 抓取并提交
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 100
     env:
       TZ: UTC
     steps:

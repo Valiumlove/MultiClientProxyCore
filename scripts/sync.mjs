@@ -148,17 +148,38 @@ function formatBytes(n) {
   return `${(n / 1048576).toFixed(1)} MB`;
 }
 
-async function fetchWithRetry(url, { as = 'buffer', tries = 4, maxBytes = 0 } = {}) {
+// 超时策略：空闲超时而非总时长超时。
+// 上游 Cloudflare Pages 对大产物吞吐不稳定（实测 0.1–0.8 MB/s 波动），
+// 但只要字节还在流动就不该判失败；真正卡死（连续 idleTimeoutMs 无数据）才中断。
+async function fetchWithRetry(
+  url,
+  { as = 'buffer', tries = 4, maxBytes = 0, idleTimeoutMs = 60_000, maxTotalMs = 480_000 } = {},
+) {
   let lastError;
   for (let attempt = 1; attempt <= tries; attempt++) {
+    const controller = new AbortController();
+    let abortReason = '';
+    let idleTimer = null;
+    const armIdle = () => {
+      if (idleTimer) clearTimeout(idleTimer);
+      idleTimer = setTimeout(() => {
+        abortReason = 'idle';
+        controller.abort();
+      }, idleTimeoutMs);
+    };
+    const totalTimer = setTimeout(() => {
+      abortReason = 'total';
+      controller.abort();
+    }, maxTotalMs);
     try {
+      armIdle();
       const res = await fetch(url, {
         headers: {
           'User-Agent': USER_AGENT,
           Accept: as === 'json' ? 'application/json' : '*/*',
           'Cache-Control': 'no-cache',
         },
-        signal: AbortSignal.timeout(60_000),
+        signal: controller.signal,
       });
       if (!res.ok) {
         const err = new Error(`HTTP ${res.status} ${res.statusText} - ${url}`);
@@ -169,17 +190,37 @@ async function fetchWithRetry(url, { as = 'buffer', tries = 4, maxBytes = 0 } = 
       if (maxBytes > 0 && declared > maxBytes) {
         throw new Error(`产物过大（${formatBytes(declared)}，上限 ${formatBytes(maxBytes)}）: ${url}`);
       }
-      if (as === 'json') return await res.json();
-      const buf = Buffer.from(await res.arrayBuffer());
-      if (maxBytes > 0 && buf.length > maxBytes) {
-        throw new Error(`产物过大（${formatBytes(buf.length)}，上限 ${formatBytes(maxBytes)}）: ${url}`);
+      const chunks = [];
+      let total = 0;
+      if (res.body) {
+        for await (const chunk of res.body) {
+          armIdle();
+          total += chunk.length;
+          if (maxBytes > 0 && total > maxBytes) {
+            throw new Error(`产物过大（超过上限 ${formatBytes(maxBytes)}）: ${url}`);
+          }
+          chunks.push(Buffer.from(chunk));
+        }
+      } else {
+        chunks.push(Buffer.from(await res.arrayBuffer()));
       }
+      const buf = Buffer.concat(chunks);
+      if (as === 'json') return JSON.parse(buf.toString('utf8'));
       return buf;
     } catch (err) {
+      if (abortReason === 'idle') {
+        err = new Error(`下载停滞 ${Math.round(idleTimeoutMs / 1000)}s 无数据 - ${url}`);
+      } else if (abortReason === 'total') {
+        err = new Error(`下载超过总时限 ${Math.round(maxTotalMs / 1000)}s - ${url}`);
+      }
       lastError = err;
       const retriable = !err.status || err.status === 408 || err.status === 429 || err.status >= 500;
-      if (!retriable || attempt === tries) break;
+      // 总时限耗尽说明单次吞吐已无法完成，重试只加长空等；给它一次机会就够了。
+      if (!retriable || attempt === tries || (abortReason === 'total' && attempt >= 2)) break;
       await sleep(500 * 2 ** (attempt - 1) + Math.random() * 250);
+    } finally {
+      if (idleTimer) clearTimeout(idleTimer);
+      clearTimeout(totalTimer);
     }
   }
   throw lastError;
@@ -708,19 +749,33 @@ async function main() {
   const plans = [];
   const nextState = { version: STATE_VERSION, clients: { ...state.clients } };
 
-  for (const client of targets) {
+  // 客户端之间原本串行：单客户端约 6~7 分钟 × 8 个 ≈ 50 分钟，逼近 workflow 时限。
+  // 各客户端产物目录互不相交、写入用 <file>.<pid>.tmp 原子替换，因此可安全并行。
+  // 上游单连接吞吐本就不稳，并行还能把"某条大文件慢"的空档填掉。
+  const clientConcurrency = Math.max(1, Math.min(Number(config.clientConcurrency) || 3, targets.length));
+  if (clientConcurrency > 1) {
+    console.log(`并行同步 ${targets.length} 个客户端（并发 ${clientConcurrency}）`);
+  }
+  const clientPlans = await pool(targets, clientConcurrency, async (client) => {
     const meta = clientsMeta.get(client);
     try {
-      const plan = await syncClient({ opts, config, client, meta, state, stats });
-      plans.push(plan);
-      nextState.clients[client] = plan.state;
-      fatal = fatal || plan.fatal;
+      return await syncClient({ opts, config, client, meta, state, stats });
     } catch (err) {
       console.error(`[${client}] 同步失败: ${err.message}`);
+      return null;
+    }
+  });
+  clientPlans.forEach((plan, index) => {
+    const client = targets[index];
+    if (!plan) {
       fatal = true;
       if (state.clients[client]) nextState.clients[client] = state.clients[client];
+      return;
     }
-  }
+    plans.push(plan);
+    nextState.clients[client] = plan.state;
+    fatal = fatal || plan.fatal;
+  });
 
   // 有任何致命失败：不写 state/index、不删任何规则文件（规则文件的新内容保留，下次会重新补齐/提交）
   if (fatal) {
