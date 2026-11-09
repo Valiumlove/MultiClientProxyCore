@@ -1,14 +1,15 @@
 # NAME: OPPO
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 09:57:03
+# UPDATED: 2026-11-07 03:16:18
 # HOST: 1
-# HOST-SUFFIX: 71
+# HOST-SUFFIX: 72
 
 HOST,community.oneplus.com,OPPO
 HOST-SUFFIX,aibreeno.com,OPPO
 HOST-SUFFIX,allawnfs.com,OPPO
 HOST-SUFFIX,allawno.com,OPPO
+HOST-SUFFIX,allawnofs.com,OPPO
 HOST-SUFFIX,allawntech.com,OPPO
 HOST-SUFFIX,andes.tech,OPPO
 HOST-SUFFIX,andesbrain.com,OPPO

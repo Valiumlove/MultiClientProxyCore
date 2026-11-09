@@ -1,9 +1,9 @@
 # NAME: Copilot
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 11:15:38
-# HOST: 70
-# HOST-SUFFIX: 304
+# UPDATED: 2026-11-09 11:05:50
+# HOST: 71
+# HOST-SUFFIX: 305
 # HOST-KEYWORD: 5
 # IP-CIDR: 4
 # IP6-CIDR: 2
@@ -68,6 +68,7 @@ HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Copilot
 HOST,openaicomproductionae4b.blob.core.windows.net,Copilot
 HOST,ppl-ai-file-upload.s3.amazonaws.com,Copilot
 HOST,pplx-res.cloudinary.com,Copilot
+HOST,production-copilot-host-westus.webpubsub.azure.com,Copilot
 HOST,production-openaicom-storage.azureedge.net,Copilot
 HOST,q-developer-integration.us-east-1.api.aws,Copilot
 HOST,qianfan.baidubce.com,Copilot
@@ -211,6 +212,7 @@ HOST-SUFFIX,grazie.ai,Copilot
 HOST-SUFFIX,grazie.aws.intellij.net,Copilot
 HOST-SUFFIX,grok.com,Copilot
 HOST-SUFFIX,grok.x.com,Copilot
+HOST-SUFFIX,grokbot.com,Copilot
 HOST-SUFFIX,grokipedia.com,Copilot
 HOST-SUFFIX,groq.com,Copilot
 HOST-SUFFIX,h2o.ai,Copilot

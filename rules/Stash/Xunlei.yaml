@@ -1,10 +1,10 @@
 # NAME: Xunlei
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 09:56:59
+# UPDATED: 2026-11-07 03:16:16
 # BEHAVIOR: classical
 # DOMAIN-SUFFIX: 35
-# PROCESS-NAME: 2
+# PROCESS-NAME: 1
 
 payload:
 - 'DOMAIN-SUFFIX,00cdn.com'
@@ -43,4 +43,3 @@ payload:
 - 'DOMAIN-SUFFIX,xycdn.com'
 - 'DOMAIN-SUFFIX,xycloud.com'
 - 'PROCESS-NAME,Thunder'
-- 'PROCESS-NAME,Thunder.exe'

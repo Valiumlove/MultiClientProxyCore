@@ -1,14 +1,16 @@
 # NAME: Microsoft
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 10:49:36
-# HOST: 114
-# HOST-SUFFIX: 788
+# UPDATED: 2026-11-09 11:14:54
+# HOST: 121
+# HOST-SUFFIX: 790
 # HOST-WILDCARD: 1
 # HOST-KEYWORD: 4
 # USER-AGENT: 3
 
 HOST,az764295.vo.msecnd.net,Microsoft
+HOST,azure.microsoft.com,Microsoft
+HOST,azuremarketplace.microsoft.com,Microsoft
 HOST,azuremigrate.download.prss.microsoft.com,Microsoft
 HOST,azuremigratetest.download.prss.microsoft.com,Microsoft
 HOST,azurestackhub.download.prss.microsoft.com,Microsoft
@@ -30,13 +32,14 @@ HOST,ctldl.windowsupdate.com,Microsoft
 HOST,dc.applicationinsights.azure.com,Microsoft
 HOST,dc.services.visualstudio.com,Microsoft
 HOST,default.exp-tas.com,Microsoft
+HOST,developer.microsoft.com,Microsoft
 HOST,download.microsoft.com,Microsoft
 HOST,download.visualstudio.microsoft.com,Microsoft
 HOST,dreamspark.download.prss.microsoft.com,Microsoft
 HOST,dreamsparkuat.download.prss.microsoft.com,Microsoft
+HOST,dtlgalleryint.cloudapp.net,Microsoft
 HOST,edge.activity.windows.com,Microsoft
 HOST,edge.microsoft.com,Microsoft
-HOST,emoi-cncdn.bing.com,Microsoft
 HOST,f.c2r.ts.cdn.office.net,Microsoft
 HOST,github-api.arkoselabs.com,Microsoft
 HOST,github-cloud.s3.amazonaws.com,Microsoft
@@ -75,7 +78,9 @@ HOST,officemktuat.download.prss.microsoft.com,Microsoft
 HOST,oneocsp.microsoft.com,Microsoft
 HOST,osrelease.download.prss.microsoft.com,Microsoft
 HOST,packages.microsoft.com,Microsoft
+HOST,poshtestgallery.cloudapp.net,Microsoft
 HOST,prodforza.blob.core.windows.net,Microsoft
+HOST,production-copilot-host-westus.webpubsub.azure.com,Microsoft
 HOST,productionresultssa0.blob.core.windows.net,Microsoft
 HOST,productionresultssa1.blob.core.windows.net,Microsoft
 HOST,productionresultssa10.blob.core.windows.net,Microsoft
@@ -96,6 +101,8 @@ HOST,productionresultssa6.blob.core.windows.net,Microsoft
 HOST,productionresultssa7.blob.core.windows.net,Microsoft
 HOST,productionresultssa8.blob.core.windows.net,Microsoft
 HOST,productionresultssa9.blob.core.windows.net,Microsoft
+HOST,psg-int-centralus.cloudapp.net,Microsoft
+HOST,psg-int-eastus.cloudapp.net,Microsoft
 HOST,rink.hockeyapp.net,Microsoft
 HOST,rsm.download.prss.microsoft.com,Microsoft
 HOST,rt.services.visualstudio.com,Microsoft
@@ -282,6 +289,7 @@ HOST-SUFFIX,bingpix.com,Microsoft
 HOST-SUFFIX,bingpk.com,Microsoft
 HOST-SUFFIX,bings.com,Microsoft
 HOST-SUFFIX,bingsandbox.com,Microsoft
+HOST-SUFFIX,bingstatic.com,Microsoft
 HOST-SUFFIX,bingtoolbar.com,Microsoft
 HOST-SUFFIX,bingtranslator.com,Microsoft
 HOST-SUFFIX,bingvisualsearch.com,Microsoft
@@ -643,6 +651,7 @@ HOST-SUFFIX,msfteducation.ca,Microsoft
 HOST-SUFFIX,msftidentity.com,Microsoft
 HOST-SUFFIX,msftncsi.com,Microsoft
 HOST-SUFFIX,msftnet.org,Microsoft
+HOST-SUFFIX,msftstatic.com,Microsoft
 HOST-SUFFIX,msgamesresearch.com,Microsoft
 HOST-SUFFIX,msgamestudios.com,Microsoft
 HOST-SUFFIX,mshome.net,Microsoft

@@ -1,7 +1,7 @@
 # NAME: GlobalGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 11:29:05
+# UPDATED: 2026-11-07 03:18:32
 domain_set:
   - a.ppy.sh
   - a4e8s8k3.map2.ssl.hwcdn.net
@@ -116,6 +116,7 @@ domain_suffix_set:
   - activision.com
   - activisionblizzard.com
   - activisionblizzardmedia.com
+  - amdgaming.com
   - amiibo.com
   - anthemgame.com
   - anthemthegame.com
@@ -398,6 +399,9 @@ domain_suffix_set:
   - learnwithleague.com
   - legendofzelda.cn
   - legendofzelda.com.cn
+  - limbuscompany.global
+  - limbuscompanyapi.com
+  - limbuscompanycdn.org
   - log-upload-os.hoyoverse.com
   - lol-europe.com
   - lolclub.org
@@ -590,6 +594,7 @@ domain_suffix_set:
   - priconne-redive.jp
   - prismlauncher.org
   - projectapex.com
+  - projectmoon.studio
   - protondb.com
   - pubg.com
   - pvp.net
@@ -684,6 +689,7 @@ domain_suffix_set:
   - simcity.com
   - skate2.com
   - sketchfab.com
+  - skinswap.com
   - skylanders.com
   - sledgehammergames.com
   - snk-corp.co.jp
@@ -734,6 +740,7 @@ domain_suffix_set:
   - steamgames.com
   - steaminventoryhelper.com
   - steamos.cloud
+  - steampeek.hu
   - steampowered.com
   - steampowered.com.8686c.com
   - steamserver.net
@@ -864,6 +871,8 @@ domain_suffix_set:
   - xbx.lv
   - xdsummit.com
   - xenoblade.com
+  - xn--mts47c3w9b1qr.cn
+  - xn--mts47c3w9b1qr.net
   - ylands.com
   - ynoproject.net
   - yo-star.com

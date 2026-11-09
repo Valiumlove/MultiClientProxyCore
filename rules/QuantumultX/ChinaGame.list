@@ -1,7 +1,7 @@
 # NAME: ChinaGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:50:35
+# UPDATED: 2026-11-07 03:16:56
 # HOST: 2
 # HOST-SUFFIX: 279
 
@@ -127,7 +127,6 @@ HOST-SUFFIX,ihappystudio.cn,ChinaGame
 HOST-SUFFIX,ihappystudio.com,ChinaGame
 HOST-SUFFIX,ihykb.com,ChinaGame
 HOST-SUFFIX,img4399.com,ChinaGame
-HOST-SUFFIX,in.th,ChinaGame
 HOST-SUFFIX,jiaoyimao.cn,ChinaGame
 HOST-SUFFIX,jiaoyimao.com,ChinaGame
 HOST-SUFFIX,juequling.com,ChinaGame
@@ -262,6 +261,7 @@ HOST-SUFFIX,xhlsgs.com,ChinaGame
 HOST-SUFFIX,xindong.com,ChinaGame
 HOST-SUFFIX,xinwuji.com,ChinaGame
 HOST-SUFFIX,xishanju.com,ChinaGame
+HOST-SUFFIX,xn--owtw8cc49ajfl.cn,ChinaGame
 HOST-SUFFIX,xoyo.com,ChinaGame
 HOST-SUFFIX,xoyocdn.com,ChinaGame
 HOST-SUFFIX,ycgame.com,ChinaGame

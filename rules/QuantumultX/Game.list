@@ -1,10 +1,11 @@
 # NAME: Game
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 10:54:30
-# HOST: 126
-# HOST-SUFFIX: 1139
+# UPDATED: 2026-11-07 03:23:58
+# HOST: 125
+# HOST-SUFFIX: 1144
 # HOST-KEYWORD: 4
+# IP-CIDR: 12
 
 HOST,a.ppy.sh,Game
 HOST,a4e8s8k3.map2.ssl.hwcdn.net,Game
@@ -43,7 +44,6 @@ HOST,eaassets-a.akamaihd.net,Game
 HOST,end-api.shallow.ink,Game
 HOST,end.shallow.ink,Game
 HOST,f3b7q2p3.ssl.hwcdn.net,Game
-HOST,flightsimulator.azureedge.net,Game
 HOST,gamedownloads-rockstargames-com.akamaized.net,Game
 HOST,gog-cdn-lumen.secure2.footprint.net,Game
 HOST,gog-cdn.akamaized.net,Game
@@ -198,6 +198,7 @@ HOST-SUFFIX,activisionblizzardmedia.com,Game
 HOST-SUFFIX,aki-game.com,Game
 HOST-SUFFIX,aki-game2.com,Game
 HOST-SUFFIX,aligames.com,Game
+HOST-SUFFIX,amdgaming.com,Game
 HOST-SUFFIX,amiibo.com,Game
 HOST-SUFFIX,anthemgame.com,Game
 HOST-SUFFIX,anthemthegame.com,Game
@@ -212,7 +213,6 @@ HOST-SUFFIX,armaplatform.com,Game
 HOST-SUFFIX,artstation.com,Game
 HOST-SUFFIX,artstationmedia.com,Game
 HOST-SUFFIX,artstorm.com,Game
-HOST-SUFFIX,asobostudio.com,Game
 HOST-SUFFIX,astral-vector.com,Game
 HOST-SUFFIX,avatargarenanow-a.akamaihd.net,Game
 HOST-SUFFIX,awayoutgame.com,Game
@@ -439,7 +439,6 @@ HOST-SUFFIX,fire-emblem-heroes.com,Game
 HOST-SUFFIX,fireemblemawakening.com,Game
 HOST-SUFFIX,firesidegatherings.com,Game
 HOST-SUFFIX,fitgirl-repacks.site,Game
-HOST-SUFFIX,flightsimulator.com,Game
 HOST-SUFFIX,flipnotestudio.com,Game
 HOST-SUFFIX,forevernine.com,Game
 HOST-SUFFIX,forgecdn.net,Game
@@ -544,7 +543,6 @@ HOST-SUFFIX,ihappystudio.cn,Game
 HOST-SUFFIX,ihappystudio.com,Game
 HOST-SUFFIX,ihykb.com,Game
 HOST-SUFFIX,img4399.com,Game
-HOST-SUFFIX,in.th,Game
 HOST-SUFFIX,industrialtoys.com,Game
 HOST-SUFFIX,infinityward.com,Game
 HOST-SUFFIX,insights-collector.gog.com,Game
@@ -602,6 +600,9 @@ HOST-SUFFIX,ledu.com,Game
 HOST-SUFFIX,legendofzelda.cn,Game
 HOST-SUFFIX,legendofzelda.com.cn,Game
 HOST-SUFFIX,leyuansu.com,Game
+HOST-SUFFIX,limbuscompany.global,Game
+HOST-SUFFIX,limbuscompanyapi.com,Game
+HOST-SUFFIX,limbuscompanycdn.org,Game
 HOST-SUFFIX,lingxigames.com,Game
 HOST-SUFFIX,log-upload-os.hoyoverse.com,Game
 HOST-SUFFIX,log-upload.mihoyo.com,Game
@@ -847,6 +848,7 @@ HOST-SUFFIX,priconne-redive.jp,Game
 HOST-SUFFIX,prismlauncher.org,Game
 HOST-SUFFIX,productcard.gog-statics.com,Game
 HOST-SUFFIX,projectapex.com,Game
+HOST-SUFFIX,projectmoon.studio,Game
 HOST-SUFFIX,protondb.com,Game
 HOST-SUFFIX,proximabeta.com,Game
 HOST-SUFFIX,pubg.com,Game
@@ -969,6 +971,7 @@ HOST-SUFFIX,simcity-buildit.com,Game
 HOST-SUFFIX,simcity.com,Game
 HOST-SUFFIX,skate2.com,Game
 HOST-SUFFIX,sketchfab.com,Game
+HOST-SUFFIX,skinswap.com,Game
 HOST-SUFFIX,skydweller.cn,Game
 HOST-SUFFIX,skylanders.com,Game
 HOST-SUFFIX,sl916.com,Game
@@ -1029,6 +1032,7 @@ HOST-SUFFIX,steamgames.com,Game
 HOST-SUFFIX,steaminventoryhelper.com,Game
 HOST-SUFFIX,steammobile.akamaized.net,Game
 HOST-SUFFIX,steamos.cloud,Game
+HOST-SUFFIX,steampeek.hu,Game
 HOST-SUFFIX,steampipe-kr.akamaized.net,Game
 HOST-SUFFIX,steampipe-partner.akamaized.net,Game
 HOST-SUFFIX,steampipe.akamaized.net,Game
@@ -1134,6 +1138,7 @@ HOST-SUFFIX,unrealtournament.com,Game
 HOST-SUFFIX,uo.com,Game
 HOST-SUFFIX,uoherald.com,Game
 HOST-SUFFIX,uplay.com,Game
+HOST-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com,Game
 HOST-SUFFIX,valve.net,Game
 HOST-SUFFIX,valvesoftware.com,Game
 HOST-SUFFIX,videos-rockstargames-com.akamaized.net,Game
@@ -1275,3 +1280,15 @@ HOST-KEYWORD,epicgames,Game
 HOST-KEYWORD,steambroadcast,Game
 HOST-KEYWORD,steamstore,Game
 HOST-KEYWORD,steamuserimages,Game
+IP-CIDR,103.10.124.0/23,Game
+IP-CIDR,103.28.54.0/24,Game
+IP-CIDR,146.66.152.0/24,Game
+IP-CIDR,146.66.155.0/24,Game
+IP-CIDR,155.133.224.0/19,Game
+IP-CIDR,162.254.192.0/21,Game
+IP-CIDR,185.25.180.0/22,Game
+IP-CIDR,192.69.96.0/22,Game
+IP-CIDR,205.196.6.0/24,Game
+IP-CIDR,208.64.200.0/22,Game
+IP-CIDR,208.78.164.0/22,Game
+IP-CIDR,45.121.184.0/24,Game

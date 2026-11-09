@@ -1,7 +1,7 @@
 # NAME: Speedtest
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-30 09:40:36
+# UPDATED: 2026-11-07 03:23:19
 domain_set:
   - 1010.hkspeedtest.com
   - 172673828273027382738738.de
@@ -10,7 +10,6 @@ domain_set:
   - 40gspeedtest.mnsi.net
   - 77.testdebit.info
   - 7facile.brsserver.com.br
-  - 7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
   - 7starinternet.com
   - a-speedtest.brasildigital.net.br
   - ab-jlh-ookla01.air-band.net
@@ -169,6 +168,7 @@ domain_set:
   - fla-st01.provenet.com.br
   - fla.brisanet.eu.org
   - fr-1.node.delton.ovh
+  - fra-de-008.xvperf.net
   - fra-eq5-tptest1.31173.se
   - fra.speedtest.csgobans.com
   - fra1speedtest01.skylogic.com
@@ -556,6 +556,7 @@ domain_set:
   - ookla3.1und1-mobilfunk.de
   - ooklaserver.aryk.fr
   - ooklaserver1-del1.skymaxbroadband.com
+  - ooklaspdtstsvr.zitel.com
   - ooklaspeed.statenet.in
   - ooklaspeed.ttron.eu
   - ooklaspeedtest-cdv.quebeccloud.com
@@ -889,6 +890,7 @@ domain_set:
   - speed.newmarket.telmax.ca
   - speed.nutelecom.com
   - speed.onlinedersm.xyz
+  - speed.open.ad.jp
   - speed.per.aussiebroadband.com.au
   - speed.rikanet.com.br
   - speed.riverside.rocks
@@ -948,6 +950,7 @@ domain_set:
   - speed1.myascend.ca
   - speed1.sandiego.intrepidfiber.com
   - speed1.spitfireuk.net
+  - speed1.supersonicinternet.com
   - speed1.syseleven.net
   - speed1.teratelecom.com.br
   - speed1.tij.attmex.mx
@@ -1506,6 +1509,7 @@ domain_set:
   - speedtest.conectaamazonia.com.br
   - speedtest.conectjadns.com.br
   - speedtest.conectnorte.com.br
+  - speedtest.conectstelecom.com.br
   - speedtest.connectbv8.com.br
   - speedtest.connectjasper.com
   - speedtest.connectsp.com
@@ -1618,6 +1622,7 @@ domain_set:
   - speedtest.fbc-tele.com
   - speedtest.fc-fra4.as51202.net
   - speedtest.fehmer.tech
+  - speedtest.fenixtelecom.net.br
   - speedtest.fhsu.edu
   - speedtest.fiber91.com
   - speedtest.fibercast.net
@@ -1668,6 +1673,7 @@ domain_set:
   - speedtest.gayatricable.co.in
   - speedtest.gelicon.ru
   - speedtest.geneseo.com
+  - speedtest.geniusnetwork.in
   - speedtest.genxbroadband.com
   - speedtest.getstreamhosting.com
   - speedtest.getwireless.net
@@ -1770,6 +1776,7 @@ domain_set:
   - speedtest.inovewifi.com
   - speedtest.inovewifi.com.br
   - speedtest.instantsupport.co.in
+  - speedtest.interligpro.com.br
   - speedtest.internet.one
   - speedtest.internetbolaget.nu
   - speedtest.internetsubway.com
@@ -2270,6 +2277,7 @@ domain_set:
   - speedtest.techminds.ca
   - speedtest.technobulut.com
   - speedtest.technofiber.co
+  - speedtest.tefenet.com.br
   - speedtest.teknosos.com.tr
   - speedtest.telbo.net
   - speedtest.telecablecr.com
@@ -2988,6 +2996,7 @@ domain_set:
   - stdal.highlinefast.com
   - stdel.blazencr.com
   - stdel.tatatelebusiness.com
+  - stealth.net
   - stedmontonwireless.rogers.com
   - stest.broadstarnet.in
   - stest.ultraconnect.com.br

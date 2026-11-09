@@ -1,8 +1,8 @@
 # NAME: ChinaTelecom
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-10 00:11:46
-# HOST-SUFFIX: 91
+# UPDATED: 2026-11-07 03:22:05
+# HOST-SUFFIX: 92
 
 HOST-SUFFIX,01058511989.com,ChinaTelecom
 HOST-SUFFIX,10000.gd.cn,ChinaTelecom
@@ -86,6 +86,7 @@ HOST-SUFFIX,id6.me,ChinaTelecom
 HOST-SUFFIX,iptv.gd.cn,ChinaTelecom
 HOST-SUFFIX,iwuyou189.cn,ChinaTelecom
 HOST-SUFFIX,iwuyou189.com,ChinaTelecom
+HOST-SUFFIX,mnc011.mcc460.pub.3gppnetwork.org,ChinaTelecom
 HOST-SUFFIX,play.cn,ChinaTelecom
 HOST-SUFFIX,pzclub.cn,ChinaTelecom
 HOST-SUFFIX,szny189.com,ChinaTelecom

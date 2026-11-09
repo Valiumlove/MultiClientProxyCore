@@ -1,9 +1,9 @@
 # NAME: Developer
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 11:02:06
+# UPDATED: 2026-11-07 03:21:11
 # HOST: 91
-# HOST-SUFFIX: 630
+# HOST-SUFFIX: 645
 
 HOST,amp.akamaized.net,Developer
 HOST,android.googlesource.com,Developer
@@ -142,6 +142,8 @@ HOST-SUFFIX,bishengcompiler.cn,Developer
 HOST-SUFFIX,bitvise.com,Developer
 HOST-SUFFIX,blazor.net,Developer
 HOST-SUFFIX,blogoverflow.com,Developer
+HOST-SUFFIX,bmonkeys.net,Developer
+HOST-SUFFIX,boldgrid.com,Developer
 HOST-SUFFIX,bootstrapcdn.com,Developer
 HOST-SUFFIX,botframework.com,Developer
 HOST-SUFFIX,botorch.org,Developer
@@ -163,6 +165,7 @@ HOST-SUFFIX,centos.org,Developer
 HOST-SUFFIX,chocolatey.org,Developer
 HOST-SUFFIX,clearlinux.org,Developer
 HOST-SUFFIX,clojure.org,Developer
+HOST-SUFFIX,cloudwp.dev,Developer
 HOST-SUFFIX,cnpmjs.org,Developer
 HOST-SUFFIX,codeberg.org,Developer
 HOST-SUFFIX,codeberg.page,Developer
@@ -211,6 +214,7 @@ HOST-SUFFIX,dot.net,Developer
 HOST-SUFFIX,dotdeb.org,Developer
 HOST-SUFFIX,draftjs.org,Developer
 HOST-SUFFIX,ecr.aws,Developer
+HOST-SUFFIX,editorx.com,Developer
 HOST-SUFFIX,elastic.co,Developer
 HOST-SUFFIX,elastic.com,Developer
 HOST-SUFFIX,electronjs.org,Developer
@@ -515,6 +519,7 @@ HOST-SUFFIX,packagecloud.io,Developer
 HOST-SUFFIX,packagist.org,Developer
 HOST-SUFFIX,packer.io,Developer
 HOST-SUFFIX,paint.net,Developer
+HOST-SUFFIX,parastorage.com,Developer
 HOST-SUFFIX,parse.com,Developer
 HOST-SUFFIX,pcre.org,Developer
 HOST-SUFFIX,perf-events.cloud.unity3d.com,Developer
@@ -701,12 +706,22 @@ HOST-SUFFIX,w.org,Developer
 HOST-SUFFIX,w3schools.com,Developer
 HOST-SUFFIX,wapm.io,Developer
 HOST-SUFFIX,wasmer.io,Developer
+HOST-SUFFIX,webflow-ext.com,Developer
 HOST-SUFFIX,webflow.com,Developer
+HOST-SUFFIX,webflow.io,Developer
 HOST-SUFFIX,webkit.org,Developer
 HOST-SUFFIX,webkitgtk.org,Developer
 HOST-SUFFIX,weblate.org,Developer
 HOST-SUFFIX,webobjects.com,Developer
+HOST-SUFFIX,website-files.com,Developer
 HOST-SUFFIX,wireshark.org,Developer
+HOST-SUFFIX,wix-code.com,Developer
+HOST-SUFFIX,wix.com,Developer
+HOST-SUFFIX,wixanswers.com,Developer
+HOST-SUFFIX,wixapps.net,Developer
+HOST-SUFFIX,wixmp.com,Developer
+HOST-SUFFIX,wixsite.com,Developer
+HOST-SUFFIX,wixstatic.com,Developer
 HOST-SUFFIX,wordcamp.org,Developer
 HOST-SUFFIX,wordpress.com,Developer
 HOST-SUFFIX,wordpress.net,Developer

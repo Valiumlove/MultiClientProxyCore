@@ -1,21 +1,34 @@
 # NAME: TCL
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:01:08
-# HOST-SUFFIX: 17
+# UPDATED: 2026-11-07 03:17:58
+# HOST-SUFFIX: 30
 
+HOST-SUFFIX,ads-api-o.api.leiniao.com,TCL
+HOST-SUFFIX,ads-api-t.my7v.com,TCL
+HOST-SUFFIX,ads-o.res.leiniao.com,TCL
 HOST-SUFFIX,ads-uo.api.leiniao.com,TCL
 HOST-SUFFIX,ads-ut.api.leiniao.com,TCL
 HOST-SUFFIX,ads.api.my7v.com,TCL
 HOST-SUFFIX,alcatel-home.com,TCL
 HOST-SUFFIX,alcatelmobile.com,TCL
+HOST-SUFFIX,base.api.my7v.com,TCL
 HOST-SUFFIX,blackberry.com,TCL
+HOST-SUFFIX,dc-conf-o.api.leiniao.com,TCL
+HOST-SUFFIX,dc-conf-t.api.leiniao.com,TCL
+HOST-SUFFIX,dc-o.api.leiniao.com,TCL
+HOST-SUFFIX,dc-t.api.leiniao.com,TCL
+HOST-SUFFIX,dc-uo.api.leiniao.com,TCL
+HOST-SUFFIX,dc-ut.api.leiniao.com,TCL
 HOST-SUFFIX,euads-o.api.leiniao.com,TCL
 HOST-SUFFIX,hmeng.cn,TCL
 HOST-SUFFIX,hmeng.net.cn,TCL
 HOST-SUFFIX,hwads-t.api.my7v.com,TCL
+HOST-SUFFIX,isms-o.api.my7v.com,TCL
 HOST-SUFFIX,leiniao.com,TCL
 HOST-SUFFIX,my7v.com,TCL
+HOST-SUFFIX,qms-report-o.api.leiniao.com,TCL
+HOST-SUFFIX,qms-report-t.api.leiniao.com,TCL
 HOST-SUFFIX,tcl.com,TCL
 HOST-SUFFIX,tcl.com.cn,TCL
 HOST-SUFFIX,tclai.top,TCL

@@ -1,9 +1,9 @@
 # NAME: Scholar
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 10:42:16
+# UPDATED: 2026-11-07 03:22:15
 # HOST: 76
-# HOST-SUFFIX: 226
+# HOST-SUFFIX: 245
 
 HOST,scholar.google.ae,Scholar
 HOST,scholar.google.at,Scholar
@@ -205,6 +205,19 @@ HOST-SUFFIX,liebertpub.com,Scholar
 HOST-SUFFIX,literatumonline.com,Scholar
 HOST-SUFFIX,ma1lib.org,Scholar
 HOST-SUFFIX,madsrevolution.net,Scholar
+HOST-SUFFIX,mathematica.com,Scholar
+HOST-SUFFIX,mathworks.cn,Scholar
+HOST-SUFFIX,mathworks.co.jp,Scholar
+HOST-SUFFIX,mathworks.co.kr,Scholar
+HOST-SUFFIX,mathworks.co.uk,Scholar
+HOST-SUFFIX,mathworks.com,Scholar
+HOST-SUFFIX,mathworks.com.au,Scholar
+HOST-SUFFIX,mathworks.de,Scholar
+HOST-SUFFIX,mathworks.fr,Scholar
+HOST-SUFFIX,mathworks.in,Scholar
+HOST-SUFFIX,mathworks.nl,Scholar
+HOST-SUFFIX,mathworks.se,Scholar
+HOST-SUFFIX,matlab.com,Scholar
 HOST-SUFFIX,mdpi.com,Scholar
 HOST-SUFFIX,mit,Scholar
 HOST-SUFFIX,mit.edu,Scholar
@@ -299,6 +312,12 @@ HOST-SUFFIX,westlaw.com,Scholar
 HOST-SUFFIX,westlawchina.com,Scholar
 HOST-SUFFIX,wiley.com,Scholar
 HOST-SUFFIX,wkap.nl,Scholar
+HOST-SUFFIX,wolfram.co.uk,Scholar
+HOST-SUFFIX,wolfram.com,Scholar
+HOST-SUFFIX,wolframalpha.com,Scholar
+HOST-SUFFIX,wolframalpha.net,Scholar
+HOST-SUFFIX,wolframcdn.com,Scholar
+HOST-SUFFIX,wolframcloud.com,Scholar
 HOST-SUFFIX,worldbank.org,Scholar
 HOST-SUFFIX,worldscientific.com,Scholar
 HOST-SUFFIX,yale.edu,Scholar

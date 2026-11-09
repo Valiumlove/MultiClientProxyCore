@@ -1,9 +1,9 @@
 # NAME: CAS
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-08-27 09:51:13
+# UPDATED: 2026-11-09 12:09:19
 # HOST: 27
-# HOST-SUFFIX: 230
+# HOST-SUFFIX: 232
 
 HOST,c.pki.goog,CAS
 HOST,cdn.globalsigncdn.com.cdn.cloudflare.net,CAS
@@ -254,6 +254,7 @@ HOST-SUFFIX,vodafone.com.tr,CAS
 HOST-SUFFIX,vodafone.de,CAS
 HOST-SUFFIX,vodafone.it,CAS
 HOST-SUFFIX,vodafone.nl,CAS
+HOST-SUFFIX,vodafoneziggo.nl,CAS
 HOST-SUFFIX,wisecoin.com,CAS
 HOST-SUFFIX,wiseid.com,CAS
 HOST-SUFFIX,wisekey.com,CAS
@@ -262,3 +263,4 @@ HOST-SUFFIX,ws.symantec.com,CAS
 HOST-SUFFIX,wsimg.com,CAS
 HOST-SUFFIX,x.co,CAS
 HOST-SUFFIX,zert.ch,CAS
+HOST-SUFFIX,ziggo.nl,CAS

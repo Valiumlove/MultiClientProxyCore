@@ -1,9 +1,9 @@
 # NAME: Tencent
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-10 00:03:14
+# UPDATED: 2026-11-07 03:19:44
 # HOST: 1
-# HOST-SUFFIX: 2745
+# HOST-SUFFIX: 2751
 # USER-AGENT: 5
 # IP-CIDR: 24
 
@@ -904,6 +904,7 @@ HOST-SUFFIX,l1xn.cn,Tencent
 HOST-SUFFIX,labycore.cn,Tencent
 HOST-SUFFIX,lazyaudio.com,Tencent
 HOST-SUFFIX,leshare.work,Tencent
+HOST-SUFFIX,levelinfinite.com,Tencent
 HOST-SUFFIX,lexiang-app.com,Tencent
 HOST-SUFFIX,lexiang-asset.com,Tencent
 HOST-SUFFIX,lexiang-asset.net,Tencent
@@ -1034,6 +1035,7 @@ HOST-SUFFIX,nextplayground.com,Tencent
 HOST-SUFFIX,nextplayground.com.cn,Tencent
 HOST-SUFFIX,nextstudios.com,Tencent
 HOST-SUFFIX,nextworkshop.net,Tencent
+HOST-SUFFIX,nikke-en.com,Tencent
 HOST-SUFFIX,nintendoswitch.cn,Tencent
 HOST-SUFFIX,nintendoswitch.com.cn,Tencent
 HOST-SUFFIX,nj-tencentclb.cloud,Tencent
@@ -2005,6 +2007,7 @@ HOST-SUFFIX,tencentfilm.com,Tencent
 HOST-SUFFIX,tencentfoundation.org,Tencent
 HOST-SUFFIX,tencentga.com,Tencent
 HOST-SUFFIX,tencentgames.co,Tencent
+HOST-SUFFIX,tencentgames.com,Tencent
 HOST-SUFFIX,tencentgames.us,Tencent
 HOST-SUFFIX,tencentgme.com,Tencent
 HOST-SUFFIX,tencentgoosefs.cn,Tencent
@@ -2132,6 +2135,7 @@ HOST-SUFFIX,tengmed.com,Tencent
 HOST-SUFFIX,tengyunqq.com,Tencent
 HOST-SUFFIX,tenovatech.com,Tencent
 HOST-SUFFIX,tenpay.com,Tencent
+HOST-SUFFIX,tenpayglobal.com,Tencent
 HOST-SUFFIX,tenpayglobal.com.cn,Tencent
 HOST-SUFFIX,tensure.com,Tencent
 HOST-SUFFIX,tenwukong.com,Tencent
@@ -2586,6 +2590,8 @@ HOST-SUFFIX,wesimiot.com,Tencent
 HOST-SUFFIX,wesing-game.com,Tencent
 HOST-SUFFIX,wesingapp.cn,Tencent
 HOST-SUFFIX,wesingapp.com,Tencent
+HOST-SUFFIX,wesure.cn,Tencent
+HOST-SUFFIX,wesure100.com,Tencent
 HOST-SUFFIX,wetest.cn,Tencent
 HOST-SUFFIX,wetest.host,Tencent
 HOST-SUFFIX,wetest.net,Tencent

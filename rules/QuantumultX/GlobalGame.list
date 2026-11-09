@@ -1,9 +1,9 @@
 # NAME: GlobalGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 11:29:04
+# UPDATED: 2026-11-07 03:18:32
 # HOST: 97
-# HOST-SUFFIX: 778
+# HOST-SUFFIX: 787
 
 HOST,a.ppy.sh,GlobalGame
 HOST,a4e8s8k3.map2.ssl.hwcdn.net,GlobalGame
@@ -117,6 +117,7 @@ HOST-SUFFIX,activematter.game,GlobalGame
 HOST-SUFFIX,activision.com,GlobalGame
 HOST-SUFFIX,activisionblizzard.com,GlobalGame
 HOST-SUFFIX,activisionblizzardmedia.com,GlobalGame
+HOST-SUFFIX,amdgaming.com,GlobalGame
 HOST-SUFFIX,amiibo.com,GlobalGame
 HOST-SUFFIX,anthemgame.com,GlobalGame
 HOST-SUFFIX,anthemthegame.com,GlobalGame
@@ -399,6 +400,9 @@ HOST-SUFFIX,leaguoflegends.com,GlobalGame
 HOST-SUFFIX,learnwithleague.com,GlobalGame
 HOST-SUFFIX,legendofzelda.cn,GlobalGame
 HOST-SUFFIX,legendofzelda.com.cn,GlobalGame
+HOST-SUFFIX,limbuscompany.global,GlobalGame
+HOST-SUFFIX,limbuscompanyapi.com,GlobalGame
+HOST-SUFFIX,limbuscompanycdn.org,GlobalGame
 HOST-SUFFIX,log-upload-os.hoyoverse.com,GlobalGame
 HOST-SUFFIX,lol-europe.com,GlobalGame
 HOST-SUFFIX,lolclub.org,GlobalGame
@@ -591,6 +595,7 @@ HOST-SUFFIX,popcap.com,GlobalGame
 HOST-SUFFIX,priconne-redive.jp,GlobalGame
 HOST-SUFFIX,prismlauncher.org,GlobalGame
 HOST-SUFFIX,projectapex.com,GlobalGame
+HOST-SUFFIX,projectmoon.studio,GlobalGame
 HOST-SUFFIX,protondb.com,GlobalGame
 HOST-SUFFIX,pubg.com,GlobalGame
 HOST-SUFFIX,pvp.net,GlobalGame
@@ -685,6 +690,7 @@ HOST-SUFFIX,simcity-buildit.com,GlobalGame
 HOST-SUFFIX,simcity.com,GlobalGame
 HOST-SUFFIX,skate2.com,GlobalGame
 HOST-SUFFIX,sketchfab.com,GlobalGame
+HOST-SUFFIX,skinswap.com,GlobalGame
 HOST-SUFFIX,skylanders.com,GlobalGame
 HOST-SUFFIX,sledgehammergames.com,GlobalGame
 HOST-SUFFIX,snk-corp.co.jp,GlobalGame
@@ -735,6 +741,7 @@ HOST-SUFFIX,steamdeck.com,GlobalGame
 HOST-SUFFIX,steamgames.com,GlobalGame
 HOST-SUFFIX,steaminventoryhelper.com,GlobalGame
 HOST-SUFFIX,steamos.cloud,GlobalGame
+HOST-SUFFIX,steampeek.hu,GlobalGame
 HOST-SUFFIX,steampowered.com,GlobalGame
 HOST-SUFFIX,steampowered.com.8686c.com,GlobalGame
 HOST-SUFFIX,steamserver.net,GlobalGame
@@ -865,6 +872,8 @@ HOST-SUFFIX,xboxstudios.com,GlobalGame
 HOST-SUFFIX,xbx.lv,GlobalGame
 HOST-SUFFIX,xdsummit.com,GlobalGame
 HOST-SUFFIX,xenoblade.com,GlobalGame
+HOST-SUFFIX,xn--mts47c3w9b1qr.cn,GlobalGame
+HOST-SUFFIX,xn--mts47c3w9b1qr.net,GlobalGame
 HOST-SUFFIX,ylands.com,GlobalGame
 HOST-SUFFIX,ynoproject.net,GlobalGame
 HOST-SUFFIX,yo-star.com,GlobalGame

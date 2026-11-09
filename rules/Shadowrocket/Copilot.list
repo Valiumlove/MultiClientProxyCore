@@ -1,14 +1,14 @@
 # NAME: Copilot
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 11:15:40
-# DOMAIN: 70
-# DOMAIN-SUFFIX: 304
+# UPDATED: 2026-11-09 11:06:44
+# DOMAIN: 71
+# DOMAIN-SUFFIX: 305
 # DOMAIN-KEYWORD: 5
 # IP-CIDR: 4
 # IP-CIDR6: 2
 # IP-ASN: 3
-# PROCESS-NAME: 23
+# PROCESS-NAME: 14
 
 DOMAIN,ai.developer.meta.com
 DOMAIN,ai.meta.com
@@ -69,6 +69,7 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN,q-developer-integration.us-east-1.api.aws
 DOMAIN,qianfan.baidubce.com
@@ -212,6 +213,7 @@ DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,h2o.ai
@@ -399,25 +401,16 @@ IP-ASN,14061,no-resolve
 IP-ASN,399358,no-resolve
 IP-ASN,401518,no-resolve
 PROCESS-NAME,Antigravity
-PROCESS-NAME,Antigravity.exe
 PROCESS-NAME,Augment
-PROCESS-NAME,Augment.exe
 PROCESS-NAME,ChatGPT
-PROCESS-NAME,ChatGPT.exe
 PROCESS-NAME,Claude
-PROCESS-NAME,Claude.exe
 PROCESS-NAME,Codex
-PROCESS-NAME,Codex.exe
 PROCESS-NAME,Cursor
-PROCESS-NAME,Cursor.exe
 PROCESS-NAME,Windsurf
-PROCESS-NAME,Windsurf.exe
 PROCESS-NAME,antigravity
 PROCESS-NAME,augment
 PROCESS-NAME,chatgpt
 PROCESS-NAME,claude
-PROCESS-NAME,claude.exe
 PROCESS-NAME,codex
-PROCESS-NAME,cowork-svc.exe
 PROCESS-NAME,cursor
 PROCESS-NAME,windsurf

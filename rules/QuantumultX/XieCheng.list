@@ -1,8 +1,8 @@
 # NAME: XieCheng
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:08:24
-# HOST-SUFFIX: 44
+# UPDATED: 2026-11-07 03:20:53
+# HOST-SUFFIX: 46
 
 HOST-SUFFIX,ak-p.tripcdn.com,XieCheng
 HOST-SUFFIX,ak-s-cw.tripcdn.com,XieCheng
@@ -34,6 +34,8 @@ HOST-SUFFIX,hhtravel.com,XieCheng
 HOST-SUFFIX,hhtravel.com.tw,XieCheng
 HOST-SUFFIX,izuchebao.com,XieCheng
 HOST-SUFFIX,lvtds.com,XieCheng
+HOST-SUFFIX,opsai.cn,XieCheng
+HOST-SUFFIX,qunaer.com,XieCheng
 HOST-SUFFIX,qunar.com,XieCheng
 HOST-SUFFIX,qunarcdn.com,XieCheng
 HOST-SUFFIX,qunarzz.com,XieCheng

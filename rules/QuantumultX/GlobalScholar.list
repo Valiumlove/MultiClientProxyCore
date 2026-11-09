@@ -1,9 +1,9 @@
 # NAME: GlobalScholar
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:14:52
+# UPDATED: 2026-11-07 03:23:30
 # HOST: 76
-# HOST-SUFFIX: 226
+# HOST-SUFFIX: 245
 
 HOST,scholar.google.ae,GlobalScholar
 HOST,scholar.google.at,GlobalScholar
@@ -205,6 +205,19 @@ HOST-SUFFIX,liebertpub.com,GlobalScholar
 HOST-SUFFIX,literatumonline.com,GlobalScholar
 HOST-SUFFIX,ma1lib.org,GlobalScholar
 HOST-SUFFIX,madsrevolution.net,GlobalScholar
+HOST-SUFFIX,mathematica.com,GlobalScholar
+HOST-SUFFIX,mathworks.cn,GlobalScholar
+HOST-SUFFIX,mathworks.co.jp,GlobalScholar
+HOST-SUFFIX,mathworks.co.kr,GlobalScholar
+HOST-SUFFIX,mathworks.co.uk,GlobalScholar
+HOST-SUFFIX,mathworks.com,GlobalScholar
+HOST-SUFFIX,mathworks.com.au,GlobalScholar
+HOST-SUFFIX,mathworks.de,GlobalScholar
+HOST-SUFFIX,mathworks.fr,GlobalScholar
+HOST-SUFFIX,mathworks.in,GlobalScholar
+HOST-SUFFIX,mathworks.nl,GlobalScholar
+HOST-SUFFIX,mathworks.se,GlobalScholar
+HOST-SUFFIX,matlab.com,GlobalScholar
 HOST-SUFFIX,mdpi.com,GlobalScholar
 HOST-SUFFIX,mit,GlobalScholar
 HOST-SUFFIX,mit.edu,GlobalScholar
@@ -299,6 +312,12 @@ HOST-SUFFIX,westlaw.com,GlobalScholar
 HOST-SUFFIX,westlawchina.com,GlobalScholar
 HOST-SUFFIX,wiley.com,GlobalScholar
 HOST-SUFFIX,wkap.nl,GlobalScholar
+HOST-SUFFIX,wolfram.co.uk,GlobalScholar
+HOST-SUFFIX,wolfram.com,GlobalScholar
+HOST-SUFFIX,wolframalpha.com,GlobalScholar
+HOST-SUFFIX,wolframalpha.net,GlobalScholar
+HOST-SUFFIX,wolframcdn.com,GlobalScholar
+HOST-SUFFIX,wolframcloud.com,GlobalScholar
 HOST-SUFFIX,worldbank.org,GlobalScholar
 HOST-SUFFIX,worldscientific.com,GlobalScholar
 HOST-SUFFIX,yale.edu,GlobalScholar

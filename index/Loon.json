@@ -2,7 +2,7 @@
   "client": "Loon",
   "rule_file_extension": "list",
   "rule_count": 1185,
-  "total_line_count": 816093,
+  "total_line_count": 859662,
   "rules": [
     {
       "name": "115",
@@ -390,11 +390,11 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN": 181,
+        "DOMAIN": 183,
         "DOMAIN-SUFFIX": 4
       },
-      "total_line_count": 185,
-      "rule_updated_at": "2026-10-29T02:37:19.002796+00:00",
+      "total_line_count": 187,
+      "rule_updated_at": "2026-11-09T03:01:50.512957+00:00",
       "file": "rules/Loon/AdGuardSDNSFilter.list"
     },
     {
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 184606,
+        "DOMAIN": 187183,
         "DOMAIN-SUFFIX": 4,
-        "IP-CIDR": 72
+        "IP-CIDR": 74
       },
-      "total_line_count": 184682,
-      "rule_updated_at": "2026-10-30T08:08:21.105455+00:00",
+      "total_line_count": 187261,
+      "rule_updated_at": "2026-11-09T15:32:52.855640+00:00",
       "file": "rules/Loon/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -471,17 +471,17 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 17423,
+        "DOMAIN": 17505,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 242164,
+        "DOMAIN-SUFFIX": 272411,
         "IP-ASN": 15,
-        "IP-CIDR": 1024,
+        "IP-CIDR": 1045,
         "IP-CIDR6": 6,
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 260858,
-      "rule_updated_at": "2026-10-30T01:40:34.640821+00:00",
+      "total_line_count": 291208,
+      "rule_updated_at": "2026-11-09T09:23:55.727903+00:00",
       "file": "rules/Loon/Advertising.list"
     },
     {
@@ -496,15 +496,15 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 26892,
+        "DOMAIN": 26923,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 158888,
-        "IP-CIDR": 230,
+        "DOMAIN-SUFFIX": 162932,
+        "IP-CIDR": 237,
         "IP-CIDR6": 4,
         "URL-REGEX": 5
       },
-      "total_line_count": 186183,
-      "rule_updated_at": "2026-10-30T01:40:32.976676+00:00",
+      "total_line_count": 190265,
+      "rule_updated_at": "2026-11-09T09:23:38.962094+00:00",
       "file": "rules/Loon/AdvertisingLite.list"
     },
     {
@@ -672,16 +672,18 @@
         "DOMAIN",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 5,
-        "DOMAIN-SUFFIX": 1471,
+        "DOMAIN-SUFFIX": 1473,
         "IP-CIDR": 139,
-        "IP-CIDR6": 9
+        "IP-CIDR6": 9,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 1624,
-      "rule_updated_at": "2026-08-10T09:19:13.034977+00:00",
+      "total_line_count": 1627,
+      "rule_updated_at": "2026-11-06T13:56:49.285076+00:00",
       "file": "rules/Loon/Alibaba.list"
     },
     {
@@ -789,6 +791,7 @@
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
+        "PROCESS-NAME",
         "URL-REGEX",
         "USER-AGENT"
       ],
@@ -797,11 +800,12 @@
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 249,
         "IP-CIDR": 17,
+        "PROCESS-NAME": 1,
         "URL-REGEX": 1,
         "USER-AGENT": 2
       },
-      "total_line_count": 291,
-      "rule_updated_at": "2026-10-29T02:37:34.209396+00:00",
+      "total_line_count": 292,
+      "rule_updated_at": "2026-11-06T13:56:55.490101+00:00",
       "file": "rules/Loon/Amazon.list"
     },
     {
@@ -826,16 +830,18 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN": 5,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 19,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 2
       },
-      "total_line_count": 27,
-      "rule_updated_at": "2026-07-26T06:21:32.666795+00:00",
+      "total_line_count": 28,
+      "rule_updated_at": "2026-11-06T13:56:47.442981+00:00",
       "file": "rules/Loon/AmazonPrimeVideo.list"
     },
     {
@@ -998,7 +1004,8 @@
         "DOMAIN-SUFFIX",
         "IP-ASN",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 8,
@@ -1006,10 +1013,11 @@
         "DOMAIN-SUFFIX": 33,
         "IP-ASN": 1,
         "IP-CIDR": 1,
-        "IP-CIDR6": 1
+        "IP-CIDR6": 1,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 47,
-      "rule_updated_at": "2026-10-29T03:05:28.375645+00:00",
+      "total_line_count": 49,
+      "rule_updated_at": "2026-11-06T13:57:11.145702+00:00",
       "file": "rules/Loon/Anthropic.list"
     },
     {
@@ -1114,18 +1122,20 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 280,
+        "DOMAIN": 311,
         "DOMAIN-KEYWORD": 5,
-        "DOMAIN-SUFFIX": 1769,
-        "IP-CIDR": 10,
+        "DOMAIN-SUFFIX": 2904,
+        "IP-CIDR": 19,
         "IP-CIDR6": 3,
+        "PROCESS-NAME": 9,
         "USER-AGENT": 5
       },
-      "total_line_count": 2072,
-      "rule_updated_at": "2026-10-29T02:37:25.957215+00:00",
+      "total_line_count": 3256,
+      "rule_updated_at": "2026-11-09T09:22:58.210103+00:00",
       "file": "rules/Loon/Apple.list"
     },
     {
@@ -1169,25 +1179,27 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 5,
-        "DOMAIN-SUFFIX": 22,
-        "IP-CIDR": 10
+        "DOMAIN": 35,
+        "DOMAIN-SUFFIX": 1158,
+        "IP-CIDR": 18
       },
-      "total_line_count": 37,
-      "rule_updated_at": "2026-08-10T09:41:20.401719+00:00",
+      "total_line_count": 1211,
+      "rule_updated_at": "2026-11-09T09:23:02.184444+00:00",
       "file": "rules/Loon/AppleDirect.list"
     },
     {
       "name": "AppleFirmware",
       "chinese_name": "Apple固件",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 177
+        "DOMAIN-SUFFIX": 177,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 177,
-      "rule_updated_at": "2026-07-26T07:01:34.115860+00:00",
+      "total_line_count": 178,
+      "rule_updated_at": "2026-11-06T13:57:15.437231+00:00",
       "file": "rules/Loon/AppleFirmware.list"
     },
     {
@@ -1294,16 +1306,18 @@
         "DOMAIN",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 34,
-        "DOMAIN-SUFFIX": 25,
-        "IP-CIDR": 1,
+        "DOMAIN": 64,
+        "DOMAIN-SUFFIX": 1161,
+        "IP-CIDR": 9,
+        "PROCESS-NAME": 9,
         "USER-AGENT": 5
       },
-      "total_line_count": 65,
-      "rule_updated_at": "2026-08-07T02:23:33.504959+00:00",
+      "total_line_count": 1248,
+      "rule_updated_at": "2026-11-09T09:23:00.531706+00:00",
       "file": "rules/Loon/AppleProxy.list"
     },
     {
@@ -1757,10 +1771,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 13
+        "DOMAIN-SUFFIX": 14
       },
-      "total_line_count": 13,
-      "rule_updated_at": "2026-10-29T02:37:34.094373+00:00",
+      "total_line_count": 14,
+      "rule_updated_at": "2026-11-04T15:55:14.201869+00:00",
       "file": "rules/Loon/Beget.list"
     },
     {
@@ -1860,15 +1874,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-SUFFIX",
-        "IP-CIDR"
+        "IP-CIDR",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 51,
         "DOMAIN-SUFFIX": 67,
-        "IP-CIDR": 7
+        "IP-CIDR": 7,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 125,
-      "rule_updated_at": "2026-07-26T06:38:09.821820+00:00",
+      "total_line_count": 127,
+      "rule_updated_at": "2026-11-06T13:58:05.600709+00:00",
       "file": "rules/Loon/BiliBili.list"
     },
     {
@@ -1908,10 +1924,10 @@
       ],
       "type_counts": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 38
+        "DOMAIN-SUFFIX": 39
       },
-      "total_line_count": 40,
-      "rule_updated_at": "2026-07-26T07:24:27.419540+00:00",
+      "total_line_count": 41,
+      "rule_updated_at": "2026-11-06T06:45:10.987937+00:00",
       "file": "rules/Loon/Bing.list"
     },
     {
@@ -2307,11 +2323,11 @@
       ],
       "type_counts": {
         "DOMAIN": 29,
-        "DOMAIN-SUFFIX": 1034,
+        "DOMAIN-SUFFIX": 1037,
         "IP-CIDR": 1
       },
-      "total_line_count": 1064,
-      "rule_updated_at": "2026-10-20T05:42:32.687830+00:00",
+      "total_line_count": 1067,
+      "rule_updated_at": "2026-11-04T15:55:20.084099+00:00",
       "file": "rules/Loon/ByteDance.list"
     },
     {
@@ -2440,10 +2456,10 @@
       ],
       "type_counts": {
         "DOMAIN": 27,
-        "DOMAIN-SUFFIX": 230
+        "DOMAIN-SUFFIX": 232
       },
-      "total_line_count": 257,
-      "rule_updated_at": "2026-07-26T06:38:56.924606+00:00",
+      "total_line_count": 259,
+      "rule_updated_at": "2026-11-06T06:43:49.375836+00:00",
       "file": "rules/Loon/CAS.list"
     },
     {
@@ -2465,15 +2481,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN": 4,
         "DOMAIN-SUFFIX": 34,
+        "PROCESS-NAME": 2,
         "USER-AGENT": 1
       },
-      "total_line_count": 39,
-      "rule_updated_at": "2026-07-26T06:21:31.680317+00:00",
+      "total_line_count": 41,
+      "rule_updated_at": "2026-11-06T13:58:55.470162+00:00",
       "file": "rules/Loon/CBS.list"
     },
     {
@@ -2632,16 +2650,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 25,
+        "DOMAIN": 24,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 6302,
+        "DOMAIN-SUFFIX": 6379,
         "GEOIP": 1,
-        "IP-CIDR": 3892,
+        "IP-CIDR": 3891,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10264,
-      "rule_updated_at": "2026-10-30T01:42:25.149801+00:00",
+      "total_line_count": 10339,
+      "rule_updated_at": "2026-11-09T02:42:04.520457+00:00",
       "file": "rules/Loon/China.list"
     },
     {
@@ -2664,10 +2682,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 8
+        "DOMAIN-SUFFIX": 9
       },
-      "total_line_count": 8,
-      "rule_updated_at": "2026-08-07T02:23:09.871367+00:00",
+      "total_line_count": 9,
+      "rule_updated_at": "2026-11-06T06:43:47.059816+00:00",
       "file": "rules/Loon/ChinaBroadnet.list"
     },
     {
@@ -2682,7 +2700,7 @@
         "DOMAIN-SUFFIX": 279
       },
       "total_line_count": 281,
-      "rule_updated_at": "2026-07-26T07:49:55.391829+00:00",
+      "rule_updated_at": "2026-07-26T10:25:29.348234+00:00",
       "file": "rules/Loon/ChinaGame.list"
     },
     {
@@ -2695,11 +2713,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12949,
-        "IP-CIDR6": 5499
+        "IP-CIDR": 12629,
+        "IP-CIDR6": 5459
       },
-      "total_line_count": 23524,
-      "rule_updated_at": "2026-10-30T07:51:50.381169+00:00",
+      "total_line_count": 23164,
+      "rule_updated_at": "2026-11-09T16:10:11.722949+00:00",
       "file": "rules/Loon/ChinaIPs.list"
     },
     {
@@ -2726,6 +2744,7 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
@@ -2734,10 +2753,11 @@
         "DOMAIN-SUFFIX": 209,
         "IP-CIDR": 39,
         "IP-CIDR6": 29,
+        "PROCESS-NAME": 2,
         "USER-AGENT": 13
       },
-      "total_line_count": 356,
-      "rule_updated_at": "2026-07-31T04:26:17.263543+00:00",
+      "total_line_count": 358,
+      "rule_updated_at": "2026-11-06T13:59:20.466993+00:00",
       "file": "rules/Loon/ChinaMedia.list"
     },
     {
@@ -2748,11 +2768,11 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 51,
+        "DOMAIN-SUFFIX": 55,
         "IP-CIDR": 1
       },
-      "total_line_count": 52,
-      "rule_updated_at": "2026-10-09T15:59:11.907636+00:00",
+      "total_line_count": 56,
+      "rule_updated_at": "2026-11-06T06:43:47.175883+00:00",
       "file": "rules/Loon/ChinaMobile.list"
     },
     {
@@ -2801,10 +2821,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 91
+        "DOMAIN-SUFFIX": 92
       },
-      "total_line_count": 91,
-      "rule_updated_at": "2026-10-09T15:58:53.101714+00:00",
+      "total_line_count": 92,
+      "rule_updated_at": "2026-11-04T15:55:14.570165+00:00",
       "file": "rules/Loon/ChinaTelecom.list"
     },
     {
@@ -3393,18 +3413,20 @@
         "DOMAIN-SUFFIX",
         "IP-ASN",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN": 70,
+        "DOMAIN": 71,
         "DOMAIN-KEYWORD": 5,
-        "DOMAIN-SUFFIX": 304,
+        "DOMAIN-SUFFIX": 305,
         "IP-ASN": 3,
         "IP-CIDR": 4,
-        "IP-CIDR6": 2
+        "IP-CIDR6": 2,
+        "PROCESS-NAME": 14
       },
-      "total_line_count": 388,
-      "rule_updated_at": "2026-10-29T02:37:38.671516+00:00",
+      "total_line_count": 404,
+      "rule_updated_at": "2026-11-09T02:49:09.235464+00:00",
       "file": "rules/Loon/Copilot.list"
     },
     {
@@ -3596,14 +3618,16 @@
       "chinese_name": "CW Seed",
       "types": [
         "DOMAIN",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 3
+        "DOMAIN-SUFFIX": 3,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 5,
-      "rule_updated_at": "2026-07-26T06:58:16.386907+00:00",
+      "total_line_count": 7,
+      "rule_updated_at": "2026-11-06T14:01:01.847681+00:00",
       "file": "rules/Loon/CWSeed.list"
     },
     {
@@ -3886,11 +3910,11 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN": 91,
-        "DOMAIN-SUFFIX": 630
+        "DOMAIN": 92,
+        "DOMAIN-SUFFIX": 645
       },
-      "total_line_count": 721,
-      "rule_updated_at": "2026-10-29T02:37:34.071185+00:00",
+      "total_line_count": 737,
+      "rule_updated_at": "2026-11-09T02:53:02.334516+00:00",
       "file": "rules/Loon/Developer.list"
     },
     {
@@ -4043,18 +4067,20 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "IP-CIDR",
         "URL-REGEX",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN": 33,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 219,
+        "DOMAIN-SUFFIX": 580,
+        "IP-CIDR": 5,
         "URL-REGEX": 4,
         "USER-AGENT": 1
       },
-      "total_line_count": 267,
-      "rule_updated_at": "2026-08-30T05:54:59.878276+00:00",
+      "total_line_count": 633,
+      "rule_updated_at": "2026-11-09T09:23:00.490058+00:00",
       "file": "rules/Loon/Direct.list"
     },
     {
@@ -4131,14 +4157,16 @@
       "chinese_name": "Disney",
       "types": [
         "DOMAIN",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 6,
-        "DOMAIN-SUFFIX": 242
+        "DOMAIN-SUFFIX": 242,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 248,
-      "rule_updated_at": "2026-08-07T02:23:05.172413+00:00",
+      "total_line_count": 250,
+      "rule_updated_at": "2026-11-06T14:02:27.072350+00:00",
       "file": "rules/Loon/Disney.list"
     },
     {
@@ -4350,15 +4378,17 @@
       "types": [
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "URL-REGEX"
       ],
       "type_counts": {
         "DOMAIN-KEYWORD": 5,
         "DOMAIN-SUFFIX": 1,
+        "PROCESS-NAME": 11,
         "URL-REGEX": 8
       },
-      "total_line_count": 14,
-      "rule_updated_at": "2026-07-26T06:23:13.220124+00:00",
+      "total_line_count": 25,
+      "rule_updated_at": "2026-11-06T14:05:29.685458+00:00",
       "file": "rules/Loon/Download.list"
     },
     {
@@ -5538,15 +5568,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-KEYWORD",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 126,
+        "DOMAIN": 125,
         "DOMAIN-KEYWORD": 4,
-        "DOMAIN-SUFFIX": 1139
+        "DOMAIN-SUFFIX": 1144,
+        "IP-CIDR": 12
       },
-      "total_line_count": 1269,
-      "rule_updated_at": "2026-10-29T02:37:32.317183+00:00",
+      "total_line_count": 1285,
+      "rule_updated_at": "2026-11-06T14:07:20.001281+00:00",
       "file": "rules/Loon/Game.list"
     },
     {
@@ -5836,18 +5868,20 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 1914,
+        "DOMAIN": 1915,
         "DOMAIN-KEYWORD": 53,
-        "DOMAIN-SUFFIX": 22360,
+        "DOMAIN-SUFFIX": 22382,
         "IP-CIDR": 80,
         "IP-CIDR6": 4,
+        "PROCESS-NAME": 8,
         "USER-AGENT": 9
       },
-      "total_line_count": 24420,
-      "rule_updated_at": "2026-10-29T01:54:11.312741+00:00",
+      "total_line_count": 24451,
+      "rule_updated_at": "2026-11-09T02:45:31.382290+00:00",
       "file": "rules/Loon/Global.list"
     },
     {
@@ -5860,19 +5894,21 @@
         "IP-ASN",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 69,
+        "DOMAIN": 147,
         "DOMAIN-KEYWORD": 11,
-        "DOMAIN-SUFFIX": 358,
+        "DOMAIN-SUFFIX": 2048,
         "IP-ASN": 4,
-        "IP-CIDR": 4,
+        "IP-CIDR": 12,
         "IP-CIDR6": 2,
+        "PROCESS-NAME": 14,
         "URL-REGEX": 1
       },
-      "total_line_count": 449,
-      "rule_updated_at": "2026-10-29T03:05:24.720261+00:00",
+      "total_line_count": 2239,
+      "rule_updated_at": "2026-11-09T09:22:58.190788+00:00",
       "file": "rules/Loon/GlobalAI.list"
     },
     {
@@ -5898,10 +5934,10 @@
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 19,
-        "IP-CIDR": 5779,
-        "IP-CIDR6": 2770
+        "IP-CIDR": 1926,
+        "IP-CIDR6": 829
       },
-      "total_line_count": 8568,
+      "total_line_count": 2774,
       "rule_updated_at": "2026-07-26T10:31:57.618048+00:00",
       "file": "rules/Loon/GlobalCloud.list"
     },
@@ -5914,10 +5950,10 @@
       ],
       "type_counts": {
         "DOMAIN": 97,
-        "DOMAIN-SUFFIX": 778
+        "DOMAIN-SUFFIX": 787
       },
-      "total_line_count": 875,
-      "rule_updated_at": "2026-10-29T03:05:25.659874+00:00",
+      "total_line_count": 884,
+      "rule_updated_at": "2026-11-04T15:55:14.605988+00:00",
       "file": "rules/Loon/GlobalGame.list"
     },
     {
@@ -5944,20 +5980,22 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "URL-REGEX",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 89,
+        "DOMAIN": 119,
         "DOMAIN-KEYWORD": 28,
-        "DOMAIN-SUFFIX": 1117,
-        "IP-CIDR": 266,
+        "DOMAIN-SUFFIX": 2015,
+        "IP-CIDR": 273,
         "IP-CIDR6": 200,
+        "PROCESS-NAME": 3,
         "URL-REGEX": 1,
         "USER-AGENT": 19
       },
-      "total_line_count": 1720,
-      "rule_updated_at": "2026-08-08T02:57:05.745309+00:00",
+      "total_line_count": 2658,
+      "rule_updated_at": "2026-11-09T09:23:45.737492+00:00",
       "file": "rules/Loon/GlobalMedia.list"
     },
     {
@@ -5984,10 +6022,10 @@
       ],
       "type_counts": {
         "DOMAIN": 76,
-        "DOMAIN-SUFFIX": 226
+        "DOMAIN-SUFFIX": 245
       },
-      "total_line_count": 302,
-      "rule_updated_at": "2026-07-26T07:23:02.458447+00:00",
+      "total_line_count": 321,
+      "rule_updated_at": "2026-11-04T15:55:19.164431+00:00",
       "file": "rules/Loon/GlobalScholar.list"
     },
     {
@@ -6107,16 +6145,18 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
-        "IP-CIDR"
+        "IP-CIDR",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 241,
         "DOMAIN-KEYWORD": 6,
         "DOMAIN-SUFFIX": 934,
-        "IP-CIDR": 2
+        "IP-CIDR": 2,
+        "PROCESS-NAME": 4
       },
-      "total_line_count": 1183,
-      "rule_updated_at": "2026-10-29T03:07:13.385887+00:00",
+      "total_line_count": 1187,
+      "rule_updated_at": "2026-11-06T14:11:43.878701+00:00",
       "file": "rules/Loon/Google.list"
     },
     {
@@ -6394,14 +6434,16 @@
       "chinese_name": "HBO",
       "types": [
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 92,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 2
       },
-      "total_line_count": 94,
-      "rule_updated_at": "2026-08-28T11:56:53.195149+00:00",
+      "total_line_count": 95,
+      "rule_updated_at": "2026-11-06T14:11:58.169022+00:00",
       "file": "rules/Loon/HBO.list"
     },
     {
@@ -6409,14 +6451,16 @@
       "chinese_name": "HBO(香港)",
       "types": [
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 27,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 2
       },
-      "total_line_count": 29,
-      "rule_updated_at": "2026-07-26T06:30:17.795805+00:00",
+      "total_line_count": 30,
+      "rule_updated_at": "2026-11-06T14:11:48.872724+00:00",
       "file": "rules/Loon/HBOHK.list"
     },
     {
@@ -6849,40 +6893,46 @@
       "chinese_name": "Hulu",
       "types": [
         "DOMAIN",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 1,
-        "DOMAIN-SUFFIX": 57
+        "DOMAIN-SUFFIX": 57,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 58,
-      "rule_updated_at": "2026-07-26T06:21:59.506695+00:00",
+      "total_line_count": 59,
+      "rule_updated_at": "2026-11-06T14:12:17.998459+00:00",
       "file": "rules/Loon/Hulu.list"
     },
     {
       "name": "HuluJP",
       "chinese_name": "Hulu(日本)",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 57
+        "DOMAIN-SUFFIX": 57,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 57,
-      "rule_updated_at": "2026-07-26T06:30:23.298507+00:00",
+      "total_line_count": 58,
+      "rule_updated_at": "2026-11-06T14:12:11.420875+00:00",
       "file": "rules/Loon/HuluJP.list"
     },
     {
       "name": "HuluUSA",
       "chinese_name": "Hulu(美国)",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 57
+        "DOMAIN-SUFFIX": 57,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 57,
-      "rule_updated_at": "2026-07-26T06:30:33.785621+00:00",
+      "total_line_count": 58,
+      "rule_updated_at": "2026-11-06T14:12:12.488432+00:00",
       "file": "rules/Loon/HuluUSA.list"
     },
     {
@@ -7054,14 +7104,16 @@
       "chinese_name": "iCloud Private Relay",
       "types": [
         "DOMAIN",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 7,
-        "DOMAIN-SUFFIX": 3
+        "DOMAIN": 37,
+        "DOMAIN-SUFFIX": 901,
+        "IP-CIDR": 7
       },
-      "total_line_count": 10,
-      "rule_updated_at": "2026-08-07T02:23:28.221102+00:00",
+      "total_line_count": 945,
+      "rule_updated_at": "2026-11-09T09:22:58.165668+00:00",
       "file": "rules/Loon/iCloudPrivateRelay.list"
     },
     {
@@ -7427,6 +7479,7 @@
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
@@ -7434,10 +7487,11 @@
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 47,
         "IP-CIDR": 23,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 6
       },
-      "total_line_count": 81,
-      "rule_updated_at": "2026-07-26T06:46:00.813943+00:00",
+      "total_line_count": 82,
+      "rule_updated_at": "2026-11-06T14:13:29.563812+00:00",
       "file": "rules/Loon/iQIYI.list"
     },
     {
@@ -7446,15 +7500,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-SUFFIX",
-        "IP-CIDR"
+        "IP-CIDR",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 1,
         "DOMAIN-SUFFIX": 5,
-        "IP-CIDR": 14
+        "IP-CIDR": 14,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 20,
-      "rule_updated_at": "2026-07-26T06:59:02.179807+00:00",
+      "total_line_count": 22,
+      "rule_updated_at": "2026-11-06T14:13:50.294519+00:00",
       "file": "rules/Loon/iQIYIIntl.list"
     },
     {
@@ -7474,13 +7530,15 @@
       "name": "iTalkBB",
       "chinese_name": "iTalkBB",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 3
+        "DOMAIN-SUFFIX": 3,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 3,
-      "rule_updated_at": "2026-07-26T06:23:01.166852+00:00",
+      "total_line_count": 4,
+      "rule_updated_at": "2026-11-06T14:13:23.995841+00:00",
       "file": "rules/Loon/iTalkBB.list"
     },
     {
@@ -7504,11 +7562,11 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN": 45,
+        "DOMAIN": 46,
         "DOMAIN-SUFFIX": 53
       },
-      "total_line_count": 98,
-      "rule_updated_at": "2026-07-26T08:33:00.442322+00:00",
+      "total_line_count": 99,
+      "rule_updated_at": "2026-11-06T14:18:51.440319+00:00",
       "file": "rules/Loon/iTunes.list"
     },
     {
@@ -7694,13 +7752,15 @@
       "name": "JinJiangWenXue",
       "chinese_name": "晋江文学",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 7
+        "DOMAIN-SUFFIX": 7,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 7,
-      "rule_updated_at": "2026-07-26T06:25:42.177784+00:00",
+      "total_line_count": 8,
+      "rule_updated_at": "2026-11-06T14:13:41.215847+00:00",
       "file": "rules/Loon/JinJiangWenXue.list"
     },
     {
@@ -7748,15 +7808,17 @@
       "types": [
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 1,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 2
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-26T06:22:10.876140+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-06T14:13:42.504381+00:00",
       "file": "rules/Loon/JOOX.list"
     },
     {
@@ -8225,13 +8287,13 @@
         "IP-CIDR6"
       ],
       "type_counts": {
-        "DOMAIN": 18,
-        "DOMAIN-SUFFIX": 124,
-        "IP-CIDR": 18,
+        "DOMAIN": 48,
+        "DOMAIN-SUFFIX": 1022,
+        "IP-CIDR": 25,
         "IP-CIDR6": 14
       },
-      "total_line_count": 174,
-      "rule_updated_at": "2026-10-29T02:37:39.021306+00:00",
+      "total_line_count": 1109,
+      "rule_updated_at": "2026-11-09T09:23:23.476070+00:00",
       "file": "rules/Loon/Lan.list"
     },
     {
@@ -8280,14 +8342,16 @@
       "chinese_name": "LastPass",
       "types": [
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 3,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-26T06:38:06.775012+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-06T14:14:18.415367+00:00",
       "file": "rules/Loon/LastPass.list"
     },
     {
@@ -8501,15 +8565,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN": 2,
         "DOMAIN-SUFFIX": 6,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 9,
-      "rule_updated_at": "2026-07-26T06:22:18.409058+00:00",
+      "total_line_count": 10,
+      "rule_updated_at": "2026-11-06T14:14:35.180824+00:00",
       "file": "rules/Loon/LineTV.list"
     },
     {
@@ -9007,15 +9073,17 @@
       "types": [
         "DOMAIN-SUFFIX",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 7,
         "IP-CIDR": 7,
-        "IP-CIDR6": 8
+        "IP-CIDR6": 8,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 22,
-      "rule_updated_at": "2026-10-09T15:58:45.920545+00:00",
+      "total_line_count": 23,
+      "rule_updated_at": "2026-11-06T14:15:35.491010+00:00",
       "file": "rules/Loon/MEGA.list"
     },
     {
@@ -9103,16 +9171,18 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 114,
+        "DOMAIN": 121,
         "DOMAIN-KEYWORD": 4,
-        "DOMAIN-SUFFIX": 788,
+        "DOMAIN-SUFFIX": 790,
+        "PROCESS-NAME": 2,
         "USER-AGENT": 3
       },
-      "total_line_count": 909,
-      "rule_updated_at": "2026-10-29T02:37:29.704967+00:00",
+      "total_line_count": 920,
+      "rule_updated_at": "2026-11-09T02:53:04.736246+00:00",
       "file": "rules/Loon/Microsoft.list"
     },
     {
@@ -9164,15 +9234,17 @@
       "types": [
         "DOMAIN",
         "DOMAIN-KEYWORD",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 1,
+        "DOMAIN": 3,
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 80
+        "DOMAIN-SUFFIX": 204,
+        "IP-CIDR": 4
       },
-      "total_line_count": 84,
-      "rule_updated_at": "2026-08-07T02:25:02.852496+00:00",
+      "total_line_count": 214,
+      "rule_updated_at": "2026-11-09T09:23:27.357025+00:00",
       "file": "rules/Loon/MicrosoftProxy.list"
     },
     {
@@ -9680,6 +9752,7 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
@@ -9687,10 +9760,11 @@
         "DOMAIN-SUFFIX": 52,
         "IP-CIDR": 144,
         "IP-CIDR6": 50,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 249,
-      "rule_updated_at": "2026-07-26T06:52:09.407200+00:00",
+      "total_line_count": 250,
+      "rule_updated_at": "2026-11-06T14:16:20.575346+00:00",
       "file": "rules/Loon/Naver.list"
     },
     {
@@ -9770,11 +9844,11 @@
       ],
       "type_counts": {
         "DOMAIN": 1,
-        "DOMAIN-SUFFIX": 158,
+        "DOMAIN-SUFFIX": 159,
         "IP-CIDR": 30
       },
-      "total_line_count": 189,
-      "rule_updated_at": "2026-08-01T04:37:53.286022+00:00",
+      "total_line_count": 190,
+      "rule_updated_at": "2026-11-06T14:21:55.840043+00:00",
       "file": "rules/Loon/NetEase.list"
     },
     {
@@ -9800,13 +9874,13 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 13,
-        "IP-CIDR": 35,
+        "DOMAIN": 32,
+        "DOMAIN-SUFFIX": 911,
+        "IP-CIDR": 42,
         "USER-AGENT": 3
       },
-      "total_line_count": 53,
-      "rule_updated_at": "2026-08-10T09:41:21.135471+00:00",
+      "total_line_count": 988,
+      "rule_updated_at": "2026-11-09T09:22:59.101912+00:00",
       "file": "rules/Loon/NetEaseMusic.list"
     },
     {
@@ -9818,6 +9892,7 @@
         "DOMAIN-SUFFIX",
         "IP-CIDR",
         "IP-CIDR6",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
@@ -9826,10 +9901,11 @@
         "DOMAIN-SUFFIX": 28,
         "IP-CIDR": 1386,
         "IP-CIDR6": 199,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 1619,
-      "rule_updated_at": "2026-10-29T02:37:32.293293+00:00",
+      "total_line_count": 1620,
+      "rule_updated_at": "2026-11-06T14:16:46.519531+00:00",
       "file": "rules/Loon/Netflix.list"
     },
     {
@@ -10250,14 +10326,16 @@
       "chinese_name": "OneDrive",
       "types": [
         "DOMAIN-KEYWORD",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 19
+        "DOMAIN-SUFFIX": 19,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 22,
-      "rule_updated_at": "2026-07-26T06:33:02.285311+00:00",
+      "total_line_count": 24,
+      "rule_updated_at": "2026-11-06T14:17:20.787134+00:00",
       "file": "rules/Loon/OneDrive.list"
     },
     {
@@ -10314,7 +10392,8 @@
         "DOMAIN-SUFFIX",
         "IP-ASN",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 12,
@@ -10322,10 +10401,11 @@
         "DOMAIN-SUFFIX": 32,
         "IP-ASN": 1,
         "IP-CIDR": 3,
-        "IP-CIDR6": 1
+        "IP-CIDR6": 1,
+        "PROCESS-NAME": 4
       },
-      "total_line_count": 53,
-      "rule_updated_at": "2026-10-29T01:51:38.342039+00:00",
+      "total_line_count": 57,
+      "rule_updated_at": "2026-11-06T14:17:21.586083+00:00",
       "file": "rules/Loon/OpenAI.list"
     },
     {
@@ -10447,10 +10527,10 @@
       ],
       "type_counts": {
         "DOMAIN": 1,
-        "DOMAIN-SUFFIX": 71
+        "DOMAIN-SUFFIX": 72
       },
-      "total_line_count": 72,
-      "rule_updated_at": "2026-08-14T06:52:33.481754+00:00",
+      "total_line_count": 73,
+      "rule_updated_at": "2026-11-06T06:43:47.435757+00:00",
       "file": "rules/Loon/OPPO.list"
     },
     {
@@ -11119,13 +11199,13 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 12,
+        "DOMAIN": 43,
         "DOMAIN-KEYWORD": 2,
-        "DOMAIN-SUFFIX": 39863,
-        "IP-CIDR": 9
+        "DOMAIN-SUFFIX": 40762,
+        "IP-CIDR": 16
       },
-      "total_line_count": 39886,
-      "rule_updated_at": "2026-09-03T05:29:20.152770+00:00",
+      "total_line_count": 40823,
+      "rule_updated_at": "2026-11-09T09:23:15.287886+00:00",
       "file": "rules/Loon/Privacy.list"
     },
     {
@@ -11969,10 +12049,10 @@
       ],
       "type_counts": {
         "DOMAIN": 76,
-        "DOMAIN-SUFFIX": 226
+        "DOMAIN-SUFFIX": 245
       },
-      "total_line_count": 302,
-      "rule_updated_at": "2026-10-29T02:37:23.451102+00:00",
+      "total_line_count": 321,
+      "rule_updated_at": "2026-11-04T15:50:59.366205+00:00",
       "file": "rules/Loon/Scholar.list"
     },
     {
@@ -12674,16 +12754,18 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "IP-CIDR",
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 3345,
+        "DOMAIN": 3385,
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 130,
+        "DOMAIN-SUFFIX": 1028,
+        "IP-CIDR": 7,
         "USER-AGENT": 1
       },
-      "total_line_count": 3477,
-      "rule_updated_at": "2026-10-30T01:40:30.069321+00:00",
+      "total_line_count": 4422,
+      "rule_updated_at": "2026-11-09T09:22:59.398395+00:00",
       "file": "rules/Loon/Speedtest.list"
     },
     {
@@ -12707,6 +12789,7 @@
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
@@ -12714,10 +12797,11 @@
         "DOMAIN-KEYWORD": 4,
         "DOMAIN-SUFFIX": 23,
         "IP-CIDR": 1,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 39,
-      "rule_updated_at": "2026-10-29T02:37:37.691843+00:00",
+      "total_line_count": 40,
+      "rule_updated_at": "2026-11-06T14:21:56.131768+00:00",
       "file": "rules/Loon/Spotify.list"
     },
     {
@@ -13314,10 +13398,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 17
+        "DOMAIN-SUFFIX": 30
       },
-      "total_line_count": 17,
-      "rule_updated_at": "2026-07-26T06:28:08.173715+00:00",
+      "total_line_count": 30,
+      "rule_updated_at": "2026-11-06T14:28:00.659155+00:00",
       "file": "rules/Loon/TCL.list"
     },
     {
@@ -13400,18 +13484,20 @@
         "DOMAIN-SUFFIX",
         "IP-ASN",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN": 1,
+        "DOMAIN": 31,
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 24,
+        "DOMAIN-SUFFIX": 922,
         "IP-ASN": 5,
-        "IP-CIDR": 25,
-        "IP-CIDR6": 7
+        "IP-CIDR": 32,
+        "IP-CIDR6": 7,
+        "PROCESS-NAME": 5
       },
-      "total_line_count": 63,
-      "rule_updated_at": "2026-10-09T15:58:59.585433+00:00",
+      "total_line_count": 1003,
+      "rule_updated_at": "2026-11-09T09:23:15.026379+00:00",
       "file": "rules/Loon/Telegram.list"
     },
     {
@@ -13438,12 +13524,12 @@
       ],
       "type_counts": {
         "DOMAIN": 1,
-        "DOMAIN-SUFFIX": 2745,
+        "DOMAIN-SUFFIX": 2751,
         "IP-CIDR": 24,
         "USER-AGENT": 5
       },
-      "total_line_count": 2775,
-      "rule_updated_at": "2026-10-09T15:58:46.224771+00:00",
+      "total_line_count": 2781,
+      "rule_updated_at": "2026-11-06T14:29:01.166357+00:00",
       "file": "rules/Loon/Tencent.list"
     },
     {
@@ -13801,16 +13887,18 @@
         "DOMAIN",
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
+        "PROCESS-NAME",
         "USER-AGENT"
       ],
       "type_counts": {
         "DOMAIN": 9,
         "DOMAIN-KEYWORD": 4,
-        "DOMAIN-SUFFIX": 49,
+        "DOMAIN-SUFFIX": 52,
+        "PROCESS-NAME": 1,
         "USER-AGENT": 1
       },
-      "total_line_count": 63,
-      "rule_updated_at": "2026-10-29T02:37:35.536481+00:00",
+      "total_line_count": 67,
+      "rule_updated_at": "2026-11-06T14:25:02.817135+00:00",
       "file": "rules/Loon/TikTok.list"
     },
     {
@@ -14089,17 +14177,19 @@
         "DOMAIN-KEYWORD",
         "DOMAIN-SUFFIX",
         "IP-CIDR",
-        "IP-CIDR6"
+        "IP-CIDR6",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 27,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 9,
         "IP-CIDR": 15,
-        "IP-CIDR6": 6
+        "IP-CIDR6": 6,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 58,
-      "rule_updated_at": "2026-10-29T02:37:34.635331+00:00",
+      "total_line_count": 59,
+      "rule_updated_at": "2026-11-06T14:26:21.166493+00:00",
       "file": "rules/Loon/Twitch.list"
     },
     {
@@ -14622,14 +14712,16 @@
       "chinese_name": "ViuTV",
       "types": [
         "DOMAIN",
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN": 4,
-        "DOMAIN-SUFFIX": 8
+        "DOMAIN-SUFFIX": 8,
+        "PROCESS-NAME": 3
       },
-      "total_line_count": 12,
-      "rule_updated_at": "2026-07-26T06:22:58.519753+00:00",
+      "total_line_count": 15,
+      "rule_updated_at": "2026-11-06T14:27:41.967039+00:00",
       "file": "rules/Loon/ViuTV.list"
     },
     {
@@ -15036,13 +15128,15 @@
       "name": "WeTV",
       "chinese_name": "WeTV",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 5,
+        "PROCESS-NAME": 2
       },
-      "total_line_count": 5,
-      "rule_updated_at": "2026-07-26T06:23:04.587010+00:00",
+      "total_line_count": 7,
+      "rule_updated_at": "2026-11-06T14:28:20.149014+00:00",
       "file": "rules/Loon/WeTV.list"
     },
     {
@@ -15495,14 +15589,16 @@
       "chinese_name": "小米",
       "types": [
         "DOMAIN-SUFFIX",
-        "IP-CIDR"
+        "IP-CIDR",
+        "PROCESS-NAME"
       ],
       "type_counts": {
         "DOMAIN-SUFFIX": 181,
-        "IP-CIDR": 15
+        "IP-CIDR": 15,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 196,
-      "rule_updated_at": "2026-10-09T15:59:09.851591+00:00",
+      "total_line_count": 197,
+      "rule_updated_at": "2026-11-06T14:29:04.031061+00:00",
       "file": "rules/Loon/XiaoMi.list"
     },
     {
@@ -15551,10 +15647,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 44
+        "DOMAIN-SUFFIX": 46
       },
-      "total_line_count": 44,
-      "rule_updated_at": "2026-07-26T10:49:52.712179+00:00",
+      "total_line_count": 46,
+      "rule_updated_at": "2026-11-06T14:35:05.079636+00:00",
       "file": "rules/Loon/XieCheng.list"
     },
     {
@@ -15613,13 +15709,15 @@
       "name": "Xunlei",
       "chinese_name": "迅雷",
       "types": [
-        "DOMAIN-SUFFIX"
+        "DOMAIN-SUFFIX",
+        "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 35
+        "DOMAIN-SUFFIX": 35,
+        "PROCESS-NAME": 1
       },
-      "total_line_count": 35,
-      "rule_updated_at": "2026-07-26T06:40:19.956174+00:00",
+      "total_line_count": 36,
+      "rule_updated_at": "2026-11-06T14:29:09.717697+00:00",
       "file": "rules/Loon/Xunlei.list"
     },
     {
@@ -15939,10 +16037,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 4
+        "DOMAIN-SUFFIX": 5
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-26T08:34:56.216207+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-06T14:35:04.568871+00:00",
       "file": "rules/Loon/YY.list"
     },
     {

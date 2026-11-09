@@ -1,9 +1,9 @@
 # NAME: TikTok
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 11:09:37
+# UPDATED: 2026-11-07 03:24:15
 # HOST: 9
-# HOST-SUFFIX: 49
+# HOST-SUFFIX: 52
 # HOST-KEYWORD: 4
 # USER-AGENT: 1
 
@@ -52,11 +52,14 @@ HOST-SUFFIX,tiktokglobalshopv.com,TikTok
 HOST-SUFFIX,tiktokminis.us,TikTok
 HOST-SUFFIX,tiktokmusic.app,TikTok
 HOST-SUFFIX,tiktokrow-cdn.com,TikTok
+HOST-SUFFIX,tiktokshop.com,TikTok
+HOST-SUFFIX,tiktokstaticb.com,TikTok
 HOST-SUFFIX,tiktokv.com,TikTok
 HOST-SUFFIX,tiktokv.com.edgekey.net,TikTok
 HOST-SUFFIX,tiktokv.com.edgesuite.net,TikTok
 HOST-SUFFIX,tiktokv.eu,TikTok
 HOST-SUFFIX,tiktokv.us,TikTok
+HOST-SUFFIX,tiktokvapp.com,TikTok
 HOST-SUFFIX,tiktokw.eu,TikTok
 HOST-SUFFIX,tiktokw.us,TikTok
 HOST-SUFFIX,trae.ai,TikTok

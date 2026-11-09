@@ -1,17 +1,16 @@
 # NAME: China
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-30 09:50:44
-# HOST: 25
-# HOST-SUFFIX: 6302
+# UPDATED: 2026-11-09 17:50:29
+# HOST: 24
+# HOST-SUFFIX: 6379
 # HOST-WILDCARD: 2
 # HOST-KEYWORD: 10
 # USER-AGENT: 30
-# IP-CIDR: 3892
+# IP-CIDR: 3891
 # IP6-CIDR: 4
 # GEOIP: 1
 
-HOST,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe,China
 HOST,api.alibabacloud.com,China
 HOST,api.blipsandchitz.me,China
 HOST,client.amplifi.com,China
@@ -68,6 +67,8 @@ HOST-SUFFIX,115vod.com,China
 HOST-SUFFIX,116cd.com,China
 HOST-SUFFIX,116cd.net,China
 HOST-SUFFIX,119you.com,China
+HOST-SUFFIX,120ask.com,China
+HOST-SUFFIX,120askimages.com,China
 HOST-SUFFIX,12306.com,China
 HOST-SUFFIX,123245.com,China
 HOST-SUFFIX,123254.com,China
@@ -493,6 +494,7 @@ HOST-SUFFIX,ahcjw.com,China
 HOST-SUFFIX,ahfda.com,China
 HOST-SUFFIX,ahitv.com,China
 HOST-SUFFIX,ai-guardrail.com,China
+HOST-SUFFIX,ai-indeed.com,China
 HOST-SUFFIX,ai-kaleidoscope.com,China
 HOST-SUFFIX,aiaa.org,China
 HOST-SUFFIX,aicdn.com,China
@@ -592,6 +594,7 @@ HOST-SUFFIX,alitianji.com,China
 HOST-SUFFIX,alitrip.com,China
 HOST-SUFFIX,alittle-tea.com,China
 HOST-SUFFIX,aliunicorn.com,China
+HOST-SUFFIX,alivecdn.com,China
 HOST-SUFFIX,aliway.com,China
 HOST-SUFFIX,aliwork.com,China
 HOST-SUFFIX,aliwx.net,China
@@ -599,10 +602,12 @@ HOST-SUFFIX,alixiaomi.com,China
 HOST-SUFFIX,alizhaopin.com,China
 HOST-SUFFIX,allawnfs.com,China
 HOST-SUFFIX,allawno.com,China
+HOST-SUFFIX,allawnofs.com,China
 HOST-SUFFIX,allawntech.com,China
 HOST-SUFFIX,allday.work,China
 HOST-SUFFIX,allhistory.com,China
 HOST-SUFFIX,alloyteam.com,China
+HOST-SUFFIX,allwinnertech.com,China
 HOST-SUFFIX,allyes.com,China
 HOST-SUFFIX,alookweb.com,China
 HOST-SUFFIX,aloys233.top,China
@@ -735,6 +740,7 @@ HOST-SUFFIX,baifubao.com,China
 HOST-SUFFIX,baihe.com,China
 HOST-SUFFIX,baijiayun.com,China
 HOST-SUFFIX,baike.com,China
+HOST-SUFFIX,baikemy.com,China
 HOST-SUFFIX,baikevod.com,China
 HOST-SUFFIX,baimiao.tech,China
 HOST-SUFFIX,baimiaoapp.com,China
@@ -746,6 +752,7 @@ HOST-SUFFIX,baiyishequ.com,China
 HOST-SUFFIX,baltamatica.com,China
 HOST-SUFFIX,baltamatica.net,China
 HOST-SUFFIX,bamenzhushou.com,China
+HOST-SUFFIX,bangcle.com,China
 HOST-SUFFIX,bangongziyuan.com,China
 HOST-SUFFIX,bank-of-china.com,China
 HOST-SUFFIX,bankcomm.com,China
@@ -765,6 +772,7 @@ HOST-SUFFIX,batchat.com,China
 HOST-SUFFIX,battle.net,China
 HOST-SUFFIX,battlecare.net,China
 HOST-SUFFIX,baydn.com,China
+HOST-SUFFIX,bayescom.com,China
 HOST-SUFFIX,bazai.com,China
 HOST-SUFFIX,bbbcdns.com,China
 HOST-SUFFIX,bblmw.com,China
@@ -946,6 +954,7 @@ HOST-SUFFIX,brightdairy.com,China
 HOST-SUFFIX,brighticecream.com,China
 HOST-SUFFIX,broadcasthe.net,China
 HOST-SUFFIX,bsbsb.top,China
+HOST-SUFFIX,bseinfo.net,China
 HOST-SUFFIX,bsurl.cc,China
 HOST-SUFFIX,btghotels.com,China
 HOST-SUFFIX,btgtravel.com,China
@@ -957,6 +966,7 @@ HOST-SUFFIX,building.fun,China
 HOST-SUFFIX,buke999.com,China
 HOST-SUFFIX,bulicdn2.com,China
 HOST-SUFFIX,burningvocabulary.com,China
+HOST-SUFFIX,busyming.com,China
 HOST-SUFFIX,buydouke.com,China
 HOST-SUFFIX,buyjingxi.com,China
 HOST-SUFFIX,bvfcdn.com,China
@@ -1098,6 +1108,7 @@ HOST-SUFFIX,caiyunai.com,China
 HOST-SUFFIX,caiyunapp.com,China
 HOST-SUFFIX,caiyuncdn.com,China
 HOST-SUFFIX,calorietech.com,China
+HOST-SUFFIX,cambricon.com,China
 HOST-SUFFIX,camcard.com,China
 HOST-SUFFIX,camera360.com,China
 HOST-SUFFIX,camscanner.com,China
@@ -1123,6 +1134,7 @@ HOST-SUFFIX,ccidcom.com,China
 HOST-SUFFIX,ccnew.com,China
 HOST-SUFFIX,ccrgt.com,China
 HOST-SUFFIX,cctalk.com,China
+HOST-SUFFIX,cctime.com,China
 HOST-SUFFIX,cctv.com,China
 HOST-SUFFIX,cctv4g.com,China
 HOST-SUFFIX,cctvpic.com,China
@@ -1294,6 +1306,7 @@ HOST-SUFFIX,chinaexpressair.com,China
 HOST-SUFFIX,chinafix.com,China
 HOST-SUFFIX,chinafph.com,China
 HOST-SUFFIX,chinahr.com,China
+HOST-SUFFIX,chinahtz.com,China
 HOST-SUFFIX,chinakaoyan.com,China
 HOST-SUFFIX,chinalawedu.com,China
 HOST-SUFFIX,chinalions.com,China
@@ -1333,6 +1346,7 @@ HOST-SUFFIX,chndoi.org,China
 HOST-SUFFIX,chnfund.com,China
 HOST-SUFFIX,chnppmuseum.com,China
 HOST-SUFFIX,chntel.com,China
+HOST-SUFFIX,choiceform.com,China
 HOST-SUFFIX,chongbuluo.com,China
 HOST-SUFFIX,chongdiantou.com,China
 HOST-SUFFIX,chouti.com,China
@@ -1353,7 +1367,6 @@ HOST-SUFFIX,chunyu.mobi,China
 HOST-SUFFIX,chunyuyisheng.com,China
 HOST-SUFFIX,chushi.cool,China
 HOST-SUFFIX,chushou.tv,China
-HOST-SUFFIX,chuyu.me,China
 HOST-SUFFIX,cibn.cc,China
 HOST-SUFFIX,cibntv.net,China
 HOST-SUFFIX,cicc.com,China
@@ -1520,6 +1533,7 @@ HOST-SUFFIX,cnlaw.net,China
 HOST-SUFFIX,cnmo.com,China
 HOST-SUFFIX,cnmooc.org,China
 HOST-SUFFIX,cnmstl.net,China
+HOST-SUFFIX,cnpharm.com,China
 HOST-SUFFIX,cnppa.org,China
 HOST-SUFFIX,cnpsec.com,China
 HOST-SUFFIX,cnsciedu.com,China
@@ -1595,6 +1609,7 @@ HOST-SUFFIX,cqyyxc.com,China
 HOST-SUFFIX,cr-cts.com,China
 HOST-SUFFIX,cr173.com,China
 HOST-SUFFIX,cravatar.com,China
+HOST-SUFFIX,crecg.com,China
 HOST-SUFFIX,crggcn.com,China
 HOST-SUFFIX,crscm.com,China
 HOST-SUFFIX,crsky.com,China
@@ -1791,11 +1806,14 @@ HOST-SUFFIX,dingtalk.net,China
 HOST-SUFFIX,dingtalkapps.com,China
 HOST-SUFFIX,dingtalkcloud.com,China
 HOST-SUFFIX,dingxiang-inc.com,China
+HOST-SUFFIX,dinpay.com,China
 HOST-SUFFIX,diopic.net,China
 HOST-SUFFIX,discuz.net,China
 HOST-SUFFIX,discuz.org,China
 HOST-SUFFIX,dishu3.com,China
+HOST-SUFFIX,dittocdn.com,China
 HOST-SUFFIX,divoiotcloud.com,China
+HOST-SUFFIX,diyifanwen.com,China
 HOST-SUFFIX,diyiyou.com,China
 HOST-SUFFIX,diyring.cc,China
 HOST-SUFFIX,dizzylab.net,China
@@ -1869,6 +1887,7 @@ HOST-SUFFIX,douban.fm,China
 HOST-SUFFIX,doubanio.com,China
 HOST-SUFFIX,doubao-dev.com,China
 HOST-SUFFIX,doubao.com,China
+HOST-SUFFIX,doubaoapps.com,China
 HOST-SUFFIX,doubaocdn.com,China
 HOST-SUFFIX,doubo03.com,China
 HOST-SUFFIX,doucang.com,China
@@ -2099,6 +2118,9 @@ HOST-SUFFIX,fanxian.com,China
 HOST-SUFFIX,fanxingliveshow.com,China
 HOST-SUFFIX,fastapi.net,China
 HOST-SUFFIX,fastcdn.com,China
+HOST-SUFFIX,favonis.cloud,China
+HOST-SUFFIX,favonis.com,China
+HOST-SUFFIX,favonis.space,China
 HOST-SUFFIX,faxingbao.com,China
 HOST-SUFFIX,fbank.com,China
 HOST-SUFFIX,fcapp.run,China
@@ -2331,6 +2353,7 @@ HOST-SUFFIX,ganjiangvpn.com,China
 HOST-SUFFIX,ganjistatic1.com,China
 HOST-SUFFIX,gaode.com,China
 HOST-SUFFIX,gaodun.com,China
+HOST-SUFFIX,gaodunwangxiao.com,China
 HOST-SUFFIX,gaojidata.com,China
 HOST-SUFFIX,gaojiua.com,China
 HOST-SUFFIX,gaokao.com,China
@@ -2357,6 +2380,7 @@ HOST-SUFFIX,geetest.com,China
 HOST-SUFFIX,gei6.com,China
 HOST-SUFFIX,geilicdn.com,China
 HOST-SUFFIX,gelaiyun.net,China
+HOST-SUFFIX,gelonghui.com,China
 HOST-SUFFIX,geovisearth.com,China
 HOST-SUFFIX,gepush.com,China
 HOST-SUFFIX,getfeishu.com,China
@@ -2506,6 +2530,7 @@ HOST-SUFFIX,haier.com,China
 HOST-SUFFIX,haier.net,China
 HOST-SUFFIX,haiersmarthomes.com,China
 HOST-SUFFIX,hailuoai.com,China
+HOST-SUFFIX,haimian.com,China
 HOST-SUFFIX,hainanairlines.com,China
 HOST-SUFFIX,haishun.com,China
 HOST-SUFFIX,halvie.com,China
@@ -2555,6 +2580,7 @@ HOST-SUFFIX,hdyxgame.com,China
 HOST-SUFFIX,healthjd.com,China
 HOST-SUFFIX,heavenlywind.cc,China
 HOST-SUFFIX,hecdn.net,China
+HOST-SUFFIX,heepay.com,China
 HOST-SUFFIX,hefei.cc,China
 HOST-SUFFIX,heimadata.com,China
 HOST-SUFFIX,heisha.net,China
@@ -2629,9 +2655,11 @@ HOST-SUFFIX,hlzqgs.com,China
 HOST-SUFFIX,hn-cbec.com,China
 HOST-SUFFIX,hnacargo.com,China
 HOST-SUFFIX,hnair.com,China
+HOST-SUFFIX,hnapay.com,China
 HOST-SUFFIX,hnbntv.com,China
 HOST-SUFFIX,hnchasing.com,China
 HOST-SUFFIX,hndt.com,China
+HOST-SUFFIX,hnlshm.com,China
 HOST-SUFFIX,hnol.net,China
 HOST-SUFFIX,hnrcsc.com,China
 HOST-SUFFIX,hntv.tv,China
@@ -2718,6 +2746,7 @@ HOST-SUFFIX,hujia.org,China
 HOST-SUFFIX,hujiang.com,China
 HOST-SUFFIX,hunaniptv.com,China
 HOST-SUFFIX,hunantv.com,China
+HOST-SUFFIX,hunliji.com,China
 HOST-SUFFIX,huochepiao.com,China
 HOST-SUFFIX,huocheso.com,China
 HOST-SUFFIX,huoshan.com,China
@@ -2893,7 +2922,6 @@ HOST-SUFFIX,imooc.com,China
 HOST-SUFFIX,imqq.com,China
 HOST-SUFFIX,imsyy.com,China
 HOST-SUFFIX,imweb.io,China
-HOST-SUFFIX,in.th,China
 HOST-SUFFIX,inanguapi.com,China
 HOST-SUFFIX,incopat.com,China
 HOST-SUFFIX,indeedpower.com,China
@@ -2936,6 +2964,7 @@ HOST-SUFFIX,irs01.com,China
 HOST-SUFFIX,irsnp.com,China
 HOST-SUFFIX,isd.com,China
 HOST-SUFFIX,isealsuite.com,China
+HOST-SUFFIX,ishansong.com,China
 HOST-SUFFIX,ishijue.com,China
 HOST-SUFFIX,ishumei.com,China
 HOST-SUFFIX,ishuqi.com,China
@@ -2958,6 +2987,7 @@ HOST-SUFFIX,itoutiaoliving.com,China
 HOST-SUFFIX,itpub.net,China
 HOST-SUFFIX,itsk.com,China
 HOST-SUFFIX,ituchong.com,China
+HOST-SUFFIX,iuoooo.com,China
 HOST-SUFFIX,iuynfg.com,China
 HOST-SUFFIX,ivolces-test.com,China
 HOST-SUFFIX,ivolces.com,China
@@ -3016,6 +3046,7 @@ HOST-SUFFIX,jcloudstatic.net,China
 HOST-SUFFIX,jcloudvideo.com,China
 HOST-SUFFIX,jcloudvideo.net,China
 HOST-SUFFIX,jclps.com,China
+HOST-SUFFIX,jcrb.com,China
 HOST-SUFFIX,jd-app.com,China
 HOST-SUFFIX,jd-ex.com,China
 HOST-SUFFIX,jd-ex.net,China
@@ -3076,6 +3107,7 @@ HOST-SUFFIX,jdpaydns.com,China
 HOST-SUFFIX,jduoduo.com,China
 HOST-SUFFIX,jdwl.com,China
 HOST-SUFFIX,jdx.com,China
+HOST-SUFFIX,jdzj.com,China
 HOST-SUFFIX,jet-ego.com,China
 HOST-SUFFIX,jet-logistics.com,China
 HOST-SUFFIX,jetlogistic.com,China
@@ -3085,16 +3117,19 @@ HOST-SUFFIX,jgtab.link,China
 HOST-SUFFIX,jhgtgb.com,China
 HOST-SUFFIX,jhscm.com,China
 HOST-SUFFIX,jia.com,China
+HOST-SUFFIX,jiakaobaodian.com,China
 HOST-SUFFIX,jiameng.com,China
 HOST-SUFFIX,jianbihua.com,China
 HOST-SUFFIX,jiangningwater.com,China
 HOST-SUFFIX,jianguoyun.com,China
+HOST-SUFFIX,jianke.com,China
 HOST-SUFFIX,jianshu.com,China
 HOST-SUFFIX,jianshu.io,China
 HOST-SUFFIX,jianshuapi.com,China
 HOST-SUFFIX,jianying.com,China
 HOST-SUFFIX,jianyuweb.com,China
 HOST-SUFFIX,jianzhi8.com,China
+HOST-SUFFIX,jianzhimao.com,China
 HOST-SUFFIX,jiaodong.net,China
 HOST-SUFFIX,jiaoyimao.com,China
 HOST-SUFFIX,jiashule.com,China
@@ -3269,6 +3304,7 @@ HOST-SUFFIX,kaipuyun.net,China
 HOST-SUFFIX,kaixin001.com,China
 HOST-SUFFIX,kaiyanapp.com,China
 HOST-SUFFIX,kajicam.com,China
+HOST-SUFFIX,kakamobi.com,China
 HOST-SUFFIX,kakaxing.com,China
 HOST-SUFFIX,kameng98.com,China
 HOST-SUFFIX,kanbox.com,China
@@ -3667,6 +3703,7 @@ HOST-SUFFIX,lumiai.com,China
 HOST-SUFFIX,lunwengo.net,China
 HOST-SUFFIX,luojilab.com,China
 HOST-SUFFIX,luoo.net,China
+HOST-SUFFIX,luyong.com,China
 HOST-SUFFIX,luyouqi.com,China
 HOST-SUFFIX,lvfapiao.com,China
 HOST-SUFFIX,lvmama.com,China
@@ -3687,6 +3724,8 @@ HOST-SUFFIX,lydaas.com,China
 HOST-SUFFIX,lydaas.net,China
 HOST-SUFFIX,lydass.net,China
 HOST-SUFFIX,lyihub.com,China
+HOST-SUFFIX,lynkco-test.com,China
+HOST-SUFFIX,lynkco.com,China
 HOST-SUFFIX,lz310.com,China
 HOST-SUFFIX,lzpipi.com,China
 HOST-SUFFIX,m1.run,China
@@ -3702,6 +3741,7 @@ HOST-SUFFIX,mahjongai.net,China
 HOST-SUFFIX,mahjongcup.com,China
 HOST-SUFFIX,mahjongcup.net,China
 HOST-SUFFIX,mai.tn,China
+HOST-SUFFIX,maiche.com,China
 HOST-SUFFIX,mail4399.com,China
 HOST-SUFFIX,maimemo.com,China
 HOST-SUFFIX,maimemostatus.com,China
@@ -3761,6 +3801,7 @@ HOST-SUFFIX,mediav.com,China
 HOST-SUFFIX,medicexam.net,China
 HOST-SUFFIX,meegobeta.com,China
 HOST-SUFFIX,megawords.cc,China
+HOST-SUFFIX,megvii.com,China
 HOST-SUFFIX,mei.com,China
 HOST-SUFFIX,meican.com,China
 HOST-SUFFIX,meicanstatic.com,China
@@ -3864,6 +3905,12 @@ HOST-SUFFIX,mmarket6.com,China
 HOST-SUFFIX,mmbang.com,China
 HOST-SUFFIX,mmbang.info,China
 HOST-SUFFIX,mmstat.com,China
+HOST-SUFFIX,mnc000.mcc460.pub.3gppnetwork.org,China
+HOST-SUFFIX,mnc002.mcc460.pub.3gppnetwork.org,China
+HOST-SUFFIX,mnc004.mcc460.pub.3gppnetwork.org,China
+HOST-SUFFIX,mnc007.mcc460.pub.3gppnetwork.org,China
+HOST-SUFFIX,mnc011.mcc460.pub.3gppnetwork.org,China
+HOST-SUFFIX,mnc015.mcc460.pub.3gppnetwork.org,China
 HOST-SUFFIX,mndqlib.net,China
 HOST-SUFFIX,mob.com,China
 HOST-SUFFIX,mobike.com,China
@@ -3921,11 +3968,13 @@ HOST-SUFFIX,msstatic.com,China
 HOST-SUFFIX,mszdld.com,China
 HOST-SUFFIX,mszdld.net,China
 HOST-SUFFIX,mszq.com,China
+HOST-SUFFIX,mthreads.com,China
 HOST-SUFFIX,mti100.com,China
 HOST-SUFFIX,mtime.com,China
 HOST-SUFFIX,mting.info,China
 HOST-SUFFIX,mtyun.com,China
 HOST-SUFFIX,mubu.com,China
+HOST-SUFFIX,mugeda.com,China
 HOST-SUFFIX,mukewang.com,China
 HOST-SUFFIX,multilingual-volc.com,China
 HOST-SUFFIX,mumayi.com,China
@@ -4048,6 +4097,7 @@ HOST-SUFFIX,nmrdata.com,China
 HOST-SUFFIX,nn.com,China
 HOST-SUFFIX,nnbooster.com,China
 HOST-SUFFIX,nnthink.com,China
+HOST-SUFFIX,nocode.com,China
 HOST-SUFFIX,nomuraoi-sec.com,China
 HOST-SUFFIX,nongfuspring.com,China
 HOST-SUFFIX,novelfm.com,China
@@ -4212,6 +4262,7 @@ HOST-SUFFIX,pgyer.com,China
 HOST-SUFFIX,pgzs.com,China
 HOST-SUFFIX,pharmacodia.com,China
 HOST-SUFFIX,philanthropy.xin,China
+HOST-SUFFIX,phirda.com,China
 HOST-SUFFIX,phoenixmiles.com,China
 HOST-SUFFIX,phpcomposer.com,China
 HOST-SUFFIX,phpweblog.net,China
@@ -4268,6 +4319,7 @@ HOST-SUFFIX,prestodb-china.com,China
 HOST-SUFFIX,privateapi.xyz,China
 HOST-SUFFIX,privatehd.to,China
 HOST-SUFFIX,proximabeta.com,China
+HOST-SUFFIX,przwt.com,China
 HOST-SUFFIX,psbc.com,China
 HOST-SUFFIX,pstatp.com,China
 HOST-SUFFIX,puata.info,China
@@ -4351,6 +4403,7 @@ HOST-SUFFIX,qianxun.com,China
 HOST-SUFFIX,qianyierp.com,China
 HOST-SUFFIX,qianzhan.com,China
 HOST-SUFFIX,qiaobutang.com,China
+HOST-SUFFIX,qiaqiafood.com,China
 HOST-SUFFIX,qichacha.com,China
 HOST-SUFFIX,qichamao.com,China
 HOST-SUFFIX,qidian.com,China
@@ -4437,6 +4490,7 @@ HOST-SUFFIX,qudong.com,China
 HOST-SUFFIX,quehu.com,China
 HOST-SUFFIX,qugame.com,China
 HOST-SUFFIX,quklive.com,China
+HOST-SUFFIX,qunaer.com,China
 HOST-SUFFIX,qunar.com,China
 HOST-SUFFIX,qunarcdn.com,China
 HOST-SUFFIX,qunarzz.com,China
@@ -4571,6 +4625,8 @@ HOST-SUFFIX,sencdn.com,China
 HOST-SUFFIX,seniverse.com,China
 HOST-SUFFIX,senlinjimore.com,China
 HOST-SUFFIX,senmuse.com,China
+HOST-SUFFIX,senseavatar.com,China
+HOST-SUFFIX,sensetime.com,China
 HOST-SUFFIX,servicewechat.com,China
 HOST-SUFFIX,sevencdn.com,China
 HOST-SUFFIX,sf-airlines.com,China
@@ -4610,6 +4666,7 @@ HOST-SUFFIX,shellpub.com,China
 HOST-SUFFIX,shelter-china.com,China
 HOST-SUFFIX,shelterdome.net,China
 HOST-SUFFIX,shengdaosoft.com,China
+HOST-SUFFIX,shengpay.com,China
 HOST-SUFFIX,shengqugames.com,China
 HOST-SUFFIX,shengyi.ai,China
 HOST-SUFFIX,shengyizhuanjia.com,China
@@ -4660,6 +4717,7 @@ HOST-SUFFIX,shuqiread.com,China
 HOST-SUFFIX,shuqireader.com,China
 HOST-SUFFIX,shuqistat.com,China
 HOST-SUFFIX,shutcm.com,China
+HOST-SUFFIX,shuwen.com,China
 HOST-SUFFIX,shuxinyc.com,China
 HOST-SUFFIX,shyhhema.com,China
 HOST-SUFFIX,shyxhy.com,China
@@ -4750,6 +4808,7 @@ HOST-SUFFIX,soufun.com,China
 HOST-SUFFIX,soufunimg.com,China
 HOST-SUFFIX,soulteary.com,China
 HOST-SUFFIX,souqian.com,China
+HOST-SUFFIX,southchip.com,China
 HOST-SUFFIX,southcn.com,China
 HOST-SUFFIX,southmoney.com,China
 HOST-SUFFIX,sparenode.com,China
@@ -5013,6 +5072,7 @@ HOST-SUFFIX,tendcloud.com,China
 HOST-SUFFIX,tendis.net,China
 HOST-SUFFIX,tengmed.com,China
 HOST-SUFFIX,tenpay.com,China
+HOST-SUFFIX,tenpayglobal.com,China
 HOST-SUFFIX,tenxcloud.com,China
 HOST-SUFFIX,tesoon.com,China
 HOST-SUFFIX,test-cignacmb.com,China
@@ -5048,6 +5108,7 @@ HOST-SUFFIX,thunderurl.com,China
 HOST-SUFFIX,thunis.com,China
 HOST-SUFFIX,tiancity.com,China
 HOST-SUFFIX,tiancitycdn.com,China
+HOST-SUFFIX,tianditao.com,China
 HOST-SUFFIX,tianhw.top,China
 HOST-SUFFIX,tianjimedia.com,China
 HOST-SUFFIX,tianjin-air.com,China
@@ -5066,6 +5127,7 @@ HOST-SUFFIX,tidaas.com,China
 HOST-SUFFIX,tidb.ai,China
 HOST-SUFFIX,tidb.net,China
 HOST-SUFFIX,tidbcloud.com,China
+HOST-SUFFIX,tidesight.com,China
 HOST-SUFFIX,tieba.com,China
 HOST-SUFFIX,tiebaimg.com,China
 HOST-SUFFIX,tietuku.com,China
@@ -5195,6 +5257,7 @@ HOST-SUFFIX,ttwebview.com,China
 HOST-SUFFIX,tuchong.com,China
 HOST-SUFFIX,tudou.com,China
 HOST-SUFFIX,tuer123.com,China
+HOST-SUFFIX,tuhu.org,China
 HOST-SUFFIX,tuicool.com,China
 HOST-SUFFIX,tuiwen.net,China
 HOST-SUFFIX,tujia.com,China
@@ -5308,6 +5371,7 @@ HOST-SUFFIX,upaiyun.com,China
 HOST-SUFFIX,upcdn.net,China
 HOST-SUFFIX,upe.net,China
 HOST-SUFFIX,upfos.com,China
+HOST-SUFFIX,upsort.com,China
 HOST-SUFFIX,upyun.com,China
 HOST-SUFFIX,urselect.com,China
 HOST-SUFFIX,urumqi-air.com,China
@@ -5619,6 +5683,7 @@ HOST-SUFFIX,wenxiaozhan.net,China
 HOST-SUFFIX,wenxin-ge.com,China
 HOST-SUFFIX,werewolf.53site.com,China
 HOST-SUFFIX,west95582.com,China
+HOST-SUFFIX,wesure100.com,China
 HOST-SUFFIX,weui.io,China
 HOST-SUFFIX,wework-studio.com,China
 HOST-SUFFIX,wf.pub,China
@@ -5785,6 +5850,7 @@ HOST-SUFFIX,xiaodutv.com,China
 HOST-SUFFIX,xiaoe-tech.com,China
 HOST-SUFFIX,xiaogouh5.com,China
 HOST-SUFFIX,xiaohongshu.com,China
+HOST-SUFFIX,xiaohuanxiong.com,China
 HOST-SUFFIX,xiaojukeji.com,China
 HOST-SUFFIX,xiaoka.tv,China
 HOST-SUFFIX,xiaokaxiu.com,China
@@ -5844,7 +5910,9 @@ HOST-SUFFIX,xingyeai.com,China
 HOST-SUFFIX,xinhuanet.com,China
 HOST-SUFFIX,xinhuashudian.com,China
 HOST-SUFFIX,xinhuaxmt.com,China
+HOST-SUFFIX,xinhuazhiyun.com,China
 HOST-SUFFIX,xiniu.com,China
+HOST-SUFFIX,xinli001.com,China
 HOST-SUFFIX,xinlingshou.com,China
 HOST-SUFFIX,xinlishumeng.com,China
 HOST-SUFFIX,xinmeng.info,China
@@ -5940,6 +6008,7 @@ HOST-SUFFIX,ycrx360.com,China
 HOST-SUFFIX,yctdyy.com,China
 HOST-SUFFIX,ycwb.com,China
 HOST-SUFFIX,ydamc.com,China
+HOST-SUFFIX,ydshengxue.com,China
 HOST-SUFFIX,ydstatic.com,China
 HOST-SUFFIX,yeah.net,China
 HOST-SUFFIX,yebaojiasu.com,China
@@ -6017,6 +6086,8 @@ HOST-SUFFIX,ynsj001.com,China
 HOST-SUFFIX,yo9.com,China
 HOST-SUFFIX,yocajr.com,China
 HOST-SUFFIX,yokaverse.com,China
+HOST-SUFFIX,yonyou.com,China
+HOST-SUFFIX,yonyoucloud.com,China
 HOST-SUFFIX,yooc.me,China
 HOST-SUFFIX,yoojia.com,China
 HOST-SUFFIX,youba.com,China
@@ -6097,6 +6168,7 @@ HOST-SUFFIX,yundaex.com,China
 HOST-SUFFIX,yundalog.com,China
 HOST-SUFFIX,yundaltl.com,China
 HOST-SUFFIX,yundasys.com,China
+HOST-SUFFIX,yundouxueyuan.com,China
 HOST-SUFFIX,yundun.com,China
 HOST-SUFFIX,yundzh.com,China
 HOST-SUFFIX,yunfancdn.com,China
@@ -6135,6 +6207,7 @@ HOST-SUFFIX,yxhimg.com,China
 HOST-SUFFIX,yximgs.com,China
 HOST-SUFFIX,yxwsgame.com,China
 HOST-SUFFIX,yy.com,China
+HOST-SUFFIX,yybip.com,China
 HOST-SUFFIX,yyds.co,China
 HOST-SUFFIX,yyshub.top,China
 HOST-SUFFIX,yystatic.com,China
@@ -6208,10 +6281,12 @@ HOST-SUFFIX,zhi10.com,China
 HOST-SUFFIX,zhibo8.cc,China
 HOST-SUFFIX,zhibo8.com,China
 HOST-SUFFIX,zhichanli.com,China
+HOST-SUFFIX,zhichi.com,China
 HOST-SUFFIX,zhidemai.com,China
 HOST-SUFFIX,zhidx.com,China
 HOST-SUFFIX,zhiexa.com,China
 HOST-SUFFIX,zhifang.com,China
+HOST-SUFFIX,zhiguf.com,China
 HOST-SUFFIX,zhihang100.com,China
 HOST-SUFFIX,zhihu.com,China
 HOST-SUFFIX,zhihuishu.com,China
@@ -6330,6 +6405,7 @@ HOST-SUFFIX,zxhgroup.com,China
 HOST-SUFFIX,zxxk.com,China
 HOST-SUFFIX,zybang.com,China
 HOST-SUFFIX,zyh365.com,China
+HOST-SUFFIX,zymls.com,China
 HOST-SUFFIX,zysn.net,China
 HOST-SUFFIX,zysou.com,China
 HOST-SUFFIX,zyyct.com,China
@@ -6607,9 +6683,9 @@ IP-CIDR,103.149.244.0/22,China
 IP-CIDR,103.15.4.0/22,China
 IP-CIDR,103.150.164.0/23,China
 IP-CIDR,103.150.24.0/23,China
-IP-CIDR,103.150.36.0/23,China
+IP-CIDR,103.150.37.0/24,China
 IP-CIDR,103.151.148.0/23,China
-IP-CIDR,103.152.150.0/23,China
+IP-CIDR,103.152.151.0/24,China
 IP-CIDR,103.152.186.0/23,China
 IP-CIDR,103.152.209.0/24,China
 IP-CIDR,103.152.224.0/24,China
@@ -6717,7 +6793,6 @@ IP-CIDR,103.212.12.0/22,China
 IP-CIDR,103.212.2.0/24,China
 IP-CIDR,103.212.4.0/22,China
 IP-CIDR,103.212.48.0/23,China
-IP-CIDR,103.212.50.0/24,China
 IP-CIDR,103.213.132.0/22,China
 IP-CIDR,103.213.144.0/23,China
 IP-CIDR,103.213.148.0/22,China
@@ -6725,7 +6800,7 @@ IP-CIDR,103.213.160.0/19,China
 IP-CIDR,103.213.49.0/24,China
 IP-CIDR,103.213.50.0/23,China
 IP-CIDR,103.213.52.0/22,China
-IP-CIDR,103.213.56.0/21,China
+IP-CIDR,103.213.60.0/22,China
 IP-CIDR,103.213.64.0/19,China
 IP-CIDR,103.213.96.0/22,China
 IP-CIDR,103.214.48.0/22,China
@@ -6967,7 +7042,7 @@ IP-CIDR,103.44.58.0/23,China
 IP-CIDR,103.44.80.0/22,China
 IP-CIDR,103.45.128.0/19,China
 IP-CIDR,103.45.160.0/22,China
-IP-CIDR,103.45.168.0/23,China
+IP-CIDR,103.45.168.0/24,China
 IP-CIDR,103.45.172.0/22,China
 IP-CIDR,103.45.176.0/20,China
 IP-CIDR,103.45.248.0/22,China
@@ -7109,6 +7184,7 @@ IP-CIDR,103.98.224.0/22,China
 IP-CIDR,103.98.248.0/23,China
 IP-CIDR,103.98.252.0/22,China
 IP-CIDR,103.98.44.0/22,China
+IP-CIDR,103.98.75.0/24,China
 IP-CIDR,103.99.178.0/24,China
 IP-CIDR,106.0.4.0/22,China
 IP-CIDR,106.108.0.0/14,China
@@ -7142,7 +7218,6 @@ IP-CIDR,106.2.62.0/23,China
 IP-CIDR,106.2.64.0/20,China
 IP-CIDR,106.2.81.0/24,China
 IP-CIDR,106.2.82.0/23,China
-IP-CIDR,106.2.89.0/24,China
 IP-CIDR,106.2.92.0/22,China
 IP-CIDR,106.2.96.0/24,China
 IP-CIDR,106.224.0.0/14,China
@@ -7286,6 +7361,7 @@ IP-CIDR,112.132.0.0/16,China
 IP-CIDR,112.192.0.0/14,China
 IP-CIDR,112.224.0.0/11,China
 IP-CIDR,112.64.0.0/14,China
+IP-CIDR,112.73.96.0/19,China
 IP-CIDR,112.74.0.0/16,China
 IP-CIDR,112.80.0.0/12,China
 IP-CIDR,112.96.0.0/13,China
@@ -7333,7 +7409,7 @@ IP-CIDR,113.47.110.0/24,China
 IP-CIDR,113.47.112.0/20,China
 IP-CIDR,113.47.128.0/18,China
 IP-CIDR,113.47.200.0/21,China
-IP-CIDR,113.47.216.0/21,China
+IP-CIDR,113.47.208.0/20,China
 IP-CIDR,113.47.232.0/21,China
 IP-CIDR,113.47.240.0/20,China
 IP-CIDR,113.47.64.0/19,China
@@ -7356,7 +7432,6 @@ IP-CIDR,113.64.0.0/10,China
 IP-CIDR,113.8.0.0/15,China
 IP-CIDR,114.104.0.0/14,China
 IP-CIDR,114.110.0.0/20,China
-IP-CIDR,114.110.112.0/22,China
 IP-CIDR,114.110.96.0/22,China
 IP-CIDR,114.111.0.0/23,China
 IP-CIDR,114.111.16.0/20,China
@@ -7381,7 +7456,6 @@ IP-CIDR,114.112.88.0/24,China
 IP-CIDR,114.112.91.0/24,China
 IP-CIDR,114.112.94.0/23,China
 IP-CIDR,114.112.96.0/21,China
-IP-CIDR,114.113.112.0/22,China
 IP-CIDR,114.113.120.0/21,China
 IP-CIDR,114.113.144.0/20,China
 IP-CIDR,114.113.196.0/22,China
@@ -7393,7 +7467,6 @@ IP-CIDR,114.113.223.0/24,China
 IP-CIDR,114.113.224.0/20,China
 IP-CIDR,114.113.66.0/24,China
 IP-CIDR,114.113.88.0/21,China
-IP-CIDR,114.113.96.0/20,China
 IP-CIDR,114.114.112.0/21,China
 IP-CIDR,114.115.0.0/16,China
 IP-CIDR,114.116.0.0/15,China
@@ -7715,7 +7788,7 @@ IP-CIDR,118.194.134.0/23,China
 IP-CIDR,118.194.240.0/24,China
 IP-CIDR,118.194.242.0/23,China
 IP-CIDR,118.194.244.0/24,China
-IP-CIDR,118.194.246.0/23,China
+IP-CIDR,118.194.246.0/24,China
 IP-CIDR,118.194.32.0/19,China
 IP-CIDR,118.195.128.0/17,China
 IP-CIDR,118.196.0.0/16,China
@@ -8248,6 +8321,8 @@ IP-CIDR,132.232.0.0/16,China
 IP-CIDR,132.237.134.0/24,China
 IP-CIDR,133.226.32.0/20,China
 IP-CIDR,134.175.0.0/16,China
+IP-CIDR,136.143.186.0/23,China
+IP-CIDR,136.143.188.0/22,China
 IP-CIDR,138.252.72.0/23,China
 IP-CIDR,139.129.0.0/16,China
 IP-CIDR,139.148.0.0/16,China
@@ -8432,6 +8507,7 @@ IP-CIDR,160.202.212.0/22,China
 IP-CIDR,160.202.224.0/19,China
 IP-CIDR,160.22.188.0/24,China
 IP-CIDR,160.25.194.0/23,China
+IP-CIDR,160.250.102.0/23,China
 IP-CIDR,160.250.14.0/23,China
 IP-CIDR,160.250.84.0/23,China
 IP-CIDR,160.30.230.0/23,China
@@ -8461,6 +8537,7 @@ IP-CIDR,163.61.178.0/23,China
 IP-CIDR,163.61.202.0/23,China
 IP-CIDR,163.61.214.0/23,China
 IP-CIDR,165.101.70.0/24,China
+IP-CIDR,165.173.179.0/24,China
 IP-CIDR,166.111.0.0/16,China
 IP-CIDR,167.139.0.0/16,China
 IP-CIDR,167.220.244.0/22,China
@@ -8853,11 +8930,7 @@ IP-CIDR,203.2.112.0/21,China
 IP-CIDR,203.2.160.0/21,China
 IP-CIDR,203.2.64.0/21,China
 IP-CIDR,203.202.236.0/23,China
-IP-CIDR,203.205.64.0/20,China
-IP-CIDR,203.205.80.0/21,China
-IP-CIDR,203.205.88.0/22,China
-IP-CIDR,203.205.92.0/23,China
-IP-CIDR,203.205.94.0/24,China
+IP-CIDR,203.205.64.0/19,China
 IP-CIDR,203.207.104.0/22,China
 IP-CIDR,203.207.112.0/20,China
 IP-CIDR,203.207.128.0/18,China
@@ -9040,11 +9113,12 @@ IP-CIDR,203.99.21.0/24,China
 IP-CIDR,203.99.22.0/23,China
 IP-CIDR,203.99.26.0/23,China
 IP-CIDR,203.99.30.0/23,China
+IP-CIDR,204.141.42.0/23,China
 IP-CIDR,204.77.130.0/24,China
 IP-CIDR,205.198.19.0/24,China
-IP-CIDR,206.109.70.0/23,China
 IP-CIDR,207.57.167.0/24,China
 IP-CIDR,207.57.168.0/24,China
+IP-CIDR,207.57.174.0/24,China
 IP-CIDR,207.57.182.0/24,China
 IP-CIDR,210.12.0.0/16,China
 IP-CIDR,210.13.0.0/17,China
@@ -9547,7 +9621,7 @@ IP-CIDR,221.130.0.0/15,China
 IP-CIDR,221.133.225.0/24,China
 IP-CIDR,221.133.226.0/24,China
 IP-CIDR,221.133.228.0/22,China
-IP-CIDR,221.133.232.0/23,China
+IP-CIDR,221.133.232.0/24,China
 IP-CIDR,221.133.235.0/24,China
 IP-CIDR,221.133.244.0/23,China
 IP-CIDR,221.137.0.0/16,China
@@ -9832,13 +9906,14 @@ IP-CIDR,43.229.216.0/22,China
 IP-CIDR,43.229.50.0/24,China
 IP-CIDR,43.230.221.0/24,China
 IP-CIDR,43.230.222.0/23,China
+IP-CIDR,43.231.103.0/24,China
 IP-CIDR,43.231.144.0/20,China
 IP-CIDR,43.231.160.0/21,China
 IP-CIDR,43.231.168.0/23,China
 IP-CIDR,43.231.170.0/24,China
 IP-CIDR,43.231.41.0/24,China
 IP-CIDR,43.231.46.0/23,China
-IP-CIDR,43.231.96.0/20,China
+IP-CIDR,43.231.96.0/22,China
 IP-CIDR,43.239.120.0/22,China
 IP-CIDR,43.239.172.0/23,China
 IP-CIDR,43.240.0.0/22,China
@@ -9894,7 +9969,6 @@ IP-CIDR,43.248.108.0/22,China
 IP-CIDR,43.248.112.0/21,China
 IP-CIDR,43.248.128.0/20,China
 IP-CIDR,43.248.184.0/21,China
-IP-CIDR,43.248.192.0/20,China
 IP-CIDR,43.248.232.0/22,China
 IP-CIDR,43.248.244.0/22,China
 IP-CIDR,43.248.48.0/22,China
@@ -10030,6 +10104,7 @@ IP-CIDR,45.67.223.0/24,China
 IP-CIDR,45.81.34.0/24,China
 IP-CIDR,47.112.0.0/13,China
 IP-CIDR,47.120.0.0/14,China
+IP-CIDR,47.124.0.0/16,China
 IP-CIDR,47.92.0.0/14,China
 IP-CIDR,47.96.0.0/12,China
 IP-CIDR,49.112.0.0/13,China
@@ -10258,7 +10333,7 @@ IP-CIDR,8.160.0.0/15,China
 IP-CIDR,8.162.0.0/17,China
 IP-CIDR,8.163.0.0/16,China
 IP-CIDR,8.164.0.0/14,China
-IP-CIDR,8.168.0.0/15,China
+IP-CIDR,8.168.0.0/14,China
 IP-CIDR,8.176.0.0/17,China
 IP-CIDR,8.176.128.0/19,China
 IP-CIDR,81.173.18.0/23,China

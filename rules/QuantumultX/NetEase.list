@@ -1,9 +1,9 @@
 # NAME: NetEase
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 09:58:30
+# UPDATED: 2026-11-07 03:16:53
 # HOST: 1
-# HOST-SUFFIX: 158
+# HOST-SUFFIX: 159
 # IP-CIDR: 30
 
 HOST,netease.ugcvideoss.ourdvs.com,NetEase
@@ -135,6 +135,7 @@ HOST-SUFFIX,xn--q35aa.com,NetEase
 HOST-SUFFIX,xn--q35aa.net,NetEase
 HOST-SUFFIX,xn--q35aa.xn--fiqs8s,NetEase
 HOST-SUFFIX,yaoluu.com,NetEase
+HOST-SUFFIX,ydshengxue.com,NetEase
 HOST-SUFFIX,ydstatic.cn,NetEase
 HOST-SUFFIX,ydstatic.com,NetEase
 HOST-SUFFIX,yeah.net,NetEase
