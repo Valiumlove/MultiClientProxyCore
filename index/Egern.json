@@ -2,7 +2,7 @@
   "client": "Egern",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 859679,
+  "total_line_count": 861931,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 187183,
+        "domain_set": 187407,
         "domain_suffix_set": 4,
         "ip_cidr_set": 74
       },
-      "total_line_count": 187261,
-      "rule_updated_at": "2026-11-09T15:32:53.779991+00:00",
+      "total_line_count": 187485,
+      "rule_updated_at": "2026-11-10T04:31:10.298432+00:00",
       "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -474,16 +474,16 @@
       "type_counts": {
         "asn_set": 15,
         "domain_keyword_set": 210,
-        "domain_set": 17505,
-        "domain_suffix_set": 272411,
+        "domain_set": 17494,
+        "domain_suffix_set": 270506,
         "domain_wildcard_set": 22,
         "ip_cidr6_set": 6,
-        "ip_cidr_set": 1045,
+        "ip_cidr_set": 1043,
         "url_regex_set": 15,
         "user_agent_set": 1
       },
-      "total_line_count": 291230,
-      "rule_updated_at": "2026-11-09T09:24:02.020220+00:00",
+      "total_line_count": 289312,
+      "rule_updated_at": "2026-11-10T02:54:21.225052+00:00",
       "file": "rules/Egern/Advertising.yaml"
     },
     {
@@ -500,15 +500,15 @@
       ],
       "type_counts": {
         "domain_keyword_set": 164,
-        "domain_set": 26923,
-        "domain_suffix_set": 162932,
+        "domain_set": 26925,
+        "domain_suffix_set": 160852,
         "domain_wildcard_set": 15,
         "ip_cidr6_set": 4,
-        "ip_cidr_set": 237,
+        "ip_cidr_set": 235,
         "url_regex_set": 5
       },
-      "total_line_count": 190280,
-      "rule_updated_at": "2026-11-09T09:23:46.515407+00:00",
+      "total_line_count": 188200,
+      "rule_updated_at": "2026-11-10T02:23:47.593959+00:00",
       "file": "rules/Egern/AdvertisingLite.yaml"
     },
     {
@@ -1125,15 +1125,15 @@
       ],
       "type_counts": {
         "domain_keyword_set": 5,
-        "domain_set": 311,
-        "domain_suffix_set": 2904,
+        "domain_set": 314,
+        "domain_suffix_set": 3359,
         "domain_wildcard_set": 15,
         "ip_cidr6_set": 3,
-        "ip_cidr_set": 19,
+        "ip_cidr_set": 17,
         "user_agent_set": 5
       },
-      "total_line_count": 3262,
-      "rule_updated_at": "2026-11-09T09:22:58.618172+00:00",
+      "total_line_count": 3718,
+      "rule_updated_at": "2026-11-10T02:22:21.590638+00:00",
       "file": "rules/Egern/Apple.yaml"
     },
     {
@@ -1177,12 +1177,12 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 35,
-        "domain_suffix_set": 1158,
-        "ip_cidr_set": 18
+        "domain_set": 38,
+        "domain_suffix_set": 1613,
+        "ip_cidr_set": 16
       },
-      "total_line_count": 1211,
-      "rule_updated_at": "2026-11-09T09:23:02.353131+00:00",
+      "total_line_count": 1667,
+      "rule_updated_at": "2026-11-10T02:23:45.800691+00:00",
       "file": "rules/Egern/AppleDirect.yaml"
     },
     {
@@ -1305,13 +1305,13 @@
         "user_agent_set"
       ],
       "type_counts": {
-        "domain_set": 64,
-        "domain_suffix_set": 1161,
-        "ip_cidr_set": 9,
+        "domain_set": 67,
+        "domain_suffix_set": 1616,
+        "ip_cidr_set": 7,
         "user_agent_set": 5
       },
-      "total_line_count": 1239,
-      "rule_updated_at": "2026-11-09T09:23:00.838014+00:00",
+      "total_line_count": 1695,
+      "rule_updated_at": "2026-11-10T02:23:46.610827+00:00",
       "file": "rules/Egern/AppleProxy.yaml"
     },
     {
@@ -2649,10 +2649,10 @@
         "domain_wildcard_set": 2,
         "geoip_set": 1,
         "ip_cidr6_set": 4,
-        "ip_cidr_set": 3891,
+        "ip_cidr_set": 3889,
         "user_agent_set": 30
       },
-      "total_line_count": 10345,
+      "total_line_count": 10343,
       "rule_updated_at": "2026-11-09T09:24:02.015619+00:00",
       "file": "rules/Egern/China.yaml"
     },
@@ -2711,7 +2711,7 @@
         "ip_cidr_set": 12629
       },
       "total_line_count": 23164,
-      "rule_updated_at": "2026-11-09T16:10:12.102833+00:00",
+      "rule_updated_at": "2026-11-09T22:58:13.272456+00:00",
       "file": "rules/Egern/ChinaIPs.yaml"
     },
     {
@@ -3899,10 +3899,10 @@
       ],
       "type_counts": {
         "domain_set": 92,
-        "domain_suffix_set": 645
+        "domain_suffix_set": 647
       },
-      "total_line_count": 737,
-      "rule_updated_at": "2026-11-09T02:53:03.003244+00:00",
+      "total_line_count": 739,
+      "rule_updated_at": "2026-11-10T04:54:06.352476+00:00",
       "file": "rules/Egern/Developer.yaml"
     },
     {
@@ -4061,14 +4061,14 @@
       ],
       "type_counts": {
         "domain_keyword_set": 10,
-        "domain_set": 33,
-        "domain_suffix_set": 580,
-        "ip_cidr_set": 5,
+        "domain_set": 36,
+        "domain_suffix_set": 1052,
+        "ip_cidr_set": 3,
         "url_regex_set": 4,
         "user_agent_set": 1
       },
-      "total_line_count": 633,
-      "rule_updated_at": "2026-11-09T09:23:00.746330+00:00",
+      "total_line_count": 1106,
+      "rule_updated_at": "2026-11-10T02:22:21.053041+00:00",
       "file": "rules/Egern/Direct.yaml"
     },
     {
@@ -5883,14 +5883,14 @@
       "type_counts": {
         "asn_set": 4,
         "domain_keyword_set": 11,
-        "domain_set": 147,
-        "domain_suffix_set": 2048,
+        "domain_set": 137,
+        "domain_suffix_set": 2503,
         "ip_cidr6_set": 2,
-        "ip_cidr_set": 12,
+        "ip_cidr_set": 7,
         "url_regex_set": 1
       },
-      "total_line_count": 2225,
-      "rule_updated_at": "2026-11-09T09:22:58.594152+00:00",
+      "total_line_count": 2665,
+      "rule_updated_at": "2026-11-10T02:23:45.725372+00:00",
       "file": "rules/Egern/GlobalAI.yaml"
     },
     {
@@ -5968,16 +5968,16 @@
       ],
       "type_counts": {
         "domain_keyword_set": 28,
-        "domain_set": 119,
-        "domain_suffix_set": 2015,
+        "domain_set": 122,
+        "domain_suffix_set": 2480,
         "domain_wildcard_set": 7,
         "ip_cidr6_set": 200,
-        "ip_cidr_set": 273,
+        "ip_cidr_set": 271,
         "url_regex_set": 1,
         "user_agent_set": 19
       },
-      "total_line_count": 2662,
-      "rule_updated_at": "2026-11-09T09:23:51.901261+00:00",
+      "total_line_count": 3128,
+      "rule_updated_at": "2026-11-10T02:23:46.782936+00:00",
       "file": "rules/Egern/GlobalMedia.yaml"
     },
     {
@@ -7078,12 +7078,12 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 37,
-        "domain_suffix_set": 901,
-        "ip_cidr_set": 7
+        "domain_set": 40,
+        "domain_suffix_set": 1366,
+        "ip_cidr_set": 5
       },
-      "total_line_count": 945,
-      "rule_updated_at": "2026-11-09T09:22:58.595946+00:00",
+      "total_line_count": 1411,
+      "rule_updated_at": "2026-11-10T02:23:45.436343+00:00",
       "file": "rules/Egern/iCloudPrivateRelay.yaml"
     },
     {
@@ -8247,13 +8247,13 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 48,
-        "domain_suffix_set": 1022,
+        "domain_set": 51,
+        "domain_suffix_set": 1487,
         "ip_cidr6_set": 14,
-        "ip_cidr_set": 25
+        "ip_cidr_set": 23
       },
-      "total_line_count": 1109,
-      "rule_updated_at": "2026-11-09T09:23:27.328984+00:00",
+      "total_line_count": 1575,
+      "rule_updated_at": "2026-11-10T02:22:21.570675+00:00",
       "file": "rules/Egern/Lan.yaml"
     },
     {
@@ -9193,12 +9193,12 @@
       ],
       "type_counts": {
         "domain_keyword_set": 3,
-        "domain_set": 3,
-        "domain_suffix_set": 204,
-        "ip_cidr_set": 4
+        "domain_set": 6,
+        "domain_suffix_set": 686,
+        "ip_cidr_set": 2
       },
-      "total_line_count": 214,
-      "rule_updated_at": "2026-11-09T09:23:34.113345+00:00",
+      "total_line_count": 697,
+      "rule_updated_at": "2026-11-10T02:22:21.578905+00:00",
       "file": "rules/Egern/MicrosoftProxy.yaml"
     },
     {
@@ -9826,13 +9826,13 @@
         "user_agent_set"
       ],
       "type_counts": {
-        "domain_set": 32,
-        "domain_suffix_set": 911,
-        "ip_cidr_set": 42,
+        "domain_set": 35,
+        "domain_suffix_set": 1376,
+        "ip_cidr_set": 40,
         "user_agent_set": 3
       },
-      "total_line_count": 988,
-      "rule_updated_at": "2026-11-09T09:22:59.724681+00:00",
+      "total_line_count": 1454,
+      "rule_updated_at": "2026-11-10T02:23:46.645799+00:00",
       "file": "rules/Egern/NetEaseMusic.yaml"
     },
     {
@@ -11149,13 +11149,13 @@
       ],
       "type_counts": {
         "domain_keyword_set": 2,
-        "domain_set": 43,
-        "domain_suffix_set": 40762,
+        "domain_set": 46,
+        "domain_suffix_set": 41227,
         "domain_wildcard_set": 8,
-        "ip_cidr_set": 16
+        "ip_cidr_set": 14
       },
-      "total_line_count": 40831,
-      "rule_updated_at": "2026-11-09T09:23:19.882725+00:00",
+      "total_line_count": 41297,
+      "rule_updated_at": "2026-11-10T02:23:47.284132+00:00",
       "file": "rules/Egern/Privacy.yaml"
     },
     {
@@ -12709,13 +12709,13 @@
       ],
       "type_counts": {
         "domain_keyword_set": 1,
-        "domain_set": 3385,
-        "domain_suffix_set": 1028,
-        "ip_cidr_set": 7,
+        "domain_set": 3388,
+        "domain_suffix_set": 1493,
+        "ip_cidr_set": 5,
         "user_agent_set": 1
       },
-      "total_line_count": 4422,
-      "rule_updated_at": "2026-11-09T09:22:59.776096+00:00",
+      "total_line_count": 4888,
+      "rule_updated_at": "2026-11-10T02:22:21.057100+00:00",
       "file": "rules/Egern/Speedtest.yaml"
     },
     {
@@ -13437,13 +13437,13 @@
       "type_counts": {
         "asn_set": 5,
         "domain_keyword_set": 1,
-        "domain_set": 31,
-        "domain_suffix_set": 922,
+        "domain_set": 34,
+        "domain_suffix_set": 1387,
         "ip_cidr6_set": 7,
-        "ip_cidr_set": 32
+        "ip_cidr_set": 30
       },
-      "total_line_count": 998,
-      "rule_updated_at": "2026-11-09T09:23:19.674649+00:00",
+      "total_line_count": 1464,
+      "rule_updated_at": "2026-11-10T02:22:21.052644+00:00",
       "file": "rules/Egern/Telegram.yaml"
     },
     {

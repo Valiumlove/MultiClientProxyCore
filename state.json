@@ -209,10 +209,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Surge/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-09T15:32:53.096054+00:00",
-          "bytes": 5267382,
-          "sha256": "5f468efd4ee48c18dc6a2beff7d0791a92b5cc1d6c2516163813ff4ab7cce9d6",
-          "semantic_sha256": "1cdf9895a6f116041ca26046b8626d9d2da5fb477bab66b95010f7d90c4d8cbe"
+          "rule_updated_at": "2026-11-10T04:31:09.513487+00:00",
+          "bytes": 5273354,
+          "sha256": "db276d3b06ac9ea9ef684435af581d6634e7027a7d520a458016a9a595d92731",
+          "semantic_sha256": "2503c631340677c6c9fcd00271ecdcf690ff19d840126762e1d294b39e15e868"
         },
         "Adidas": {
           "file": "rules/Surge/Adidas.list",
@@ -237,17 +237,17 @@
         },
         "Advertising": {
           "file": "rules/Surge/Advertising.list",
-          "rule_updated_at": "2026-11-09T09:24:00.035839+00:00",
-          "bytes": 9792409,
-          "sha256": "787f1ef045078b655f2ed9436915a303bc7121469011c5fb6b809944d2184f29",
-          "semantic_sha256": "3b52bee0072a4cd129f7fc76d6118879757c2f5c913dfc010b9149c99bf3ff98"
+          "rule_updated_at": "2026-11-10T02:54:19.794941+00:00",
+          "bytes": 9724319,
+          "sha256": "5667778a250951c1598dd968f888b501848bed1ebe213adc9cdc31f77a6b7b46",
+          "semantic_sha256": "ef8f7d14c39499e2db64367e51ba7dca78b4c07a2a5c6e90cabc2bfd41e8c132"
         },
         "AdvertisingLite": {
           "file": "rules/Surge/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-09T09:23:41.264085+00:00",
-          "bytes": 6314661,
-          "sha256": "f8edf56f6871f19aae863400c3eb539dd9b7a08525b02134f337c0972d61bbba",
-          "semantic_sha256": "4327108855cdf2fba7956fd85ed143202ce14fa78b53e54ca73c9fa2727f3fc3"
+          "rule_updated_at": "2026-11-10T02:23:47.237003+00:00",
+          "bytes": 6240082,
+          "sha256": "cb866644910acb13bb75044ac81b554f5b4fd5b59c984b66dc5fe3a77931c6b3",
+          "semantic_sha256": "6f5e9ed4f088529e132ea417afca8943cd30a2e8219cb8a740adc7879b960576"
         },
         "AdvertisingMiTV": {
           "file": "rules/Surge/AdvertisingMiTV.list",
@@ -545,10 +545,10 @@
         },
         "Apple": {
           "file": "rules/Surge/Apple.list",
-          "rule_updated_at": "2026-11-09T09:22:58.293711+00:00",
-          "bytes": 107489,
-          "sha256": "ac6d2002d713a980f45262183281d9037a6fa38a4f2df32f33739c56650251bf",
-          "semantic_sha256": "e3eb29b2ccc2fc223d17456401110008357150dda34db50391508ce5b5cf9bc6"
+          "rule_updated_at": "2026-11-10T02:22:21.448735+00:00",
+          "bytes": 122653,
+          "sha256": "e524b80687ee2f9c56954e4f5a58d2e504649ed2a23dcce21f2b124ba7f8e466",
+          "semantic_sha256": "3f130210218a48507fb89fbec0045201f8cf0b39670dc5307aada5db86206f21"
         },
         "AppleCDN": {
           "file": "rules/Surge/AppleCDN.list",
@@ -566,10 +566,10 @@
         },
         "AppleDirect": {
           "file": "rules/Surge/AppleDirect.list",
-          "rule_updated_at": "2026-11-09T09:23:02.266095+00:00",
-          "bytes": 40929,
-          "sha256": "46a34dacc348699b515f7ef160ff3920e6651d025c85bb6f27fd7d05ff816f91",
-          "semantic_sha256": "6cbdc47ba8bfeb1d9ffcb59e0430382a1ae13adbfe2226fe1f5d6eca4f822022"
+          "rule_updated_at": "2026-11-10T02:23:44.670475+00:00",
+          "bytes": 56093,
+          "sha256": "1d5e31113cf95109588397199288318c4c68d57357676d30edac4110e59836fa",
+          "semantic_sha256": "19a4186dd546c7d748cbc20769a2fdf781c45384217aced84994216e29493adf"
         },
         "AppleFirmware": {
           "file": "rules/Surge/AppleFirmware.list",
@@ -629,10 +629,10 @@
         },
         "AppleProxy": {
           "file": "rules/Surge/AppleProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:00.748226+00:00",
-          "bytes": 41988,
-          "sha256": "da5bbc3b10b802075cb1fa157f50b8bd2ab5dcb2fc94cf00ebcc6f94f39621ef",
-          "semantic_sha256": "bc04571792011376c3a21e2b875f1768d641890dd4b75a081dd3089817b5aa3c"
+          "rule_updated_at": "2026-11-10T02:23:46.542652+00:00",
+          "bytes": 57152,
+          "sha256": "c292c65949451587d6787855986a495f1c5cba81f147253a40ebbc8c2d3523aa",
+          "semantic_sha256": "50597e09f68025f90f46c50d49e6f43c8a0a84db54b3b141da9396c70e3a42f3"
         },
         "AppleTV": {
           "file": "rules/Surge/AppleTV.list",
@@ -1343,10 +1343,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Surge/ChinaIPs.list",
-          "rule_updated_at": "2026-11-09T16:10:11.936167+00:00",
+          "rule_updated_at": "2026-11-09T22:58:11.392274+00:00",
           "bytes": 777063,
-          "sha256": "dd61e8f95e04c2b9fd28f85cc09f39bfc19c45fc7c3a28e70c60a8d4a984d465",
-          "semantic_sha256": "f07ad549e5876b680eb6d1115a72bd9add1c4d8c9699746bdf0f32813d82c5f9"
+          "sha256": "f5d86234507d40bffc11d5362d5791bd28842329e3bcc3b26a5dcef3c46bd873",
+          "semantic_sha256": "115cc553fa8624e8936afc2e09457692796699522a2d8485cf1abf1112074c4c"
         },
         "ChinaIPTV": {
           "file": "rules/Surge/ChinaIPTV.list",
@@ -1952,10 +1952,10 @@
         },
         "Developer": {
           "file": "rules/Surge/Developer.list",
-          "rule_updated_at": "2026-11-09T02:53:02.656453+00:00",
-          "bytes": 22316,
-          "sha256": "2fe31186d122faa675c0cc476f6869dda21f9d040b2354996583bcd963e5cb71",
-          "semantic_sha256": "9c1746705bf0535c184f62d1d6b924f75e8be6edeaa3028f6be5ed5992d113fa"
+          "rule_updated_at": "2026-11-10T04:54:06.289660+00:00",
+          "bytes": 22426,
+          "sha256": "6863f67fa4f849c4e7996d8b83ab54a6b10814d77441dbb32e11e0810c99d057",
+          "semantic_sha256": "eec5113f0987a59036fa2bd798cbaf22dfa55d424f1240c693c045d618480d0e"
         },
         "DeviantArt": {
           "file": "rules/Surge/DeviantArt.list",
@@ -2036,10 +2036,10 @@
         },
         "Direct": {
           "file": "rules/Surge/Direct.list",
-          "rule_updated_at": "2026-11-09T09:23:00.536678+00:00",
-          "bytes": 21853,
-          "sha256": "a76072bd0fc2f2bbbe0c04f6c2791229a5d652ba01d8481075fa86dbd07b0bde",
-          "semantic_sha256": "9229d496d3b8a55176c1010df71fc074e0a17b099dd4ad7d224d8d6671c11e65"
+          "rule_updated_at": "2026-11-10T02:22:20.981152+00:00",
+          "bytes": 37756,
+          "sha256": "f2c65ceea50d20a2ec24b19fa8af7ea6fcfb2960b66e6ed9ee825747f3a02a6c",
+          "semantic_sha256": "556a2b276a8730f3f1e67e422bab1d66458149d44355f1168213235d0f8d780f"
         },
         "Discord": {
           "file": "rules/Surge/Discord.list",
@@ -2960,10 +2960,10 @@
         },
         "GlobalAI": {
           "file": "rules/Surge/GlobalAI.list",
-          "rule_updated_at": "2026-11-09T09:22:58.252346+00:00",
-          "bytes": 43180,
-          "sha256": "337d21c6fcc09bbda6d04cf485fb0fa8bf4c226ea5b6f5a33fb533193534054e",
-          "semantic_sha256": "ee309fa49dd96021ddcab3f93b9f137c3e7bf06357fe9d7616453d896f63270e"
+          "rule_updated_at": "2026-11-10T02:23:44.648918+00:00",
+          "bytes": 85151,
+          "sha256": "cb771c916b8d8e094163120e0ed24d06146faf9fb615a946d30ec65f5caebf90",
+          "semantic_sha256": "a1e042b7421d2c01d88f3ab0d2823d48f2cb07721dd6c74f2f05a023d3621bb2"
         },
         "GlobalCDN": {
           "file": "rules/Surge/GlobalCDN.list",
@@ -2995,10 +2995,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Surge/GlobalMedia.list",
-          "rule_updated_at": "2026-11-09T09:23:47.339288+00:00",
-          "bytes": 86186,
-          "sha256": "ac8829c04b47b73448a8be75d9541d5c1234b344cbf75d7ffaec4d6940909ceb",
-          "semantic_sha256": "30a9a8e6ab34d6da1676e40f6201c8ca248dc33268eba1c8ba4ee37306c15e24"
+          "rule_updated_at": "2026-11-10T02:23:46.718860+00:00",
+          "bytes": 101774,
+          "sha256": "69a8f727bc8d09edfe04d88dba8bc4975af0d0d076f63d4e59d9078ab381d037",
+          "semantic_sha256": "be3dd90c0203332108e4c0605fae2f72269654ce5187d2e11d5462f7c6722913"
         },
         "GlobalNetDisk": {
           "file": "rules/Surge/GlobalNetDisk.list",
@@ -3555,10 +3555,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Surge/iCloudPrivateRelay.list",
-          "rule_updated_at": "2026-11-09T09:22:58.246332+00:00",
-          "bytes": 408,
-          "sha256": "34028caac7c21eb89382148338c693d97c22bdf31365ac9045b5f7bc486d3fb2",
-          "semantic_sha256": "c88b1c4203fe9db7beee2740249c1d23dc7ef0a08fffda4e1108789ebe175134"
+          "rule_updated_at": "2026-11-10T02:23:44.628061+00:00",
+          "bytes": 47718,
+          "sha256": "6e8de3163314b5b7cdbe9ec0258007977fd6ff4922d8ca9f44814607a7183fc0",
+          "semantic_sha256": "7ef204dbeb5275290b5d6bf30a64a60fad87bf9ea3ea47b728f0ac5124578dd6"
         },
         "Identrust": {
           "file": "rules/Surge/Identrust.list",
@@ -4157,10 +4157,10 @@
         },
         "Lan": {
           "file": "rules/Surge/Lan.list",
-          "rule_updated_at": "2026-11-09T09:23:23.568908+00:00",
-          "bytes": 37426,
-          "sha256": "44ea87b412c0b6ee24a7682f08a1750b0b6d63ae09b9707badea57661b25eb27",
-          "semantic_sha256": "fb91990deaec87b8b5c1c59cd5d2aba0859dbb2707c7078d160c90b549412124"
+          "rule_updated_at": "2026-11-10T02:22:21.444720+00:00",
+          "bytes": 53014,
+          "sha256": "8b2cf47893b58229b1265be8d7ac03bb01201210c39f8e02c7f608fe704e9d1e",
+          "semantic_sha256": "018cd9301359556c2e15e3567c5dd75a6dff035a74845e89d5dd5a4353be6411"
         },
         "LanZou": {
           "file": "rules/Surge/LanZou.list",
@@ -4640,10 +4640,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Surge/MicrosoftProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:29.120220+00:00",
-          "bytes": 2394,
-          "sha256": "9895bb6410b015c76d56766df3d9f8fa9372834573cabd4a48ddfba4cc9a6776",
-          "semantic_sha256": "2c12f6d1a06b90afb46d2a9031d650c97a40811e15a3d55eab30e8ac00148163"
+          "rule_updated_at": "2026-11-10T02:22:21.433417+00:00",
+          "bytes": 23101,
+          "sha256": "000d1c4c8b08924d704521a46dee5f4ea9a65b0a98f1f815292f03867049fb15",
+          "semantic_sha256": "13c06443dea0bd8cbf8e15253d45a4a3b967b15420192e5bee9efd2de75b908f"
         },
         "Midea": {
           "file": "rules/Surge/Midea.list",
@@ -4962,10 +4962,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Surge/NetEaseMusic.list",
-          "rule_updated_at": "2026-11-09T09:22:59.444220+00:00",
-          "bytes": 33734,
-          "sha256": "614c2f25ad2d4a8167c5d969a6b86b30e05afb9f3191a456f3f44097776484dc",
-          "semantic_sha256": "41dd5645b3fd854a28993e8a7d3ceff6621562c9fbcfc654f2068d73eebbaa74"
+          "rule_updated_at": "2026-11-10T02:23:46.579011+00:00",
+          "bytes": 49323,
+          "sha256": "7164b4a45fca5c69f7cf4fa67fbcc79e27eb70ec19d66e8e9c4863c96a85379d",
+          "semantic_sha256": "9ae0b671bb091ef9568f90b3dbc32b7d6b4b89e404eafed01b2af919a6983ff1"
         },
         "Netflix": {
           "file": "rules/Surge/Netflix.list",
@@ -5627,10 +5627,10 @@
         },
         "Privacy": {
           "file": "rules/Surge/Privacy.list",
-          "rule_updated_at": "2026-11-09T09:23:19.682722+00:00",
-          "bytes": 1475712,
-          "sha256": "7fbf11cae5848b4c759e617e6d5192fa4231c8742b59a134d09bbe6bde80ca2e",
-          "semantic_sha256": "4a5deeef4a4eaa42c33d5ccc7a6f6dbb4f21729ce56fc679ea1cd930acdfa6b3"
+          "rule_updated_at": "2026-11-10T02:23:47.195152+00:00",
+          "bytes": 1491300,
+          "sha256": "673ea8c49b2393ea24b9a5b349456aeab19ea1979235fafe27225ed9e7c5d8f5",
+          "semantic_sha256": "069d2a8b8f6445ab12a59e849c784c910ef6b81b132bf934e7446ae944fce497"
         },
         "PrivateTracker": {
           "file": "rules/Surge/PrivateTracker.list",
@@ -6439,10 +6439,10 @@
         },
         "Speedtest": {
           "file": "rules/Surge/Speedtest.list",
-          "rule_updated_at": "2026-11-09T09:22:59.538085+00:00",
-          "bytes": 114257,
-          "sha256": "2a3770532a966fb003343d2dfb2397d3461d4408eeae448475ecce39e9f68a73",
-          "semantic_sha256": "7e9f49c92840d869e0d8ba9e18c09da22270eeca8c3bd5e936e52622518d77a8"
+          "rule_updated_at": "2026-11-10T02:22:20.984925+00:00",
+          "bytes": 161564,
+          "sha256": "3afe9d35387b7b2daa54539bbb1c4991d9321667338659b14bb4b986347449d7",
+          "semantic_sha256": "de5ab861d55714c3f3f25a5265f94fba6a12d55347247ccab59b7a72c563087a"
         },
         "Spiceworks": {
           "file": "rules/Surge/Spiceworks.list",
@@ -6803,10 +6803,10 @@
         },
         "Telegram": {
           "file": "rules/Surge/Telegram.list",
-          "rule_updated_at": "2026-11-09T09:23:15.253842+00:00",
-          "bytes": 33991,
-          "sha256": "896288c403454a507a9e688e35a8ee3166cdc7948f2dcd919ce843c043d36c9d",
-          "semantic_sha256": "aabe6e142df78e46f380567d996d456f2b5445595e6e0166cd954a17ac1b1f1f"
+          "rule_updated_at": "2026-11-10T02:22:20.980745+00:00",
+          "bytes": 49580,
+          "sha256": "601f499c831fa0709aa4d1bb47ebd7ea6869348d867bf63a6c3df818fb7119ce",
+          "semantic_sha256": "ba18eaa6e4acf8c263419cdfc06b8c64b74f905841b69e590ea8cb6c64c8d3ec"
         },
         "TempMail": {
           "file": "rules/Surge/TempMail.list",
@@ -8509,10 +8509,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-09T15:32:54.280242+00:00",
-          "bytes": 6016457,
-          "sha256": "fbb1565a85e50f7e14414afed2e0f7e2669033347deadab189620c3a66cea0e0",
-          "semantic_sha256": "c838c62f6b9b4baf1b4a16ef066ebd70ba69fb1d4a64abce297f90a158e76494"
+          "rule_updated_at": "2026-11-10T04:31:11.032454+00:00",
+          "bytes": 6023325,
+          "sha256": "dd7c0f1412636c73321948c1070043c8c2ee5396638dc220dd4c0df224b54d4d",
+          "semantic_sha256": "5a8f3d507b7d6aa81df45e84ad5fb3fd80991d0003833f4a592a0f016756f091"
         },
         "Adidas": {
           "file": "rules/Mihomo/Adidas.yaml",
@@ -8537,17 +8537,17 @@
         },
         "Advertising": {
           "file": "rules/Mihomo/Advertising.yaml",
-          "rule_updated_at": "2026-11-09T09:24:03.086363+00:00",
-          "bytes": 10957408,
-          "sha256": "b2a79974b6bf70b41fdfeaeb6ad81085fafa7849b06d3759779f540c0c59899c",
-          "semantic_sha256": "4939dc6fb842ea7707c04e46ee3138b5d84c5c25c2d6325a4a496f7d2d980fca"
+          "rule_updated_at": "2026-11-10T02:54:22.252772+00:00",
+          "bytes": 10881646,
+          "sha256": "50730314c60aa5b35781f56082c770799fae4a2e0cdbeb09234c42912707a100",
+          "semantic_sha256": "ddf816735d01641cbdc5bc4dcab7a6b9047c7ea3cedbee7cbe1bbbc4979c2ba1"
         },
         "AdvertisingLite": {
           "file": "rules/Mihomo/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-09T09:23:47.313184+00:00",
-          "bytes": 7076115,
-          "sha256": "d347476c928fc89a803495353b1943d312d73d2df599486f6ef8407bc914e861",
-          "semantic_sha256": "ce5505679ed3b8d822f12b56714b06fc0c0ecdf30c282daa080ae9ff57ee27b6"
+          "rule_updated_at": "2026-11-10T02:23:47.655384+00:00",
+          "bytes": 6993216,
+          "sha256": "a768c0a84acd0f1d13c3076cf603c746f3065a6746e0230b0c0046dccce8ca86",
+          "semantic_sha256": "e396bc9a2dfb92be6ff67cfe0718f88df698194c5cd31fdeb37ee86e81feb105"
         },
         "AdvertisingMiTV": {
           "file": "rules/Mihomo/AdvertisingMiTV.yaml",
@@ -8845,10 +8845,10 @@
         },
         "Apple": {
           "file": "rules/Mihomo/Apple.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.648092+00:00",
-          "bytes": 120921,
-          "sha256": "01489303dad8de551d7756f9c7dce4106d7d09eb473137a77a084ee69ec06caf",
-          "semantic_sha256": "6b33a5b739922f18d3e086b9654aad173810878e3ebb9f14440d073eec24d198"
+          "rule_updated_at": "2026-11-10T02:22:21.625279+00:00",
+          "bytes": 137909,
+          "sha256": "db11641b22104a5ea08a971d22176d8917a61e4441ed134d1d999366179e239a",
+          "semantic_sha256": "8929c0b07dfe9d4a0fa7aaa71317554987143ad43406f0df0a32015f23c40a4a"
         },
         "AppleCDN": {
           "file": "rules/Mihomo/AppleCDN.yaml",
@@ -8866,10 +8866,10 @@
         },
         "AppleDirect": {
           "file": "rules/Mihomo/AppleDirect.yaml",
-          "rule_updated_at": "2026-11-09T09:23:02.441637+00:00",
-          "bytes": 45804,
-          "sha256": "d080244606057e1fc99aee7c5c598985d54b266992ca3441fb7d6fa4748d90f9",
-          "semantic_sha256": "72919bb961f8abe2f9540d39c6abff96955271bb2cf3a8c58a8fc68f1f6457fd"
+          "rule_updated_at": "2026-11-10T02:23:46.032817+00:00",
+          "bytes": 62792,
+          "sha256": "484df20da71ac53a4caf420864c1a26ab89f8e1abab110020dcd1e536623ada3",
+          "semantic_sha256": "002c429e96c2e9cf0b99ced6f0037ef0980312dc233e7c4cb62643896ee0eedf"
         },
         "AppleFirmware": {
           "file": "rules/Mihomo/AppleFirmware.yaml",
@@ -8929,10 +8929,10 @@
         },
         "AppleProxy": {
           "file": "rules/Mihomo/AppleProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:01.186589+00:00",
-          "bytes": 46852,
-          "sha256": "d1e1a51071b5a3d94efa68ac45652a08116e08db9f81de88eac35d5f8c6c8550",
-          "semantic_sha256": "2e2ea3f227877464789271317e7ee3e280d8be16307bc830df6c0ce5534e0c01"
+          "rule_updated_at": "2026-11-10T02:23:46.643885+00:00",
+          "bytes": 63840,
+          "sha256": "eb78bb2135f0fb6afb0380b510e4c0afe9260b4ac58cb19c787d1f5d1463833d",
+          "semantic_sha256": "8d5073c837f696dc998d0f5f8ac4ff5a12160bdafb0f0b67cfeff542c45e38f5"
         },
         "AppleTV": {
           "file": "rules/Mihomo/AppleTV.yaml",
@@ -9643,10 +9643,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Mihomo/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-09T16:10:12.148972+00:00",
+          "rule_updated_at": "2026-11-09T22:58:14.278459+00:00",
           "bytes": 869750,
-          "sha256": "86ff119180f7e73dd45e699863687a8e174032b027c9ed88853d52fecc7bc6bc",
-          "semantic_sha256": "9a0130ee8f18f8fef4fce13d0cbde0405af55f22ab262a9b5b889e2e24e47a45"
+          "sha256": "7681d14f7bf929ad839b1934732bd90caddaf8a64c57e56ef65f500a37408674",
+          "semantic_sha256": "9443ebeb1fbb90ab7dc0bc8ff8bc8481f4867688321bbe6af67dea38306e4e3b"
         },
         "ChinaIPTV": {
           "file": "rules/Mihomo/ChinaIPTV.yaml",
@@ -10252,10 +10252,10 @@
         },
         "Developer": {
           "file": "rules/Mihomo/Developer.yaml",
-          "rule_updated_at": "2026-11-09T02:53:03.392544+00:00",
-          "bytes": 25291,
-          "sha256": "9ef2933e89748642cd90b584ffaa4d89e90730f61f9952959283b609839badc0",
-          "semantic_sha256": "4ead1b7d3eb4396ad7d80eab25604e9a3a248c75ee7d7c6be1574eaae5a19d48"
+          "rule_updated_at": "2026-11-10T04:54:06.386537+00:00",
+          "bytes": 25413,
+          "sha256": "47f731ebc580af275013d501d54477bd8accdb22d5346ea34fff5ea1454efd87",
+          "semantic_sha256": "c54d6668c15cf69def02a74c1017ac3db0f017005f83a3cdb7a68e9aced3f3fe"
         },
         "DeviantArt": {
           "file": "rules/Mihomo/DeviantArt.yaml",
@@ -10336,10 +10336,10 @@
         },
         "Direct": {
           "file": "rules/Mihomo/Direct.yaml",
-          "rule_updated_at": "2026-11-09T09:23:00.798364+00:00",
-          "bytes": 24174,
-          "sha256": "4733a2e01c7dbe9798ef42db6a73debf98b4ae33448ae0cdec362e3ed84c7a07",
-          "semantic_sha256": "ec8c774a512b00270001905e0b5fca2e542ce1bb06bb983ed80ce0ae79a9fe2b"
+          "rule_updated_at": "2026-11-10T02:22:21.091476+00:00",
+          "bytes": 41969,
+          "sha256": "2bdc462a0715fae8bc2053d5570df0fc6a6dd40b38eb8732d9e2f3c915be4404",
+          "semantic_sha256": "5a30a1affcc4bc64224d6252e0bdf8f922c9e93b7de1946a846fc8364f4a03ff"
         },
         "Discord": {
           "file": "rules/Mihomo/Discord.yaml",
@@ -11260,10 +11260,10 @@
         },
         "GlobalAI": {
           "file": "rules/Mihomo/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.616022+00:00",
-          "bytes": 49086,
-          "sha256": "2afddfae970b0b6826fd25b5188777dd6096a73452c7a2168f20c96bb03f8e8e",
-          "semantic_sha256": "fa965a7309c6c7d0f6916cd6cfef434cc421987b3cde40cfa9905137a35c841e"
+          "rule_updated_at": "2026-11-10T02:23:46.036822+00:00",
+          "bytes": 96033,
+          "sha256": "2de0f8a6c530c549231826f04f0cbf91c4f7a1330adedb86fb111612df2a0338",
+          "semantic_sha256": "96252415e9af4605d637dcf51cf801961e8415b61b9d06b18852f17f975e1904"
         },
         "GlobalCDN": {
           "file": "rules/Mihomo/GlobalCDN.yaml",
@@ -11295,10 +11295,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Mihomo/GlobalMedia.yaml",
-          "rule_updated_at": "2026-11-09T09:23:51.973944+00:00",
-          "bytes": 96474,
-          "sha256": "d6149d29050176e69d4122f969663cc18dd897358ba6a0a01c7d50166c705411",
-          "semantic_sha256": "c6542d5237118fa99c60b5364b5c0f66dc154d989124feddea7aa543ce2d82e6"
+          "rule_updated_at": "2026-11-10T02:23:46.824988+00:00",
+          "bytes": 113926,
+          "sha256": "57aeabfe1065d215588cf138b1c7d7cabb441697d3a588bc011854b9577f7376",
+          "semantic_sha256": "aa7ae084d954e8e9ffad92579b1b72917ce9068d8ceec06bc13142a0a8f33de1"
         },
         "GlobalNetDisk": {
           "file": "rules/Mihomo/GlobalNetDisk.yaml",
@@ -11855,10 +11855,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Mihomo/iCloudPrivateRelay.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.625989+00:00",
-          "bytes": 475,
-          "sha256": "6dba48e9e36d74d0dcacdf8332aaed5465495f5cc29f7ebd2304e82bcab8d92b",
-          "semantic_sha256": "5968b1e9035c2140face1bdf5250f3f6a4219a9703a2fa05404d8c6ed7a4300c"
+          "rule_updated_at": "2026-11-10T02:23:46.026867+00:00",
+          "bytes": 53393,
+          "sha256": "90baf3ee37dbcc15e87d8e7af9620a619c4271626e4a5eb852456f284a80098f",
+          "semantic_sha256": "39d989615d9e293d6aac3db8dc46a4dec2551da7bcddfd975dc90023acd2fd4c"
         },
         "Identrust": {
           "file": "rules/Mihomo/Identrust.yaml",
@@ -12457,10 +12457,10 @@
         },
         "Lan": {
           "file": "rules/Mihomo/Lan.yaml",
-          "rule_updated_at": "2026-11-09T09:23:27.386914+00:00",
-          "bytes": 41893,
-          "sha256": "aa853b6a45e2d9f914566d46adc5f241ac2d42d83d27537788dbe048c47959b0",
-          "semantic_sha256": "af8123f9822f35f09526fc437f177fcdf0e1bcb29425bb68759b6745f5f4eb88"
+          "rule_updated_at": "2026-11-10T02:22:21.602696+00:00",
+          "bytes": 59345,
+          "sha256": "964f855c5f9eca604eb0cea657268da160084984a4656cad0e57186d7fe1c138",
+          "semantic_sha256": "dcc8debaf3fc1b07c2f3b8bc9a89e1375d02311388cbb4fccbdc84747dd61269"
         },
         "LanZou": {
           "file": "rules/Mihomo/LanZou.yaml",
@@ -12940,10 +12940,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Mihomo/MicrosoftProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:34.315520+00:00",
-          "bytes": 2757,
-          "sha256": "c92035b987d7a2149cf37faaed956619a62aa045808d59a9d2b8a989995d0dd1",
-          "semantic_sha256": "9ad0dc965d6323d194a104e560db8cb449981045c35e0c4a43023c995ec467f7"
+          "rule_updated_at": "2026-11-10T02:22:21.600676+00:00",
+          "bytes": 25920,
+          "sha256": "cfe8a17ea899697da522d37c53453ed2266778503ef0d6c2fe0a3fef0f489576",
+          "semantic_sha256": "e8d0e53837daf1565cbba86201c46006f54afc991984adff069e984491436cfb"
         },
         "Midea": {
           "file": "rules/Mihomo/Midea.yaml",
@@ -13255,10 +13255,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Mihomo/NetEaseMusic.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.758004+00:00",
-          "bytes": 37549,
-          "sha256": "92163045c7b6b8e6b1dab4dd094d054858e19f21eeae70e911aebe05929d2e5b",
-          "semantic_sha256": "7061b5968aa3ec042d46702c3cd7a74dc400990f2a94076b510c8563bbd2be2c"
+          "rule_updated_at": "2026-11-10T02:23:46.683018+00:00",
+          "bytes": 55002,
+          "sha256": "68d794eaa8d471a4ef573b87f58da9c63f365af8ac60c238c350d148fcdf5aea",
+          "semantic_sha256": "1fcabeb6adfd51eddbe8fc7b8a36d13bc7077401876f0983bd22573e4aa173d7"
         },
         "Netflix": {
           "file": "rules/Mihomo/Netflix.yaml",
@@ -13920,10 +13920,10 @@
         },
         "Privacy": {
           "file": "rules/Mihomo/Privacy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:20.342712+00:00",
-          "bytes": 1639376,
-          "sha256": "a207eb467bb5fd6a08790725392a5d77ba39990ab623d8d159651bf6a6125694",
-          "semantic_sha256": "b30ee1eee5a4ba2589eeb2925145a1e5de6a3b381fd1af9f3b1b45dffc29e79b"
+          "rule_updated_at": "2026-11-10T02:23:47.338325+00:00",
+          "bytes": 1656828,
+          "sha256": "874166b52893ab5ffba14108760c9e2bee9e0a9ebf2cbb6103577c2965164be7",
+          "semantic_sha256": "5d004dd613e90e481f757a9b856e0ce9a0a4f2653af50f0632b9413d7e54e40b"
         },
         "PrivateTracker": {
           "file": "rules/Mihomo/PrivateTracker.yaml",
@@ -14739,10 +14739,10 @@
         },
         "Speedtest": {
           "file": "rules/Mihomo/Speedtest.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.806099+00:00",
-          "bytes": 128190,
-          "sha256": "2e0aba570c39911ab5937830b55aca737644556f40736a43d06374503f68978e",
-          "semantic_sha256": "809c2744e790bce2c836c3283da9902cb6920cea523b81ec1c194689e36787f6"
+          "rule_updated_at": "2026-11-10T02:22:21.090903+00:00",
+          "bytes": 181105,
+          "sha256": "eeab67241db98034f2bb34a062a8363441cdc48647d20e46671a5a2d50dd2f5b",
+          "semantic_sha256": "feb5e2a981cd54ecaf290906ea0d1c4ddbad7ce999e54b5442e46243075c8da2"
         },
         "Spiceworks": {
           "file": "rules/Mihomo/Spiceworks.yaml",
@@ -15103,10 +15103,10 @@
         },
         "Telegram": {
           "file": "rules/Mihomo/Telegram.yaml",
-          "rule_updated_at": "2026-11-09T09:23:19.698366+00:00",
-          "bytes": 38064,
-          "sha256": "f2a692f2f4aa14f65dd44dc9aed7bb81df3402e944b2d53a4f958c78f18092e5",
-          "semantic_sha256": "907f2eeec5390359b363100509eb984393cdcf25ddc7ebfa5dc08e0868f6c456"
+          "rule_updated_at": "2026-11-10T02:22:21.082853+00:00",
+          "bytes": 55517,
+          "sha256": "5ef6b18aad42bfa1751dd6225c9ae2f94b1df3b4874a86480e756e07a903f760",
+          "semantic_sha256": "1354223f0bc25b69a7c89309d63cfde4af28421ef7da80dd2c8c2293a2f7d163"
         },
         "TempMail": {
           "file": "rules/Mihomo/TempMail.yaml",
@@ -16809,10 +16809,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-09T15:32:52.761028+00:00",
-          "bytes": 9386454,
-          "sha256": "b7db4da7629b4e57b8ea4e1b51b5081ed7c32e35aab1d006d4b2ad443f8ea047",
-          "semantic_sha256": "f164eb2307c5411bd3ecd41a55718dfa1a66ab46fd83ca6613980466b89b5e22"
+          "rule_updated_at": "2026-11-10T04:31:09.148923+00:00",
+          "bytes": 9397354,
+          "sha256": "c49c0d951fc2d900f8d2238a2a1e23cef5b82c382511a9fe88d04d2238bfaed2",
+          "semantic_sha256": "0fc189dc7ae5caf422ddf17b548e51c135e40f593231e179ddd2ff0b20166de6"
         },
         "Adidas": {
           "file": "rules/QuantumultX/Adidas.list",
@@ -16837,17 +16837,17 @@
         },
         "Advertising": {
           "file": "rules/QuantumultX/Advertising.list",
-          "rule_updated_at": "2026-11-09T09:23:54.567477+00:00",
-          "bytes": 12695104,
-          "sha256": "29bb1b4fe079b691d1a9f479f8ed6aca0422069a0ad4e77fd184ce818cf31856",
-          "semantic_sha256": "d9e2811e6d9881dfde4812f40dc9ae08a91f62785ca8e2fffdcaad38c676bdd5"
+          "rule_updated_at": "2026-11-10T02:54:18.103005+00:00",
+          "bytes": 12607852,
+          "sha256": "139d39e39315ec56d85f9b3efae08d0e9bb5f019cf6aeb1b8b64fdcbd80edf59",
+          "semantic_sha256": "a7e57541d3f2585f224613980a167a00d24c82892d76fe222ab36ba5f65b98ce"
         },
         "AdvertisingLite": {
           "file": "rules/QuantumultX/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-09T09:23:34.910382+00:00",
-          "bytes": 8976657,
-          "sha256": "b6509290116f7c68da2f7a1165aedc4d1ed328e1d5722b15bab4724ee13d4ec4",
-          "semantic_sha256": "ef284389d3c04b78e766465099cca1ca3511d1381a4ce7fe4974591b6e08422d"
+          "rule_updated_at": "2026-11-10T02:23:46.886778+00:00",
+          "bytes": 8872976,
+          "sha256": "a1b3599ce7d79a1604e3c44a7c6b0975134b577ef0d3416d4b60fc9ce3a7fdd4",
+          "semantic_sha256": "91ec40fdcaf577f7eacbece531aaeecf4dca9828a3bb0cea661dc4bea419fefa"
         },
         "AdvertisingMiTV": {
           "file": "rules/QuantumultX/AdvertisingMiTV.list",
@@ -17145,10 +17145,10 @@
         },
         "Apple": {
           "file": "rules/QuantumultX/Apple.list",
-          "rule_updated_at": "2026-11-09T09:22:58.160765+00:00",
-          "bytes": 120558,
-          "sha256": "03c559ec191c15f135e47da125f23b87ada675c33f6e9371353d1be1c5c489c3",
-          "semantic_sha256": "368478449c1e850f643b9cfa529d8478817425bc0499c26203116d128eae3380"
+          "rule_updated_at": "2026-11-10T02:22:21.362971+00:00",
+          "bytes": 137564,
+          "sha256": "d568e1cb95c475b04cb405573a37e3cc3a4d4ae02ffa95ad19a5d38f71c108cd",
+          "semantic_sha256": "4d769798306b4fe79b8f228e854ff31480f70eb3b5f48a60b3d9495e72022c34"
         },
         "AppleCDN": {
           "file": "rules/QuantumultX/AppleCDN.list",
@@ -17166,10 +17166,10 @@
         },
         "AppleDirect": {
           "file": "rules/QuantumultX/AppleDirect.list",
-          "rule_updated_at": "2026-11-09T09:23:01.707066+00:00",
-          "bytes": 52873,
-          "sha256": "7b0dba00e8419cf57f0db5fb6f9e9384ee352e132885711e601fb24aacde9317",
-          "semantic_sha256": "243ec66a2463626614c3078a1d1d40faa50f3895f3ec8b8144e0c1761e225bc0"
+          "rule_updated_at": "2026-11-10T02:23:44.379355+00:00",
+          "bytes": 72615,
+          "sha256": "26374beee0ae7c87b1b079cb8b665812114812d72db0a19fee77a33a2d559518",
+          "semantic_sha256": "cb2b36f87ef82c1b3c623bea881114e4cbb8e6b81801c5eb7e4715175a1e8c28"
         },
         "AppleFirmware": {
           "file": "rules/QuantumultX/AppleFirmware.list",
@@ -17229,10 +17229,10 @@
         },
         "AppleProxy": {
           "file": "rules/QuantumultX/AppleProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:00.490283+00:00",
-          "bytes": 52805,
-          "sha256": "ac41cd70da85b31c40c6ea36e4e80d77cff41f1698fbe37345375a623aa30aac",
-          "semantic_sha256": "1f9f91f5d42141455456537c34c76e0593968ac34509ad6211e2995c9115e698"
+          "rule_updated_at": "2026-11-10T02:23:46.238683+00:00",
+          "bytes": 72091,
+          "sha256": "1cff084fc2830be4eb213598230bb85e8725e1da17f95feddd839f61522338e6",
+          "semantic_sha256": "2b2aa900e982d4d51894a39263043f91d868998badaf0e48ef392135f7e7a9cb"
         },
         "AppleTV": {
           "file": "rules/QuantumultX/AppleTV.list",
@@ -17943,10 +17943,10 @@
         },
         "ChinaIPs": {
           "file": "rules/QuantumultX/ChinaIPs.list",
-          "rule_updated_at": "2026-11-09T16:10:11.678457+00:00",
+          "rule_updated_at": "2026-11-09T22:58:08.542160+00:00",
           "bytes": 730735,
-          "sha256": "49ae1b3af7d8618a02142cc433275419b99e15ace6fc9a61034aa3d6caf906bc",
-          "semantic_sha256": "ce49688c1251dbfa03ac86bd84c2fb59d3e38e3499ea020423989d3a065e6ae8"
+          "sha256": "26c159578a449f94c9995c3f14302a674bbddcadbf82e3c6f452ba1b631878a9",
+          "semantic_sha256": "81a28695b54fe9deec7d174cf952f7a565b9bc7c8696f5dfdfb41e22c668b039"
         },
         "ChinaIPTV": {
           "file": "rules/QuantumultX/ChinaIPTV.list",
@@ -18552,10 +18552,10 @@
         },
         "Developer": {
           "file": "rules/QuantumultX/Developer.list",
-          "rule_updated_at": "2026-11-09T02:53:02.156424+00:00",
-          "bytes": 28200,
-          "sha256": "43ddba24a64c136faf6e1ba74575a0666818663c7bd96a7febeb3925779c213e",
-          "semantic_sha256": "e508aba53d4e7a0ff193b8a9bf522f4d70c35d0a92aeca948f5a964c39177000"
+          "rule_updated_at": "2026-11-10T04:54:06.198344+00:00",
+          "bytes": 28334,
+          "sha256": "ffcb1fc21a0195ab66d6b2ac7c4eb1316a1c45a479dff0467c666680d05a1385",
+          "semantic_sha256": "5109b52def68853d574a77f1d1c968f6271857dc4c2bb9d255b655ce45443caf"
         },
         "DeviantArt": {
           "file": "rules/QuantumultX/DeviantArt.list",
@@ -18636,10 +18636,10 @@
         },
         "Direct": {
           "file": "rules/QuantumultX/Direct.list",
-          "rule_updated_at": "2026-11-09T09:23:00.464131+00:00",
-          "bytes": 23734,
-          "sha256": "cf976edfd9a80f2548e23deac5c2dc5c2df9e3f740941df9b60091183909f6be",
-          "semantic_sha256": "f1d5c40e50732ac40abc88c5b7543035d016b7a52de1fd93fbabbccf3c61b6b0"
+          "rule_updated_at": "2026-11-10T02:22:20.867269+00:00",
+          "bytes": 42020,
+          "sha256": "d72269a1d61f98b2823e29d44197f461c394b748f3d7aeacadf95591fee2a9d2",
+          "semantic_sha256": "2e9aeaa05fd2f1eee11cf903d2d1191d278b572839f6d4d2c5655839ed9c07c4"
         },
         "Discord": {
           "file": "rules/QuantumultX/Discord.list",
@@ -19560,10 +19560,10 @@
         },
         "GlobalAI": {
           "file": "rules/QuantumultX/GlobalAI.list",
-          "rule_updated_at": "2026-11-09T09:22:58.154930+00:00",
-          "bytes": 52512,
-          "sha256": "83abc08af30f0276e29dfd368921c6bcf2f1c271de9bcb1a83f47cf0b5c022e5",
-          "semantic_sha256": "a9e8189c99243b1badba6a66d2361e8ec3b7d1bbe3b409418b08d9f3979b3273"
+          "rule_updated_at": "2026-11-10T02:23:44.383557+00:00",
+          "bytes": 103209,
+          "sha256": "7f344339b08e3ff668f983c5f8176284983212876ba7cb114786b96636d6dff6",
+          "semantic_sha256": "c6ff3c2aca97263627c8cd5058278b708b53fbdf0c5cb681deb8d72e15ee0ca8"
         },
         "GlobalCDN": {
           "file": "rules/QuantumultX/GlobalCDN.list",
@@ -19595,10 +19595,10 @@
         },
         "GlobalMedia": {
           "file": "rules/QuantumultX/GlobalMedia.list",
-          "rule_updated_at": "2026-11-09T09:23:41.574042+00:00",
-          "bytes": 108561,
-          "sha256": "acdd27d9c76104c308f9c8828bfe539570dc800b53e5a6546bc4747d211f7fa8",
-          "semantic_sha256": "07ef9549627994e6d63a30ba0b21ba74d5c9548b2568e2bbdb6af5228c367c86"
+          "rule_updated_at": "2026-11-10T02:23:46.630051+00:00",
+          "bytes": 128827,
+          "sha256": "a6edcfd58e779f907e767eff9b0742dee4639723c3187246a6cf67988a7295a1",
+          "semantic_sha256": "dd069c050d21783a1fd5e1466b94f39c8feab2e507746c645597cbc439735f16"
         },
         "GlobalNetDisk": {
           "file": "rules/QuantumultX/GlobalNetDisk.list",
@@ -20155,10 +20155,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/QuantumultX/iCloudPrivateRelay.list",
-          "rule_updated_at": "2026-11-09T09:22:57.187456+00:00",
-          "bytes": 557,
-          "sha256": "cfb07f2cd66f3bd35d0910ac5b72d7775373f044bf92cbfe14d09baf6c698268",
-          "semantic_sha256": "dac01b4b8b1a1d7d5d1e59587888b537d08f24d572fceecf158ca5dca79e09d4"
+          "rule_updated_at": "2026-11-10T02:23:44.379619+00:00",
+          "bytes": 71656,
+          "sha256": "2b0bdc44f48f3925d8338c7401a117de853f2a784e0a1201129e369d32016e83",
+          "semantic_sha256": "a029903c6c4e57253fe95137d9787ac16df95d63e8edeadfb4d39712c91c84c1"
         },
         "Identrust": {
           "file": "rules/QuantumultX/Identrust.list",
@@ -20757,10 +20757,10 @@
         },
         "Lan": {
           "file": "rules/QuantumultX/Lan.list",
-          "rule_updated_at": "2026-11-09T09:23:23.441950+00:00",
-          "bytes": 39289,
-          "sha256": "2f9bb89b51ecbeff054a48820c77d0d61c74dbd31459bd0d777dfe8310879da8",
-          "semantic_sha256": "a99f50e6e222b7370f94aa82ae25569ba6ba81dba94aaa403c82ee14def02516"
+          "rule_updated_at": "2026-11-10T02:22:21.362655+00:00",
+          "bytes": 55827,
+          "sha256": "55e8d39a17330a804b9e21f987246a2690a2077de97828e34fd49b01f11dbb61",
+          "semantic_sha256": "b3e3835f74e43a0c86fb3b6d1bef80b526599bdb11276aa8c6eeeccf01b4d77c"
         },
         "LanZou": {
           "file": "rules/QuantumultX/LanZou.list",
@@ -21240,10 +21240,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/QuantumultX/MicrosoftProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:27.044784+00:00",
-          "bytes": 3469,
-          "sha256": "93866f35e8f81d744bf3671a29d0ae0036b315f283cfc1912f327b3b939590b9",
-          "semantic_sha256": "4ef49313436e7b057698b99814f84930a2c7e9934eccf411e463a68ea37461f6"
+          "rule_updated_at": "2026-11-10T02:22:21.354653+00:00",
+          "bytes": 32138,
+          "sha256": "8d36abae7571ed26c2466d9dcb5a570616caeb6a6964eb3ea0d7640ef46eecea",
+          "semantic_sha256": "3e7590aa13ca77a613941299647a9371fe0e1de726931abcbf195c4bc64aede0"
         },
         "Midea": {
           "file": "rules/QuantumultX/Midea.list",
@@ -21562,10 +21562,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/QuantumultX/NetEaseMusic.list",
-          "rule_updated_at": "2026-11-09T09:22:59.064708+00:00",
-          "bytes": 44226,
-          "sha256": "9d04db158ebdd70c7084a417bfaaa7bc4edd4e23b5a2108afea510b375838119",
-          "semantic_sha256": "a580e75bd5f5f43377b7e7facb4e3f6ed43f60744d6df939e58c8125173b1560"
+          "rule_updated_at": "2026-11-10T02:23:46.258897+00:00",
+          "bytes": 64959,
+          "sha256": "aab5bd83204a0ee8b696cb04a4f6c42b3b143430dfc1f599b77dac2e30953c06",
+          "semantic_sha256": "ab47dcd683b2f0d6bf55784cb53a5909f59f8535f1e81cca14d1496108f1174a"
         },
         "Netflix": {
           "file": "rules/QuantumultX/Netflix.list",
@@ -22227,10 +22227,10 @@
         },
         "Privacy": {
           "file": "rules/QuantumultX/Privacy.list",
-          "rule_updated_at": "2026-11-09T09:23:15.204760+00:00",
-          "bytes": 1720855,
-          "sha256": "07cb59a06ea1dad2ad2c49ad858276fa4dd5ca4e7b8cb3131cba673147042dc5",
-          "semantic_sha256": "a2d2b796b28a53c59a908ad628ccd7ea61c7732e4c9ecdb4bcaf7171921d6798"
+          "rule_updated_at": "2026-11-10T02:23:46.893019+00:00",
+          "bytes": 1739257,
+          "sha256": "9342635684ad487d6895c55d487be2f6b9cc8b01f41eae43a104b9cbaee68f74",
+          "semantic_sha256": "96b82906b3b9ed199dba1f31479bb3fda851026187e3202022799486a55ee950"
         },
         "PrivateTracker": {
           "file": "rules/QuantumultX/PrivateTracker.list",
@@ -23039,10 +23039,10 @@
         },
         "Speedtest": {
           "file": "rules/QuantumultX/Speedtest.list",
-          "rule_updated_at": "2026-11-09T09:22:59.118782+00:00",
-          "bytes": 142141,
-          "sha256": "5ffae8a45242a49c6c91908d5db88e09494c99b733c3dce6f1e6007c193e8437",
-          "semantic_sha256": "0fc003e79fcd7ad9b4ef9cf4c22caecb890fcfcfb6a9341a263eda2f72557391"
+          "rule_updated_at": "2026-11-10T02:22:20.871225+00:00",
+          "bytes": 200619,
+          "sha256": "8d56f5c5fbe374fd131aeaaecaf41e5b332d6becac0925a13d46ed25b1aa0ea1",
+          "semantic_sha256": "6f76553bcf35c90c41960aa1a4e47f2144197968fd825f17b15f69357fc079f0"
         },
         "Spiceworks": {
           "file": "rules/QuantumultX/Spiceworks.list",
@@ -23403,10 +23403,10 @@
         },
         "Telegram": {
           "file": "rules/QuantumultX/Telegram.list",
-          "rule_updated_at": "2026-11-09T09:23:11.211238+00:00",
-          "bytes": 40394,
-          "sha256": "622e351582889f793c6f0f1c241422e54c7dc3a06e0c36e54d873f3443dcecd9",
-          "semantic_sha256": "fbd1f94cbda9e960873942546ffb16df556707fb56f989a8ffcb66129ccf30e0"
+          "rule_updated_at": "2026-11-10T02:22:20.866894+00:00",
+          "bytes": 59263,
+          "sha256": "df4f7efb31c96baa5d4eca78dc1ae3421e856a0d2e6b5479662410af0f75ff79",
+          "semantic_sha256": "4ffb8a20ffb7516e4a77f44b991105dc1a57e2dd8584e8ac2d9967c335a0a64a"
         },
         "TempMail": {
           "file": "rules/QuantumultX/TempMail.list",
@@ -25109,10 +25109,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Loon/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-09T15:32:52.855640+00:00",
-          "bytes": 5267382,
-          "sha256": "5f468efd4ee48c18dc6a2beff7d0791a92b5cc1d6c2516163813ff4ab7cce9d6",
-          "semantic_sha256": "1cdf9895a6f116041ca26046b8626d9d2da5fb477bab66b95010f7d90c4d8cbe"
+          "rule_updated_at": "2026-11-10T04:31:09.264325+00:00",
+          "bytes": 5273354,
+          "sha256": "db276d3b06ac9ea9ef684435af581d6634e7027a7d520a458016a9a595d92731",
+          "semantic_sha256": "2503c631340677c6c9fcd00271ecdcf690ff19d840126762e1d294b39e15e868"
         },
         "Adidas": {
           "file": "rules/Loon/Adidas.list",
@@ -25137,17 +25137,17 @@
         },
         "Advertising": {
           "file": "rules/Loon/Advertising.list",
-          "rule_updated_at": "2026-11-09T09:23:55.727903+00:00",
-          "bytes": 9792409,
-          "sha256": "787f1ef045078b655f2ed9436915a303bc7121469011c5fb6b809944d2184f29",
-          "semantic_sha256": "3b52bee0072a4cd129f7fc76d6118879757c2f5c913dfc010b9149c99bf3ff98"
+          "rule_updated_at": "2026-11-10T02:54:18.690754+00:00",
+          "bytes": 9724319,
+          "sha256": "5667778a250951c1598dd968f888b501848bed1ebe213adc9cdc31f77a6b7b46",
+          "semantic_sha256": "ef8f7d14c39499e2db64367e51ba7dca78b4c07a2a5c6e90cabc2bfd41e8c132"
         },
         "AdvertisingLite": {
           "file": "rules/Loon/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-09T09:23:38.962094+00:00",
-          "bytes": 6314661,
-          "sha256": "f8edf56f6871f19aae863400c3eb539dd9b7a08525b02134f337c0972d61bbba",
-          "semantic_sha256": "4327108855cdf2fba7956fd85ed143202ce14fa78b53e54ca73c9fa2727f3fc3"
+          "rule_updated_at": "2026-11-10T02:23:46.967429+00:00",
+          "bytes": 6240082,
+          "sha256": "cb866644910acb13bb75044ac81b554f5b4fd5b59c984b66dc5fe3a77931c6b3",
+          "semantic_sha256": "6f5e9ed4f088529e132ea417afca8943cd30a2e8219cb8a740adc7879b960576"
         },
         "AdvertisingMiTV": {
           "file": "rules/Loon/AdvertisingMiTV.list",
@@ -25445,10 +25445,10 @@
         },
         "Apple": {
           "file": "rules/Loon/Apple.list",
-          "rule_updated_at": "2026-11-09T09:22:58.210103+00:00",
-          "bytes": 107489,
-          "sha256": "ac6d2002d713a980f45262183281d9037a6fa38a4f2df32f33739c56650251bf",
-          "semantic_sha256": "e3eb29b2ccc2fc223d17456401110008357150dda34db50391508ce5b5cf9bc6"
+          "rule_updated_at": "2026-11-10T02:22:21.388573+00:00",
+          "bytes": 122653,
+          "sha256": "e524b80687ee2f9c56954e4f5a58d2e504649ed2a23dcce21f2b124ba7f8e466",
+          "semantic_sha256": "3f130210218a48507fb89fbec0045201f8cf0b39670dc5307aada5db86206f21"
         },
         "AppleCDN": {
           "file": "rules/Loon/AppleCDN.list",
@@ -25466,10 +25466,10 @@
         },
         "AppleDirect": {
           "file": "rules/Loon/AppleDirect.list",
-          "rule_updated_at": "2026-11-09T09:23:02.184444+00:00",
-          "bytes": 40929,
-          "sha256": "46a34dacc348699b515f7ef160ff3920e6651d025c85bb6f27fd7d05ff816f91",
-          "semantic_sha256": "6cbdc47ba8bfeb1d9ffcb59e0430382a1ae13adbfe2226fe1f5d6eca4f822022"
+          "rule_updated_at": "2026-11-10T02:23:44.420852+00:00",
+          "bytes": 56093,
+          "sha256": "1d5e31113cf95109588397199288318c4c68d57357676d30edac4110e59836fa",
+          "semantic_sha256": "19a4186dd546c7d748cbc20769a2fdf781c45384217aced84994216e29493adf"
         },
         "AppleFirmware": {
           "file": "rules/Loon/AppleFirmware.list",
@@ -25529,10 +25529,10 @@
         },
         "AppleProxy": {
           "file": "rules/Loon/AppleProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:00.531706+00:00",
-          "bytes": 41988,
-          "sha256": "da5bbc3b10b802075cb1fa157f50b8bd2ab5dcb2fc94cf00ebcc6f94f39621ef",
-          "semantic_sha256": "bc04571792011376c3a21e2b875f1768d641890dd4b75a081dd3089817b5aa3c"
+          "rule_updated_at": "2026-11-10T02:23:46.272375+00:00",
+          "bytes": 57152,
+          "sha256": "c292c65949451587d6787855986a495f1c5cba81f147253a40ebbc8c2d3523aa",
+          "semantic_sha256": "50597e09f68025f90f46c50d49e6f43c8a0a84db54b3b141da9396c70e3a42f3"
         },
         "AppleTV": {
           "file": "rules/Loon/AppleTV.list",
@@ -26243,10 +26243,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Loon/ChinaIPs.list",
-          "rule_updated_at": "2026-11-09T16:10:11.722949+00:00",
+          "rule_updated_at": "2026-11-09T22:58:09.814296+00:00",
           "bytes": 777063,
-          "sha256": "dd61e8f95e04c2b9fd28f85cc09f39bfc19c45fc7c3a28e70c60a8d4a984d465",
-          "semantic_sha256": "f07ad549e5876b680eb6d1115a72bd9add1c4d8c9699746bdf0f32813d82c5f9"
+          "sha256": "f5d86234507d40bffc11d5362d5791bd28842329e3bcc3b26a5dcef3c46bd873",
+          "semantic_sha256": "115cc553fa8624e8936afc2e09457692796699522a2d8485cf1abf1112074c4c"
         },
         "ChinaIPTV": {
           "file": "rules/Loon/ChinaIPTV.list",
@@ -26852,10 +26852,10 @@
         },
         "Developer": {
           "file": "rules/Loon/Developer.list",
-          "rule_updated_at": "2026-11-09T02:53:02.334516+00:00",
-          "bytes": 22316,
-          "sha256": "2fe31186d122faa675c0cc476f6869dda21f9d040b2354996583bcd963e5cb71",
-          "semantic_sha256": "9c1746705bf0535c184f62d1d6b924f75e8be6edeaa3028f6be5ed5992d113fa"
+          "rule_updated_at": "2026-11-10T04:54:06.226379+00:00",
+          "bytes": 22426,
+          "sha256": "6863f67fa4f849c4e7996d8b83ab54a6b10814d77441dbb32e11e0810c99d057",
+          "semantic_sha256": "eec5113f0987a59036fa2bd798cbaf22dfa55d424f1240c693c045d618480d0e"
         },
         "DeviantArt": {
           "file": "rules/Loon/DeviantArt.list",
@@ -26936,10 +26936,10 @@
         },
         "Direct": {
           "file": "rules/Loon/Direct.list",
-          "rule_updated_at": "2026-11-09T09:23:00.490058+00:00",
-          "bytes": 20958,
-          "sha256": "90cead08fdbf7ccb49ae126b9728f01e3648789a9651e68062abdf07c8181fa2",
-          "semantic_sha256": "e28f28fb65074341d938cc468127bc4ef0f52c8b84d5db38457582faf7a3934a"
+          "rule_updated_at": "2026-11-10T02:22:20.908942+00:00",
+          "bytes": 36861,
+          "sha256": "5c354bd9698455822f8d8591b80e6da97fa931b1ffa9e32374914ad845760dbb",
+          "semantic_sha256": "0a7e943b3ce9f3bc1959cf1da2ab0180f25cad3617f37b847c2d58ee89360836"
         },
         "Discord": {
           "file": "rules/Loon/Discord.list",
@@ -27860,10 +27860,10 @@
         },
         "GlobalAI": {
           "file": "rules/Loon/GlobalAI.list",
-          "rule_updated_at": "2026-11-09T09:22:58.190788+00:00",
-          "bytes": 43180,
-          "sha256": "337d21c6fcc09bbda6d04cf485fb0fa8bf4c226ea5b6f5a33fb533193534054e",
-          "semantic_sha256": "ee309fa49dd96021ddcab3f93b9f137c3e7bf06357fe9d7616453d896f63270e"
+          "rule_updated_at": "2026-11-10T02:23:44.421173+00:00",
+          "bytes": 85151,
+          "sha256": "cb771c916b8d8e094163120e0ed24d06146faf9fb615a946d30ec65f5caebf90",
+          "semantic_sha256": "a1e042b7421d2c01d88f3ab0d2823d48f2cb07721dd6c74f2f05a023d3621bb2"
         },
         "GlobalCDN": {
           "file": "rules/Loon/GlobalCDN.list",
@@ -27895,10 +27895,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Loon/GlobalMedia.list",
-          "rule_updated_at": "2026-11-09T09:23:45.737492+00:00",
-          "bytes": 86186,
-          "sha256": "ac8829c04b47b73448a8be75d9541d5c1234b344cbf75d7ffaec4d6940909ceb",
-          "semantic_sha256": "30a9a8e6ab34d6da1676e40f6201c8ca248dc33268eba1c8ba4ee37306c15e24"
+          "rule_updated_at": "2026-11-10T02:23:46.663058+00:00",
+          "bytes": 101774,
+          "sha256": "69a8f727bc8d09edfe04d88dba8bc4975af0d0d076f63d4e59d9078ab381d037",
+          "semantic_sha256": "be3dd90c0203332108e4c0605fae2f72269654ce5187d2e11d5462f7c6722913"
         },
         "GlobalNetDisk": {
           "file": "rules/Loon/GlobalNetDisk.list",
@@ -28455,10 +28455,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Loon/iCloudPrivateRelay.list",
-          "rule_updated_at": "2026-11-09T09:22:58.165668+00:00",
-          "bytes": 408,
-          "sha256": "34028caac7c21eb89382148338c693d97c22bdf31365ac9045b5f7bc486d3fb2",
-          "semantic_sha256": "c88b1c4203fe9db7beee2740249c1d23dc7ef0a08fffda4e1108789ebe175134"
+          "rule_updated_at": "2026-11-10T02:23:44.404707+00:00",
+          "bytes": 47718,
+          "sha256": "6e8de3163314b5b7cdbe9ec0258007977fd6ff4922d8ca9f44814607a7183fc0",
+          "semantic_sha256": "7ef204dbeb5275290b5d6bf30a64a60fad87bf9ea3ea47b728f0ac5124578dd6"
         },
         "Identrust": {
           "file": "rules/Loon/Identrust.list",
@@ -29057,10 +29057,10 @@
         },
         "Lan": {
           "file": "rules/Loon/Lan.list",
-          "rule_updated_at": "2026-11-09T09:23:23.476070+00:00",
-          "bytes": 37426,
-          "sha256": "44ea87b412c0b6ee24a7682f08a1750b0b6d63ae09b9707badea57661b25eb27",
-          "semantic_sha256": "fb91990deaec87b8b5c1c59cd5d2aba0859dbb2707c7078d160c90b549412124"
+          "rule_updated_at": "2026-11-10T02:22:21.394646+00:00",
+          "bytes": 53014,
+          "sha256": "8b2cf47893b58229b1265be8d7ac03bb01201210c39f8e02c7f608fe704e9d1e",
+          "semantic_sha256": "018cd9301359556c2e15e3567c5dd75a6dff035a74845e89d5dd5a4353be6411"
         },
         "LanZou": {
           "file": "rules/Loon/LanZou.list",
@@ -29540,10 +29540,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Loon/MicrosoftProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:27.357025+00:00",
-          "bytes": 2394,
-          "sha256": "9895bb6410b015c76d56766df3d9f8fa9372834573cabd4a48ddfba4cc9a6776",
-          "semantic_sha256": "2c12f6d1a06b90afb46d2a9031d650c97a40811e15a3d55eab30e8ac00148163"
+          "rule_updated_at": "2026-11-10T02:22:21.382873+00:00",
+          "bytes": 23101,
+          "sha256": "000d1c4c8b08924d704521a46dee5f4ea9a65b0a98f1f815292f03867049fb15",
+          "semantic_sha256": "13c06443dea0bd8cbf8e15253d45a4a3b967b15420192e5bee9efd2de75b908f"
         },
         "Midea": {
           "file": "rules/Loon/Midea.list",
@@ -29862,10 +29862,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Loon/NetEaseMusic.list",
-          "rule_updated_at": "2026-11-09T09:22:59.101912+00:00",
-          "bytes": 33734,
-          "sha256": "614c2f25ad2d4a8167c5d969a6b86b30e05afb9f3191a456f3f44097776484dc",
-          "semantic_sha256": "41dd5645b3fd854a28993e8a7d3ceff6621562c9fbcfc654f2068d73eebbaa74"
+          "rule_updated_at": "2026-11-10T02:23:46.502970+00:00",
+          "bytes": 49323,
+          "sha256": "7164b4a45fca5c69f7cf4fa67fbcc79e27eb70ec19d66e8e9c4863c96a85379d",
+          "semantic_sha256": "9ae0b671bb091ef9568f90b3dbc32b7d6b4b89e404eafed01b2af919a6983ff1"
         },
         "Netflix": {
           "file": "rules/Loon/Netflix.list",
@@ -30527,10 +30527,10 @@
         },
         "Privacy": {
           "file": "rules/Loon/Privacy.list",
-          "rule_updated_at": "2026-11-09T09:23:15.287886+00:00",
-          "bytes": 1475712,
-          "sha256": "7fbf11cae5848b4c759e617e6d5192fa4231c8742b59a134d09bbe6bde80ca2e",
-          "semantic_sha256": "4a5deeef4a4eaa42c33d5ccc7a6f6dbb4f21729ce56fc679ea1cd930acdfa6b3"
+          "rule_updated_at": "2026-11-10T02:23:46.935461+00:00",
+          "bytes": 1491300,
+          "sha256": "673ea8c49b2393ea24b9a5b349456aeab19ea1979235fafe27225ed9e7c5d8f5",
+          "semantic_sha256": "069d2a8b8f6445ab12a59e849c784c910ef6b81b132bf934e7446ae944fce497"
         },
         "PrivateTracker": {
           "file": "rules/Loon/PrivateTracker.list",
@@ -31339,10 +31339,10 @@
         },
         "Speedtest": {
           "file": "rules/Loon/Speedtest.list",
-          "rule_updated_at": "2026-11-09T09:22:59.398395+00:00",
-          "bytes": 114257,
-          "sha256": "2a3770532a966fb003343d2dfb2397d3461d4408eeae448475ecce39e9f68a73",
-          "semantic_sha256": "7e9f49c92840d869e0d8ba9e18c09da22270eeca8c3bd5e936e52622518d77a8"
+          "rule_updated_at": "2026-11-10T02:22:20.912948+00:00",
+          "bytes": 161564,
+          "sha256": "3afe9d35387b7b2daa54539bbb1c4991d9321667338659b14bb4b986347449d7",
+          "semantic_sha256": "de5ab861d55714c3f3f25a5265f94fba6a12d55347247ccab59b7a72c563087a"
         },
         "Spiceworks": {
           "file": "rules/Loon/Spiceworks.list",
@@ -31703,10 +31703,10 @@
         },
         "Telegram": {
           "file": "rules/Loon/Telegram.list",
-          "rule_updated_at": "2026-11-09T09:23:15.026379+00:00",
-          "bytes": 33991,
-          "sha256": "896288c403454a507a9e688e35a8ee3166cdc7948f2dcd919ce843c043d36c9d",
-          "semantic_sha256": "aabe6e142df78e46f380567d996d456f2b5445595e6e0166cd954a17ac1b1f1f"
+          "rule_updated_at": "2026-11-10T02:22:20.906656+00:00",
+          "bytes": 49580,
+          "sha256": "601f499c831fa0709aa4d1bb47ebd7ea6869348d867bf63a6c3df818fb7119ce",
+          "semantic_sha256": "ba18eaa6e4acf8c263419cdfc06b8c64b74f905841b69e590ea8cb6c64c8d3ec"
         },
         "TempMail": {
           "file": "rules/Loon/TempMail.list",
@@ -33409,10 +33409,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-09T15:32:53.003760+00:00",
-          "bytes": 5267382,
-          "sha256": "5f468efd4ee48c18dc6a2beff7d0791a92b5cc1d6c2516163813ff4ab7cce9d6",
-          "semantic_sha256": "1cdf9895a6f116041ca26046b8626d9d2da5fb477bab66b95010f7d90c4d8cbe"
+          "rule_updated_at": "2026-11-10T04:31:09.356091+00:00",
+          "bytes": 5273354,
+          "sha256": "db276d3b06ac9ea9ef684435af581d6634e7027a7d520a458016a9a595d92731",
+          "semantic_sha256": "2503c631340677c6c9fcd00271ecdcf690ff19d840126762e1d294b39e15e868"
         },
         "Adidas": {
           "file": "rules/Shadowrocket/Adidas.list",
@@ -33437,17 +33437,17 @@
         },
         "Advertising": {
           "file": "rules/Shadowrocket/Advertising.list",
-          "rule_updated_at": "2026-11-09T09:23:58.660987+00:00",
-          "bytes": 9792409,
-          "sha256": "787f1ef045078b655f2ed9436915a303bc7121469011c5fb6b809944d2184f29",
-          "semantic_sha256": "3b52bee0072a4cd129f7fc76d6118879757c2f5c913dfc010b9149c99bf3ff98"
+          "rule_updated_at": "2026-11-10T02:54:19.192934+00:00",
+          "bytes": 9724319,
+          "sha256": "5667778a250951c1598dd968f888b501848bed1ebe213adc9cdc31f77a6b7b46",
+          "semantic_sha256": "ef8f7d14c39499e2db64367e51ba7dca78b4c07a2a5c6e90cabc2bfd41e8c132"
         },
         "AdvertisingLite": {
           "file": "rules/Shadowrocket/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-09T09:23:39.807830+00:00",
-          "bytes": 6314661,
-          "sha256": "f8edf56f6871f19aae863400c3eb539dd9b7a08525b02134f337c0972d61bbba",
-          "semantic_sha256": "4327108855cdf2fba7956fd85ed143202ce14fa78b53e54ca73c9fa2727f3fc3"
+          "rule_updated_at": "2026-11-10T02:23:47.187392+00:00",
+          "bytes": 6240082,
+          "sha256": "cb866644910acb13bb75044ac81b554f5b4fd5b59c984b66dc5fe3a77931c6b3",
+          "semantic_sha256": "6f5e9ed4f088529e132ea417afca8943cd30a2e8219cb8a740adc7879b960576"
         },
         "AdvertisingMiTV": {
           "file": "rules/Shadowrocket/AdvertisingMiTV.list",
@@ -33745,10 +33745,10 @@
         },
         "Apple": {
           "file": "rules/Shadowrocket/Apple.list",
-          "rule_updated_at": "2026-11-09T09:22:58.242115+00:00",
-          "bytes": 107489,
-          "sha256": "ac6d2002d713a980f45262183281d9037a6fa38a4f2df32f33739c56650251bf",
-          "semantic_sha256": "e3eb29b2ccc2fc223d17456401110008357150dda34db50391508ce5b5cf9bc6"
+          "rule_updated_at": "2026-11-10T02:22:21.418683+00:00",
+          "bytes": 122653,
+          "sha256": "e524b80687ee2f9c56954e4f5a58d2e504649ed2a23dcce21f2b124ba7f8e466",
+          "semantic_sha256": "3f130210218a48507fb89fbec0045201f8cf0b39670dc5307aada5db86206f21"
         },
         "AppleCDN": {
           "file": "rules/Shadowrocket/AppleCDN.list",
@@ -33766,10 +33766,10 @@
         },
         "AppleDirect": {
           "file": "rules/Shadowrocket/AppleDirect.list",
-          "rule_updated_at": "2026-11-09T09:23:02.214841+00:00",
-          "bytes": 40929,
-          "sha256": "46a34dacc348699b515f7ef160ff3920e6651d025c85bb6f27fd7d05ff816f91",
-          "semantic_sha256": "6cbdc47ba8bfeb1d9ffcb59e0430382a1ae13adbfe2226fe1f5d6eca4f822022"
+          "rule_updated_at": "2026-11-10T02:23:44.610251+00:00",
+          "bytes": 56093,
+          "sha256": "1d5e31113cf95109588397199288318c4c68d57357676d30edac4110e59836fa",
+          "semantic_sha256": "19a4186dd546c7d748cbc20769a2fdf781c45384217aced84994216e29493adf"
         },
         "AppleFirmware": {
           "file": "rules/Shadowrocket/AppleFirmware.list",
@@ -33829,10 +33829,10 @@
         },
         "AppleProxy": {
           "file": "rules/Shadowrocket/AppleProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:00.602377+00:00",
-          "bytes": 41988,
-          "sha256": "da5bbc3b10b802075cb1fa157f50b8bd2ab5dcb2fc94cf00ebcc6f94f39621ef",
-          "semantic_sha256": "bc04571792011376c3a21e2b875f1768d641890dd4b75a081dd3089817b5aa3c"
+          "rule_updated_at": "2026-11-10T02:23:46.510880+00:00",
+          "bytes": 57152,
+          "sha256": "c292c65949451587d6787855986a495f1c5cba81f147253a40ebbc8c2d3523aa",
+          "semantic_sha256": "50597e09f68025f90f46c50d49e6f43c8a0a84db54b3b141da9396c70e3a42f3"
         },
         "AppleTV": {
           "file": "rules/Shadowrocket/AppleTV.list",
@@ -34543,10 +34543,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Shadowrocket/ChinaIPs.list",
-          "rule_updated_at": "2026-11-09T16:10:11.748923+00:00",
+          "rule_updated_at": "2026-11-09T22:58:10.957661+00:00",
           "bytes": 777063,
-          "sha256": "dd61e8f95e04c2b9fd28f85cc09f39bfc19c45fc7c3a28e70c60a8d4a984d465",
-          "semantic_sha256": "f07ad549e5876b680eb6d1115a72bd9add1c4d8c9699746bdf0f32813d82c5f9"
+          "sha256": "f5d86234507d40bffc11d5362d5791bd28842329e3bcc3b26a5dcef3c46bd873",
+          "semantic_sha256": "115cc553fa8624e8936afc2e09457692796699522a2d8485cf1abf1112074c4c"
         },
         "ChinaIPTV": {
           "file": "rules/Shadowrocket/ChinaIPTV.list",
@@ -35152,10 +35152,10 @@
         },
         "Developer": {
           "file": "rules/Shadowrocket/Developer.list",
-          "rule_updated_at": "2026-11-09T02:53:02.499411+00:00",
-          "bytes": 22316,
-          "sha256": "2fe31186d122faa675c0cc476f6869dda21f9d040b2354996583bcd963e5cb71",
-          "semantic_sha256": "9c1746705bf0535c184f62d1d6b924f75e8be6edeaa3028f6be5ed5992d113fa"
+          "rule_updated_at": "2026-11-10T04:54:06.262866+00:00",
+          "bytes": 22426,
+          "sha256": "6863f67fa4f849c4e7996d8b83ab54a6b10814d77441dbb32e11e0810c99d057",
+          "semantic_sha256": "eec5113f0987a59036fa2bd798cbaf22dfa55d424f1240c693c045d618480d0e"
         },
         "DeviantArt": {
           "file": "rules/Shadowrocket/DeviantArt.list",
@@ -35236,10 +35236,10 @@
         },
         "Direct": {
           "file": "rules/Shadowrocket/Direct.list",
-          "rule_updated_at": "2026-11-09T09:23:00.510259+00:00",
-          "bytes": 21853,
-          "sha256": "a76072bd0fc2f2bbbe0c04f6c2791229a5d652ba01d8481075fa86dbd07b0bde",
-          "semantic_sha256": "9229d496d3b8a55176c1010df71fc074e0a17b099dd4ad7d224d8d6671c11e65"
+          "rule_updated_at": "2026-11-10T02:22:20.943044+00:00",
+          "bytes": 37756,
+          "sha256": "f2c65ceea50d20a2ec24b19fa8af7ea6fcfb2960b66e6ed9ee825747f3a02a6c",
+          "semantic_sha256": "556a2b276a8730f3f1e67e422bab1d66458149d44355f1168213235d0f8d780f"
         },
         "Discord": {
           "file": "rules/Shadowrocket/Discord.list",
@@ -36160,10 +36160,10 @@
         },
         "GlobalAI": {
           "file": "rules/Shadowrocket/GlobalAI.list",
-          "rule_updated_at": "2026-11-09T09:22:58.219822+00:00",
-          "bytes": 43180,
-          "sha256": "337d21c6fcc09bbda6d04cf485fb0fa8bf4c226ea5b6f5a33fb533193534054e",
-          "semantic_sha256": "ee309fa49dd96021ddcab3f93b9f137c3e7bf06357fe9d7616453d896f63270e"
+          "rule_updated_at": "2026-11-10T02:23:44.450650+00:00",
+          "bytes": 85151,
+          "sha256": "cb771c916b8d8e094163120e0ed24d06146faf9fb615a946d30ec65f5caebf90",
+          "semantic_sha256": "a1e042b7421d2c01d88f3ab0d2823d48f2cb07721dd6c74f2f05a023d3621bb2"
         },
         "GlobalCDN": {
           "file": "rules/Shadowrocket/GlobalCDN.list",
@@ -36195,10 +36195,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Shadowrocket/GlobalMedia.list",
-          "rule_updated_at": "2026-11-09T09:23:47.152717+00:00",
-          "bytes": 86186,
-          "sha256": "ac8829c04b47b73448a8be75d9541d5c1234b344cbf75d7ffaec4d6940909ceb",
-          "semantic_sha256": "30a9a8e6ab34d6da1676e40f6201c8ca248dc33268eba1c8ba4ee37306c15e24"
+          "rule_updated_at": "2026-11-10T02:23:46.688778+00:00",
+          "bytes": 101774,
+          "sha256": "69a8f727bc8d09edfe04d88dba8bc4975af0d0d076f63d4e59d9078ab381d037",
+          "semantic_sha256": "be3dd90c0203332108e4c0605fae2f72269654ce5187d2e11d5462f7c6722913"
         },
         "GlobalNetDisk": {
           "file": "rules/Shadowrocket/GlobalNetDisk.list",
@@ -36755,10 +36755,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Shadowrocket/iCloudPrivateRelay.list",
-          "rule_updated_at": "2026-11-09T09:22:58.212488+00:00",
-          "bytes": 408,
-          "sha256": "34028caac7c21eb89382148338c693d97c22bdf31365ac9045b5f7bc486d3fb2",
-          "semantic_sha256": "c88b1c4203fe9db7beee2740249c1d23dc7ef0a08fffda4e1108789ebe175134"
+          "rule_updated_at": "2026-11-10T02:23:44.437985+00:00",
+          "bytes": 47718,
+          "sha256": "6e8de3163314b5b7cdbe9ec0258007977fd6ff4922d8ca9f44814607a7183fc0",
+          "semantic_sha256": "7ef204dbeb5275290b5d6bf30a64a60fad87bf9ea3ea47b728f0ac5124578dd6"
         },
         "Identrust": {
           "file": "rules/Shadowrocket/Identrust.list",
@@ -37357,10 +37357,10 @@
         },
         "Lan": {
           "file": "rules/Shadowrocket/Lan.list",
-          "rule_updated_at": "2026-11-09T09:23:23.515475+00:00",
-          "bytes": 37426,
-          "sha256": "44ea87b412c0b6ee24a7682f08a1750b0b6d63ae09b9707badea57661b25eb27",
-          "semantic_sha256": "fb91990deaec87b8b5c1c59cd5d2aba0859dbb2707c7078d160c90b549412124"
+          "rule_updated_at": "2026-11-10T02:22:21.419131+00:00",
+          "bytes": 53014,
+          "sha256": "8b2cf47893b58229b1265be8d7ac03bb01201210c39f8e02c7f608fe704e9d1e",
+          "semantic_sha256": "018cd9301359556c2e15e3567c5dd75a6dff035a74845e89d5dd5a4353be6411"
         },
         "LanZou": {
           "file": "rules/Shadowrocket/LanZou.list",
@@ -37840,10 +37840,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Shadowrocket/MicrosoftProxy.list",
-          "rule_updated_at": "2026-11-09T09:23:28.526997+00:00",
-          "bytes": 2394,
-          "sha256": "9895bb6410b015c76d56766df3d9f8fa9372834573cabd4a48ddfba4cc9a6776",
-          "semantic_sha256": "2c12f6d1a06b90afb46d2a9031d650c97a40811e15a3d55eab30e8ac00148163"
+          "rule_updated_at": "2026-11-10T02:22:21.408638+00:00",
+          "bytes": 23101,
+          "sha256": "000d1c4c8b08924d704521a46dee5f4ea9a65b0a98f1f815292f03867049fb15",
+          "semantic_sha256": "13c06443dea0bd8cbf8e15253d45a4a3b967b15420192e5bee9efd2de75b908f"
         },
         "Midea": {
           "file": "rules/Shadowrocket/Midea.list",
@@ -38162,10 +38162,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Shadowrocket/NetEaseMusic.list",
-          "rule_updated_at": "2026-11-09T09:22:59.390388+00:00",
-          "bytes": 33734,
-          "sha256": "614c2f25ad2d4a8167c5d969a6b86b30e05afb9f3191a456f3f44097776484dc",
-          "semantic_sha256": "41dd5645b3fd854a28993e8a7d3ceff6621562c9fbcfc654f2068d73eebbaa74"
+          "rule_updated_at": "2026-11-10T02:23:46.543005+00:00",
+          "bytes": 49323,
+          "sha256": "7164b4a45fca5c69f7cf4fa67fbcc79e27eb70ec19d66e8e9c4863c96a85379d",
+          "semantic_sha256": "9ae0b671bb091ef9568f90b3dbc32b7d6b4b89e404eafed01b2af919a6983ff1"
         },
         "Netflix": {
           "file": "rules/Shadowrocket/Netflix.list",
@@ -38827,10 +38827,10 @@
         },
         "Privacy": {
           "file": "rules/Shadowrocket/Privacy.list",
-          "rule_updated_at": "2026-11-09T09:23:15.985368+00:00",
-          "bytes": 1475712,
-          "sha256": "7fbf11cae5848b4c759e617e6d5192fa4231c8742b59a134d09bbe6bde80ca2e",
-          "semantic_sha256": "4a5deeef4a4eaa42c33d5ccc7a6f6dbb4f21729ce56fc679ea1cd930acdfa6b3"
+          "rule_updated_at": "2026-11-10T02:23:46.979761+00:00",
+          "bytes": 1491300,
+          "sha256": "673ea8c49b2393ea24b9a5b349456aeab19ea1979235fafe27225ed9e7c5d8f5",
+          "semantic_sha256": "069d2a8b8f6445ab12a59e849c784c910ef6b81b132bf934e7446ae944fce497"
         },
         "PrivateTracker": {
           "file": "rules/Shadowrocket/PrivateTracker.list",
@@ -39639,10 +39639,10 @@
         },
         "Speedtest": {
           "file": "rules/Shadowrocket/Speedtest.list",
-          "rule_updated_at": "2026-11-09T09:22:59.454267+00:00",
-          "bytes": 114257,
-          "sha256": "2a3770532a966fb003343d2dfb2397d3461d4408eeae448475ecce39e9f68a73",
-          "semantic_sha256": "7e9f49c92840d869e0d8ba9e18c09da22270eeca8c3bd5e936e52622518d77a8"
+          "rule_updated_at": "2026-11-10T02:22:20.946846+00:00",
+          "bytes": 161564,
+          "sha256": "3afe9d35387b7b2daa54539bbb1c4991d9321667338659b14bb4b986347449d7",
+          "semantic_sha256": "de5ab861d55714c3f3f25a5265f94fba6a12d55347247ccab59b7a72c563087a"
         },
         "Spiceworks": {
           "file": "rules/Shadowrocket/Spiceworks.list",
@@ -40003,10 +40003,10 @@
         },
         "Telegram": {
           "file": "rules/Shadowrocket/Telegram.list",
-          "rule_updated_at": "2026-11-09T09:23:15.187664+00:00",
-          "bytes": 33991,
-          "sha256": "896288c403454a507a9e688e35a8ee3166cdc7948f2dcd919ce843c043d36c9d",
-          "semantic_sha256": "aabe6e142df78e46f380567d996d456f2b5445595e6e0166cd954a17ac1b1f1f"
+          "rule_updated_at": "2026-11-10T02:22:20.942678+00:00",
+          "bytes": 49580,
+          "sha256": "601f499c831fa0709aa4d1bb47ebd7ea6869348d867bf63a6c3df818fb7119ce",
+          "semantic_sha256": "ba18eaa6e4acf8c263419cdfc06b8c64b74f905841b69e590ea8cb6c64c8d3ec"
         },
         "TempMail": {
           "file": "rules/Shadowrocket/TempMail.list",
@@ -41709,10 +41709,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-09T15:32:54.811150+00:00",
-          "bytes": 6016457,
-          "sha256": "fbb1565a85e50f7e14414afed2e0f7e2669033347deadab189620c3a66cea0e0",
-          "semantic_sha256": "c838c62f6b9b4baf1b4a16ef066ebd70ba69fb1d4a64abce297f90a158e76494"
+          "rule_updated_at": "2026-11-10T04:31:11.689158+00:00",
+          "bytes": 6023325,
+          "sha256": "dd7c0f1412636c73321948c1070043c8c2ee5396638dc220dd4c0df224b54d4d",
+          "semantic_sha256": "5a8f3d507b7d6aa81df45e84ad5fb3fd80991d0003833f4a592a0f016756f091"
         },
         "Adidas": {
           "file": "rules/Stash/Adidas.yaml",
@@ -41737,17 +41737,17 @@
         },
         "Advertising": {
           "file": "rules/Stash/Advertising.yaml",
-          "rule_updated_at": "2026-11-09T09:24:04.060127+00:00",
-          "bytes": 10958200,
-          "sha256": "1289f5379a514d8e835ef679f3208c31d113e0e4c1a85d89db24a932f34e7dc1",
-          "semantic_sha256": "bb70f566b9965d366d081b9e3c5295a53eb875de6aed6614cee6cf352a4852ba"
+          "rule_updated_at": "2026-11-10T02:54:23.107151+00:00",
+          "bytes": 10882438,
+          "sha256": "63723d14161fa4ba667babf543007dab64667d34c95fef2abf56687294a51ae1",
+          "semantic_sha256": "113da6bc3d009d4508063ccbd1f34e62d2cd3f60314b472c9c73634d17365dad"
         },
         "AdvertisingLite": {
           "file": "rules/Stash/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-09T09:23:49.115917+00:00",
-          "bytes": 7076400,
-          "sha256": "885f34c14ae55b4977da647a6ac37b0c9a7e0442d797fde440005617c9cecce0",
-          "semantic_sha256": "f93c48f69255ff86a45fde046c4194508159ffe0afaf7a0300280e3bdc2c695d"
+          "rule_updated_at": "2026-11-10T02:23:47.709079+00:00",
+          "bytes": 6993501,
+          "sha256": "b11a2f9e0b3dec74c4c46ec62c74ad3fd910524e690fd5e7f171d670bdd6ba82",
+          "semantic_sha256": "68e13b582c862c55a61ddd87131303154f7c852bfa504ffbd91fde4608f31dff"
         },
         "AdvertisingMiTV": {
           "file": "rules/Stash/AdvertisingMiTV.yaml",
@@ -42045,10 +42045,10 @@
         },
         "Apple": {
           "file": "rules/Stash/Apple.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.677832+00:00",
-          "bytes": 121080,
-          "sha256": "d278526d5fb86e97ebdd9dbb0496b3bd9789032372953e711ac639d01cea4d45",
-          "semantic_sha256": "f55b267a63ba35983a119aca4d7b3f6490806d6bd042b2190a780392b5dfc335"
+          "rule_updated_at": "2026-11-10T02:22:21.660925+00:00",
+          "bytes": 138068,
+          "sha256": "4e2c9b8774eb0814c624ab11c6cbeac6de2bd2722ee94e5a829890eb092664ad",
+          "semantic_sha256": "fd59b6ce3ab0a14982ae9cf2f8bca5d75ac42f8350139e5a087dba506baccbaa"
         },
         "AppleCDN": {
           "file": "rules/Stash/AppleCDN.yaml",
@@ -42066,10 +42066,10 @@
         },
         "AppleDirect": {
           "file": "rules/Stash/AppleDirect.yaml",
-          "rule_updated_at": "2026-11-09T09:23:02.667839+00:00",
-          "bytes": 45804,
-          "sha256": "d080244606057e1fc99aee7c5c598985d54b266992ca3441fb7d6fa4748d90f9",
-          "semantic_sha256": "72919bb961f8abe2f9540d39c6abff96955271bb2cf3a8c58a8fc68f1f6457fd"
+          "rule_updated_at": "2026-11-10T02:23:46.059129+00:00",
+          "bytes": 62792,
+          "sha256": "484df20da71ac53a4caf420864c1a26ab89f8e1abab110020dcd1e536623ada3",
+          "semantic_sha256": "002c429e96c2e9cf0b99ced6f0037ef0980312dc233e7c4cb62643896ee0eedf"
         },
         "AppleFirmware": {
           "file": "rules/Stash/AppleFirmware.yaml",
@@ -42129,10 +42129,10 @@
         },
         "AppleProxy": {
           "file": "rules/Stash/AppleProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:01.232675+00:00",
-          "bytes": 47011,
-          "sha256": "9a38cbb01f657190cbfccbbc52eb010091f406b5b1e88cc87b659a1bf4aa8d90",
-          "semantic_sha256": "3fc83714638f6cfa38b6db4e0e225ee4eb845ae6dd62593cf5687d39df3f0dab"
+          "rule_updated_at": "2026-11-10T02:23:46.670707+00:00",
+          "bytes": 63999,
+          "sha256": "5f50538c9038e4140e7cb8807b1b5580a40e9f15ebe093bfeb7fbe3686b050ae",
+          "semantic_sha256": "9461c078d936a5d4d78e4dab7acf6346cab97b564b904c5dbc7642e155371c6a"
         },
         "AppleTV": {
           "file": "rules/Stash/AppleTV.yaml",
@@ -42843,10 +42843,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Stash/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-09T16:10:12.189472+00:00",
+          "rule_updated_at": "2026-11-09T22:58:14.959540+00:00",
           "bytes": 869750,
-          "sha256": "86ff119180f7e73dd45e699863687a8e174032b027c9ed88853d52fecc7bc6bc",
-          "semantic_sha256": "9a0130ee8f18f8fef4fce13d0cbde0405af55f22ab262a9b5b889e2e24e47a45"
+          "sha256": "7681d14f7bf929ad839b1934732bd90caddaf8a64c57e56ef65f500a37408674",
+          "semantic_sha256": "9443ebeb1fbb90ab7dc0bc8ff8bc8481f4867688321bbe6af67dea38306e4e3b"
         },
         "ChinaIPTV": {
           "file": "rules/Stash/ChinaIPTV.yaml",
@@ -43452,10 +43452,10 @@
         },
         "Developer": {
           "file": "rules/Stash/Developer.yaml",
-          "rule_updated_at": "2026-11-09T02:53:03.800450+00:00",
-          "bytes": 25364,
-          "sha256": "a4449ffa9daadb36db926dbceeccb0659e1e24b0bf0a24eaf2404e8a4ab7da0f",
-          "semantic_sha256": "655aba6967babdcf688139c136489bd38e4fe14d71fc111b5267a3897f4407b8"
+          "rule_updated_at": "2026-11-10T04:54:06.408950+00:00",
+          "bytes": 25486,
+          "sha256": "ddb3e6db21202daf099ef76998468520bf62ab181a4f51c8c88c508fecd50133",
+          "semantic_sha256": "f20c43b315e0f5091d60f76af5d6553e9e5b8e5f9f90987ba85287879f0565a7"
         },
         "DeviantArt": {
           "file": "rules/Stash/DeviantArt.yaml",
@@ -43536,10 +43536,10 @@
         },
         "Direct": {
           "file": "rules/Stash/Direct.yaml",
-          "rule_updated_at": "2026-11-09T09:23:00.828332+00:00",
-          "bytes": 24560,
-          "sha256": "d96da011e6769eeab6f5fbdd0be560f8ce7affcb5d73a59b494c3e2e3fea484e",
-          "semantic_sha256": "182bdf1a2e25c4365e30b618d055abc4343acb237170cc1f68e8f46851c3911a"
+          "rule_updated_at": "2026-11-10T02:22:21.121792+00:00",
+          "bytes": 42355,
+          "sha256": "4db581e3a5517d4d735e60b2f90a3a7c4f4591a110c19102418f2229e7ae1397",
+          "semantic_sha256": "df949ab7df10cf5f0844ea68c065257672245cdd60be502fe83e527bd9511cec"
         },
         "Discord": {
           "file": "rules/Stash/Discord.yaml",
@@ -44460,10 +44460,10 @@
         },
         "GlobalAI": {
           "file": "rules/Stash/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.639289+00:00",
-          "bytes": 49044,
-          "sha256": "fe7c9e524b36e7f5b13f9db06954c0f3c59355f095907179a693f53c68c1ee72",
-          "semantic_sha256": "4d0ca8ebb3ddbdf99ecc4de63e4e46a87beee4101a5ba7651462c4630cbd43ed"
+          "rule_updated_at": "2026-11-10T02:23:46.066937+00:00",
+          "bytes": 95991,
+          "sha256": "edc86f24869e0b658f7dfc570af6bbcfca0405cb6d85c2c35cb4413ceacb6977",
+          "semantic_sha256": "05ba0d3bf46def244b1b55f77baa76bd79b0bb57f7c76a2bb4ff880b98bc537a"
         },
         "GlobalCDN": {
           "file": "rules/Stash/GlobalCDN.yaml",
@@ -44495,10 +44495,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Stash/GlobalMedia.yaml",
-          "rule_updated_at": "2026-11-09T09:23:52.081217+00:00",
-          "bytes": 97110,
-          "sha256": "88927823756d2c5e0e579cfbee563280f31c22a1e7daca77c3fe83cbfe64192d",
-          "semantic_sha256": "2c9f5db85e084b8964c3696b7ca29c6ce56ba8a98c6c92b46b5a10fdffd051d0"
+          "rule_updated_at": "2026-11-10T02:23:46.858967+00:00",
+          "bytes": 114562,
+          "sha256": "05c7bb39b9ab00aef94a79481196353c8bece89945a512e4b2d22c06ea9b243d",
+          "semantic_sha256": "9a79afd393a36b75375d490dcbd6a7c95bd753822a00ce2221dbc22ccf68414d"
         },
         "GlobalNetDisk": {
           "file": "rules/Stash/GlobalNetDisk.yaml",
@@ -45055,10 +45055,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Stash/iCloudPrivateRelay.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.651249+00:00",
-          "bytes": 475,
-          "sha256": "6dba48e9e36d74d0dcacdf8332aaed5465495f5cc29f7ebd2304e82bcab8d92b",
-          "semantic_sha256": "5968b1e9035c2140face1bdf5250f3f6a4219a9703a2fa05404d8c6ed7a4300c"
+          "rule_updated_at": "2026-11-10T02:23:46.054750+00:00",
+          "bytes": 53393,
+          "sha256": "90baf3ee37dbcc15e87d8e7af9620a619c4271626e4a5eb852456f284a80098f",
+          "semantic_sha256": "39d989615d9e293d6aac3db8dc46a4dec2551da7bcddfd975dc90023acd2fd4c"
         },
         "Identrust": {
           "file": "rules/Stash/Identrust.yaml",
@@ -45657,10 +45657,10 @@
         },
         "Lan": {
           "file": "rules/Stash/Lan.yaml",
-          "rule_updated_at": "2026-11-09T09:23:28.578176+00:00",
-          "bytes": 41893,
-          "sha256": "aa853b6a45e2d9f914566d46adc5f241ac2d42d83d27537788dbe048c47959b0",
-          "semantic_sha256": "af8123f9822f35f09526fc437f177fcdf0e1bcb29425bb68759b6745f5f4eb88"
+          "rule_updated_at": "2026-11-10T02:22:21.632729+00:00",
+          "bytes": 59345,
+          "sha256": "964f855c5f9eca604eb0cea657268da160084984a4656cad0e57186d7fe1c138",
+          "semantic_sha256": "dcc8debaf3fc1b07c2f3b8bc9a89e1375d02311388cbb4fccbdc84747dd61269"
         },
         "LanZou": {
           "file": "rules/Stash/LanZou.yaml",
@@ -46140,10 +46140,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Stash/MicrosoftProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:34.491495+00:00",
-          "bytes": 2757,
-          "sha256": "c92035b987d7a2149cf37faaed956619a62aa045808d59a9d2b8a989995d0dd1",
-          "semantic_sha256": "9ad0dc965d6323d194a104e560db8cb449981045c35e0c4a43023c995ec467f7"
+          "rule_updated_at": "2026-11-10T02:22:21.624804+00:00",
+          "bytes": 25920,
+          "sha256": "cfe8a17ea899697da522d37c53453ed2266778503ef0d6c2fe0a3fef0f489576",
+          "semantic_sha256": "e8d0e53837daf1565cbba86201c46006f54afc991984adff069e984491436cfb"
         },
         "Midea": {
           "file": "rules/Stash/Midea.yaml",
@@ -46462,10 +46462,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Stash/NetEaseMusic.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.787530+00:00",
-          "bytes": 37717,
-          "sha256": "243ed64e5a8ee65ab247035272ef2b84d193882be6abbb57b8acd7f08107e58c",
-          "semantic_sha256": "249f87e3a9eb7f3744b03cbdda54cb0c2d06535b6aa5dcf7ae79b8d48b14d78a"
+          "rule_updated_at": "2026-11-10T02:23:46.710892+00:00",
+          "bytes": 55170,
+          "sha256": "5464c54bf00bd53c52801c5c4cdff802dae921ec4eabddae636ab63147c024b5",
+          "semantic_sha256": "b69fb651876cac8d6a47c010f1f215fc1c43550bd06584ef9391d1eaa3ee2cb2"
         },
         "Netflix": {
           "file": "rules/Stash/Netflix.yaml",
@@ -47127,10 +47127,10 @@
         },
         "Privacy": {
           "file": "rules/Stash/Privacy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:23.384660+00:00",
-          "bytes": 1639376,
-          "sha256": "a207eb467bb5fd6a08790725392a5d77ba39990ab623d8d159651bf6a6125694",
-          "semantic_sha256": "b30ee1eee5a4ba2589eeb2925145a1e5de6a3b381fd1af9f3b1b45dffc29e79b"
+          "rule_updated_at": "2026-11-10T02:23:47.594175+00:00",
+          "bytes": 1656828,
+          "sha256": "874166b52893ab5ffba14108760c9e2bee9e0a9ebf2cbb6103577c2965164be7",
+          "semantic_sha256": "5d004dd613e90e481f757a9b856e0ce9a0a4f2653af50f0632b9413d7e54e40b"
         },
         "PrivateTracker": {
           "file": "rules/Stash/PrivateTracker.yaml",
@@ -47939,10 +47939,10 @@
         },
         "Speedtest": {
           "file": "rules/Stash/Speedtest.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.845260+00:00",
-          "bytes": 128299,
-          "sha256": "fe71e814f0faf59b7f5aa6326d2e9aabd5f0f36591b480c960ff9c407197298c",
-          "semantic_sha256": "1915dd914d69fef51000505a4f20ea7755d7f9564754b37a845510496aecd487"
+          "rule_updated_at": "2026-11-10T02:22:21.120961+00:00",
+          "bytes": 181214,
+          "sha256": "d24f1e20d78a6a18853ac47e61d2448996d3daec29e83027b105b81e1011edf5",
+          "semantic_sha256": "f8c2a4011da2b0226911c6271dfdc22493c86cbb1f16c758045fc4b0e8a50196"
         },
         "Spiceworks": {
           "file": "rules/Stash/Spiceworks.yaml",
@@ -48303,10 +48303,10 @@
         },
         "Telegram": {
           "file": "rules/Stash/Telegram.yaml",
-          "rule_updated_at": "2026-11-09T09:23:19.816567+00:00",
-          "bytes": 38034,
-          "sha256": "afa198350baeda71aced7ab2e851b7f9b9692cd0432161a9007be04e6b46033f",
-          "semantic_sha256": "6cc9e2c3e6098d453806488a6becdeab876eebe7904808ea4683746fad995cac"
+          "rule_updated_at": "2026-11-10T02:22:21.121451+00:00",
+          "bytes": 55487,
+          "sha256": "64333d626fe2874fb5b869b5fd4fc75cf862d8d68c5f0375cec98ca309fa36b3",
+          "semantic_sha256": "005ab5938448f60a58da6fff6ed8653807e7b7fffd92f293336a0d9fd10dddbb"
         },
         "TempMail": {
           "file": "rules/Stash/TempMail.yaml",
@@ -50009,9 +50009,9 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/SingBox/AdGuardSDNSFilterDirect.json",
-          "rule_updated_at": "2026-11-09T15:32:53.251918+00:00",
-          "bytes": 6015474,
-          "sha256": "acf8741536da8962b92f24eb4f6f1705ca5b0e7229c923267fd0689fa63e55b0",
+          "rule_updated_at": "2026-11-10T04:31:09.634899+00:00",
+          "bytes": 6022342,
+          "sha256": "7af89c5a0ae39f7705141a17a560b6efef57d6eabd942eb2268ee3e251693716",
           "semantic_sha256": null
         },
         "Adidas": {
@@ -50037,16 +50037,16 @@
         },
         "Advertising": {
           "file": "rules/SingBox/Advertising.json",
-          "rule_updated_at": "2026-11-09T09:24:01.142428+00:00",
-          "bytes": 9034815,
-          "sha256": "ae801daf098b035aeb33313598263e5c60e41a7762bfcbfd97ecfd44be651fcd",
+          "rule_updated_at": "2026-11-10T02:54:20.323167+00:00",
+          "bytes": 8972412,
+          "sha256": "a1939fc379b5a4819d0d43be1e6c022ce344675dc592d84ed39cbf9d187b7880",
           "semantic_sha256": null
         },
         "AdvertisingLite": {
           "file": "rules/SingBox/AdvertisingLite.json",
-          "rule_updated_at": "2026-11-09T09:23:43.287813+00:00",
-          "bytes": 5930669,
-          "sha256": "21d5fa09f02877b586b911e45fb592d399679a1942ec27f6f6b5481d913084e0",
+          "rule_updated_at": "2026-11-10T02:23:47.321941+00:00",
+          "bytes": 5862354,
+          "sha256": "d369710eed1662e91147f8156a8125949fc0e5c67f3553a53c00abf140b30df7",
           "semantic_sha256": null
         },
         "AdvertisingMiTV": {
@@ -50345,9 +50345,9 @@
         },
         "Apple": {
           "file": "rules/SingBox/Apple.json",
-          "rule_updated_at": "2026-11-09T09:22:58.580142+00:00",
-          "bytes": 99673,
-          "sha256": "02871ddf82867234493cea77244c803ff5090e29bc35571e51dd6782b732b0c2",
+          "rule_updated_at": "2026-11-10T02:22:21.562727+00:00",
+          "bytes": 113500,
+          "sha256": "7a0b688a222adf166802f552c936c7a17cb558eade0d99f2608c7005a6ac6d5f",
           "semantic_sha256": null
         },
         "AppleCDN": {
@@ -50366,9 +50366,9 @@
         },
         "AppleDirect": {
           "file": "rules/SingBox/AppleDirect.json",
-          "rule_updated_at": "2026-11-09T09:23:02.305651+00:00",
-          "bytes": 37427,
-          "sha256": "f4e1fdff422ce761819fa218e62581504cd2a34bbd1e4572d2eb18e18576f953",
+          "rule_updated_at": "2026-11-10T02:23:44.718504+00:00",
+          "bytes": 51254,
+          "sha256": "da1f9149373a692259e6dcb2219a01c58928f3af15563064fa0c59a0dd1da28a",
           "semantic_sha256": null
         },
         "AppleFirmware": {
@@ -50429,9 +50429,9 @@
         },
         "AppleProxy": {
           "file": "rules/SingBox/AppleProxy.json",
-          "rule_updated_at": "2026-11-09T09:23:00.800038+00:00",
-          "bytes": 38537,
-          "sha256": "e76bf320565905e7f3b14f7acf8953c412d6d70a3fc5cca6002ae4d662a68aa6",
+          "rule_updated_at": "2026-11-10T02:23:46.574909+00:00",
+          "bytes": 52364,
+          "sha256": "ed27d97e69fa969290f12f33d09f6d7e732b3e59f95abe7b9a31fe2684776c36",
           "semantic_sha256": null
         },
         "AppleTV": {
@@ -51136,9 +51136,9 @@
         },
         "ChinaIPs": {
           "file": "rules/SingBox/ChinaIPs.json",
-          "rule_updated_at": "2026-11-09T16:10:12.069429+00:00",
+          "rule_updated_at": "2026-11-09T22:58:12.180402+00:00",
           "bytes": 500382,
-          "sha256": "eff80909678f0c7748ab262b195a9c02427b9bad333424ae83221870a970adb8",
+          "sha256": "b590cfd2e2620ae0d3bcb9b668519566a600529c6f1f0639d1783c32824ee8e0",
           "semantic_sha256": null
         },
         "ChinaIPTV": {
@@ -51745,9 +51745,9 @@
         },
         "Developer": {
           "file": "rules/SingBox/Developer.json",
-          "rule_updated_at": "2026-11-09T02:53:02.838288+00:00",
-          "bytes": 20712,
-          "sha256": "b8c36bd021310dac63e940669873589ec3099c9361f8d8a412af1c31273be475",
+          "rule_updated_at": "2026-11-10T04:54:06.322658+00:00",
+          "bytes": 20820,
+          "sha256": "a37761d6bc686b4e28909408a089e345702a4864d2dbf601e17651c5e86d7653",
           "semantic_sha256": null
         },
         "DeviantArt": {
@@ -51829,9 +51829,9 @@
         },
         "Direct": {
           "file": "rules/SingBox/Direct.json",
-          "rule_updated_at": "2026-11-09T09:23:00.606671+00:00",
-          "bytes": 19749,
-          "sha256": "ae2f93a8706910dc5582e51a83b666ed2710540790f3e5c430bd32d4e737d113",
+          "rule_updated_at": "2026-11-10T02:22:21.021538+00:00",
+          "bytes": 34263,
+          "sha256": "f4ecdbe09638a4dce5e6091ec641ac192e1650b3088d041bcb312e6a4660a22a",
           "semantic_sha256": null
         },
         "Discord": {
@@ -52753,9 +52753,9 @@
         },
         "GlobalAI": {
           "file": "rules/SingBox/GlobalAI.json",
-          "rule_updated_at": "2026-11-09T09:22:58.476661+00:00",
-          "bytes": 39636,
-          "sha256": "8f6725c6929ee2b53845e68b15f4e1e9bd29423eed142f59d4321c85d82f499c",
+          "rule_updated_at": "2026-11-10T02:23:44.702134+00:00",
+          "bytes": 78016,
+          "sha256": "04671654996bd4a85f9f2ad404f8a9f3bd46ecca9f8669a350cdfd3e8e3ce82b",
           "semantic_sha256": null
         },
         "GlobalCDN": {
@@ -52788,9 +52788,9 @@
         },
         "GlobalMedia": {
           "file": "rules/SingBox/GlobalMedia.json",
-          "rule_updated_at": "2026-11-09T09:23:49.069367+00:00",
-          "bytes": 75957,
-          "sha256": "479890b8596cf94628a300fcea0589d029d88cc171afbcc520c9812ab117a153",
+          "rule_updated_at": "2026-11-10T02:23:46.750837+00:00",
+          "bytes": 90178,
+          "sha256": "caf6cc8db4f58331b45c514bba29536ab41ac61ff4d7ff4b69eb6d7f9a897689",
           "semantic_sha256": null
         },
         "GlobalNetDisk": {
@@ -53348,9 +53348,9 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/SingBox/iCloudPrivateRelay.json",
-          "rule_updated_at": "2026-11-09T09:22:58.476128+00:00",
-          "bytes": 384,
-          "sha256": "74ba447baf0d4daee463a7ba2dd453ad306892f37076e0b8d75e17164654c1ba",
+          "rule_updated_at": "2026-11-10T02:23:44.689454+00:00",
+          "bytes": 43711,
+          "sha256": "1ef5f1b06b80eb8f95311cdd7db68f50b07ae64bcc2ee88f2933ef03f8094638",
           "semantic_sha256": null
         },
         "Identrust": {
@@ -53950,9 +53950,9 @@
         },
         "Lan": {
           "file": "rules/SingBox/Lan.json",
-          "rule_updated_at": "2026-11-09T09:23:23.914877+00:00",
-          "bytes": 34196,
-          "sha256": "a34bd348957a749ce4e5ad1c5b4a0071ae4d2ceb11821680adc5397a5fe04c7a",
+          "rule_updated_at": "2026-11-10T02:22:21.544759+00:00",
+          "bytes": 48417,
+          "sha256": "08d32ce737b82678792ce1a6e7daef07b03b38d1584944721c911bd8b61c2e1d",
           "semantic_sha256": null
         },
         "LanZou": {
@@ -54433,9 +54433,9 @@
         },
         "MicrosoftProxy": {
           "file": "rules/SingBox/MicrosoftProxy.json",
-          "rule_updated_at": "2026-11-09T09:23:29.256658+00:00",
-          "bytes": 2105,
-          "sha256": "f6e56efc649376d1db4b39e46dfc0b54a495731b360cf6f80889e39831b86e30",
+          "rule_updated_at": "2026-11-10T02:22:21.549119+00:00",
+          "bytes": 21029,
+          "sha256": "ca40ee843ef6ba247c6b48572fa377d302b37085ed2a9c44407cbfeca689752e",
           "semantic_sha256": null
         },
         "Midea": {
@@ -54748,9 +54748,9 @@
         },
         "NetEaseMusic": {
           "file": "rules/SingBox/NetEaseMusic.json",
-          "rule_updated_at": "2026-11-09T09:22:59.498115+00:00",
-          "bytes": 30614,
-          "sha256": "9fd81c9aa2181f6cfa63778a37ae89df4d99992e0a87f827891311836aaf09a4",
+          "rule_updated_at": "2026-11-10T02:23:46.614928+00:00",
+          "bytes": 44835,
+          "sha256": "12e04c4a3c84be5306edcecbc85e08de4ec45448e6ea1e566d7f266536ddd531",
           "semantic_sha256": null
         },
         "Netflix": {
@@ -55413,9 +55413,9 @@
         },
         "Privacy": {
           "file": "rules/SingBox/Privacy.json",
-          "rule_updated_at": "2026-11-09T09:23:19.818614+00:00",
-          "bytes": 1353456,
-          "sha256": "74ad2e191a881d6ec48ab0d13e75d179c618e1cb4925dc172adbf2940c793a54",
+          "rule_updated_at": "2026-11-10T02:23:47.248576+00:00",
+          "bytes": 1367677,
+          "sha256": "7bf4f7f7a779aa653b22a869b50b7b6560d95c0a9e39773bbba428eefec22331",
           "semantic_sha256": null
         },
         "PrivateTracker": {
@@ -56232,9 +56232,9 @@
         },
         "Speedtest": {
           "file": "rules/SingBox/Speedtest.json",
-          "rule_updated_at": "2026-11-09T09:22:59.744191+00:00",
-          "bytes": 127220,
-          "sha256": "cb0176da25864dd0ca53e5b6d44ae71f88f7416e81260b2d7b4ce4a8cb092d63",
+          "rule_updated_at": "2026-11-10T02:22:21.021173+00:00",
+          "bytes": 170547,
+          "sha256": "b7086a44cd5a7dd7d0c46b174830a4a75bf57d2af1d3220bc48124f1667a64d6",
           "semantic_sha256": null
         },
         "Spiceworks": {
@@ -56596,9 +56596,9 @@
         },
         "Telegram": {
           "file": "rules/SingBox/Telegram.json",
-          "rule_updated_at": "2026-11-09T09:23:15.655604+00:00",
-          "bytes": 30914,
-          "sha256": "5fd2e82d5106e0a8494c0b8d88fe2ed990bfc50990029a56b7f8d5e3fdf6e3ae",
+          "rule_updated_at": "2026-11-10T02:22:21.018711+00:00",
+          "bytes": 45135,
+          "sha256": "afcc7fad10fef36e0b978b95b341fb2ef52ed7758e03d5a3f6199342fbfb5277",
           "semantic_sha256": null
         },
         "TempMail": {
@@ -58302,10 +58302,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-09T15:32:53.779991+00:00",
-          "bytes": 4704693,
-          "sha256": "559fdb941c62cc03585ca0030d435107827380c5925bcb8c611a483cda8be7fa",
-          "semantic_sha256": "8edf5253c6a8b28e724311d2a77be549b61ac160bb48708b9eeefe9ffd70b7ec"
+          "rule_updated_at": "2026-11-10T04:31:10.298432+00:00",
+          "bytes": 4709993,
+          "sha256": "0df20f9b655fba7368f5c4b397a2b19daaa0e8235ac275f155fdf7dd8be68ee0",
+          "semantic_sha256": "eca894cc4e7aa8c41505e408f8de9fce9d70f702966c2e8af165c1944674e89f"
         },
         "Adidas": {
           "file": "rules/Egern/Adidas.yaml",
@@ -58330,17 +58330,17 @@
         },
         "Advertising": {
           "file": "rules/Egern/Advertising.yaml",
-          "rule_updated_at": "2026-11-09T09:24:02.020220+00:00",
-          "bytes": 6998035,
-          "sha256": "7a63bd74e340c46f7b6a2b1a6159f189c9fc343234cd8fec8f5cbae026e8dc3c",
-          "semantic_sha256": "a48b548a17e287520c84c2d1380981ad262b29e6fb46e83e72da8d48be87f4f3"
+          "rule_updated_at": "2026-11-10T02:54:21.225052+00:00",
+          "bytes": 6949058,
+          "sha256": "fca0b559ecae7d3207a7bf4ce37b5bb40fc16784c7af8999547c7d421ad26009",
+          "semantic_sha256": "87779f1bb235f8806cbf0abd3f5621aba1608ce9e22fd780c9ae32ed83dd555e"
         },
         "AdvertisingLite": {
           "file": "rules/Egern/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-09T09:23:46.515407+00:00",
-          "bytes": 4599527,
-          "sha256": "e9f1afb314c04227e98c480bfc9bd23b9e63dde05ada57bbd71f93fc9fb02f74",
-          "semantic_sha256": "dcff78bb497b6af938fdee3ba7fe038856d7deecb8fec2c809a7356f77a964ba"
+          "rule_updated_at": "2026-11-10T02:23:47.593959+00:00",
+          "bytes": 4545772,
+          "sha256": "d1730905e27528edea8b923fcc166100a44a68370630238e7b49fa6e26418151",
+          "semantic_sha256": "314f72fc6d4a9566f9a50b1498d95be24139b8f87f02fef08778dd0df906686d"
         },
         "AdvertisingMiTV": {
           "file": "rules/Egern/AdvertisingMiTV.yaml",
@@ -58638,10 +58638,10 @@
         },
         "Apple": {
           "file": "rules/Egern/Apple.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.618172+00:00",
-          "bytes": 77185,
-          "sha256": "a6d8874cb55a763903b8733d38cf39f6f7cb3fe5e15043232ce3447030e65fb0",
-          "semantic_sha256": "343f1224240be88e4379fca83a5a6816bc70563f9beed45f4e6eae2045621a67"
+          "rule_updated_at": "2026-11-10T02:22:21.590638+00:00",
+          "bytes": 87820,
+          "sha256": "b76ff7e7fb241c91ea7bf6f1f19f94242b63a3d0431d81d488609301a348e149",
+          "semantic_sha256": "2ddf9106cc639db9f6197bc72fbf7b5edcf5796a84fd7bef9c436d15c458b314"
         },
         "AppleCDN": {
           "file": "rules/Egern/AppleCDN.yaml",
@@ -58659,10 +58659,10 @@
         },
         "AppleDirect": {
           "file": "rules/Egern/AppleDirect.yaml",
-          "rule_updated_at": "2026-11-09T09:23:02.353131+00:00",
-          "bytes": 28985,
-          "sha256": "255e0487732b8418b75dbc0c736039ff4d9c1852c1a8b35286837769fec5300d",
-          "semantic_sha256": "62f28da503c38309cc2658227dfe1891e958364ad2e7a531f76c65675e4ad1d3"
+          "rule_updated_at": "2026-11-10T02:23:45.800691+00:00",
+          "bytes": 39620,
+          "sha256": "f078094581f289d0459df1da8d3ca09c2f2dd1ed41940915d4f3bc8e513cf4fa",
+          "semantic_sha256": "fb9c87ed6f8749cc49a69dff266630f5cb2d3fb1b118adf46e3b91eff0aeff33"
         },
         "AppleFirmware": {
           "file": "rules/Egern/AppleFirmware.yaml",
@@ -58722,10 +58722,10 @@
         },
         "AppleProxy": {
           "file": "rules/Egern/AppleProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:00.838014+00:00",
-          "bytes": 29779,
-          "sha256": "65592906cee31fb5bdce842ce5b3909b7ce42f9b5be3f56b01c9fd961ce5deb1",
-          "semantic_sha256": "b1aa17be6a66a6dee81c0e0e7372e07a25590873d51d3e1330a14407a7fc35e1"
+          "rule_updated_at": "2026-11-10T02:23:46.610827+00:00",
+          "bytes": 40414,
+          "sha256": "73e1ed325ebaac1182f809bb3a070f8d3b78f0e16da5c057ad4c6fa06dba846e",
+          "semantic_sha256": "892fd987922f8e1f6ad5d126069258062d0597f33e0887b68e0cc161f6775bd0"
         },
         "AppleTV": {
           "file": "rules/Egern/AppleTV.yaml",
@@ -59436,10 +59436,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Egern/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-09T16:10:12.102833+00:00",
+          "rule_updated_at": "2026-11-09T22:58:13.272456+00:00",
           "bytes": 440141,
-          "sha256": "0ace6c35a45cbc58ae0c8fb5023e7ba9fb0dff3c07d1845ef9dcda6624f15b86",
-          "semantic_sha256": "3a2eebe83f97848ef7c2d1a49ed07ed414cb1bf360c54df5c6bd65cf71696efb"
+          "sha256": "5f332b98e4c98c1c7d03afce0921680d371f2aef8ab0e8f3ded9cbb206125e6c",
+          "semantic_sha256": "5fb60ac41e772e8a93749dd28fec9afa06d6b60264ffec42661275c5421206eb"
         },
         "ChinaIPTV": {
           "file": "rules/Egern/ChinaIPTV.yaml",
@@ -60045,10 +60045,10 @@
         },
         "Developer": {
           "file": "rules/Egern/Developer.yaml",
-          "rule_updated_at": "2026-11-09T02:53:03.003244+00:00",
-          "bytes": 15589,
-          "sha256": "94ae8f17ef81be878221ce852709f39cd7d89d4a7ee8a2ba76b3e22cf9ac43a4",
-          "semantic_sha256": "923f7a89a79f3f18521c4eb6bb0792ffb9abfc93cac6fbbaaa7f72f0f278f967"
+          "rule_updated_at": "2026-11-10T04:54:06.352476+00:00",
+          "bytes": 15676,
+          "sha256": "e54625f4267d25abb6764f660263bede2337133ffcbb7e45b74407dcd2508fc5",
+          "semantic_sha256": "d7567ed580e4b31836b32fe9e12558d7629b3c18893a5eca13730887ec64cb54"
         },
         "DeviantArt": {
           "file": "rules/Egern/DeviantArt.yaml",
@@ -60129,10 +60129,10 @@
         },
         "Direct": {
           "file": "rules/Egern/Direct.yaml",
-          "rule_updated_at": "2026-11-09T09:23:00.746330+00:00",
-          "bytes": 14821,
-          "sha256": "1dc2bec7be9d3f1cf52e817132dbe2e06019b0abcd0c2bacf0f13874d4b99834",
-          "semantic_sha256": "616866b6598a92e9ef9770533cbe34b17dae64700b5601c400e31148b384c46b"
+          "rule_updated_at": "2026-11-10T02:22:21.053041+00:00",
+          "bytes": 26024,
+          "sha256": "bb496c31959a941f2a53ebf31ba7eb7edd289dda24d265995e3576ebfdd6eebb",
+          "semantic_sha256": "ad673491ae6f872afc48fb338687f84bc74afa323265b590e207403623e15aff"
         },
         "Discord": {
           "file": "rules/Egern/Discord.yaml",
@@ -61053,10 +61053,10 @@
         },
         "GlobalAI": {
           "file": "rules/Egern/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.594152+00:00",
-          "bytes": 29371,
-          "sha256": "bf8938ffd5bb2b8ead0e25dc4009b4f01382949cad3e11a84281703e0adfda9f",
-          "semantic_sha256": "db6db6a9c6acecba734c2d30fb21d3600d6293b13f3a016f45b45d96b08df51a"
+          "rule_updated_at": "2026-11-10T02:23:45.725372+00:00",
+          "bytes": 59031,
+          "sha256": "2c7b65577117befe6738becaedd89a9e37a6bd5c56ad2c82f5e7738ef9c1e342",
+          "semantic_sha256": "b1a43a27580cea8b697305603e94f2c76131c97844aaed7b9bef39c3355fe919"
         },
         "GlobalCDN": {
           "file": "rules/Egern/GlobalCDN.yaml",
@@ -61088,10 +61088,10 @@
         },
         "GlobalMedia": {
           "file": "rules/Egern/GlobalMedia.yaml",
-          "rule_updated_at": "2026-11-09T09:23:51.901261+00:00",
-          "bytes": 58393,
-          "sha256": "9bcecd46aeba308be4a120a667a166df6330bcc7c23cb7306a2c3bfe611b470d",
-          "semantic_sha256": "d562dd471f81c1bac52c031f5d4c1e34fbf00826e848471c7c040b1194315e4e"
+          "rule_updated_at": "2026-11-10T02:23:46.782936+00:00",
+          "bytes": 69352,
+          "sha256": "bc2c77bff6257c04a0f9b519d52e242c2797dd13895ed0aebd134d5ae7e843f3",
+          "semantic_sha256": "b2b20e30b6dde1271dc06b173e5960eed0cfe998f304b85d3e4319ed3b51973f"
         },
         "GlobalNetDisk": {
           "file": "rules/Egern/GlobalNetDisk.yaml",
@@ -61648,10 +61648,10 @@
         },
         "iCloudPrivateRelay": {
           "file": "rules/Egern/iCloudPrivateRelay.yaml",
-          "rule_updated_at": "2026-11-09T09:22:58.595946+00:00",
-          "bytes": 359,
-          "sha256": "a6a0696477d724122a03b0232662492bb8c2a9787ce542480fef4ee0e33ebdeb",
-          "semantic_sha256": "1c9acdca1e33a6f556fa1f75851e395a4708316f803022e6ec2a06dd2797a7cd"
+          "rule_updated_at": "2026-11-10T02:23:45.436343+00:00",
+          "bytes": 33875,
+          "sha256": "9d97917d6436e960e581bf12b35a0b577dac3f2de22a5bed08f1bce772579e68",
+          "semantic_sha256": "1b4953adc53b11fbc7670427f1b86bcaeff81a5775cd41e9f4904d0d58f91aff"
         },
         "Identrust": {
           "file": "rules/Egern/Identrust.yaml",
@@ -62250,10 +62250,10 @@
         },
         "Lan": {
           "file": "rules/Egern/Lan.yaml",
-          "rule_updated_at": "2026-11-09T09:23:27.328984+00:00",
-          "bytes": 26501,
-          "sha256": "a3866195ad0657d7cdb470b466fb423d11920b8f1e65861ba4f21188155ed050",
-          "semantic_sha256": "b7a708223d2a57c432461dfdda4596b74dce345f0b3fb03c4886e26727040a64"
+          "rule_updated_at": "2026-11-10T02:22:21.570675+00:00",
+          "bytes": 37460,
+          "sha256": "d94bbe7df492be3417917a2a34d39ed65b72c91dd6b55d9c5609dbeab39c5ebc",
+          "semantic_sha256": "84b1665636bd28d4c1321ab34e61a59dcc8fc251d00004a04bd64a687f37b259"
         },
         "LanZou": {
           "file": "rules/Egern/LanZou.yaml",
@@ -62733,10 +62733,10 @@
         },
         "MicrosoftProxy": {
           "file": "rules/Egern/MicrosoftProxy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:34.113345+00:00",
-          "bytes": 1559,
-          "sha256": "17dfaa31bb37d90266c10dcfa21035e394266355531c770f08cd1d25dbe10abf",
-          "semantic_sha256": "f089b9176373795f9b080e5c6288373d9962a4b66a587193b346915870925ea7"
+          "rule_updated_at": "2026-11-10T02:22:21.578905+00:00",
+          "bytes": 16174,
+          "sha256": "df81233332a318a2bf3d362de8a0e13b875ae3473941295765f234afb50e6b5e",
+          "semantic_sha256": "8a12fb78e3688af696f4a1eb2271edf73fde9b2ac5d7bc4beade3b5db9429c4d"
         },
         "Midea": {
           "file": "rules/Egern/Midea.yaml",
@@ -63055,10 +63055,10 @@
         },
         "NetEaseMusic": {
           "file": "rules/Egern/NetEaseMusic.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.724681+00:00",
-          "bytes": 23893,
-          "sha256": "04badf31aa77ec5c6bd944007de6620594980429db74d8b9fc339e137efa0531",
-          "semantic_sha256": "99ad02c3404903ad410915b6cdbd5a9205b6076a18d383ea36d214e932759caa"
+          "rule_updated_at": "2026-11-10T02:23:46.645799+00:00",
+          "bytes": 34852,
+          "sha256": "8324c83f83ff8ed2f7e8c1108eb508f3433f3a1ae9e44e668ea340241d0292b2",
+          "semantic_sha256": "9224ddffe388fcafef4e21388b7c2b7ffcf8cc8ceab3b1a9db21ca69ef6e3961"
         },
         "Netflix": {
           "file": "rules/Egern/Netflix.yaml",
@@ -63720,10 +63720,10 @@
         },
         "Privacy": {
           "file": "rules/Egern/Privacy.yaml",
-          "rule_updated_at": "2026-11-09T09:23:19.882725+00:00",
-          "bytes": 1067940,
-          "sha256": "5ce7e9886fcd83b48ca6a110fd89da6973289dc6fdabe30065424013c0c2c828",
-          "semantic_sha256": "7d010ab7b66163ff6f52ce1a24bbf2addc81ffff75635d6395e3a4304ef5ba48"
+          "rule_updated_at": "2026-11-10T02:23:47.284132+00:00",
+          "bytes": 1078899,
+          "sha256": "f1fe54827029b2b04c9820121bd8cf50fb88f9657fb1a5cbb6b0d11d40c56b94",
+          "semantic_sha256": "e3c384cdf45de416e30015377b8bfaa963f314ca5d0ece6055f36ef1f64f3137"
         },
         "PrivateTracker": {
           "file": "rules/Egern/PrivateTracker.yaml",
@@ -64532,10 +64532,10 @@
         },
         "Speedtest": {
           "file": "rules/Egern/Speedtest.yaml",
-          "rule_updated_at": "2026-11-09T09:22:59.776096+00:00",
-          "bytes": 102873,
-          "sha256": "804fedd74d3e6907b0c804f2024bb4bc7752a5e40916a85d283fe8c7eb11e9af",
-          "semantic_sha256": "26002e6ae8e136f0fe924aded40bd5941688e3aa237cb00d6281c75fc6aaaaf8"
+          "rule_updated_at": "2026-11-10T02:22:21.057100+00:00",
+          "bytes": 136389,
+          "sha256": "d78a21f31181a53c1ecfe170dcca449fd00ea19e0c1222098ad613b7a94a9d9e",
+          "semantic_sha256": "1815794da3dccd13c4b9d91a4919263e6844a8180a8255a4243f2c2d81302ac5"
         },
         "Spiceworks": {
           "file": "rules/Egern/Spiceworks.yaml",
@@ -64896,10 +64896,10 @@
         },
         "Telegram": {
           "file": "rules/Egern/Telegram.yaml",
-          "rule_updated_at": "2026-11-09T09:23:19.674649+00:00",
-          "bytes": 23847,
-          "sha256": "2a7dc8ba8ff89a3afaa7d80fe9236933040c377bea0c26bf7ce1f0af8f892c8a",
-          "semantic_sha256": "bc7e7d2ad3fa361f516ac7d3c18c1cd218b8848e8071eafafe7bf85cca0faaae"
+          "rule_updated_at": "2026-11-10T02:22:21.052644+00:00",
+          "bytes": 34806,
+          "sha256": "deb81ac199dedaca1322225bc0c80829f2bb1af65fcfad4b245a61bfe183a8c9",
+          "semantic_sha256": "9cc9b018d0339574ecd826b5327d2f7ab66a34d82c05446f1eea228b8c51b971"
         },
         "TempMail": {
           "file": "rules/Egern/TempMail.yaml",

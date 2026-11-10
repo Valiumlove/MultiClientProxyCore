@@ -2,7 +2,7 @@
   "client": "Stash",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 859741,
+  "total_line_count": 861993,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 187183,
+        "DOMAIN": 187407,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 187261,
-      "rule_updated_at": "2026-11-09T15:32:54.811150+00:00",
+      "total_line_count": 187485,
+      "rule_updated_at": "2026-11-10T04:31:11.689158+00:00",
       "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -472,18 +472,18 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 17505,
+        "DOMAIN": 17494,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 272411,
+        "DOMAIN-SUFFIX": 270506,
         "DOMAIN-WILDCARD": 22,
         "IP-ASN": 15,
-        "IP-CIDR": 1045,
+        "IP-CIDR": 1043,
         "IP-CIDR6": 6,
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 291230,
-      "rule_updated_at": "2026-11-09T09:24:04.060127+00:00",
+      "total_line_count": 289312,
+      "rule_updated_at": "2026-11-10T02:54:23.107151+00:00",
       "file": "rules/Stash/Advertising.yaml"
     },
     {
@@ -499,16 +499,16 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 26923,
+        "DOMAIN": 26925,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162932,
+        "DOMAIN-SUFFIX": 160852,
         "DOMAIN-WILDCARD": 15,
-        "IP-CIDR": 237,
+        "IP-CIDR": 235,
         "IP-CIDR6": 4,
         "URL-REGEX": 5
       },
-      "total_line_count": 190280,
-      "rule_updated_at": "2026-11-09T09:23:49.115917+00:00",
+      "total_line_count": 188200,
+      "rule_updated_at": "2026-11-10T02:23:47.709079+00:00",
       "file": "rules/Stash/AdvertisingLite.yaml"
     },
     {
@@ -1137,17 +1137,17 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 311,
+        "DOMAIN": 314,
         "DOMAIN-KEYWORD": 5,
-        "DOMAIN-SUFFIX": 2904,
+        "DOMAIN-SUFFIX": 3359,
         "DOMAIN-WILDCARD": 15,
-        "IP-CIDR": 19,
+        "IP-CIDR": 17,
         "IP-CIDR6": 3,
         "PROCESS-NAME": 9,
         "USER-AGENT": 5
       },
-      "total_line_count": 3271,
-      "rule_updated_at": "2026-11-09T09:22:58.677832+00:00",
+      "total_line_count": 3727,
+      "rule_updated_at": "2026-11-10T02:22:21.660925+00:00",
       "file": "rules/Stash/Apple.yaml"
     },
     {
@@ -1191,12 +1191,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 35,
-        "DOMAIN-SUFFIX": 1158,
-        "IP-CIDR": 18
+        "DOMAIN": 38,
+        "DOMAIN-SUFFIX": 1613,
+        "IP-CIDR": 16
       },
-      "total_line_count": 1211,
-      "rule_updated_at": "2026-11-09T09:23:02.667839+00:00",
+      "total_line_count": 1667,
+      "rule_updated_at": "2026-11-10T02:23:46.059129+00:00",
       "file": "rules/Stash/AppleDirect.yaml"
     },
     {
@@ -1322,14 +1322,14 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 64,
-        "DOMAIN-SUFFIX": 1161,
-        "IP-CIDR": 9,
+        "DOMAIN": 67,
+        "DOMAIN-SUFFIX": 1616,
+        "IP-CIDR": 7,
         "PROCESS-NAME": 9,
         "USER-AGENT": 5
       },
-      "total_line_count": 1248,
-      "rule_updated_at": "2026-11-09T09:23:01.232675+00:00",
+      "total_line_count": 1704,
+      "rule_updated_at": "2026-11-10T02:23:46.670707+00:00",
       "file": "rules/Stash/AppleProxy.yaml"
     },
     {
@@ -2672,11 +2672,11 @@
         "DOMAIN-SUFFIX": 6379,
         "DOMAIN-WILDCARD": 2,
         "GEOIP": 1,
-        "IP-CIDR": 3891,
+        "IP-CIDR": 3889,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10345,
+      "total_line_count": 10343,
       "rule_updated_at": "2026-11-09T02:43:05.354180+00:00",
       "file": "rules/Stash/China.yaml"
     },
@@ -2737,7 +2737,7 @@
         "IP-CIDR6": 5459
       },
       "total_line_count": 23164,
-      "rule_updated_at": "2026-11-09T16:10:12.189472+00:00",
+      "rule_updated_at": "2026-11-09T22:58:14.959540+00:00",
       "file": "rules/Stash/ChinaIPs.yaml"
     },
     {
@@ -3935,10 +3935,10 @@
       "type_counts": {
         "DOMAIN": 92,
         "DOMAIN-REGEX": 1,
-        "DOMAIN-SUFFIX": 645
+        "DOMAIN-SUFFIX": 647
       },
-      "total_line_count": 738,
-      "rule_updated_at": "2026-11-09T02:53:03.800450+00:00",
+      "total_line_count": 740,
+      "rule_updated_at": "2026-11-10T04:54:06.408950+00:00",
       "file": "rules/Stash/Developer.yaml"
     },
     {
@@ -4097,16 +4097,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 33,
+        "DOMAIN": 36,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 580,
-        "IP-CIDR": 5,
+        "DOMAIN-SUFFIX": 1052,
+        "IP-CIDR": 3,
         "PROCESS-NAME": 36,
         "URL-REGEX": 4,
         "USER-AGENT": 1
       },
-      "total_line_count": 669,
-      "rule_updated_at": "2026-11-09T09:23:00.828332+00:00",
+      "total_line_count": 1142,
+      "rule_updated_at": "2026-11-10T02:22:21.121792+00:00",
       "file": "rules/Stash/Direct.yaml"
     },
     {
@@ -5933,18 +5933,18 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 147,
+        "DOMAIN": 137,
         "DOMAIN-KEYWORD": 11,
         "DOMAIN-REGEX": 1,
-        "DOMAIN-SUFFIX": 2048,
+        "DOMAIN-SUFFIX": 2503,
         "IP-ASN": 4,
-        "IP-CIDR": 12,
+        "IP-CIDR": 7,
         "IP-CIDR6": 2,
         "PROCESS-NAME": 14,
         "URL-REGEX": 1
       },
-      "total_line_count": 2240,
-      "rule_updated_at": "2026-11-09T09:22:58.639289+00:00",
+      "total_line_count": 2680,
+      "rule_updated_at": "2026-11-10T02:23:46.066937+00:00",
       "file": "rules/Stash/GlobalAI.yaml"
     },
     {
@@ -6024,18 +6024,18 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 119,
+        "DOMAIN": 122,
         "DOMAIN-KEYWORD": 28,
-        "DOMAIN-SUFFIX": 2015,
+        "DOMAIN-SUFFIX": 2480,
         "DOMAIN-WILDCARD": 7,
-        "IP-CIDR": 273,
+        "IP-CIDR": 271,
         "IP-CIDR6": 200,
         "PROCESS-NAME": 3,
         "URL-REGEX": 1,
         "USER-AGENT": 19
       },
-      "total_line_count": 2665,
-      "rule_updated_at": "2026-11-09T09:23:52.081217+00:00",
+      "total_line_count": 3131,
+      "rule_updated_at": "2026-11-10T02:23:46.858967+00:00",
       "file": "rules/Stash/GlobalMedia.yaml"
     },
     {
@@ -7154,12 +7154,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 37,
-        "DOMAIN-SUFFIX": 901,
-        "IP-CIDR": 7
+        "DOMAIN": 40,
+        "DOMAIN-SUFFIX": 1366,
+        "IP-CIDR": 5
       },
-      "total_line_count": 945,
-      "rule_updated_at": "2026-11-09T09:22:58.651249+00:00",
+      "total_line_count": 1411,
+      "rule_updated_at": "2026-11-10T02:23:46.054750+00:00",
       "file": "rules/Stash/iCloudPrivateRelay.yaml"
     },
     {
@@ -8333,13 +8333,13 @@
         "IP-CIDR6"
       ],
       "type_counts": {
-        "DOMAIN": 48,
-        "DOMAIN-SUFFIX": 1022,
-        "IP-CIDR": 25,
+        "DOMAIN": 51,
+        "DOMAIN-SUFFIX": 1487,
+        "IP-CIDR": 23,
         "IP-CIDR6": 14
       },
-      "total_line_count": 1109,
-      "rule_updated_at": "2026-11-09T09:23:28.578176+00:00",
+      "total_line_count": 1575,
+      "rule_updated_at": "2026-11-10T02:22:21.632729+00:00",
       "file": "rules/Stash/Lan.yaml"
     },
     {
@@ -9286,13 +9286,13 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 3,
+        "DOMAIN": 6,
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 204,
-        "IP-CIDR": 4
+        "DOMAIN-SUFFIX": 686,
+        "IP-CIDR": 2
       },
-      "total_line_count": 214,
-      "rule_updated_at": "2026-11-09T09:23:34.491495+00:00",
+      "total_line_count": 697,
+      "rule_updated_at": "2026-11-10T02:22:21.624804+00:00",
       "file": "rules/Stash/MicrosoftProxy.yaml"
     },
     {
@@ -9922,13 +9922,13 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 32,
-        "DOMAIN-SUFFIX": 911,
-        "IP-CIDR": 42,
+        "DOMAIN": 35,
+        "DOMAIN-SUFFIX": 1376,
+        "IP-CIDR": 40,
         "USER-AGENT": 3
       },
-      "total_line_count": 988,
-      "rule_updated_at": "2026-11-09T09:22:59.787530+00:00",
+      "total_line_count": 1454,
+      "rule_updated_at": "2026-11-10T02:23:46.710892+00:00",
       "file": "rules/Stash/NetEaseMusic.yaml"
     },
     {
@@ -11258,14 +11258,14 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 43,
+        "DOMAIN": 46,
         "DOMAIN-KEYWORD": 2,
-        "DOMAIN-SUFFIX": 40762,
+        "DOMAIN-SUFFIX": 41227,
         "DOMAIN-WILDCARD": 8,
-        "IP-CIDR": 16
+        "IP-CIDR": 14
       },
-      "total_line_count": 40831,
-      "rule_updated_at": "2026-11-09T09:23:23.384660+00:00",
+      "total_line_count": 41297,
+      "rule_updated_at": "2026-11-10T02:23:47.594175+00:00",
       "file": "rules/Stash/Privacy.yaml"
     },
     {
@@ -12819,15 +12819,15 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 3385,
+        "DOMAIN": 3388,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-REGEX": 1,
-        "DOMAIN-SUFFIX": 1028,
-        "IP-CIDR": 7,
+        "DOMAIN-SUFFIX": 1493,
+        "IP-CIDR": 5,
         "USER-AGENT": 1
       },
-      "total_line_count": 4423,
-      "rule_updated_at": "2026-11-09T09:22:59.845260+00:00",
+      "total_line_count": 4889,
+      "rule_updated_at": "2026-11-10T02:22:21.120961+00:00",
       "file": "rules/Stash/Speedtest.yaml"
     },
     {
@@ -13550,16 +13550,16 @@
         "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN": 31,
+        "DOMAIN": 34,
         "DOMAIN-KEYWORD": 1,
-        "DOMAIN-SUFFIX": 922,
+        "DOMAIN-SUFFIX": 1387,
         "IP-ASN": 5,
-        "IP-CIDR": 32,
+        "IP-CIDR": 30,
         "IP-CIDR6": 7,
         "PROCESS-NAME": 5
       },
-      "total_line_count": 1003,
-      "rule_updated_at": "2026-11-09T09:23:19.816567+00:00",
+      "total_line_count": 1469,
+      "rule_updated_at": "2026-11-10T02:22:21.121451+00:00",
       "file": "rules/Stash/Telegram.yaml"
     },
     {

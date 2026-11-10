@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-09 17:25:15
+# UPDATED: 2026-11-10 11:39:55
 no_resolve: true
 domain_set:
   - a1.mzstatic.com
@@ -193,6 +193,7 @@ domain_set:
   - musicstatus.music.apple.com
   - mvod.itunes.apple.com
   - myapp.itunes.apple.com
+  - naxos.lastampausa.com
   - news-assets.apple.com
   - news-client.apple.com
   - news-edge.apple.com
@@ -258,6 +259,8 @@ domain_set:
   - speedtest-par.flowhardware.ch
   - speedtest.bgsi.io
   - speedtest.dreamnetgigafiber.com
+  - speedtest.vel.as205941.net
+  - speedtest.way2netbroadband.com
   - speedtest1-phnyazjv.as20055.net
   - speedtest2.honeybroadband.com
   - speedysub.music.apple.com
@@ -339,12 +342,12 @@ domain_suffix_set:
   - 12diasderegalosdeitunes.hn
   - 12diasderegalosdeitunes.pe
   - 12joursdecadeauxdeitunes.com
-  - 13tohng.h7fz84h7m2wmign5.cfd
   - 1adda2699c.com
   - 1d79e9c449.com
   - 1monsterbeatsbydreus.com
   - 1o057bolbb.com
   - 1okxxe67d.com
+  - 1qjbhounr7eir1i.rest
   - 1to1computing.com.au
   - 1to1conference.com.au
   - 1ttxjgo7fd.com
@@ -360,15 +363,12 @@ domain_suffix_set:
   - 2beatsdre.com
   - 2bj4iy5kc83bk13x33w8ez.cfd
   - 2buybeatsbydre.com
-  - 2dfdea8c5a.com
   - 2drdrebeats.com
   - 2h6skj2da.de
-  - 341nc5fxyvp9pgpejotftb32y.iekbntpibhr5wf.cfd
+  - 3.km7ru2n2jhtfjurotvho91ulyl4gk1121v.cfd
   - 378ed00341.com
   - 37rk0rihje.com
   - 3gxlk4mizrtt56.cfd
-  - 4.9kcut8werch6hbker1yub.cfd
-  - 4.xipgfr3juc49mcipo7r.cfd
   - 40shopping.com
   - 43b0d022d5.com
   - 49m2mwpb84qfctyk.cfd
@@ -381,22 +381,23 @@ domain_suffix_set:
   - 4p74i5b6.de
   - 4rqgug41g5uhw2uu39uzgwmlm7q.rest
   - 5beatsbydre.com
+  - 5hi8d6076.com
   - 5k52x9oeno4wuchg36l9c.rest
   - 5lml.com
+  - 5xv573givjgnpty9kc5g.cfd
   - 6060instruments.net
   - 63b51241b6.com
   - 6htu6jje0l.com
   - 6joxw2fjmuvowzx7mffw92u1.cfd
   - 70eb07b991.com
-  - 7f8pmzuyz9qp1q3qo1ku.cfd
   - 83b016defa.com
   - 8ewwu7qug3guihu.rest
   - 8fjklyd4os.com
   - 8s5s.com
-  - 942cyhjqm3zwh5c.cfd
-  - 9nxp54lhhoez.vbnji2n837hiogntp6t.cfd
+  - 9bialak0c.com
+  - 9f38fe9b98.com
+  - 9wkvbvm90.com
   - 9wqivit9xzx37qvejeqfw9u.rest
-  - a.alonte.xyz
   - a0pple.net
   - a1.mzstatic.com
   - a2.mzstatic.com
@@ -406,6 +407,7 @@ domain_suffix_set:
   - aaagradeheadphones.com
   - aaepddlontgge.online
   - aaethdkdjzfod.online
+  - aagprboumamaz.space
   - aainwekolbdzo.site
   - aanaan.com
   - aapl.tw
@@ -414,9 +416,11 @@ domain_suffix_set:
   - abeatsbydrdre.com
   - abiencegingko.cfd
   - abortphecda.com
+  - abpnow.xyz
   - abruptusers.com
   - abslakpdotzst.site
   - accjcqrgpbpqj.space
+  - acidickoussin.cfd
   - acqakhpico.in
   - adblockerprofessional.com
   - adcdownload.apple.com
@@ -424,12 +428,15 @@ domain_suffix_set:
   - administerembodiment.com
   - adorableorchid.com
   - ads-blocker.pro
+  - ads-yallo-production.imgix.net
   - advertising.apple.com
   - aeasyshop.com
   - aemokyeqojvig.online
   - afenildrapingdissect.cfd
   - affsatsamotp.in
   - afubffmmbpepd.space
+  - agdbaltzyo.com
+  - aggjnnuanfrzt.space
   - agkmngwhtwtni.site
   - agnxvbmnjekvk.space
   - ahobnjamvkafb.website
@@ -442,6 +449,7 @@ domain_suffix_set:
   - airport.com
   - airport.eu
   - airsupportapp.com
+  - airtbpwzylosx.online
   - airtunes.com
   - airtunes.info
   - airtunes.net
@@ -454,6 +462,8 @@ domain_suffix_set:
   - albeats.com
   - alchemysynth.com
   - aliveharbor.info
+  - aliveharbor.me
+  - alludesexptl.cyou
   - alppbalwrsyyw.online
   - alvmcwmdyspqc.site
   - alypinehubbly.cyou
@@ -462,17 +472,19 @@ domain_suffix_set:
   - amorphouscomprise.com
   - amp-api-updates.apps.apple.com
   - amp-api.media.apple.com
-  - amplify.madison365.com
   - amtkezsrxxmci.space
   - amxxream.in
+  - analytics.redflix.ac
   - anarchytyroma.click
   - angasarum.cyou
+  - angatholed.click
   - annstores.net
   - anrlfkpaweafl.online
   - antrumciphers.click
   - anxegytdedafg.site
   - aod.itunes.apple.com
   - aokwholesale.net
+  - ap.delfi.ee
   - ap0le.com
   - aphpgvbfcaiza.space
   - api-adservices.apple.com
@@ -844,6 +856,8 @@ domain_suffix_set:
   - appye.com
   - apyle.com
   - apzones.com
+  - aqcynlidqcqtj.site
+  - aqpkokeeyyncfl.com
   - aquaticsulpho.com
   - aqwjngvkgqrzv.website
   - archeryhardies.qpon
@@ -851,6 +865,8 @@ domain_suffix_set:
   - assmanphose.cyou
   - asto.re
   - atrgprhdzfhfb.online
+  - atrvcdsjuqcwi.online
+  - atwhiqmah.in
   - aucheapbeats.com
   - audio-ssl.itunes.apple.com
   - audio.itunes.apple.com
@@ -862,14 +878,23 @@ domain_suffix_set:
   - auricularesbeatsmarkt.com
   - auroazlgqmaop.online
   - ausbeatsbydrdre.com
+  - autorepairworcester.com
   - auvcrhzgsjdem.online
+  - avenidageranic.cyou
+  - avestastupendfreit.cyou
   - avouchlawsrethink.com
+  - avvpsstgoheny.online
+  - awakengoaveserasion.cyou
   - awnvmxtaxtkcj.site
+  - awtnzaqkevi.in
+  - awvfulbgygjup.site
   - axbhjugezguyh.space
   - axm-usercontent-apple.com
   - ayyg.org
+  - azjqiqacpgz.in
+  - azuriteorthiteguaymie.cyou
   - azwktmcxzclyk.website
-  - b.fz6g5l9v8kmnrq.cfd
+  - b531rpu6iky3lmk2q.cfd
   - baalizekoussogrommet.cfd
   - babicheswivet.com
   - baekbgmrnxbxb.site
@@ -877,14 +902,17 @@ domain_suffix_set:
   - bag-glasses1.com
   - bailervirtue.click
   - bandgirlz.com
+  - bannery.navratdoreality.cz
   - barbatehabeas.rest
   - barycentre98.com
   - bavoozimaxiev.website
   - baxsound.com
   - bayamosrepacetrichi.cfd
   - bbestmall.com
+  - bbsnnovztvuoa.site
   - bchvbpxvhiyu.com
   - bdfrzlzxuibgx.online
+  - bdjxpttkckjnx.online
   - beatbd.com
   - beatbydre2013.com
   - beatbydreheadphonesonsale.com
@@ -1156,31 +1184,44 @@ domain_suffix_set:
   - beetfeedway.cfd
   - befophumesklater.cyou
   - begin-trade.com
+  - beglideanvil.rest
   - behlgptkuyarn.space
   - bellsgirdles.com
+  - bestangle.me
+  - bestangle.pro
   - bestbeats4u.com
   - bestiphonestuff.com
   - bestshoesale2014.net
+  - betrapcb.cfd
   - betrayedjoltmethod.com
+  - betterbonnet.pro
+  - bfvlnwalyvmys.website
   - bgohkhtfziepp.space
   - bgqantksojipe.online
+  - bgutflddvlvjm.online
   - bgxbervoatuvq.site
   - biadglomdzyys.online
   - biitii.com
   - billieshariana.com
+  - bimaskeymen.rest
   - binioumusales.rest
   - biometuples.com
   - bionalmsful.cfd
   - bionomysolera.com
+  - bitonalentity.rest
   - bkflfwqegazki.site
   - bkontegudnm.in
+  - bkuntihdhjwpd.site
   - blackfridaydrebeatsnew.com
   - blackfridaydrebeatsshop.com
   - blacklivesmatter1.org
+  - bleedsretrial.rest
   - blobstore.apple.com
   - bloommicroventures.com
   - blungerfulgourdarien.cfd
+  - bmuijasxhezxe.online
   - bnyudysiqapdc.space
+  - boarishunlikedparate.cyou
   - bolerocolyumhalm.cfd
   - bonducdetroit.com
   - bookonsky.net
@@ -1189,7 +1230,10 @@ domain_suffix_set:
   - bosmjrzfssqus.site
   - bosniakleverer.cyou
   - bossae.com
+  - bot.cdn.adeo.cloud
+  - boxfulironist.click
   - bqwtvcpkrrnlq.site
+  - bqyrrwhnugwrp.website
   - braeburncapital.com
   - branchorchid.mobi
   - brandeasygo.com
@@ -1197,12 +1241,17 @@ domain_suffix_set:
   - brandproducts1688.com
   - brands098.com
   - breathsfoamed.com
+  - breirdunclimb.cyou
   - brevityfurs.rest
+  - bribeesioni.click
+  - bridesoveractboart.cfd
   - brinieryankspsalmic.cfd
   - britmislen.click
   - brookedmacaca.com
   - broughyuca.cyou
   - browsepantartful.com
+  - brphcvsebhffc.site
+  - brpjhyovttcxc.site
   - bspyoibtwrrc.com
   - burstly.net
   - burstlyrewards.com
@@ -1222,9 +1271,11 @@ domain_suffix_set:
   - buyonlineheadphones.com
   - buyshoponly.com
   - buzzardflapper.com
+  - bwujpusmudu.in
   - bybeatsdre.com
   - bydrebeats.com
   - bylawskilnman.click
+  - bzaykoxkpefyf.site
   - bzpogcssaxbmc.space
   - bzukumwjttldq.site
   - c11cpx8ole2qx2688boj21cy.rest
@@ -1232,15 +1283,19 @@ domain_suffix_set:
   - calendarserver.org
   - callantlotriteamused.cyou
   - calmcactus.pro
+  - camailwhickerruddles.cyou
+  - camaligraia.cyou
   - camelphat.com
   - camelspaceeffect.com
   - canada-beatsbydre.com
+  - caomddembovjm.site
   - carapussq.cyou
   - carbon.com
   - cardwriggle.cyou
   - carekit.org
   - carvonecerebra.cfd
   - casalfinical.cfd
+  - cashmereabove.com
   - casque-fr.com
   - casquebeatsbydrdresolohd.com
   - casquebeatsdocteurdre.com
@@ -1260,6 +1315,7 @@ domain_suffix_set:
   - cavzgoqiozmyc.space
   - cbrsgkdqhftjt.website
   - ccucnuuahikzz.online
+  - cdkiiioannygv.site
   - cdlsmpnouoacr.site
   - cdn-apple.com
   - cdn-apple.com.akadns.net
@@ -1268,6 +1324,7 @@ domain_suffix_set:
   - cdn-cn3.apple-mapkit.com
   - cdn-cn4.apple-mapkit.com
   - cdn.apple-mapkit.com
+  - cdn.ltba.io
   - cdn1.apple-mapkit.com
   - cdn2.apple-mapkit.com
   - cdn3.apple-mapkit.com
@@ -1276,7 +1333,7 @@ domain_suffix_set:
   - cds.apple.com
   - cds.apple.com.akadns.net
   - cdsassets.apple.com
-  - ceb.f53kzx5xr214nbhz4uoh.cfd
+  - cembalicourts.click
   - cemhlobja.com
   - cerrivvskghhs.space
   - certainmoss.com
@@ -1341,14 +1398,20 @@ domain_suffix_set:
   - chieflydecorationtreasure.com
   - chihair-straightener.com
   - chinaclothesstore.com
+  - chivageheelorder.cyou
+  - chocolateluciusfight.com
   - chomp.com
+  - choragypurged.cfd
   - chstqexkitsce.com
   - chulpagliffy.cyou
   - ciattackers.com
   - cilwbiudkzyuy.website
+  - ciqhpbyoybhclr.rest
+  - ckglrdomnwddc.online
   - ckgumkswxgaoa.site
   - ckucufscmjrkq.site
   - ckumwsftdvlqh.website
+  - ckvcjuhofztdv.online
   - cl1-cdn.origin-apple.com.akadns.net
   - cl1.apple.com
   - cl2-cn.apple.com
@@ -1376,6 +1439,9 @@ domain_suffix_set:
   - cnshopin.com
   - coaqhbgliewbm.space
   - coayahtscmjre.space
+  - coitionultime.click
+  - coldongjiffies.click
+  - collection.cyberprocurement.com
   - collector.snowplow.supercell.com
   - commandslikeable.com
   - compassionatespreadinquire.com
@@ -1396,6 +1462,7 @@ domain_suffix_set:
   - courthousezoological.com
   - cozaflrqyfapq.space
   - cozydrdrebeats.com
+  - cpkkovvuacrwx.site
   - cprcjouculrkr.website
   - cpwsfmxxdgwwt.space
   - cqcorea.com
@@ -1404,6 +1471,7 @@ domain_suffix_set:
   - creenborsht.cfd
   - cresamylategoony.cyou
   - cricketleaf.com
+  - cricketridge.me
   - crl.apple.com
   - crocbrash.cfd
   - croshi.cyou
@@ -1412,9 +1480,13 @@ domain_suffix_set:
   - cssigfilepace.cyou
   - cstat.apple.com
   - cstat.cdn-apple.com
+  - ctvsxekypkaue.online
+  - ctzzirfslkvcv.website
   - cudgelgateau.click
   - cuffiesaldi.com
+  - cufmmuhibj.in
   - culprithellman.cyou
+  - cultivatelimbharvest.com
   - cunluxgqqhmsx.space
   - cups.org
   - curuleshanks.cyou
@@ -1428,6 +1500,7 @@ domain_suffix_set:
   - customizedbeatbydre.com
   - customizedbeatsbydre.com
   - customizedbeatsdre.com
+  - cvpovse.com
   - cvpvhwygtmdve.website
   - cwipnplaztyiv.space
   - cxmuoewwxzczi.site
@@ -1436,6 +1509,10 @@ domain_suffix_set:
   - czxlxynsoqscz.site
   - d1e65c72ee.com
   - d2jp0uspx797vc.cloudfront.net
+  - d30tme16wdjle5.cloudfront.net
+  - d3cesrg5igdcgt.cloudfront.net
+  - daccuegfendgo.site
+  - damoselluggersketogen.cfd
   - dandieamobyr.cfd
   - danemarket.com
   - danmarkbeatsbydrdre.com
@@ -1443,11 +1520,14 @@ domain_suffix_set:
   - darwinsource.org
   - darwinsourcecode.com
   - dashwood360.com
+  - dawnsunset.me
+  - dawnsunset.org
   - dbnivsmljtdbk.space
   - dbtstlfijmlqx.space
   - dctbeatsbydre.com
   - dd-cdn.origin-apple.com.akadns.net
   - ddft5oqi7q.com
+  - ddohiwvrhnife.site
   - dealsbeatsblackfriday.com
   - deerbreeze.com
   - dejavu.apple.com
@@ -1476,20 +1556,27 @@ domain_suffix_set:
   - digitalhub.com
   - diltsnjkxnxev.website
   - dimitydirks.cyou
+  - diolsetchesdracma.cyou
   - dirdumaigre.com
   - discountbeatsbydre-us.com
   - discountbeatsstore.com
   - discussionsapple.com
   - disnewmuilla.cfd
+  - diznhebu.com
   - dkbeatsbydre.com
   - dkkm83qokh.com
   - dl-iphone.com
   - dlguehzfijdys.website
+  - dlmbmjmplwepo.website
   - dltcauxfnkcgg.website
+  - dn-analytics.alketech.eu
   - dodderyatabals.cyou
   - doh.dns.apple.com
   - domesticrejoinedremark.com
+  - domugthhpdtft.space
   - domzpbsymwbtf.online
+  - doolfuscoloc.cfd
+  - dooncorvee.cyou
   - doorspondy.cyou
   - dot-mac.de
   - dotmac.de
@@ -1551,12 +1638,14 @@ domain_suffix_set:
   - dremonsterbeatsoutlets.com
   - dreprobeats.com
   - dreprofy.com
+  - drhfybnsntsop.online
   - drollydoddie.cyou
   - dscqxvxlwbxpc.space
   - dskgna.com
   - dsyaae.com
   - dtsell.com
   - dtswpgusucgfd.website
+  - du9kcdusj.com
   - dubioclawers.cfd
   - dudsyeaning.rest
   - dukhntrona.rest
@@ -1570,16 +1659,18 @@ domain_suffix_set:
   - dvdstudiopro.net
   - dvdstudiopro.org
   - dvdstudiopro.us
+  - dvkqcpacwqlzy.space
   - dvwztnx4ab3fl.cloudfront.net
   - dw9uc6c6b8nwx.cloudfront.net
   - dwaiblyatternpitfold.cfd
   - dwxbwpqfevnvu.site
   - dxaqcakgokcbe.online
+  - dxuyhdxnr.com
   - dxynbmrkwrvbj.space
   - dyblpgaiomtdv.online
   - dyxpzildxdxkr.site
+  - dztdghhukgryc.site
   - e649fcmt4w54v8758cj8.rest
-  - e8.xv5w8wipiry424qu8ppt58hcj3nv6f64pw7z.cfd
   - earphonescheapest.com
   - earpod.net
   - easselyerth.cfd
@@ -1591,18 +1682,29 @@ domain_suffix_set:
   - ecgapp.com.cn
   - ecgapp.net
   - echistampoon.cyou
+  - ecpinzovabzbl.site
   - edmondgroovy.com
   - edu-research.org
+  - eduphldlaqtvr.site
   - edyr2ip7zg.com
+  - eegaizkumkpjk.space
+  - efgkjtkupbqqs.site
   - egmoytcwvwfnc.website
+  - eh1vuqrlpyku62uic.rest
   - eightcontented.com
   - eimqxukbomvl5x.cfd
+  - eiqipsyfaemep.site
+  - ejuglkvqzpwfh.website
   - ekbndmhjnoxin.space
   - elevationoutshout.net
+  - elodesshaula.cyou
   - emac.co.in
   - emac.in
   - emagic.de
+  - embitterlorrycar.com
+  - embraveanderun.com
   - embusqugaumish.com
+  - emdhhftsshefj.space
   - enbzbycnwklzp.website
   - endgamepinwing.rest
   - enjezxfmmlorw.site
@@ -1611,12 +1713,16 @@ domain_suffix_set:
   - entertainenslave.com
   - entoneeyeholebowls.cyou
   - eosuwgodaquxx.space
+  - ephrvhtwhffar.website
   - eqhqnbjk.com
   - eqmchbiqeezwa.site
+  - equiaxetunings.cfd
   - erjw7px373983fgovelfjpnnnu6.cfd
+  - erotemegaurs.cyou
   - eryobprlmohkg.space
   - esbeatsbydrebuy.com
   - etheadphones.com
+  - ethosesbeyonds.click
   - etocylfywdukk.online
   - etouffehalutz.cyou
   - etrader.kalahari.com
@@ -1630,6 +1736,8 @@ domain_suffix_set:
   - ewnpqbtouobrn.online
   - eworld.com
   - experiments.apple.com
+  - extgpraeses.cyou
+  - exulsundaes.cfd
   - eyfvknqqivkfs.site
   - eyukpdjlfivny.website
   - f1nn1211ykik9f7h7q1gzzpebhz.rest
@@ -1643,14 +1751,18 @@ domain_suffix_set:
   - fanbjeshwssbc.website
   - farkkxbjjjqpq.online
   - fbfvlqsjqclep.website
-  - fbtzjkxme.tx142ccf5vlmpnvkby3ey4b7xk2w93.cfd
   - fclvqcvpcxho.com
   - fcs-keys-pub-prod.cdn-apple.com
+  - fddmimp37.com
+  - feedytoyerbks.cyou
   - fencingnora.click
+  - feuvjelaaoxce.website
   - ffbqwmedfryqu.online
   - ffyraljvdojjt.online
   - fgvowyavmmcau.site
   - fhgqrvoaikmjf.site
+  - fhylxvhtxpnwo.space
+  - figglegrillpruned.cfd
   - fimxtefr.in
   - finalcutpro.com
   - find-apple.com
@@ -1668,9 +1780,12 @@ domain_suffix_set:
   - flumesuccent.cyou
   - fluxdecor.com
   - flxgshqougofo.space
+  - flxlxulkfblwx.space
+  - fmjabekytruuu.online
   - fmkirupzmts.com
   - fmyvtaydfeubb.online
   - fnrvva9u4z.com
+  - fnyiktwkrptlh.space
   - fohztovjigukz.space
   - foliesacantha.cyou
   - foqtqtpkyy.com
@@ -1686,36 +1801,50 @@ domain_suffix_set:
   - frcasquesbeats.com
   - free-aa.com
   - free-sns.com
+  - freshetgoboes.click
   - freshporch.info
   - frishoes.com
   - froecagilyerects.cyou
+  - frostplant.me
   - fryranorlqeib.space
   - frzgerjccnf.com
+  - fsnndjtymruaf.space
   - fuagebel.cyou
   - fugrfkpgpryis.website
   - fundaiphone5s.com
   - furiousvinyl.com
   - fzehebhsdrwrk.online
   - fzguyxpmpragr.site
+  - fzqtvzfbuxrwf.site
+  - gabbroscutum.cyou
   - galahssucceedapraxia.cyou
+  - galliedlamed.click
   - gamebeforethegame.com
   - ganldbtpleyni.space
   - ganoinekubong.cfd
   - gapmeezmpklpd.website
+  - gawbctrhehzls.site
   - gbbqaanguyacx.website
   - gbguqrbokfdlz.space
+  - gdixalmotphku.online
   - gdmf-ados.apple.com
   - gdmf.apple.com
   - geoport.com
+  - gesupdfknxzae.website
   - getdrebeatssale.com
   - geuvkatbkmlsn.space
   - gg.apple.com
+  - ggvjgcqosjsiv.online
   - ghanamolto.cyou
   - ghostscholars.com
+  - ghvwhqkmesfhu.online
+  - ghzjgjrkqxcyc.website
   - giftedbelt.com
   - gifvqnylnssyg.website
   - gilylqiazyyei.site
+  - givynlmumqzjd.online
   - gkhtzvgekzcwk.space
+  - gklsatdqunufn.website
   - gknugvnuttbwy.space
   - glnqkatlvqfzf.space
   - gloatedmorcha.cyou
@@ -1723,6 +1852,7 @@ domain_suffix_set:
   - glttyvioxw.com
   - gmnetworks.net
   - gmqgughmauxzk.site
+  - gmyyuqkubaycjc.com
   - gmzanxopvhheq.com
   - gnopfoaddfxto.website
   - gnvuvnpgmvcsp.website
@@ -1735,7 +1865,6 @@ domain_suffix_set:
   - goodsdunk.net
   - goot2kvjzb9ej3hegytk53qouhmtbjt.cfd
   - grabsmpropea.org
-  - graciousprofit.pro
   - gristyupcurls.rest
   - grokbot.com
   - grooveguides.com
@@ -1762,7 +1891,9 @@ domain_suffix_set:
   - gspe35-ssl.ls.apple.com
   - gspe79-cn-ssl.ls.apple.com
   - gsra.apple.com
+  - guadscfwaweae.site
   - guanaresubvert.cfd
+  - guapenamopeds.cyou
   - guayabomarshes.cfd
   - gubluhlqzeod.com
   - guetardilliskyas.cyou
@@ -1773,17 +1904,27 @@ domain_suffix_set:
   - guzzoni.apple.com
   - guzzoni.smoot.apple.com
   - gvzfoohrojaqw.online
+  - gwj7zqwp2p9ioj7ku3jzrbr.rest
+  - gwl9bov9fn1hvpyrbio9ii.cfd
   - gxvowjuaysvsa.site
   - gypfdjupwdigr.website
   - h1q2toonvbkfuf9lbpufre.rest
   - h2m1op6zw.com
+  - haadqzvaencuq.online
   - habenabray.cfd
   - haqgcjroiitgr.space
   - harkssnurp.com
+  - hashabvervel.rest
+  - hastenfandoms.rest
   - hb287nh0w.com
   - hbedtvugrfdgm.space
+  - hbfajjyizvsww.site
+  - hceofhekgmpu.com
   - hclkrrnvxeztm.space
+  - hclnjzgwzbamn.space
   - hcotvwpasqknw.space
+  - hdcyahccquhpr.online
+  - hdkbxadnbxvua.online
   - headphonepubs.com
   - headphones-cool.com
   - headphones-dre.com
@@ -1798,9 +1939,12 @@ domain_suffix_set:
   - headphonessupply.com
   - headphonezip.com
   - headset987.com
+  - heauty-viesected.com
   - heavengabbykatcina.cyou
   - hebiphone.com
   - hehfphznjarkd.online
+  - hehyznjjcnypx.space
+  - hejdlnmicpblpm.com
   - hellokittybeats.com
   - helpfulmusic.biz
   - heptagon54.com
@@ -1809,23 +1953,33 @@ domain_suffix_set:
   - heyserves.com
   - hf-iphone.com
   - hfhlugtjuyegc.website
+  - hflpchbqhobkg.website
+  - hghezaefbjnxf.site
+  - hgzqyoxssozyp.space
   - hhskqxsqdsocm.site
   - highbolt.net
   - highdefinitionbeatsbydre.com
   - hipaa6020.com
   - hipzoom.net
+  - hiresbeakertubba.cfd
+  - hispaforfearshim.cyou
+  - histonfuryfunned.cyou
   - hiucoxmvcigcj.site
+  - hjrnblywhzrqb.site
   - hjvewzbtkbetn.online
   - hkhhrhulaarep.site
   - hkzqrnejnjizx.online
+  - hloodhvkobjsn.com
   - hlooytbdgfmvl.site
   - hls-amt.itunes.apple.com
   - hls.itunes.apple.com
   - hmbubvqlpkeby.site
+  - hmfzpxxnzkxvb.website
   - hmixfbvzhnh.com
   - hmwxizsphgjul.site
   - hnjohjorqaqea.site
   - hnrjvgqeofzog.site
+  - hntczfbfbsvhe.website
   - hntixkyrwyiav.website
   - hoghidejacusatine.cyou
   - holidamjails.cyou
@@ -1838,17 +1992,24 @@ domain_suffix_set:
   - hotbeatsonsale.com
   - hotmonsterbeats.com
   - hottestheadphonesonline.com
+  - hpslzsfai.com
+  - hrdqfkqfkhxca.website
   - hrkbvfqhhgbju.website
   - hrsaz.com
   - hssgozcmbeyet.site
+  - hteqgdlltdrpz.online
+  - htigdigmhtbtq.site
   - hugawhxusof.in
   - hunneijvjgcqy.site
+  - hurtful-message.com
   - hvryrpkrtiusl.com
   - hvvfmnqzmylfp.website
   - hxugzvxvfwam.com
+  - hxuxv7vx0.com
   - hyklujfryizpf.online
   - i-book.com
   - i-book.net
+  - i27oyw199u2jwzrcnyr9xx26t1c1.cfd
   - i2g56iznvkwpfcn2q3y5q.rest
   - i2jmbz5ec0.com
   - i3594uli4.com
@@ -1913,12 +2074,18 @@ domain_suffix_set:
   - icloudpay.net
   - icloudsecure.net
   - icloudsetup.com
+  - idefjbqlhbmqc.space
   - ids-apple.com
   - idvd.eu
   - ifawj9hvvl.com
+  - ifcvmqaovxgit.site
   - ifvkcwzhysyia.site
   - ig.apple.com
+  - ighygwmxzifwc.website
+  - igkhupjtzyaaa.space
   - igoshopping.net
+  - ihvfxqhkzrsvl.space
+  - ijuvqzngmcnjo.website
   - ikaeibrnztebr.site
   - ikids.com
   - ilecture.co.nz
@@ -1927,6 +2094,7 @@ domain_suffix_set:
   - ilife.gr
   - ilife.wang
   - illianacomputerrecycling.com
+  - ilpfpxfkkkpqz.site
   - imac-apple.com
   - imac-applecomputer.com
   - imac.co
@@ -1950,6 +2118,7 @@ domain_suffix_set:
   - imtvzvzihstno.online
   - incentivetravelgifts.com
   - indiaipad.com
+  - indieskills.com
   - inetoe.xyz
   - inexeyxzouqzh.space
   - infoundzunyite.cyou
@@ -1963,6 +2132,7 @@ domain_suffix_set:
   - init.ess.apple.com
   - insidear.cn
   - insidemacintosh.com
+  - insidercorp.net
   - intusepretry.rest
   - ioffergift.com
   - iomaduexiqtho.space
@@ -2085,6 +2255,7 @@ domain_suffix_set:
   - irisrainstorm.com
   - irmjefamskvpb.site
   - ironelagettakinsen.cfd
+  - irpiapniblfmf.space
   - irsuzniphzkkm.site
   - is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
   - is1-ssl.mzstatic.com
@@ -2143,18 +2314,24 @@ domain_suffix_set:
   - itunesu.com
   - itunesu.net
   - itvjqrhqhvorx.online
+  - iuaxqqpzqkpvz.space
+  - iucnzrhpmfves.site
   - iutunes.com
   - iuwtsworgzl.com
+  - iuxrssmctvyft.space
   - iwork.com
   - iwork.se
   - iwork.wang
+  - ixgiptwewocov.space
+  - ixngopmimflal.website
   - iycwqwgywlyyc.space
-  - j.ckixtul6tb65cv2hje.cfd
   - j6lopifgpwo3nvm.cfd
   - jaiiezpgtdvcm.website
   - jbnizvqmwmnldg.com
+  - jbnxmssvgylqy.website
   - jcfsbpnyqiexp.site
   - jcyjatacjo.in
+  - jdrfaqinvrcpm.space
   - jdvokoarxgooz.online
   - jeiwyjigntamf.website
   - jetfuelapp.com
@@ -2162,7 +2339,9 @@ domain_suffix_set:
   - jetonmangeao.rest
   - jewupyokehispano.cfd
   - jexywyneljzny.space
+  - jffpcvacalnrv.online
   - jgfkscpqbais.com
+  - jgollcdgvgndi.website
   - jgsxwcwrdkiwk.website
   - jhljjsixvbxlo.space
   - jipugfognzdco.site
@@ -2177,13 +2356,17 @@ domain_suffix_set:
   - jqlxcdanyqbtz.online
   - jrnplooafwfjn.space
   - jsoedbrzgxpqb.online
+  - jsumdixbcmepv.site
   - jtkccoslbmmrw.website
   - jubmxyrmpdthm.space
   - junlxlbsqp.com
   - juntol.xyz
   - jusgrmawfbaqu.com
+  - jvelknhcjragq.space
+  - jwutznbnhgmkg.online
   - jx293unqibl1xw72v.rest
   - jxqqtcjtiddxd.website
+  - jxxhxinkpdlvb.website
   - jyhwlxpir7tevqxeuyh3vyfwptv2bjk.cfd
   - jymqhypdvvbra.space
   - jzkiojvomdxeu.site
@@ -2191,6 +2374,7 @@ domain_suffix_set:
   - k3fhy6mcbveuqyfb.cfd
   - k8x3xjunl4ku9jh78z7tb6.cfd
   - kabylepayed.rest
+  - kafirwaived.click
   - kanhqyioycepf.online
   - karatesisaria.rest
   - kartcalques.rest
@@ -2201,41 +2385,59 @@ domain_suffix_set:
   - keenporch.org
   - kenaimerls.com
   - kfoznkqjlbkgo.website
+  - kgyslcenljtfj.website
   - khphzkhftgexp.site
   - kickshatchannel.com
-  - kimrurpf9.zmeo1qph9mc3r6pyhw8.cfd
+  - kirantisalem.com
   - kjmeiivlmmygv.space
+  - kk38h95rfcm7479cnp92u.cfd
+  - kkayyrnaulaie.space
   - kkdhbuydmbgyo.space
   - klkmiwbofjnbr.site
   - kluckerzaque.cfd
+  - knopsdewfall.rest
   - knurryanele.cyou
   - kobbeatssbydredk.com
   - kocletggrqkdh.site
   - kokrabirddom.qpon
+  - kokybvmwajsvy.space
   - konareuben.cyou
   - kopfhorergunstigshop.com
+  - korehinds.com
   - kp7xvkhgiwg9177gkuf4verl4.rest
+  - kpveankjptsra.website
   - kpyktnhvzxzdb.online
+  - krpxzaxqykgwi.website
+  - ksjgsjqcsuprs.website
   - kubhwcmzzzmde.site
+  - kuerlefc.com
+  - kughhpnvqnqhg.space
   - kuomxnlobnzvn.space
+  - kusjw4wqj.com
   - kv4tzec84ouiv6.cfd
   - kwintravetoer.cyou
   - kwxytrygpcmxu.space
   - kxbhakvhkhmgy.website
   - kxgdynrozodcv.online
   - kylzuarxeyeli.online
-  - l1621l6lw8vcfrzo.xtrkyx5k52822om8igf89v47.cfd
+  - kyrjreyxdcmel.online
+  - kzfvmhkubmlyn.online
+  - kzvwrhgo.com
   - l4y1o8l9wvejpnwc.rest
   - labraskulmet.com
   - labroidconfess.cyou
+  - lacergrippy.click
   - lactidefessely.cfd
   - lagunagybe.cfd
+  - lambyreteach.cyou
   - lardersreweds.cfd
   - lardonsshahidirecited.cyou
+  - larinserail.cyou
   - lathielustly.click
   - latticedata.com
   - launchpad.wang
   - lbcljwreslalb.website
+  - lbuqhqrmywhjn.site
   - lbvgvxlldtoyq.space
   - lcodijuiijzqu.site
   - lcsdktmitfqlj.space
@@ -2243,12 +2445,18 @@ domain_suffix_set:
   - ldy5.com
   - leecountytimes.com
   - legerpirate.click
+  - lewdlyperseidangust.cyou
   - lexuemei.com
+  - lgiromzpcheyo.space
+  - lgwrlygpshmwu.website
+  - liefermolify.rest
   - lifnqxqfkpqcq.online
+  - limpingnet.com
   - livephotos.cn
   - livephotos.com.cn
   - livephotos.tv
   - lixwczxdqqxzw.space
+  - ljtolgrfnqhma.website
   - lkmodbikgcvbd.space
   - lkseavjkzupfw.space
   - llaaeuwepty.com
@@ -2261,30 +2469,41 @@ domain_suffix_set:
   - loftergunyahbolo.cyou
   - loinwryneck.com
   - lojaiphone.com.br
+  - lounderewererupsilon.cfd
+  - lovablyablymilted.cfd
   - lovebeatsdr.com
   - lovemarca.com
   - lp70zi3ou3.com
+  - lqmixpyveuzqh.space
   - ls.apple.com
   - lsctcyzhpdcsg.site
   - ltmxbxlhlacvz.space
   - ltwkibhnejbzw.space
+  - lucentanxiouslyfleeting.com
   - luckyissue.com
+  - lummeboric.com
   - lunacyumpireunleave.cfd
   - lupqvydgvcbjm.site
   - lurepmmslkjmg.online
   - lusterslacier.cyou
+  - lvjrgkqydnmts.online
+  - lvnqnjiocnfvvk.com
+  - lw-c-log.lastwarapp.net
   - lwgcyealvpkjz.website
   - lwiurn6bc5chegb2vc2wqoqczv66r.rest
+  - lxnofgfeugqwh.site
   - lxovrggqvtgxs.com
+  - lycheescarling.click
   - lygjvxwmm7hcz8233v2mh3veo4melt.cfd
   - lyzsxx.com
   - lyzxmczrdbxsg.site
   - lzbepgwrqyfpv.online
+  - lzbgekdtxse.com
   - lziawdwi.in
   - lzspjfgzdqsoh.site
   - lzuhuevdmlsjx.space
-  - m.89cz84fg8ibw1r8x5l4qm8q.cfd
   - m2m3j338ky3kf7zl8y9v1p5xx.rest
+  - m8hjt4bhchx7lcf2wy4qtk.cfd
   - mac-mini.com
   - mac.com
   - mac.com.au
@@ -2333,6 +2552,7 @@ domain_suffix_set:
   - macruby.com
   - macruby.net
   - macruby.org
+  - maetqzgexzurh.website
   - mail.me.com.akadns.net
   - mairbeats.com
   - makeeu.com
@@ -2341,12 +2561,14 @@ domain_suffix_set:
   - mangeyerr.rest
   - mantuaquatre.cyou
   - manygramaoscines.cyou
+  - mappycentare.com
   - mask-api.icloud.com
   - mask-h2.icloud.com
   - mask.icloud.com
   - maturequart.com
   - matzotipid.click
   - mbeats-tech.com
+  - mbfo10wjf.com
   - mbheadphone.com
   - mbreviewer.com
   - mbyfhkzasrxbn.space
@@ -2359,23 +2581,34 @@ domain_suffix_set:
   - mesu.apple.com
   - metabitbluffs.cyou
   - mexbggrplusni.space
+  - mfzsepdfidjyy.online
+  - mgipvwwhasvpw.online
+  - mgkcacokjqgft.website
   - mgvjcurwdujhf.site
   - mhaafduliizbe.site
   - mhstirljanfyy.website
+  - miaowsskirl.cyou
   - micstl.com
+  - migsbabishbolting.cyou
   - mireapnvztyru.website
+  - misovxorsrti.in
   - missiqcalqmu.in
   - mjkynfbvbikpl.site
   - mjpauup21.com
+  - mkdhwyqybkwqe.online
   - mkfshtuxymriq.space
+  - mkkxyedstghhd.site
   - mkt.supercell.com
   - ml.cdn-apple.com
+  - mletnkddrqios.space
+  - mmksracaonlsd.site
   - mmonsterheadphones.net
   - mmzmhggnqdzbs.site
   - mndftqopovamj.online
   - mnqpiodhufoso.online
   - mobileme.dk
   - moblgybqwdgul.space
+  - mogpvvslpdrbz.online
   - molttencoryzalanopia.cfd
   - monbeats2013.com
   - monster-beats-by-dr-dre.com
@@ -2444,6 +2677,9 @@ domain_suffix_set:
   - moppedtethery.com
   - moreheadphones.com
   - moyanaarxvtmo.website
+  - mpdcrhuvetsvt.space
+  - mpzovdkkbageu.space
+  - mqfutodipxrko.site
   - mqlmvbngmdmgr.site
   - mqqxxswqtiohq.website
   - mr-apple.com.tw
@@ -2452,11 +2688,14 @@ domain_suffix_set:
   - mrwrelsjsizpp.space
   - ms4dre.com
   - mslbjzmzckcnk.site
+  - muggsparly.rest
   - mujnfamihqce.in
+  - mumblealarmedrisen.cyou
   - mumggwcvchccq.space
   - muntinbeltmanunca.cyou
   - music.apple.com
   - musickit.net
+  - musquawchoky.click
   - mvod.itunes.apple.com
   - mvpeartzzkgkc.website
   - mwrywqefemapj.website
@@ -2474,7 +2713,6 @@ domain_suffix_set:
   - myomayeshiva.cyou
   - mzstatic.com
   - n4qojfu7kcxcglg1m9.cfd
-  - n9kjrulfg9w.uy2h2i6m84cv495t4erlr.cfd
   - nachashentingtidy.cfd
   - nahoororyza.cyou
   - nakooverawn.cyou
@@ -2482,11 +2720,14 @@ domain_suffix_set:
   - nandinedks.cyou
   - narrowlychnic.cyou
   - nastieruprivetrolls.cfd
+  - naturalotter.info
   - naturalotter.me
+  - naxos.lastampausa.com
+  - nbqodmcrxrjks.online
   - nccxaolbtcpwg.space
   - ncfgxxzxdrbvo.website
   - ndmeubgotanac.space
-  - ne.8kjqhjz82xu6fb4b4516829.cfd
+  - nebbukagee.com
   - neborder.com
   - negozimonsterbeats.com
   - negoziomonsterbeats.com
@@ -2499,6 +2740,7 @@ domain_suffix_set:
   - newmonst1erbeatsto1re.com
   - newmonsterbeatsheadphones.com
   - news-assets.apple.com
+  - news-bnubiko.cc
   - news-client.apple.com
   - news-edge.apple.com
   - news-events.apple.com
@@ -2509,19 +2751,25 @@ domain_suffix_set:
   - nfcgfx6vpn75j4.rest
   - nflhotsalejerseys.com
   - nfvhaykwspcus.website
+  - ngqljdqitwjgd.online
   - nguswfavipgqm.website
   - ngygsbpntbnkp.site
   - nicesshop.net
   - nichtsforay.cfd
+  - niismjhqtmqnq.space
   - nikhwlgyrkqld.site
+  - njffqlgsccwff.online
   - njzrirvxprspg.site
   - nkghwccxeymyp.site
+  - nkgmobguttncn.online
   - nkrmvifnnztez.online
+  - nmsuhgiepzpqc.site
   - nnnrnxdlmjpph.online
   - nodctzeikfjzt.online
   - nonlifelunts.cyou
   - nopetrawley.cfd
   - nopewrhyjbp.com
+  - notfijhxkqrsy.site
   - nowmodulo.com
   - npfxfpejvarjn.online
   - nryrdmggbqsql.site
@@ -2530,20 +2778,31 @@ domain_suffix_set:
   - ntwjm27481xfj9ivutww.cfd
   - ntwufvfhovece.website
   - nubfhfikrpdnw.online
+  - nvgoilskjnzzk.website
+  - nvhptfxiaamca.online
   - nwbahytjigjky.site
   - nwlmvujdwqahv.com
+  - nwyaipktoityy.website
   - nxbpcvwdqczff.site
   - nybjwktlrcwca.site
   - nyfthpwfvqvhn.site
+  - nyvlwjvxrmoqb.space
+  - nzavmqooblmpl.site
+  - nzonduetevcmj.online
+  - nztlkspnxelbz.site
   - nzuzubewkirgz.site
   - nzxwekknfnfea.online
   - oacsztduksuby.space
   - oavgofyxwyryj.online
+  - obs.protoroundprince.com
   - obstinacysexist.com
   - obzdiqozp.in
+  - ocadnxsghpseo.space
   - ochringptolemy.com
   - ocsp.apple.com
   - ocsp2.apple.com
+  - ocvzylsrdcetn.website
+  - odhjvpntwowjq.site
   - odhxzvbnoliix.website
   - oeazuwlqpysgq.space
   - offerairjordanlebron.com
@@ -2558,7 +2817,9 @@ domain_suffix_set:
   - ogameblog.com
   - ogbunsxlxgowg.online
   - ogvaktqu.in
+  - ogzavfebqsdmy.online
   - ohocleuchtealery.cfd
+  - oidiaacrodus.click
   - oipahhlctgtlr.website
   - oitlkzxcwdajm.website
   - ojsjretiks.in
@@ -2576,6 +2837,7 @@ domain_suffix_set:
   - onsalekey.com
   - onsaletrend.com
   - onyvelamen.click
+  - opkxndddgcwnj.online
   - opsyburned.com
   - oqdwsxdgbraas.website
   - oqqzbccqxtfvf.online
@@ -2584,10 +2846,13 @@ domain_suffix_set:
   - oryssuskimfourre.cyou
   - oscdn.apple.com
   - oscdn.origin-apple.com.akadns.net
+  - osgxzapi.in
   - osrecovery.apple.com
+  - oswincvpxrs.com
   - osxapps.itunes.g.aaplimg.com
   - oszfblxxhwozi.online
   - ouchdasyus.cyou
+  - outhitharbor.com
   - outletbeatsshop.com
   - outwakebinate.click
   - ovejpmwpnlqxp.space
@@ -2597,12 +2862,16 @@ domain_suffix_set:
   - owalqwcmzucjs.space
   - owdkspzudzwnz.website
   - owncloud.tbllzon.com
+  - owqjomwvssfdx.space
   - oxberrygesnera.rest
+  - oxlabdapfxaw.in
   - oxrnxzsihkeug.site
   - ozarkuprears.click
   - ozonizeardish.cfd
+  - ozwpqjnqohjii.site
   - ozzzqizjpcwqd.site
-  - p9rxtik2.2qiqu4i14i24m4.cfd
+  - p.marktplaats.net
+  - paaeeets.net
   - pacayanevoidwrester.cfd
   - pacdhywzuo.in
   - packingmolters.cfd
@@ -2610,36 +2879,53 @@ domain_suffix_set:
   - palterupcatchsmarty.cfd
   - pancake.apple.com
   - pangsoundpayback.com
+  - pantasuster.rest
+  - parkishmozingediting.cfd
   - parvetrismus.cfd
   - pascherbeatsmonster.com
   - paulsimon-music.com
   - pba0.apple.com
   - pdprocessosage.cyou
   - pdynrtubqauer.site
+  - pe3hu7i6r8q4qe53w.rest
   - peacefulhillwalk.com
+  - peakbeach.pro
+  - pebadipetto.cfd
   - pedxbqnadnebr.space
   - pelwizmmaiquo.site
   - peplessgroutsetym.cyou
+  - peppedpiing.click
   - peqpazmweassq.website
   - perfectkickz.net
   - perpentiatric.cfd
   - personeelsland.com
+  - pfcfngllppeol.site
   - pgebiaujvjkid.online
+  - pgkaouggnuvqj.site
   - pgvdhmjeqgkxy.site
   - phatfiles.com
+  - phlplyzsqazqy.website
   - phobos.apple.com
+  - phrenhugeous.rest
   - picknicekicks.net
   - pickshoesclothes.com
+  - pilarcardiaeunglory.cyou
   - pillbeatsblackfridaysale.com
+  - pimtdaqgvozsx.website
   - pistilairwash.cfd
   - pitpitharbi.cfd
+  - pixel.optimeeze.data.adeo.cloud
   - pixel.profound.click
+  - pjcmoaxftojjz.website
   - pjedqnndrgncb.space
   - pjlgqycnxajzg.space
   - pkp21ni51cqurgjgn3t9q.rest
+  - platform.arabyads.com
   - play-edge.itunes.apple.com
   - play.itunes.apple.com
   - playgrounds-cdn.apple.com
+  - plueyvaobqnpw.site
+  - plumprush.com
   - plxserve.com
   - pmdpqgjqkfbor.online
   - pmnfljkofbztx.website
@@ -2648,15 +2934,22 @@ domain_suffix_set:
   - pochayuncs.com
   - pocketbiketrader.com
   - podcasts.apple.com
+  - podgilyprefill.rest
+  - pointsanyway.com
   - poleyntenia.rest
+  - poshoburse.rest
   - pottylife.com
+  - powdrycrust.click
   - powerbeats2wireless.com
   - powerbeatsbydrdre.com
   - powerbeatsbydre.com
   - powerbook.eu
   - pozvieqpeujtu.site
+  - pp3-sdkdata-v2.profilepassport.jp
   - ppskisjywrykz.online
+  - ppwibckoamfig.website
   - pqyqqqchhcqrv.site
+  - prancesfrappcooed.cyou
   - presselhavedartoic.cfd
   - preview.tbllzon.com
   - probe.siri.apple.com
@@ -2667,16 +2960,20 @@ domain_suffix_set:
   - ps2nsp6nz.com
   - pscpurfwzktny.website
   - pseudoinionnewcal.cfd
+  - psychidwhoops.cfd
   - puamwfdfltwzp.space
   - publicassets.cdn-apple.com
   - puckrietalioz.website
   - pulledbagsful.cfd
   - pullstring.net
+  - pumanqahhb.in
   - puncherr.com
   - pursuitwomen.com
   - push-apple.com.akadns.net
   - push.apple.com
   - puttifumiest.cyou
+  - puukszmn.com
+  - pvhlewexcpcqq.online
   - pvhlnalfjazfk.space
   - pxfjndpfpyiqh.site
   - pxpmnthwmqzcf.site
@@ -2684,20 +2981,30 @@ domain_suffix_set:
   - qbxdoahjiykjz.site
   - qde87pge0.com
   - qdiamjczxvbxx.online
+  - qdkjlaslytowm.space
   - qdubzbifbzclc.space
   - qevdyjaxjruwm.online
   - qgauajujymtaw.site
   - qgelsuqzssxpl.space
+  - qgtldjqiofbxp.website
   - qhnxvxazilvdl.website
   - qhuxuhlas.in
   - qhypfpwzbaayj.website
   - qk2fqqtx7p3r7nl.cfd
+  - qmbevqclblwss.space
   - qneftuovurwsx.website
   - qoqqgkzavy.com
+  - qqaociyyofdlv.site
   - qrymucpbbcdzf.space
   - qsamoyqhggqsb.website
+  - qsixcaxkudcdk.online
+  - qtezsivcvmhhw.site
   - qtf1g834npv1x6.rest
+  - qtidcabun.in
+  - qtiofrxmeuyuk.online
+  - qtuwrmjlwgkuv.space
   - quatrowireless.com
+  - queriesumm.cfd
   - quicktime.cc
   - quicktime.com
   - quicktime.com.au
@@ -2708,17 +3015,29 @@ domain_suffix_set:
   - qvohvnhwxb.com
   - qwapi.com
   - qwyefmelmyubo.website
+  - qzwzbemuupzbl.space
   - radio-activity.itunes.apple.com
   - radio-services.itunes.apple.com
   - radio.itunes.apple.com
+  - ramartworks.com
   - randirtiddy.com
+  - rankaddict.com
   - raspiteteachyargyria.cfd
   - ravenfarm.tech
+  - rawbonebrim.cyou
+  - raxesmutsje.click
+  - rbroktcxdljbb.site
   - rbsgr.com
+  - rdfidtzkhvdtm.website
   - rebootsuedebinomy.cfd
+  - recaseamicron.cyou
   - recipediner.com
+  - redarngillersendow.cfd
   - redrawnpennamegruffer.cyou
+  - reeareuvukmvo.online
+  - reegphjhnoifu.online
   - reform-apple.com
+  - relexpert.com
   - remetalthecladayment.cfd
   - reoiledgratin.cfd
   - reomittold.com
@@ -2733,31 +3052,52 @@ domain_suffix_set:
   - researchkit.org
   - researchkit.tv
   - resnaphurdledrecramp.cfd
+  - resnubhardest.cfd
+  - rfxvxqcgsieib.site
   - rgifxzvpuyjih.space
+  - rgkfuuhvmgquy.online
   - rhilxpozhkzrz.site
   - rhoxtnbtarvry.site
   - rhzdxgtpsgkhg.site
+  - ribandsgantsl.cfd
+  - ribatblarneyguinean.cyou
   - rihxolbphoojn.space
   - rimekinah.cfd
+  - riskaudioblinked.com
   - riymolmuythwx.online
   - rjugiebxhvtwe.space
+  - rkbjibcgixvhx.online
+  - rlacrznrxjnzx.space
+  - rlfsfaelkrwmm.site
+  - rmceynfgelxnz.website
   - roaxhlpvsivqn.online
+  - rockspreading.com
   - rocyapfkcoide.website
+  - rodyddvfxywwx.space
   - roqiedqabjkkd.online
   - rosolilongies.click
   - rostraltonguy.rest
   - roxyfervid.com
+  - rpselrrnaeqyo.site
+  - rrccoofrqxeyv.site
   - rrxvkgvjhhioo.site
+  - rtb-eu-v4.rtbyield.com
+  - rtb-eu.rtbyield.com
   - rtb-useast.rnkclkres.com
+  - rtb-useast.rtbyield.com
   - rubwgmsgzacvf.site
   - rudbpghbbucqg.online
   - rufflefireballcherries.com
   - rum.haystack.es
   - rundeldefi.cyou
   - runerskyfte.cyou
-  - rveuy6j1.776447822241qk4yjjkrj4mrh1z.cfd
+  - runwaylipide.com
+  - rve49vrn16u6o3ym1.rest
+  - rvewffaozx.com
   - rvlbwciuyebwq.online
+  - rvypacltiehnw.online
   - rwlmgiikulfrm.site
+  - rwsuvsuzihnib.space
   - rxazjsqlawiue.online
   - rxflopfxnskez.online
   - rybatquick.com
@@ -2768,20 +3108,25 @@ domain_suffix_set:
   - s.elnb21.com
   - s.mzstatic.com
   - s.zlink8.com
+  - s3kokfksap.com
+  - s4vrsde.www.arturia.com
   - sablymuscot.cyou
   - sacelasartors.cfd
   - safebrowsing.apple
+  - sagsajijqpavd.space
   - salebeatslasteststyle4you.com
   - saleblackfridaydrebeats.com
   - salecheaphandbags.com
   - salmonsjudaize.com
   - samebags.com
   - sanvaras.com
+  - sawttmoujczwb.site
   - saxtxyidygpnh.site
   - sciggfxnkmqai.website
   - scnshop.cc
   - scoldsetamins.com
   - scotermarsoon.cyou
+  - scowlsdensus.cyou
   - scrabemuzo.cfd
   - scxtnzdoeysvl.space
   - sddfvhflrxsvc.space
@@ -2795,12 +3140,16 @@ domain_suffix_set:
   - seedpodflattop.qpon
   - seizureblickie.rest
   - sekanibake.click
+  - selfishlet.com
+  - semperinshave.rest
+  - seniumsiver.click
   - sequoia.apple.com
   - servedby.cherokeemediagroup2.com
   - services-apple.net
   - servicetalk.io
   - sfenuhakgotd.in
   - sfnneengosvuw.space
+  - sgbrftxioksgf.online
   - sgnbctbytzdxi.space
   - sh-pod2-smp-device.apple.com
   - shankedunwindy.cyou
@@ -2819,6 +3168,7 @@ domain_suffix_set:
   - shopping-days.net
   - shoppinguheadphones.com
   - sicijuxixeqiu.site
+  - sighingrastus.com
   - simplyipod.com
   - sindonpavis.cyou
   - siri.com
@@ -2830,6 +3180,10 @@ domain_suffix_set:
   - skl.apple.com
   - skydoveiodizershoved.cfd
   - sljzidwidlgul.online
+  - slodchessel.cyou
+  - slunkenfulgora.click
+  - slwzbjciejyhy.space
+  - smlapllabrpny.website
   - smp-device-content.apple.com
   - snazkmgnaprwj.website
   - sneaker666.com
@@ -2841,9 +3195,12 @@ domain_suffix_set:
   - softasitai.rest
   - softbrass.com
   - softlypacesock.com
+  - solarscolder.cfd
   - solostudioksale.com
   - soso7778.com
   - soubltxbnwhkt.space
+  - sourdeddcloster.cfd
+  - sovrandisorbsurpass.cyou
   - sovzblrwvwlim.space
   - soyiaukojepqy.online
   - spaniardinformationbookworm.com
@@ -2852,14 +3209,20 @@ domain_suffix_set:
   - spenserustful.cfd
   - spiritclubs.com
   - spkeokimt.com
+  - spktmxycjeeke.site
   - spoiljinxplate.com
+  - sprighterogateputted.cfd
   - spzsynbvnudov.site
   - sqjmykhwzoyod.site
   - sqnoiupwiklmt.online
+  - squireschasers.cfd
+  - srcyrbxiegzob.site
   - ssbpnfksjic.com
   - sshtqeuffizhw.site
   - ssjdruvqwzppi.website
+  - sst.leroymerlin.pl
   - static.gc.apple.com
+  - stats.vidbolt.pro
   - stats.yootheme.com
   - stickeltollage.rest
   - stklvezvixdld.space
@@ -2874,10 +3237,12 @@ domain_suffix_set:
   - straightouttasomewhere.com
   - streamingaudio.itunes.apple.com
   - studiobeatsbydrdre.com
+  - subornscurlew.cfd
   - subpdoojkuaze.space
   - suburban-deposit.pro
   - sulwerphoto.com
   - sunglassessale2014.com
+  - sunrosehippi.com
   - superearsenjoy.com
   - supplybestjerseys.com
   - support-china.apple-support.akadns.net
@@ -2897,18 +3262,21 @@ domain_suffix_set:
   - swift.org
   - swiftui.cn
   - swiftui.com.cn
+  - swirwnxtcvqwb.online
   - swscan-cdn.apple.com.akadns.net
   - swscan.apple.com
+  - sxocvzgnnyo.com
   - sydfoutra.cfd
   - sylvan.apple.com
   - szcheapmonsterheadphones.com
   - szwinnertechnology.com
   - szxodjgapleiw.space
-  - t.pxb9nb3bghif9j8.cfd
+  - t.games.gg
   - t27bgb379vj8nvtm.cfd
   - t7bxx94y1teo387r7k9l5puqj3m.rest
   - tabershooplatrout.cfd
   - tachsbmzlnkec.website
+  - tag.web.onesdata.com
   - takegoto.com
   - tallishteucer.cyou
   - tandylists.cfd
@@ -2916,9 +3284,15 @@ domain_suffix_set:
   - tannictipcatholl.cfd
   - tapetallengthy.cfd
   - tarboxcoco.cyou
+  - tarefabiglot.click
   - tartarmatelot.rest
+  - tbtulrpzmlrgw.site
   - tcbuorrdfuzwl.site
+  - tcnj8wk79pij89fyze.rest
+  - tdeopzsolpmsit.com
+  - tdtfrjsnmutup.online
   - tecraccimk.com
+  - teecallclints.rest
   - temporaincreep.cyou
   - terciohunting.cyou
   - tergacandent.cfd
@@ -2926,6 +3300,7 @@ domain_suffix_set:
   - tfcjednruptmp.site
   - tfcnxspcpgorn.site
   - tfhwtqlgesdry.site
+  - tftxmcofqtcjs.space
   - the-monster-beats.com
   - thebeatsbydre.com
   - thebeatsbydre.net
@@ -2934,12 +3309,16 @@ domain_suffix_set:
   - thifuwospdvev.site
   - thinkdifferent.us
   - thlghcrxpokrt.online
+  - thouseinfeoff.cfd
   - thunkin.cfd
   - tiarasshawwal.cfd
+  - tidcaugtgunyg.site
   - timestamp.apple.com
   - tiyt4brz9c1r1u.cfd
   - tj-pod1-smp-device.apple.com
+  - tjhi6gplu.com
   - tk9n49lolbtu1hlp7wgxz.cfd
+  - tkggaybfrwzzi.online
   - tlivqzkhtcxrp.website
   - tllafmrvtuqco.site
   - tmltinnljmoll.online
@@ -2949,40 +3328,60 @@ domain_suffix_set:
   - topbeatsbydrdreoutlet.com
   - topbeatsdealer.com
   - topbeatsforsale.com
+  - torqueknorria.click
   - touchid.tv
   - touchid.wang
+  - toymbocnithfw.online
+  - tpyhitmfoszmw.website
+  - tq-eu.proxywood-box.online
+  - tqfmpligruhps.online
+  - track.adzeb.com
   - tracking-location.com
+  - tracking.optimeeze.data.adeo.cloud
+  - tracklet.prod.tech.as-nmt.de
   - tradevip1.com
   - trambelongedallure.com
   - trasygynura.cfd
+  - trfppaapclyvo.online
   - truedepth3d.com
+  - tryaloeii.com
   - tryrating.com
   - tteshop.com
   - ttp9juy356nnq5.cfd
   - tungahlucite.com
+  - tunlandporotic.cyou
   - tupjatohvon.in
   - tusehzdefdblz.space
   - tv.apple.com
   - tvappstore.net
   - tvwofyvaksbuy.online
+  - twglglrxsntis.website
   - twhevjwnibgsw.website
   - twlbjzoilwrse.site
   - twpvnbyjstnwm.online
+  - tybffeppxwzmm.website
   - typisttuckerspurt.com
   - tzentalrheaejogtrot.cfd
   - ubnw.net
+  - ubplrowabexlq.online
+  - ubqmwnbcbc.com
   - ubsqyiakrbdvc.site
+  - ucdwxztp.com
+  - uehcxbllgjxzj.space
   - uepgyvbkuxafp.website
   - ufbcrgms.com
   - uiefurzwybmbl.site
   - uimcxlqcypqbt.online
   - uixpannlphgvh.space
+  - ukaviayvjfydp.online
   - ukipad.com
+  - ukrrogqbsnoao.website
   - ulfsgwtcrwgqm.online
   - ulmusunkink.click
   - ummgfbvdwgrhl.site
   - unampleshrups.click
   - uncitedpursilyinhumer.cyou
+  - undersurface08.com
   - undimpintidbugseed.cyou
   - undrawsastral.cyou
   - unhitchdusks.click
@@ -2992,12 +3391,17 @@ domain_suffix_set:
   - unstyle.us
   - unthrobkeelfat.cfd
   - unwindmangeyobus.cfd
+  - uoztjrkrqugni.site
   - updates-http.cdn-apple.com
   - updates-http.cdn-apple.com.akadns.net
   - updates.cdn-apple.com
   - updfcisoyimay.space
+  - upiprxfoyeikp.space
+  - upki9zuo1p9mm4zpqt.rest
+  - upsmwvpdtsvxi.space
   - uqaymrtomzmfm.site
   - urhikhwdttauq.online
+  - urkptdjgrquuw.online
   - urosomerevived.cyou
   - urticaponiard.com
   - usa-beatsbydreheadphonesonsale.net
@@ -3010,9 +3414,14 @@ domain_suffix_set:
   - uuozqpkdlqbkn.space
   - uurrx91gvh7tn3ewjo6k.rest
   - uuyfkmaacszat.space
+  - uvvsyeadlyrgb.space
   - uwltvzdjmanin.space
+  - uwmvszhfyodqc.site
+  - uwuhzjkgswmao.website
   - uwvokuosnojtu.space
   - uxehncmdfgwfw.online
+  - uxviteyylmlj79jwlbm7kjl6.cfd
+  - uzvjbgknoijof.site
   - v-has.com
   - v1.tbllzon.com
   - vabpfbbtzs.com
@@ -3022,10 +3431,14 @@ domain_suffix_set:
   - vaidiceffendi.com
   - valid.apple.com
   - valid.origin-apple.com.akadns.net
+  - valueendogen.com
+  - varahanbocardo.rest
   - verse-content.com
   - vezdrabhdgbhj.website
   - vg3z87oecg.com
   - viandedisagio.cyou
+  - vigcvrvqqcapb.site
+  - vihxflxwuhqca.space
   - viiyutty.com
   - vip-beats.com
   - vipbeatsbydre.com
@@ -3037,25 +3450,33 @@ domain_suffix_set:
   - vkyieskdlavjt.space
   - vmmimgei.com
   - vnojwtpjedvft.website
+  - vofyheiohcrzv.site
   - vrzrfnfcsdlff.online
+  - vsqmwlmyyljyz.website
   - vueffikzsjewx.online
   - vvbhoxbjrfmtd.website
   - vvgxvczfx.com
+  - vxnurbodyeces.space
   - vyhvdpjjgxqup.site
   - vylivgbhjqkbl.online
   - vywyunzjjzkda.site
   - vzdfbajkrwede.site
   - vzjibpjzejpfc.online
   - vzpvaxcbwcx.com
+  - w.1ecjbovmygj6ph8.cfd
   - w0c42chjph.com
+  - w7u31ox8.xyz
   - waarshag.cfd
   - wabgcqbhsvxgr.website
+  - waffingmythism.cyou
   - wagatihobble.click
   - wakeupoecoid.cyou
+  - wamjilztmuwdm.online
   - warslerufology.cyou
   - warxattaj.in
   - wasdj.com
   - wavedsuspect.click
+  - waveletiricize.cfd
   - wbfwvrhljnsgr.website
   - wdahqumfpnmav.space
   - weather-data.apple.com
@@ -3064,6 +3485,7 @@ domain_suffix_set:
   - weather-map2.apple.com
   - weatherkit.apple.com
   - weaveworkingheaviness.com
+  - webbed-leadership.com
   - webkit.org
   - webkitgtk.org
   - webobjects.co.uk
@@ -3073,9 +3495,12 @@ domain_suffix_set:
   - webobjects.net
   - wedchfyatktez.space
   - weheesemis.cfd
+  - weiekbrbolvvk.online
   - weznuihmrrshp.site
+  - wezxjoiptmiht.website
   - wgotdxjymlfme.site
   - whalpbottu.cyou
+  - whensobrehon.rest
   - wholesale-exporter1.com
   - wholesalediscountpurses.com
   - wholesalefine.com
@@ -3085,23 +3510,30 @@ domain_suffix_set:
   - winectr.cyou
   - wipbpzzqrdpdn.online
   - wiserunuredhiving.cyou
+  - witchwuddie.com
   - wkms-public.apple.com
+  - wkmuiqnokrsji.site
   - wkxwoawiqphxb.website
   - wmlxmfjvnvwmq.space
   - wmymtjaraeoxv.space
   - womxwsnxadxtl.space
   - woodfrost.info
   - worldcoinpay.com
+  - wouldntdemarks.cyou
   - wpewebkit.org
   - wphcwgephotde.online
+  - wpnqxtfinlvbj.space
   - wsmxmyyznvsxc.space
   - wtixdlsaqpaak.space
   - wtqhxggxngfad.site
+  - wtxvpmusxtsvr.online
   - wumllfgjnzkqw.site
   - wuos2fhox.com
   - wuxiapple.com
+  - wvjuwtbzperot.online
   - wvxapdctfaraf.website
   - wvyzrjkcwqfut.site
+  - wvzoezmzjgixc.space
   - wwapple.net
   - wwmedhzpmiarv.website
   - www-cdn.icloud.com.akadns.net
@@ -3123,16 +3555,26 @@ domain_suffix_set:
   - xanthanraison.rest
   - xauxpvmriexkj.space
   - xbrfbkjue8pkce9.rest
+  - xbwtrkrxpwlqo.website
   - xbylfjliltytf.space
+  - xccfjnscolnnc.site
+  - xcz8w7fyk83nbk5obv1.cfd
   - xdjrubbfsyrzq.site
+  - xedvdohpqsbim.online
   - xertdrlq.com
   - xfqlkrircukkg.website
   - xfqyomuglbkcf.site
   - xfurqyknhozeb.site
   - xgtakdjivvjjz.online
   - xgyhtexgsgvqt.site
+  - xjsgturadzcgo.online
+  - xjxlnrogiygnd.online
+  - xjzkkbfqfotbc.space
+  - xkdfimjqgpsyj.site
+  - xldadwsosaqiq.site
   - xlhjhcxrddfuy.site
   - xlmamdeykpist.online
+  - xml.proxywood-box.online
   - xmnbyuvxokely.site
   - xmrmngqivbgpx.site
   - xn--czrs0t4phtr3a.cn
@@ -3149,6 +3591,7 @@ domain_suffix_set:
   - xoihqoelmer384crqof.rest
   - xoqeclyqarpjp.space
   - xp.apple.com
+  - xq5yvjuhqj1x22qv.cfd
   - xrnvpmqajqcme.online
   - xrpxabvijnuoe.website
   - xtaaggnznubjz.com
@@ -3160,22 +3603,28 @@ domain_suffix_set:
   - xxtzyeiujzlnz.space
   - xyxrhrnppvbxi.site
   - xzesmujr.in
-  - y9cotr68yqemkhg.2ivv5h3p4uqc4pu8yv2.cfd
   - yagwxmzvjkgkt.online
   - yangtaotatar.cfd
   - yapoksoncer.cyou
+  - yaqauxdsyigca.site
+  - yarestkenneth.cfd
+  - yavsmataemray.online
   - yaxcheionised.cyou
   - yetherbeware.cfd
   - yfafhmnvpdhtb.site
+  - yfqgyzuifmkjw.space
   - yhhdxlmzwelwq.site
+  - yicuhxojxgqju.space
   - yjlkcpxjdzlfb.site
   - ykacgkgqmvxfn.site
   - ykbrbfmlpoqkj.website
+  - ylqtjplsdrspb.space
   - ymdytifzfyxkv.website
   - ynwnzoxxtaolq.website
   - yojuanestorifycairned.cyou
   - yokghthwvheqi.website
   - yourmonsterbeats.com
+  - ypijmogcmjfax.site
   - ypyryrauhherr.online
   - yrdqlnkoipaaa.website
   - yroclhudiwvcp.website
@@ -3183,26 +3632,32 @@ domain_suffix_set:
   - yrzrmvgzxteuq.site
   - ysuuzkkkxtuni.website
   - ytg9qlxcvu7n9v2.rest
-  - ytsa.net
   - yucufnvxcgkfj.site
   - yukeweezlebended.cfd
+  - yurqfto73olqr1.rest
   - yuwtlkeagkqi.com
+  - yuxomrgsfvnxu.space
   - yvwvllpfuwsgm.site
+  - yxaasylsdjado.site
   - yxdvekvhidnfv.online
   - yydkoulucwqzi.online
   - yzizqzclmqeur.website
-  - z.29tj4fufueo4im.cfd
   - zcxcbcsjafdck.space
   - zebracave.com
   - zeroclampentice.com
   - zextzccadpr.com
+  - zhigweuezkmqp.website
   - zhtmxmrzgwltk.site
+  - zhwsixguoj.com
   - zipfjdlsiqcoz.space
   - ziramchaetae.cyou
   - zjclzojzgrfmy.space
   - zjedmeoqtthd.com
+  - zkdwtdzlcadfu.site
   - zlfiiacommoaq.website
   - zmgttvqoqnsgz.space
+  - zoqfehbkmcndr.website
+  - zoxlzvrqeqadk.site
   - zpglicukmfijq.site
   - zpptusrwzaapg.site
   - zqqydxzdxvwqs.online
@@ -3211,12 +3666,15 @@ domain_suffix_set:
   - zrqyajyifhauw.website
   - zsfaelvpinhpa.site
   - zshuretjbswom.space
+  - zsqvinbljjkkv.website
   - ztdtzegka.com
   - zubnixxayfzxf.website
   - zunzjzxaaiwfj.space
+  - zuqtgzawkiejr.space
   - zuzaghbkajav.in
   - zvhyujtycswmj.website
   - zvpspohvqnoqx.online
+  - zvwjrwav.com
   - zylmjmmemwkqq.website
   - zyroybpkznwik.site
   - zzjgigxgomlde.site
@@ -3243,8 +3701,6 @@ domain_wildcard_set:
   - "macbookair.*"
   - "macbookpro.*"
 ip_cidr_set:
-  - 103.36.28.0/22
-  - 112.73.96.0/19
   - 136.143.186.0/23
   - 136.143.188.0/22
   - 139.178.128.0/18
@@ -3259,7 +3715,7 @@ ip_cidr_set:
   - 204.141.42.0/23
   - 205.180.175.0/24
   - 218.98.111.0/24
-  - 43.240.56.0/21
+  - 43.240.60.0/22
   - 63.92.224.0/19
   - 65.199.22.0/23
 ip_cidr6_set:
