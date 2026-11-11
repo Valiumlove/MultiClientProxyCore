@@ -1,7 +1,7 @@
 # NAME: SteamCN
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 09:58:15
+# UPDATED: 2026-11-11 14:54:11
 domain_set:
   - csgo.wmsj.cn
   - dl.steam.clngaa.com
@@ -19,4 +19,5 @@ domain_suffix_set:
   - cm.steampowered.com
   - steamchina.com
   - steamcontent.com
+  - steamserver.net
   - steamusercontent.com

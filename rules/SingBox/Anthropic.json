@@ -9,6 +9,8 @@
         "browser-intake-us5-datadoghq.com",
         "cdn.growthbook.io",
         "cdn.usefathom.com",
+        "http-intake.logs.us5.datadoghq.com",
+        "o1158394.ingest.us.sentry.io",
         "servd-anthropic-website.b-cdn.net",
         "storage.googleapis.com"
       ],
@@ -55,7 +57,9 @@
       "ip_cidr": [
         "160.79.104.0/21",
         "2607:6bc0::/32"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "Claude",
         "Claude.exe",

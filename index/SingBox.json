@@ -2,7 +2,7 @@
   "client": "SingBox",
   "rule_file_extension": "json",
   "rule_count": 1184,
-  "total_line_count": 851627,
+  "total_line_count": 858200,
   "rules": [
     {
       "name": "115",
@@ -400,12 +400,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 187407,
+        "domain": 187836,
         "domain_suffix": 4,
         "ip_cidr": 74
       },
-      "total_line_count": 187485,
-      "rule_updated_at": "2026-11-10T04:31:09.634899+00:00",
+      "total_line_count": 187914,
+      "rule_updated_at": "2026-11-11T06:17:17.076742+00:00",
       "file": "rules/SingBox/AdGuardSDNSFilterDirect.json"
     },
     {
@@ -461,13 +461,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 17494,
+        "domain": 17498,
         "domain_keyword": 210,
-        "domain_suffix": 270506,
-        "ip_cidr": 1049
+        "domain_suffix": 270912,
+        "ip_cidr": 1045
       },
-      "total_line_count": 289259,
-      "rule_updated_at": "2026-11-10T02:54:20.323167+00:00",
+      "total_line_count": 289665,
+      "rule_updated_at": "2026-11-10T23:57:00.246618+00:00",
       "file": "rules/SingBox/Advertising.json"
     },
     {
@@ -480,13 +480,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 26925,
+        "domain": 26929,
         "domain_keyword": 164,
-        "domain_suffix": 160852,
-        "ip_cidr": 239
+        "domain_suffix": 161121,
+        "ip_cidr": 235
       },
-      "total_line_count": 188180,
-      "rule_updated_at": "2026-11-10T02:23:47.321941+00:00",
+      "total_line_count": 188449,
+      "rule_updated_at": "2026-11-10T23:51:31.446871+00:00",
       "file": "rules/SingBox/AdvertisingLite.json"
     },
     {
@@ -974,14 +974,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 8,
+        "domain": 10,
         "domain_keyword": 3,
         "domain_suffix": 33,
         "ip_cidr": 2,
         "process_name": 5
       },
-      "total_line_count": 51,
-      "rule_updated_at": "2026-10-29T03:05:32.347939+00:00",
+      "total_line_count": 53,
+      "rule_updated_at": "2026-11-10T23:47:00.348456+00:00",
       "file": "rules/SingBox/Anthropic.json"
     },
     {
@@ -1088,14 +1088,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 314,
+        "domain": 318,
         "domain_keyword": 5,
-        "domain_suffix": 3359,
-        "ip_cidr": 20,
+        "domain_suffix": 3784,
+        "ip_cidr": 16,
         "process_name": 9
       },
-      "total_line_count": 3707,
-      "rule_updated_at": "2026-11-10T02:22:21.562727+00:00",
+      "total_line_count": 4132,
+      "rule_updated_at": "2026-11-10T23:47:07.175466+00:00",
       "file": "rules/SingBox/Apple.json"
     },
     {
@@ -1137,12 +1137,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 38,
-        "domain_suffix": 1613,
-        "ip_cidr": 16
+        "domain": 42,
+        "domain_suffix": 2038,
+        "ip_cidr": 12
       },
-      "total_line_count": 1667,
-      "rule_updated_at": "2026-11-10T02:23:44.718504+00:00",
+      "total_line_count": 2092,
+      "rule_updated_at": "2026-11-10T23:51:21.932185+00:00",
       "file": "rules/SingBox/AppleDirect.json"
     },
     {
@@ -1267,13 +1267,13 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 67,
-        "domain_suffix": 1616,
-        "ip_cidr": 7,
+        "domain": 71,
+        "domain_suffix": 2041,
+        "ip_cidr": 3,
         "process_name": 9
       },
-      "total_line_count": 1699,
-      "rule_updated_at": "2026-11-10T02:23:46.574909+00:00",
+      "total_line_count": 2124,
+      "rule_updated_at": "2026-11-10T23:52:02.622117+00:00",
       "file": "rules/SingBox/AppleProxy.json"
     },
     {
@@ -2595,13 +2595,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 24,
+        "domain": 20,
         "domain_keyword": 10,
-        "domain_suffix": 6379,
-        "ip_cidr": 3893
+        "domain_suffix": 6362,
+        "ip_cidr": 3858
       },
-      "total_line_count": 10306,
-      "rule_updated_at": "2026-11-09T02:42:35.106863+00:00",
+      "total_line_count": 10250,
+      "rule_updated_at": "2026-11-11T00:01:15.506656+00:00",
       "file": "rules/SingBox/China.json"
     },
     {
@@ -2639,10 +2639,10 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "ip_cidr": 18088
+        "ip_cidr": 18085
       },
-      "total_line_count": 18088,
-      "rule_updated_at": "2026-11-09T22:58:12.180402+00:00",
+      "total_line_count": 18085,
+      "rule_updated_at": "2026-11-11T06:31:35.927321+00:00",
       "file": "rules/SingBox/ChinaIPs.json"
     },
     {
@@ -3982,14 +3982,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 36,
+        "domain": 40,
         "domain_keyword": 10,
-        "domain_suffix": 1052,
+        "domain_suffix": 1479,
         "ip_cidr": 3,
         "process_name": 36
       },
-      "total_line_count": 1137,
-      "rule_updated_at": "2026-11-10T02:22:21.021538+00:00",
+      "total_line_count": 1568,
+      "rule_updated_at": "2026-11-10T23:50:26.928202+00:00",
       "file": "rules/SingBox/Direct.json"
     },
     {
@@ -5771,14 +5771,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 1915,
+        "domain": 1912,
         "domain_keyword": 53,
-        "domain_suffix": 22382,
+        "domain_suffix": 22364,
         "ip_cidr": 84,
         "process_name": 8
       },
-      "total_line_count": 24442,
-      "rule_updated_at": "2026-11-09T02:46:43.532428+00:00",
+      "total_line_count": 24421,
+      "rule_updated_at": "2026-11-11T00:08:41.174783+00:00",
       "file": "rules/SingBox/Global.json"
     },
     {
@@ -5792,14 +5792,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 137,
+        "domain": 142,
         "domain_keyword": 11,
-        "domain_suffix": 2503,
-        "ip_cidr": 9,
+        "domain_suffix": 2928,
+        "ip_cidr": 5,
         "process_name": 24
       },
-      "total_line_count": 2684,
-      "rule_updated_at": "2026-11-10T02:23:44.702134+00:00",
+      "total_line_count": 3110,
+      "rule_updated_at": "2026-11-10T23:48:57.961774+00:00",
       "file": "rules/SingBox/GlobalAI.json"
     },
     {
@@ -5871,14 +5871,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 122,
+        "domain": 126,
         "domain_keyword": 28,
-        "domain_suffix": 2480,
-        "ip_cidr": 471,
+        "domain_suffix": 2906,
+        "ip_cidr": 467,
         "process_name": 3
       },
-      "total_line_count": 3104,
-      "rule_updated_at": "2026-11-10T02:23:46.750837+00:00",
+      "total_line_count": 3530,
+      "rule_updated_at": "2026-11-10T23:52:50.253885+00:00",
       "file": "rules/SingBox/GlobalMedia.json"
     },
     {
@@ -6977,12 +6977,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 40,
-        "domain_suffix": 1366,
-        "ip_cidr": 5
+        "domain": 44,
+        "domain_suffix": 1792,
+        "ip_cidr": 1
       },
-      "total_line_count": 1411,
-      "rule_updated_at": "2026-11-10T02:23:44.689454+00:00",
+      "total_line_count": 1837,
+      "rule_updated_at": "2026-11-10T23:48:12.571587+00:00",
       "file": "rules/SingBox/iCloudPrivateRelay.json"
     },
     {
@@ -8145,12 +8145,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 51,
-        "domain_suffix": 1487,
-        "ip_cidr": 37
+        "domain": 55,
+        "domain_suffix": 1913,
+        "ip_cidr": 33
       },
-      "total_line_count": 1575,
-      "rule_updated_at": "2026-11-10T02:22:21.544759+00:00",
+      "total_line_count": 2001,
+      "rule_updated_at": "2026-11-10T23:48:21.948685+00:00",
       "file": "rules/SingBox/Lan.json"
     },
     {
@@ -9085,13 +9085,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 6,
+        "domain": 10,
         "domain_keyword": 3,
-        "domain_suffix": 686,
+        "domain_suffix": 1114,
         "ip_cidr": 2
       },
-      "total_line_count": 697,
-      "rule_updated_at": "2026-11-10T02:22:21.549119+00:00",
+      "total_line_count": 1129,
+      "rule_updated_at": "2026-11-10T23:49:42.713450+00:00",
       "file": "rules/SingBox/MicrosoftProxy.json"
     },
     {
@@ -9697,12 +9697,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 35,
-        "domain_suffix": 1376,
-        "ip_cidr": 40
+        "domain": 39,
+        "domain_suffix": 1802,
+        "ip_cidr": 36
       },
-      "total_line_count": 1451,
-      "rule_updated_at": "2026-11-10T02:23:46.614928+00:00",
+      "total_line_count": 1877,
+      "rule_updated_at": "2026-11-10T23:48:16.730066+00:00",
       "file": "rules/SingBox/NetEaseMusic.json"
     },
     {
@@ -11003,13 +11003,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 46,
+        "domain": 50,
         "domain_keyword": 2,
-        "domain_suffix": 41227,
-        "ip_cidr": 14
+        "domain_suffix": 41653,
+        "ip_cidr": 10
       },
-      "total_line_count": 41289,
-      "rule_updated_at": "2026-11-10T02:23:47.248576+00:00",
+      "total_line_count": 41715,
+      "rule_updated_at": "2026-11-10T23:48:31.373589+00:00",
       "file": "rules/SingBox/Privacy.json"
     },
     {
@@ -12572,13 +12572,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 3388,
+        "domain": 3392,
         "domain_keyword": 1,
-        "domain_suffix": 1493,
-        "ip_cidr": 5
+        "domain_suffix": 1919,
+        "ip_cidr": 1
       },
-      "total_line_count": 4887,
-      "rule_updated_at": "2026-11-10T02:22:21.021173+00:00",
+      "total_line_count": 5313,
+      "rule_updated_at": "2026-11-10T23:48:49.152474+00:00",
       "file": "rules/SingBox/Speedtest.json"
     },
     {
@@ -12814,10 +12814,10 @@
       ],
       "type_counts": {
         "domain": 12,
-        "domain_suffix": 4
+        "domain_suffix": 5
       },
-      "total_line_count": 16,
-      "rule_updated_at": "2026-07-26T06:31:40.414865+00:00",
+      "total_line_count": 17,
+      "rule_updated_at": "2026-11-11T03:13:42.181501+00:00",
       "file": "rules/SingBox/SteamCN.json"
     },
     {
@@ -13291,14 +13291,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 34,
+        "domain": 38,
         "domain_keyword": 1,
-        "domain_suffix": 1387,
-        "ip_cidr": 37,
+        "domain_suffix": 1813,
+        "ip_cidr": 33,
         "process_name": 6
       },
-      "total_line_count": 1465,
-      "rule_updated_at": "2026-11-10T02:22:21.018711+00:00",
+      "total_line_count": 1891,
+      "rule_updated_at": "2026-11-10T23:49:58.030883+00:00",
       "file": "rules/SingBox/Telegram.json"
     },
     {

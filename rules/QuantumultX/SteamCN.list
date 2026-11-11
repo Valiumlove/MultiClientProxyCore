@@ -1,9 +1,9 @@
 # NAME: SteamCN
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 09:58:15
+# UPDATED: 2026-11-11 11:13:45
 # HOST: 12
-# HOST-SUFFIX: 4
+# HOST-SUFFIX: 5
 
 HOST,csgo.wmsj.cn,SteamCN
 HOST,dl.steam.clngaa.com,SteamCN
@@ -20,4 +20,5 @@ HOST,xz.pphimalayanrt.com,SteamCN
 HOST-SUFFIX,cm.steampowered.com,SteamCN
 HOST-SUFFIX,steamchina.com,SteamCN
 HOST-SUFFIX,steamcontent.com,SteamCN
+HOST-SUFFIX,steamserver.net,SteamCN
 HOST-SUFFIX,steamusercontent.com,SteamCN

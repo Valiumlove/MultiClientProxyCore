@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/SingBox/`
-- 规则数：**1184** · 总行数：**851627**
+- 规则数：**1184** · 总行数：**858200**
 
 ## 常用规则（可直接复制）
 
@@ -153,12 +153,12 @@
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Actalis.json) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuard.json) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 187 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilter.json) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 187485 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 187914 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adidas.json) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adobe.json) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdobeActivation.json) |
-| Advertising | 去广告 | 289259 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
-| AdvertisingLite | 去广告精简版 | 188180 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
+| Advertising | 去广告 | 289665 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
+| AdvertisingLite | 去广告精简版 | 188449 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingMiTV.json) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Aerogard.json) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Agora.json) |
@@ -191,16 +191,16 @@
 | Anjuke | 安居客 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Anjuke.json) |
 | Anker | Anker | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Anker.json) |
 | AnnasArchive | Anna's Archive电子书检索 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AnnasArchive.json) |
-| Anthropic | Anthropic | 51 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Anthropic.json) |
+| Anthropic | Anthropic | 53 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Anthropic.json) |
 | Antivirus | 杀毒与安全软件 | 166 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Antivirus.json) |
 | ApiFox | Apifox | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ApiFox.json) |
 | ApiPost | ApiPost | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ApiPost.json) |
 | Apkpure | APKPure | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Apkpure.json) |
 | AppStore | App Store | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppStore.json) |
-| Apple | Apple | 3707 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Apple.json) |
+| Apple | Apple | 4132 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Apple.json) |
 | AppleCDN | Apple CDN | 35 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleCDN.json) |
 | AppleDev | Apple开发者 | 55 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleDev.json) |
-| AppleDirect | Apple 直连 | 1667 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleDirect.json) |
+| AppleDirect | Apple 直连 | 2092 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleDirect.json) |
 | AppleFirmware | Apple固件 | 178 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleFirmware.json) |
 | AppleHardware | Apple硬件 | 226 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleHardware.json) |
 | AppleIntelligence | Apple 智能服务 | 6 | 2026-08-03 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleIntelligence.json) |
@@ -209,7 +209,7 @@
 | AppleNews | Apple News | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleNews.json) |
 | ApplePKI | Apple证书 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ApplePKI.json) |
 | ApplePodcasts | Apple 播客 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ApplePodcasts.json) |
-| AppleProxy | Apple代理 | 1699 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleProxy.json) |
+| AppleProxy | Apple代理 | 2124 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleProxy.json) |
 | AppleTV | Apple TV | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleTV.json) |
 | AppleUpdate | Apple 更新服务 | 97 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AppleUpdate.json) |
 | ArchLinux | Arch Linux | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ArchLinux.json) |
@@ -317,11 +317,11 @@
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChangYou.json) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Chegg.json) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChengTongWangPan.json) |
-| China | 中国 | 10306 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/China.json) |
+| China | 中国 | 10250 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/China.json) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaBroadnet.json) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaGame.json) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPTV.json) |
-| ChinaIPs | 中国IP | 18088 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
+| ChinaIPs | 中国IP | 18085 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
 | ChinaMedia | 中国媒体 | 345 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMedia.json) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMobile.json) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaNews.json) |
@@ -410,7 +410,7 @@
 | DingDong | 叮咚买菜 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/DingDong.json) |
 | DingTalk | 钉钉 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/DingTalk.json) |
 | DingXiangYuan | 丁香园 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/DingXiangYuan.json) |
-| Direct | 直连 | 1137 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Direct.json) |
+| Direct | 直连 | 1568 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Direct.json) |
 | Discord | Discord | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Discord.json) |
 | Discourse | Discourse论坛平台 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Discourse.json) |
 | DiscoveryPlus | Discovery+ | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/DiscoveryPlus.json) |
@@ -533,13 +533,13 @@
 | GitHub | GitHub | 73 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GitHub.json) |
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GitLab.json) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Gitee.json) |
-| Global | 全球 | 24442 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Global.json) |
-| GlobalAI | 全球AI | 2684 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalAI.json) |
+| Global | 全球 | 24421 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Global.json) |
+| GlobalAI | 全球AI | 3110 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalAI.json) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalCDN.json) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalCloud.json) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalGame.json) |
 | GlobalIPTV | IPTV全球 | 2814 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalIPTV.json) |
-| GlobalMedia | 全球媒体 | 3104 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalMedia.json) |
+| GlobalMedia | 全球媒体 | 3530 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalMedia.json) |
 | GlobalNetDisk | 全球网盘服务 | 59 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalNetDisk.json) |
 | GlobalScholar | 全球学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalScholar.json) |
 | GlobalSign | Globalsign | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalSign.json) |
@@ -697,7 +697,7 @@
 | KuroGames | 库洛游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/KuroGames.json) |
 | KyodoNews | 共同通讯社 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/KyodoNews.json) |
 | LG | LG | 98 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/LG.json) |
-| Lan | 本地局域网地址 | 1575 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Lan.json) |
+| Lan | 本地局域网地址 | 2001 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Lan.json) |
 | LanZou | 蓝奏云 | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/LanZou.json) |
 | Laracasts | Laracasts教程 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Laracasts.json) |
 | LastFM | Last.fm | 34 | 2026-09-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/LastFM.json) |
@@ -773,7 +773,7 @@
 | MicrosoftDev | Microsoft 开发服务 | 76 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MicrosoftDev.json) |
 | MicrosoftEdge | Microsoft Edge | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MicrosoftEdge.json) |
 | MicrosoftPKI | 微软证书 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MicrosoftPKI.json) |
-| MicrosoftProxy | Microsoft 代理 | 697 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MicrosoftProxy.json) |
+| MicrosoftProxy | Microsoft 代理 | 1129 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MicrosoftProxy.json) |
 | Midea | 美的 | 10 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Midea.json) |
 | Migu | 咪咕 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Migu.json) |
 | MikroTik | MikroTik路由 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/MikroTik.json) |
@@ -816,7 +816,7 @@
 | Neowin | Neowin科技 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Neowin.json) |
 | NetCup | NetCup托管 | 24 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/NetCup.json) |
 | NetEase | 网易 | 190 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/NetEase.json) |
-| NetEaseMusic | 网易云音乐 | 1451 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/NetEaseMusic.json) |
+| NetEaseMusic | 网易云音乐 | 1877 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/NetEaseMusic.json) |
 | NeteaseCloud | 网易云计算 | 106 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/NeteaseCloud.json) |
 | Netflix | Netflix | 1619 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Netflix.json) |
 | Netlify | Netlify网站托管 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Netlify.json) |
@@ -907,7 +907,7 @@
 | PostImages | PostImages图片 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/PostImages.json) |
 | PotatoChat | Potato Chat | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/PotatoChat.json) |
 | PrimeVideo | Prime Video | 24 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/PrimeVideo.json) |
-| Privacy | 隐私保护 | 41289 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Privacy.json) |
+| Privacy | 隐私保护 | 41715 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Privacy.json) |
 | PrivateTracker | PT下载 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/PrivateTracker.json) |
 | ProQuest | ProQuest学术 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ProQuest.json) |
 | Progress | Progress软件 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Progress.json) |
@@ -1025,7 +1025,7 @@
 | SpaceX | SpaceX | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/SpaceX.json) |
 | Spaceship | Spaceship域名 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Spaceship.json) |
 | Spark | Spark | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Spark.json) |
-| Speedtest | Speedtest | 4887 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Speedtest.json) |
+| Speedtest | Speedtest | 5313 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Speedtest.json) |
 | Spiceworks | Spiceworks社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Spiceworks.json) |
 | Spotify | Spotify | 39 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Spotify.json) |
 | Springer | Springer学术 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Springer.json) |
@@ -1041,7 +1041,7 @@
 | Startpage | Startpage搜索 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Startpage.json) |
 | StaticFile | Staticfile前端CDN | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/StaticFile.json) |
 | Steam | Steam | 97 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Steam.json) |
-| SteamCN | Steam中国 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/SteamCN.json) |
+| SteamCN | Steam中国 | 17 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/SteamCN.json) |
 | SteamUnlocked | SteamUnlocked游戏资源 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/SteamUnlocked.json) |
 | Steemit | Steemit | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Steemit.json) |
 | StraitsX | StraitsX支付 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/StraitsX.json) |
@@ -1082,7 +1082,7 @@
 | Teambition | Teambition | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Teambition.json) |
 | TechTimes | TechTimes | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/TechTimes.json) |
 | Technogym | Technogym健身 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Technogym.json) |
-| Telegram | Telegram | 1465 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Telegram.json) |
+| Telegram | Telegram | 1891 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Telegram.json) |
 | TempMail | 临时邮箱 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/TempMail.json) |
 | Tencent | 腾讯 | 2776 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Tencent.json) |
 | TencentCloud | 腾讯云计算 | 2715 | 2026-09-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/TencentCloud.json) |
@@ -1291,7 +1291,7 @@
 | edX | edX 在线课程 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/edX.json) |
 | friDay | friDay影音 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/friDay.json) |
 | iCloud | iCloud | 56 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iCloud.json) |
-| iCloudPrivateRelay | iCloud Private Relay | 1411 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iCloudPrivateRelay.json) |
+| iCloudPrivateRelay | iCloud Private Relay | 1837 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iCloudPrivateRelay.json) |
 | iFlytek | 科大讯飞 | 152 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iFlytek.json) |
 | iQIYI | 爱奇艺 | 76 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iQIYI.json) |
 | iQIYIIntl | 爱奇艺国际版 | 22 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/iQIYIIntl.json) |

@@ -1,8 +1,8 @@
 # NAME: AdGuardSDNSFilterDirect
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-10 12:31:17
-# HOST: 187407
+# UPDATED: 2026-11-11 09:42:14
+# HOST: 187727
 # HOST-SUFFIX: 4
 # IP-CIDR: 74
 
@@ -675,6 +675,7 @@ HOST,134f65414c.com,AdGuardSDNSFilterDirect
 HOST,1355768492.com,AdGuardSDNSFilterDirect
 HOST,136ckqmwc.com,AdGuardSDNSFilterDirect
 HOST,13728c1810.com,AdGuardSDNSFilterDirect
+HOST,137ioe2krr.com,AdGuardSDNSFilterDirect
 HOST,137kfj65k.de,AdGuardSDNSFilterDirect
 HOST,138124e964.eda4dc1ffe.com,AdGuardSDNSFilterDirect
 HOST,13874bb1da.com,AdGuardSDNSFilterDirect
@@ -2436,6 +2437,7 @@ HOST,677.nfnt9g8bq8phgkf9ox91m4v9uewko6uu5gl.cyou,AdGuardSDNSFilterDirect
 HOST,6788vn.com,AdGuardSDNSFilterDirect
 HOST,67c15249d7.com,AdGuardSDNSFilterDirect
 HOST,67o3ee9ywrp69eqz7w.cfd,AdGuardSDNSFilterDirect
+HOST,67oqe5ok7b29qh2yc1g59t7m63b.rest,AdGuardSDNSFilterDirect
 HOST,67qlvj0jcj.com,AdGuardSDNSFilterDirect
 HOST,67xotm74h.px3rq7e9jhtm25e3yrv34xkr3233j.cyou,AdGuardSDNSFilterDirect
 HOST,680dd52882.com,AdGuardSDNSFilterDirect
@@ -3002,6 +3004,7 @@ HOST,8b317a773b.com,AdGuardSDNSFilterDirect
 HOST,8b81ffcb90.com,AdGuardSDNSFilterDirect
 HOST,8bb993b111.540729f005.com,AdGuardSDNSFilterDirect
 HOST,8c217a925a.339fee097c.com,AdGuardSDNSFilterDirect
+HOST,8c2sxamc6w.com,AdGuardSDNSFilterDirect
 HOST,8c3v5rbi3iyx2qm7.cfd,AdGuardSDNSFilterDirect
 HOST,8c56c86ead.com,AdGuardSDNSFilterDirect
 HOST,8c66b76e9b.com,AdGuardSDNSFilterDirect
@@ -3326,6 +3329,7 @@ HOST,9nl.eu,AdGuardSDNSFilterDirect
 HOST,9nvj3swk9l.com,AdGuardSDNSFilterDirect
 HOST,9nwplq7y2o.com,AdGuardSDNSFilterDirect
 HOST,9nzrfglryy.com,AdGuardSDNSFilterDirect
+HOST,9o2r9h0ket.com,AdGuardSDNSFilterDirect
 HOST,9obmf866d.com,AdGuardSDNSFilterDirect
 HOST,9ohyhwyt4qrh.etzej1fu6q755opovuwz.cyou,AdGuardSDNSFilterDirect
 HOST,9oxhstb2m2.com,AdGuardSDNSFilterDirect
@@ -3349,6 +3353,7 @@ HOST,9tlfy3rrh.com,AdGuardSDNSFilterDirect
 HOST,9tp9jd4p.de,AdGuardSDNSFilterDirect
 HOST,9tumza4dp4o9.com,AdGuardSDNSFilterDirect
 HOST,9txnu9rlmd.com,AdGuardSDNSFilterDirect
+HOST,9umyy8kcwv5uc7589mpeten6.rest,AdGuardSDNSFilterDirect
 HOST,9uza7fi60e.com,AdGuardSDNSFilterDirect
 HOST,9v0ptnfes.com,AdGuardSDNSFilterDirect
 HOST,9v7sbm9zc.com,AdGuardSDNSFilterDirect
@@ -5461,6 +5466,7 @@ HOST,aamt.msnbc.com,AdGuardSDNSFilterDirect
 HOST,aamt.nbcnews.com,AdGuardSDNSFilterDirect
 HOST,aamt.newsapp.telemundo.com,AdGuardSDNSFilterDirect
 HOST,aamt.today.com,AdGuardSDNSFilterDirect
+HOST,aamunqjutjfiq.website,AdGuardSDNSFilterDirect
 HOST,aan.amazon.com,AdGuardSDNSFilterDirect
 HOST,aan8bq.ru,AdGuardSDNSFilterDirect
 HOST,aanalytics.adelaide.edu.au,AdGuardSDNSFilterDirect
@@ -5790,6 +5796,7 @@ HOST,ablehandbookrepugnant.com,AdGuardSDNSFilterDirect
 HOST,ablelaunchshorts.com,AdGuardSDNSFilterDirect
 HOST,ablida-rotation.com,AdGuardSDNSFilterDirect
 HOST,ablida.net,AdGuardSDNSFilterDirect
+HOST,ablowbulchin.com,AdGuardSDNSFilterDirect
 HOST,abloynkkdrexl.online,AdGuardSDNSFilterDirect
 HOST,ablybeastssarcastic.com,AdGuardSDNSFilterDirect
 HOST,abm.kvant.co,AdGuardSDNSFilterDirect
@@ -6402,6 +6409,7 @@ HOST,acwyersovfsaj.site,AdGuardSDNSFilterDirect
 HOST,acx.ateliercorleone.com,AdGuardSDNSFilterDirect
 HOST,acxajt.jimmykey.com,AdGuardSDNSFilterDirect
 HOST,acxcfztcvheoa.space,AdGuardSDNSFilterDirect
+HOST,acylsheaths.com,AdGuardSDNSFilterDirect
 HOST,acylsowsen.cyou,AdGuardSDNSFilterDirect
 HOST,acyxssqjdvfaj.space,AdGuardSDNSFilterDirect
 HOST,aczhuwlna.com,AdGuardSDNSFilterDirect
@@ -9988,6 +9996,7 @@ HOST,aheadgrow.com,AdGuardSDNSFilterDirect
 HOST,aheadpains.com,AdGuardSDNSFilterDirect
 HOST,ahejadicyivel.site,AdGuardSDNSFilterDirect
 HOST,ahejtw.onelink.me,AdGuardSDNSFilterDirect
+HOST,aheqhrasvveur.website,AdGuardSDNSFilterDirect
 HOST,ahewjrcrmrmyq.website,AdGuardSDNSFilterDirect
 HOST,ahexxfdjsribg.online,AdGuardSDNSFilterDirect
 HOST,ahfadj.aoki-style.com,AdGuardSDNSFilterDirect
@@ -10268,6 +10277,7 @@ HOST,airst.giize.com,AdGuardSDNSFilterDirect
 HOST,airtbpwzylosx.online,AdGuardSDNSFilterDirect
 HOST,airtsroyalty.cyou,AdGuardSDNSFilterDirect
 HOST,airyorchid.com,AdGuardSDNSFilterDirect
+HOST,aiscsaxgwwdtj.online,AdGuardSDNSFilterDirect
 HOST,aisgt.herbaloasis.com,AdGuardSDNSFilterDirect
 HOST,aisiteanalytics.com,AdGuardSDNSFilterDirect
 HOST,aisletowelreasoning.com,AdGuardSDNSFilterDirect
@@ -10760,6 +10770,7 @@ HOST,aliexshop.vip,AdGuardSDNSFilterDirect
 HOST,alikeaddition.com,AdGuardSDNSFilterDirect
 HOST,alimama.alicdn.com,AdGuardSDNSFilterDirect
 HOST,alimama.com,AdGuardSDNSFilterDirect
+HOST,alimentashtray.click,AdGuardSDNSFilterDirect
 HOST,aline.alinecantarelli.com.br,AdGuardSDNSFilterDirect
 HOST,aline.institutoalinepinho.com,AdGuardSDNSFilterDirect
 HOST,alinitroods.qpon,AdGuardSDNSFilterDirect
@@ -10840,6 +10851,7 @@ HOST,alloytitans.com,AdGuardSDNSFilterDirect
 HOST,allpcsoftwares.info,AdGuardSDNSFilterDirect
 HOST,allpornovids.com,AdGuardSDNSFilterDirect
 HOST,allputuphesa.com,AdGuardSDNSFilterDirect
+HOST,allroll.biz,AdGuardSDNSFilterDirect
 HOST,allsports4free.live,AdGuardSDNSFilterDirect
 HOST,allsports4free.online,AdGuardSDNSFilterDirect
 HOST,allstat-pp.ru,AdGuardSDNSFilterDirect
@@ -11134,6 +11146,7 @@ HOST,amendmentlakeinterim.com,AdGuardSDNSFilterDirect
 HOST,amenrecorder.com,AdGuardSDNSFilterDirect
 HOST,amentalcloteinseams.cyou,AdGuardSDNSFilterDirect
 HOST,amer.juniper.net,AdGuardSDNSFilterDirect
+HOST,amercedmexicabourock.cfd,AdGuardSDNSFilterDirect
 HOST,americanacademyofthermology.org,AdGuardSDNSFilterDirect
 HOST,americanos.v4company.com,AdGuardSDNSFilterDirect
 HOST,americasbrandperformancesupport.hilton.com,AdGuardSDNSFilterDirect
@@ -11828,6 +11841,7 @@ HOST,analytics.darak-ksa.com,AdGuardSDNSFilterDirect
 HOST,analytics.dashboard.fingerprint.com,AdGuardSDNSFilterDirect
 HOST,analytics.data.lloydsbankinggroup.com,AdGuardSDNSFilterDirect
 HOST,analytics.data.visenze.com,AdGuardSDNSFilterDirect
+HOST,analytics.datacite.org,AdGuardSDNSFilterDirect
 HOST,analytics.datahc.com,AdGuardSDNSFilterDirect
 HOST,analytics.datasavannah.com,AdGuardSDNSFilterDirect
 HOST,analytics.datascientest.com,AdGuardSDNSFilterDirect
@@ -13270,6 +13284,7 @@ HOST,anewfeedliberty.com,AdGuardSDNSFilterDirect
 HOST,anews.cc,AdGuardSDNSFilterDirect
 HOST,anews7.nvwu.com,AdGuardSDNSFilterDirect
 HOST,aneysrbzvegua.space,AdGuardSDNSFilterDirect
+HOST,anfblijzchzbr.site,AdGuardSDNSFilterDirect
 HOST,angarebbohmite.qpon,AdGuardSDNSFilterDirect
 HOST,angarebkikuyu.shop,AdGuardSDNSFilterDirect
 HOST,angasarum.cyou,AdGuardSDNSFilterDirect
@@ -13642,6 +13657,7 @@ HOST,apbdefsgvncbw.site,AdGuardSDNSFilterDirect
 HOST,apbjukta.com,AdGuardSDNSFilterDirect
 HOST,apbowmogh.in,AdGuardSDNSFilterDirect
 HOST,apbrum.com,AdGuardSDNSFilterDirect
+HOST,apbrumavwr.in,AdGuardSDNSFilterDirect
 HOST,apbvtaxfigjsj.online,AdGuardSDNSFilterDirect
 HOST,apcauf.com,AdGuardSDNSFilterDirect
 HOST,apcdp.apnews.com,AdGuardSDNSFilterDirect
@@ -15961,6 +15977,7 @@ HOST,argufycopecks.com,AdGuardSDNSFilterDirect
 HOST,argus.carddepot.com,AdGuardSDNSFilterDirect
 HOST,argus.november.de,AdGuardSDNSFilterDirect
 HOST,argus.umarbutler.com,AdGuardSDNSFilterDirect
+HOST,arhhrgiwaecso.online,AdGuardSDNSFilterDirect
 HOST,arhzq.victimadvocacycenter.com,AdGuardSDNSFilterDirect
 HOST,ariaclean.com,AdGuardSDNSFilterDirect
 HOST,arian.arianperfumes.com,AdGuardSDNSFilterDirect
@@ -16101,6 +16118,7 @@ HOST,arvim.monkeywrenchutah.com,AdGuardSDNSFilterDirect
 HOST,arvwwu.stepstone.be,AdGuardSDNSFilterDirect
 HOST,arwdcrdpiwinc.site,AdGuardSDNSFilterDirect
 HOST,arwff.menopausecare.co.uk,AdGuardSDNSFilterDirect
+HOST,arwpochlfvqoe.online,AdGuardSDNSFilterDirect
 HOST,arwwoejvxsvfy.space,AdGuardSDNSFilterDirect
 HOST,arx8x.net,AdGuardSDNSFilterDirect
 HOST,arxahqjztjnj.com,AdGuardSDNSFilterDirect
@@ -16486,6 +16504,7 @@ HOST,assets2.vanz.vero.co.nz,AdGuardSDNSFilterDirect
 HOST,assets2.vero.co.nz,AdGuardSDNSFilterDirect
 HOST,assets2.vero.com.au,AdGuardSDNSFilterDirect
 HOST,assetsconfigcdn.org,AdGuardSDNSFilterDirect
+HOST,assignlappet.click,AdGuardSDNSFilterDirect
 HOST,assinatura.marketingbmg.bancobmg.com.br,AdGuardSDNSFilterDirect
 HOST,assist.jdlighting.com.au,AdGuardSDNSFilterDirect
 HOST,assistads.net,AdGuardSDNSFilterDirect
@@ -16903,6 +16922,7 @@ HOST,attucnvrfpihk.online,AdGuardSDNSFilterDirect
 HOST,attzg.readinggenius.com,AdGuardSDNSFilterDirect
 HOST,atubryjsbface.website,AdGuardSDNSFilterDirect
 HOST,atuedidnotk.com,AdGuardSDNSFilterDirect
+HOST,atuudhyvlwexf.site,AdGuardSDNSFilterDirect
 HOST,atuxrmazzebah.site,AdGuardSDNSFilterDirect
 HOST,atv.conlonmotorsportsfortsask.ca,AdGuardSDNSFilterDirect
 HOST,atvtg.andieswim.com,AdGuardSDNSFilterDirect
@@ -17202,6 +17222,7 @@ HOST,avhxlgougslod.space,AdGuardSDNSFilterDirect
 HOST,aviatedmidair.com,AdGuardSDNSFilterDirect
 HOST,avietcombank.com,AdGuardSDNSFilterDirect
 HOST,avifwlqraveqt.online,AdGuardSDNSFilterDirect
+HOST,avigatejungle.click,AdGuardSDNSFilterDirect
 HOST,aviite.freaksstore.com,AdGuardSDNSFilterDirect
 HOST,avilionrewrote.shop,AdGuardSDNSFilterDirect
 HOST,avimdxzekvlhe.space,AdGuardSDNSFilterDirect
@@ -17609,6 +17630,7 @@ HOST,ayatyv.mountainsteals.com,AdGuardSDNSFilterDirect
 HOST,aybhalkar.com,AdGuardSDNSFilterDirect
 HOST,aybikaemg.com,AdGuardSDNSFilterDirect
 HOST,aybocrepirfch.space,AdGuardSDNSFilterDirect
+HOST,aybyrsiypzevk.site,AdGuardSDNSFilterDirect
 HOST,ayctbhlndyarx.space,AdGuardSDNSFilterDirect
 HOST,aydtkb.pikabu.ru,AdGuardSDNSFilterDirect
 HOST,ayfufj.almacenesbrissa.com.co,AdGuardSDNSFilterDirect
@@ -18104,6 +18126,7 @@ HOST,baistervowers.com,AdGuardSDNSFilterDirect
 HOST,baitbaseball.com,AdGuardSDNSFilterDirect
 HOST,baithoph.net,AdGuardSDNSFilterDirect
 HOST,baiwvs.bike-angebot.de,AdGuardSDNSFilterDirect
+HOST,baiyxkgvjvphx.space,AdGuardSDNSFilterDirect
 HOST,baizedtoby.cfd,AdGuardSDNSFilterDirect
 HOST,baizessneak.cfd,AdGuardSDNSFilterDirect
 HOST,baj.fanwenzhan.com,AdGuardSDNSFilterDirect
@@ -18125,6 +18148,7 @@ HOST,balawufor.cyou,AdGuardSDNSFilterDirect
 HOST,balchechitins.com,AdGuardSDNSFilterDirect
 HOST,balcnzwmsjrbjs.com,AdGuardSDNSFilterDirect
 HOST,baldeagle.e-ma.re,AdGuardSDNSFilterDirect
+HOST,baleicleektrickle.cfd,AdGuardSDNSFilterDirect
 HOST,balkersestian.com,AdGuardSDNSFilterDirect
 HOST,balkgymnast.cyou,AdGuardSDNSFilterDirect
 HOST,balkliving.com,AdGuardSDNSFilterDirect
@@ -18683,6 +18707,7 @@ HOST,bcvxynjpdtrcc.space,AdGuardSDNSFilterDirect
 HOST,bcwhnizcbethy.website,AdGuardSDNSFilterDirect
 HOST,bcwljq.batteryempire.de,AdGuardSDNSFilterDirect
 HOST,bcwrbg.cookbiz.jp,AdGuardSDNSFilterDirect
+HOST,bcxaiqdkdmcbu.site,AdGuardSDNSFilterDirect
 HOST,bcxauquczqgci.site,AdGuardSDNSFilterDirect
 HOST,bcxnqgotcgmld.space,AdGuardSDNSFilterDirect
 HOST,bcxyqtbumynru.website,AdGuardSDNSFilterDirect
@@ -19561,6 +19586,7 @@ HOST,bhciqwzxqtccc.online,AdGuardSDNSFilterDirect
 HOST,bhcsub.sankeishop.jp,AdGuardSDNSFilterDirect
 HOST,bhcumsc.com,AdGuardSDNSFilterDirect
 HOST,bheknoinum.com,AdGuardSDNSFilterDirect
+HOST,bheqglfizenut.website,AdGuardSDNSFilterDirect
 HOST,bhfdb.sansmatin.com,AdGuardSDNSFilterDirect
 HOST,bhfrnzxxcxhbn.store,AdGuardSDNSFilterDirect
 HOST,bhfrttttyyruo.store,AdGuardSDNSFilterDirect
@@ -20056,6 +20082,7 @@ HOST,binhchonkhoanhkhacbeyeu2022.weebly.com,AdGuardSDNSFilterDirect
 HOST,binhchonquafacehhh.weebly.com,AdGuardSDNSFilterDirect
 HOST,binhchonthisinhgionghatvietnhi2022vtv6vn.weebly.com,AdGuardSDNSFilterDirect
 HOST,binhconhocsinh2021.weebly.com,AdGuardSDNSFilterDirect
+HOST,binioudaikers.cyou,AdGuardSDNSFilterDirect
 HOST,binioumusales.rest,AdGuardSDNSFilterDirect
 HOST,binlayer.com,AdGuardSDNSFilterDirect
 HOST,binlayer.de,AdGuardSDNSFilterDirect
@@ -20133,6 +20160,7 @@ HOST,bistoury55.com,AdGuardSDNSFilterDirect
 HOST,bistrebarbell.cyou,AdGuardSDNSFilterDirect
 HOST,bistrebraes.cyou,AdGuardSDNSFilterDirect
 HOST,bistredchavercaption.qpon,AdGuardSDNSFilterDirect
+HOST,bistrosflu.com,AdGuardSDNSFilterDirect
 HOST,bit-ad.com,AdGuardSDNSFilterDirect
 HOST,bit.kozow.com,AdGuardSDNSFilterDirect
 HOST,bitad.ir,AdGuardSDNSFilterDirect
@@ -21081,6 +21109,7 @@ HOST,boobbounds.com,AdGuardSDNSFilterDirect
 HOST,boobzi.com,AdGuardSDNSFilterDirect
 HOST,boodlessikhismvenene.cyou,AdGuardSDNSFilterDirect
 HOST,boodper.com,AdGuardSDNSFilterDirect
+HOST,booejgnliutcd.online,AdGuardSDNSFilterDirect
 HOST,boohoonor.com,AdGuardSDNSFilterDirect
 HOST,booiuz.lineahjemme.no,AdGuardSDNSFilterDirect
 HOST,book.mechobhoot.com,AdGuardSDNSFilterDirect
@@ -21196,6 +21225,7 @@ HOST,bot.cdn.adeo.cloud,AdGuardSDNSFilterDirect
 HOST,botanyreadersettlement.com,AdGuardSDNSFilterDirect
 HOST,botanysummarytables.com,AdGuardSDNSFilterDirect
 HOST,botcheszest.com,AdGuardSDNSFilterDirect
+HOST,botchssu.cyou,AdGuardSDNSFilterDirect
 HOST,botdetection.hbrsd.com,AdGuardSDNSFilterDirect
 HOST,botdetector.ru,AdGuardSDNSFilterDirect
 HOST,botfaqtor.ru,AdGuardSDNSFilterDirect
@@ -21355,6 +21385,7 @@ HOST,bpxnc.rontomson.com,AdGuardSDNSFilterDirect
 HOST,bpzxevecpsxva.store,AdGuardSDNSFilterDirect
 HOST,bqacmp.vidaxl.no,AdGuardSDNSFilterDirect
 HOST,bqaijuqtjwpbf.website,AdGuardSDNSFilterDirect
+HOST,bqbgshfmnhuza.space,AdGuardSDNSFilterDirect
 HOST,bqbwvfofginwp.online,AdGuardSDNSFilterDirect
 HOST,bqc.g4yizj5tnoyn1bv.cfd,AdGuardSDNSFilterDirect
 HOST,bqcmk.gardenofmemoriesmetairie.com,AdGuardSDNSFilterDirect
@@ -21619,6 +21650,7 @@ HOST,brilliantpiece.com,AdGuardSDNSFilterDirect
 HOST,brilllantsdates.net,AdGuardSDNSFilterDirect
 HOST,brimfulculti.cfd,AdGuardSDNSFilterDirect
 HOST,brinedhowlsissei.qpon,AdGuardSDNSFilterDirect
+HOST,bringlrecl.cyou,AdGuardSDNSFilterDirect
 HOST,brinieryankspsalmic.cfd,AdGuardSDNSFilterDirect
 HOST,brinkmarko.com,AdGuardSDNSFilterDirect
 HOST,brioletredeyes.com,AdGuardSDNSFilterDirect
@@ -22099,6 +22131,7 @@ HOST,builtinintriguingchained.com,AdGuardSDNSFilterDirect
 HOST,bujcnegdeblpz.space,AdGuardSDNSFilterDirect
 HOST,bujis.pawnamerica.com,AdGuardSDNSFilterDirect
 HOST,bukusukses.com,AdGuardSDNSFilterDirect
+HOST,bukvwavcmonjv.space,AdGuardSDNSFilterDirect
 HOST,bulbbait.com,AdGuardSDNSFilterDirect
 HOST,buleor.com,AdGuardSDNSFilterDirect
 HOST,bulgershoe.qpon,AdGuardSDNSFilterDirect
@@ -22389,6 +22422,7 @@ HOST,bvxvwb.miniwebshop.hu,AdGuardSDNSFilterDirect
 HOST,bvycqrmqlqvp.com,AdGuardSDNSFilterDirect
 HOST,bvyhpxikzylmn.space,AdGuardSDNSFilterDirect
 HOST,bvz5.destinia.com.tr,AdGuardSDNSFilterDirect
+HOST,bvzzcqfalsend.space,AdGuardSDNSFilterDirect
 HOST,bw95vpjda.ru,AdGuardSDNSFilterDirect
 HOST,bwaozzmeerulo.site,AdGuardSDNSFilterDirect
 HOST,bwau1s2fm.com,AdGuardSDNSFilterDirect
@@ -22467,6 +22501,7 @@ HOST,bxhnfmijbikzg.space,AdGuardSDNSFilterDirect
 HOST,bxhnjzyusvery.website,AdGuardSDNSFilterDirect
 HOST,bxiaev.linvosges.com,AdGuardSDNSFilterDirect
 HOST,bxkhoojkyzdbn.website,AdGuardSDNSFilterDirect
+HOST,bxkhuffkbmxln.space,AdGuardSDNSFilterDirect
 HOST,bxlojkworooqyh.com,AdGuardSDNSFilterDirect
 HOST,bxlooftejvbac.website,AdGuardSDNSFilterDirect
 HOST,bxlsct.ex-shop.net,AdGuardSDNSFilterDirect
@@ -22532,6 +22567,7 @@ HOST,by.mywd.com,AdGuardSDNSFilterDirect
 HOST,by2lc7429r.com,AdGuardSDNSFilterDirect
 HOST,by4.irgbr1ie4vi3m77tx.cyou,AdGuardSDNSFilterDirect
 HOST,byaalrsqtwqge.site,AdGuardSDNSFilterDirect
+HOST,byarjsfxfrove.space,AdGuardSDNSFilterDirect
 HOST,byasdebrisfie.cfd,AdGuardSDNSFilterDirect
 HOST,byb.bybenson.com,AdGuardSDNSFilterDirect
 HOST,bybnjqlujudhm.site,AdGuardSDNSFilterDirect
@@ -22641,6 +22677,7 @@ HOST,bzqy2p14z.com,AdGuardSDNSFilterDirect
 HOST,bzr.openai.com,AdGuardSDNSFilterDirect
 HOST,bzrcdn.openai.com,AdGuardSDNSFilterDirect
 HOST,bzrch.heyskipperfishing.com,AdGuardSDNSFilterDirect
+HOST,bzrgbresuhvrw.space,AdGuardSDNSFilterDirect
 HOST,bzrpp.nakednutrition.ca,AdGuardSDNSFilterDirect
 HOST,bzrpvk.com,AdGuardSDNSFilterDirect
 HOST,bzsfvi.fnacpro.com,AdGuardSDNSFilterDirect
@@ -22960,6 +22997,7 @@ HOST,cabnnr.com,AdGuardSDNSFilterDirect
 HOST,caboucalamda.com,AdGuardSDNSFilterDirect
 HOST,cac.runna.com,AdGuardSDNSFilterDirect
 HOST,cacafly.net,AdGuardSDNSFilterDirect
+HOST,cacciastary.com,AdGuardSDNSFilterDirect
 HOST,cache-ldschurch1.net.mydays.de,AdGuardSDNSFilterDirect
 HOST,cache.myth.dev,AdGuardSDNSFilterDirect
 HOST,cache.picxxxhub.com,AdGuardSDNSFilterDirect
@@ -23290,6 +23328,7 @@ HOST,canidae.fidum.uk,AdGuardSDNSFilterDirect
 HOST,canineschiller.cfd,AdGuardSDNSFilterDirect
 HOST,caninesindium.com,AdGuardSDNSFilterDirect
 HOST,cank9.site,AdGuardSDNSFilterDirect
+HOST,canliopenest.rest,AdGuardSDNSFilterDirect
 HOST,cannelssouagga.cfd,AdGuardSDNSFilterDirect
 HOST,cannonborough.com,AdGuardSDNSFilterDirect
 HOST,cannonchange.com,AdGuardSDNSFilterDirect
@@ -23948,6 +23987,7 @@ HOST,cappingpyralis.qpon,AdGuardSDNSFilterDirect
 HOST,capriceawelessaweless.com,AdGuardSDNSFilterDirect
 HOST,capriciouscorn.com,AdGuardSDNSFilterDirect
 HOST,capricmashpee.com,AdGuardSDNSFilterDirect
+HOST,capricsucci.cyou,AdGuardSDNSFilterDirect
 HOST,caprizecaprizeflagfur.com,AdGuardSDNSFilterDirect
 HOST,caprockarabism.qpon,AdGuardSDNSFilterDirect
 HOST,caprofitx.com,AdGuardSDNSFilterDirect
@@ -24112,6 +24152,7 @@ HOST,carrick-ui.advoncommerce.com,AdGuardSDNSFilterDirect
 HOST,carriedamiral.com,AdGuardSDNSFilterDirect
 HOST,carrier202205.tokyo,AdGuardSDNSFilterDirect
 HOST,carrierservices-business.vodafone.com,AdGuardSDNSFilterDirect
+HOST,carrochrancourdacitic.cfd,AdGuardSDNSFilterDirect
 HOST,carrot.hepper.com,AdGuardSDNSFilterDirect
 HOST,carryedgandum.com,AdGuardSDNSFilterDirect
 HOST,carryglanced.com,AdGuardSDNSFilterDirect
@@ -24536,6 +24577,7 @@ HOST,ccucnuuahikzz.online,AdGuardSDNSFilterDirect
 HOST,ccueb.shoebacca.com,AdGuardSDNSFilterDirect
 HOST,ccus.futureofccus.com,AdGuardSDNSFilterDirect
 HOST,ccutanagfr.in,AdGuardSDNSFilterDirect
+HOST,ccvmhtybbbhir.website,AdGuardSDNSFilterDirect
 HOST,ccvqwf.lonestarwesterndecor.com,AdGuardSDNSFilterDirect
 HOST,ccwdc.orveda.com,AdGuardSDNSFilterDirect
 HOST,ccwqjgycmojrg.site,AdGuardSDNSFilterDirect
@@ -25167,6 +25209,7 @@ HOST,cdwlxi.cadremploi.fr,AdGuardSDNSFilterDirect
 HOST,cdwmpt.com,AdGuardSDNSFilterDirect
 HOST,cdwmtt.com,AdGuardSDNSFilterDirect
 HOST,cdwqxjtpptrxm.online,AdGuardSDNSFilterDirect
+HOST,cdxwzqkuuacxl.site,AdGuardSDNSFilterDirect
 HOST,cdxyb.cn,AdGuardSDNSFilterDirect
 HOST,cdymqigrkwzav.site,AdGuardSDNSFilterDirect
 HOST,cdzjqz.gratis.com.tr,AdGuardSDNSFilterDirect
@@ -25358,6 +25401,7 @@ HOST,cexofira.com,AdGuardSDNSFilterDirect
 HOST,cexucetum.com,AdGuardSDNSFilterDirect
 HOST,cexwqhxuxixew.site,AdGuardSDNSFilterDirect
 HOST,cexwqzqmrpjcw.site,AdGuardSDNSFilterDirect
+HOST,ceymmbgyqnnes.space,AdGuardSDNSFilterDirect
 HOST,ceyreesdxgvkd.site,AdGuardSDNSFilterDirect
 HOST,ceyukeft.sikker-post.dk,AdGuardSDNSFilterDirect
 HOST,ceyxnepeta.com,AdGuardSDNSFilterDirect
@@ -25421,6 +25465,7 @@ HOST,cfjump.com,AdGuardSDNSFilterDirect
 HOST,cfkwekketurmh.online,AdGuardSDNSFilterDirect
 HOST,cflbu.cuddledown.com,AdGuardSDNSFilterDirect
 HOST,cfloa.themayfairgroupllc.com,AdGuardSDNSFilterDirect
+HOST,cfmbroselispers.cyou,AdGuardSDNSFilterDirect
 HOST,cfmzsjeqvnjru.site,AdGuardSDNSFilterDirect
 HOST,cfngdxtjw.com,AdGuardSDNSFilterDirect
 HOST,cfngncvzumazd.space,AdGuardSDNSFilterDirect
@@ -25454,6 +25499,7 @@ HOST,cgbgdgcdmahpd.space,AdGuardSDNSFilterDirect
 HOST,cgbpxcvnophfy.space,AdGuardSDNSFilterDirect
 HOST,cgc.oralsincgcentro.com.br,AdGuardSDNSFilterDirect
 HOST,cgcag.timemission.com,AdGuardSDNSFilterDirect
+HOST,cgcexsprstohm.online,AdGuardSDNSFilterDirect
 HOST,cgcg01010ht.com,AdGuardSDNSFilterDirect
 HOST,cgcg01011ht.com,AdGuardSDNSFilterDirect
 HOST,cgcg01020ht.com,AdGuardSDNSFilterDirect
@@ -25546,6 +25592,7 @@ HOST,chakrasoverlip.com,AdGuardSDNSFilterDirect
 HOST,chalazataverns.com,AdGuardSDNSFilterDirect
 HOST,chalconcintre.cyou,AdGuardSDNSFilterDirect
 HOST,chaliceguzzlerlandlord.com,AdGuardSDNSFilterDirect
+HOST,chalinamajagga.click,AdGuardSDNSFilterDirect
 HOST,chalkdream.com,AdGuardSDNSFilterDirect
 HOST,chalkoil.com,AdGuardSDNSFilterDirect
 HOST,chalktutor.com,AdGuardSDNSFilterDirect
@@ -25879,6 +25926,7 @@ HOST,chpadblock.com,AdGuardSDNSFilterDirect
 HOST,chplea1tj9.top,AdGuardSDNSFilterDirect
 HOST,chpspb.bubbleroom.fi,AdGuardSDNSFilterDirect
 HOST,chptbtxqkvbel.site,AdGuardSDNSFilterDirect
+HOST,chpvafnhytjbm.website,AdGuardSDNSFilterDirect
 HOST,chqdyaoziqacr.website,AdGuardSDNSFilterDirect
 HOST,chqte.suncloudoptics.com,AdGuardSDNSFilterDirect
 HOST,chr.conservativehealthreport.org,AdGuardSDNSFilterDirect
@@ -26182,6 +26230,7 @@ HOST,cjulor.marimekko.jp,AdGuardSDNSFilterDirect
 HOST,cjutqvopetliy.space,AdGuardSDNSFilterDirect
 HOST,cjvdfw.com,AdGuardSDNSFilterDirect
 HOST,cjvoe42li.mf7ptepmopk39h1.cyou,AdGuardSDNSFilterDirect
+HOST,cjvwedvpdnjsi.online,AdGuardSDNSFilterDirect
 HOST,cjwtfp.esimsar.com,AdGuardSDNSFilterDirect
 HOST,cjwvyhvwyispv.website,AdGuardSDNSFilterDirect
 HOST,cjwyzhzjwmzmf.site,AdGuardSDNSFilterDirect
@@ -26324,6 +26373,7 @@ HOST,clarifyverse.com,AdGuardSDNSFilterDirect
 HOST,clarinaseamostesseda.cfd,AdGuardSDNSFilterDirect
 HOST,claring-loccelkin.com,AdGuardSDNSFilterDirect
 HOST,clarinmeanest.com,AdGuardSDNSFilterDirect
+HOST,claristequipttonish.cfd,AdGuardSDNSFilterDirect
 HOST,clarity-il.com,AdGuardSDNSFilterDirect
 HOST,clarity.abacast.com,AdGuardSDNSFilterDirect
 HOST,clarity.fonio.ai,AdGuardSDNSFilterDirect
@@ -27068,6 +27118,7 @@ HOST,clownfish.elihorne.com,AdGuardSDNSFilterDirect
 HOST,clownfish.onvard.de,AdGuardSDNSFilterDirect
 HOST,clownfish.philipkiely.com,AdGuardSDNSFilterDirect
 HOST,clownfish.wrestlingiq.com,AdGuardSDNSFilterDirect
+HOST,cloyerpapaw.click,AdGuardSDNSFilterDirect
 HOST,clprfkljfcmnm.site,AdGuardSDNSFilterDirect
 HOST,clprr.com,AdGuardSDNSFilterDirect
 HOST,clpx.l2l11bqg1myq1ytu2jck3.cyou,AdGuardSDNSFilterDirect
@@ -27426,6 +27477,7 @@ HOST,cockatielcafe.com,AdGuardSDNSFilterDirect
 HOST,cockeyenomes.com,AdGuardSDNSFilterDirect
 HOST,cockiesbonnne.com,AdGuardSDNSFilterDirect
 HOST,cocklenuclear.qpon,AdGuardSDNSFilterDirect
+HOST,cocklettherial.cyou,AdGuardSDNSFilterDirect
 HOST,cockneyskasely.com,AdGuardSDNSFilterDirect
 HOST,cockpitadministration.com,AdGuardSDNSFilterDirect
 HOST,cockpiteconomicspayroll.com,AdGuardSDNSFilterDirect
@@ -27479,6 +27531,7 @@ HOST,codextutus.com,AdGuardSDNSFilterDirect
 HOST,codingskysail.com,AdGuardSDNSFilterDirect
 HOST,codingunlocked.com,AdGuardSDNSFilterDirect
 HOST,codon.vn,AdGuardSDNSFilterDirect
+HOST,coelarwhosome.com,AdGuardSDNSFilterDirect
 HOST,coeliabumpee.com,AdGuardSDNSFilterDirect
 HOST,coendouspare.com,AdGuardSDNSFilterDirect
 HOST,coerautsbdfpg.online,AdGuardSDNSFilterDirect
@@ -27577,6 +27630,7 @@ HOST,coleta-autoridade.cursosdoportal.com.br,AdGuardSDNSFilterDirect
 HOST,coleta.curcura.com.br,AdGuardSDNSFilterDirect
 HOST,coleta.suplementosgolfeto.com.br,AdGuardSDNSFilterDirect
 HOST,colgui.vidaxl.pt,AdGuardSDNSFilterDirect
+HOST,colhanygoyohp.space,AdGuardSDNSFilterDirect
 HOST,colicsbefile.com,AdGuardSDNSFilterDirect
 HOST,coll.lovense.com,AdGuardSDNSFilterDirect
 HOST,collab.zdravetricko.cz,AdGuardSDNSFilterDirect
@@ -30165,6 +30219,7 @@ HOST,crowdsuitcaseuntwist.com,AdGuardSDNSFilterDirect
 HOST,crowdsynonym.com,AdGuardSDNSFilterDirect
 HOST,crownzodiac.com,AdGuardSDNSFilterDirect
 HOST,crpcrngnbogao.site,AdGuardSDNSFilterDirect
+HOST,crpdadadgogyh.site,AdGuardSDNSFilterDirect
 HOST,crph030as0.net.mydays.de,AdGuardSDNSFilterDirect
 HOST,crprmbjapabkt.website,AdGuardSDNSFilterDirect
 HOST,crptentry.com,AdGuardSDNSFilterDirect
@@ -31384,6 +31439,7 @@ HOST,cycling.voicycling.com.br,AdGuardSDNSFilterDirect
 HOST,cyclinghere.com,AdGuardSDNSFilterDirect
 HOST,cyclonebamboo.com,AdGuardSDNSFilterDirect
 HOST,cyclopsdial.com,AdGuardSDNSFilterDirect
+HOST,cyclopslicorn.com,AdGuardSDNSFilterDirect
 HOST,cycsfe.com,AdGuardSDNSFilterDirect
 HOST,cydskqupzdook.online,AdGuardSDNSFilterDirect
 HOST,cyeabs.luxyhair.com,AdGuardSDNSFilterDirect
@@ -39947,6 +40003,7 @@ HOST,ddxiejwiegzxa.website,AdGuardSDNSFilterDirect
 HOST,ddxsrk.ictjob.be,AdGuardSDNSFilterDirect
 HOST,ddxwjtou7avz0.cloudfront.net,AdGuardSDNSFilterDirect
 HOST,ddxywc.mariomall.co.kr,AdGuardSDNSFilterDirect
+HOST,ddyejopzyjxxzf.com,AdGuardSDNSFilterDirect
 HOST,ddyipu.com,AdGuardSDNSFilterDirect
 HOST,ddytwtumsiopf.space,AdGuardSDNSFilterDirect
 HOST,ddzk5l3bd.com,AdGuardSDNSFilterDirect
@@ -40080,6 +40137,7 @@ HOST,dedicatedmedia.com,AdGuardSDNSFilterDirect
 HOST,dedicatednetworks.com,AdGuardSDNSFilterDirect
 HOST,dedicateimaginesoil.com,AdGuardSDNSFilterDirect
 HOST,dedicationageunfortunately.com,AdGuardSDNSFilterDirect
+HOST,deducedcallid.cfd,AdGuardSDNSFilterDirect
 HOST,deductgreedyheadroom.com,AdGuardSDNSFilterDirect
 HOST,deductpursue.com,AdGuardSDNSFilterDirect
 HOST,deductsuggest.com,AdGuardSDNSFilterDirect
@@ -40377,6 +40435,7 @@ HOST,depriverippledecadence.com,AdGuardSDNSFilterDirect
 HOST,depthschokedirected.com,AdGuardSDNSFilterDirect
 HOST,depthsdeficitunited.com,AdGuardSDNSFilterDirect
 HOST,depucelborasca.cfd,AdGuardSDNSFilterDirect
+HOST,depurgearomas.com,AdGuardSDNSFilterDirect
 HOST,deputesastay.com,AdGuardSDNSFilterDirect
 HOST,deputizeeverydayexorcist.com,AdGuardSDNSFilterDirect
 HOST,deputizepacifistwipe.com,AdGuardSDNSFilterDirect
@@ -42689,6 +42748,7 @@ HOST,dqv45r33u0ltv.cloudfront.net,AdGuardSDNSFilterDirect
 HOST,dqvzvi.ginzabiyou.com,AdGuardSDNSFilterDirect
 HOST,dqwdebmtifbey.online,AdGuardSDNSFilterDirect
 HOST,dqwpkufwbinyi.website,AdGuardSDNSFilterDirect
+HOST,dqwqglbiiealk.website,AdGuardSDNSFilterDirect
 HOST,dqwzhseasq.com,AdGuardSDNSFilterDirect
 HOST,dqydzfzvwvaxt.website,AdGuardSDNSFilterDirect
 HOST,dqzks.georgiemane.com,AdGuardSDNSFilterDirect
@@ -43346,6 +43406,7 @@ HOST,dszlbx.com,AdGuardSDNSFilterDirect
 HOST,dszmeo.com,AdGuardSDNSFilterDirect
 HOST,dszmga.com,AdGuardSDNSFilterDirect
 HOST,dszmtq.com,AdGuardSDNSFilterDirect
+HOST,dsznwssdfnylt.website,AdGuardSDNSFilterDirect
 HOST,dszqfx.com,AdGuardSDNSFilterDirect
 HOST,dszqgc.com,AdGuardSDNSFilterDirect
 HOST,dszqsm.com,AdGuardSDNSFilterDirect
@@ -43840,6 +43901,7 @@ HOST,dvwztnx4ab3fl.cloudfront.net,AdGuardSDNSFilterDirect
 HOST,dvxeqsgyabyvr.online,AdGuardSDNSFilterDirect
 HOST,dvxgccnsejtgm.space,AdGuardSDNSFilterDirect
 HOST,dvypar.com,AdGuardSDNSFilterDirect
+HOST,dvzcfqpdoaxtr.website,AdGuardSDNSFilterDirect
 HOST,dvzycytrxbxav.space,AdGuardSDNSFilterDirect
 HOST,dw-eu.com.com,AdGuardSDNSFilterDirect
 HOST,dw.dewa.pl,AdGuardSDNSFilterDirect
@@ -44703,6 +44765,7 @@ HOST,earnify.com,AdGuardSDNSFilterDirect
 HOST,earningskingdeliberately.com,AdGuardSDNSFilterDirect
 HOST,earnvids.com,AdGuardSDNSFilterDirect
 HOST,earopro-ss.checkoutera.com,AdGuardSDNSFilterDirect
+HOST,earringmavin.cyou,AdGuardSDNSFilterDirect
 HOST,earringsatisfiedsplice.com,AdGuardSDNSFilterDirect
 HOST,earth.cointelegraph.com,AdGuardSDNSFilterDirect
 HOST,earthlybuzz.com,AdGuardSDNSFilterDirect
@@ -45071,6 +45134,7 @@ HOST,eccentricsterilizevastness.com,AdGuardSDNSFilterDirect
 HOST,ecchvrxiftetv.website,AdGuardSDNSFilterDirect
 HOST,ecctjf.leroymerlin.com.br,AdGuardSDNSFilterDirect
 HOST,eccytygvbsnjh.space,AdGuardSDNSFilterDirect
+HOST,eccztfkgzgean.site,AdGuardSDNSFilterDirect
 HOST,ecdhfydktzlvg.com,AdGuardSDNSFilterDirect
 HOST,ecdmizqngxzzq.site,AdGuardSDNSFilterDirect
 HOST,ecdoib.26p.jp,AdGuardSDNSFilterDirect
@@ -45634,9 +45698,11 @@ HOST,eevfstl1n.com,AdGuardSDNSFilterDirect
 HOST,eevhqgeudnqeg.space,AdGuardSDNSFilterDirect
 HOST,eevifrenxkyui.website,AdGuardSDNSFilterDirect
 HOST,eewdrt.fashiontofigure.com,AdGuardSDNSFilterDirect
+HOST,eewqlmtwdsron.space,AdGuardSDNSFilterDirect
 HOST,eexdpbhuaohsx.online,AdGuardSDNSFilterDirect
 HOST,eeybexiamabwa.site,AdGuardSDNSFilterDirect
 HOST,eeyytk.tonecontrol.nl,AdGuardSDNSFilterDirect
+HOST,eeztfgqkdagfl.online,AdGuardSDNSFilterDirect
 HOST,ef.fanatical.com,AdGuardSDNSFilterDirect
 HOST,ef.futuroscope.com,AdGuardSDNSFilterDirect
 HOST,ef.futuroscope.mobi,AdGuardSDNSFilterDirect
@@ -45921,6 +45987,7 @@ HOST,eipqr.rythmhealth.com,AdGuardSDNSFilterDirect
 HOST,eiqipsyfaemep.site,AdGuardSDNSFilterDirect
 HOST,eirci.kafene.com,AdGuardSDNSFilterDirect
 HOST,eirprovisioning.net.mydays.de,AdGuardSDNSFilterDirect
+HOST,eirqltkfddttl.website,AdGuardSDNSFilterDirect
 HOST,eirxggijnfnto.space,AdGuardSDNSFilterDirect
 HOST,eisdog.shape.com,AdGuardSDNSFilterDirect
 HOST,eisif.greenleafblends.se,AdGuardSDNSFilterDirect
@@ -46034,6 +46101,7 @@ HOST,ekhay.com,AdGuardSDNSFilterDirect
 HOST,ekhsvsp.com,AdGuardSDNSFilterDirect
 HOST,ekhu5mutizy8.nhgnwknoi4r1tmburi5bk.cyou,AdGuardSDNSFilterDirect
 HOST,ekibaxrmvurda.online,AdGuardSDNSFilterDirect
+HOST,ekifhvythtqjf.space,AdGuardSDNSFilterDirect
 HOST,ekiisawyaretz.online,AdGuardSDNSFilterDirect
 HOST,ekilrs.haarspullen.nl,AdGuardSDNSFilterDirect
 HOST,ekiya.kirchberger-metall.de,AdGuardSDNSFilterDirect
@@ -47263,6 +47331,7 @@ HOST,enthusiasticinsanity.com,AdGuardSDNSFilterDirect
 HOST,entifyclime.cfd,AdGuardSDNSFilterDirect
 HOST,entire-positive.com,AdGuardSDNSFilterDirect
 HOST,entjgcr.com,AdGuardSDNSFilterDirect
+HOST,entomhefteroverfee.cyou,AdGuardSDNSFilterDirect
 HOST,entoneeyeholebowls.cyou,AdGuardSDNSFilterDirect
 HOST,entoticunaflowretape.qpon,AdGuardSDNSFilterDirect
 HOST,entrance79.top,AdGuardSDNSFilterDirect
@@ -47426,6 +47495,7 @@ HOST,epidemicoversleeppoet.com,AdGuardSDNSFilterDirect
 HOST,epidermclearflamens.qpon,AdGuardSDNSFilterDirect
 HOST,epidermispushupvariable.com,AdGuardSDNSFilterDirect
 HOST,epidzasjhnzoi.site,AdGuardSDNSFilterDirect
+HOST,epigeumexpone.click,AdGuardSDNSFilterDirect
 HOST,epigonternal.shop,AdGuardSDNSFilterDirect
 HOST,epilogortyx.com,AdGuardSDNSFilterDirect
 HOST,epilovnncqduc.site,AdGuardSDNSFilterDirect
@@ -47438,12 +47508,14 @@ HOST,epito.xyz,AdGuardSDNSFilterDirect
 HOST,epitrack.com,AdGuardSDNSFilterDirect
 HOST,epiv.cardlytics.com,AdGuardSDNSFilterDirect
 HOST,epixkf.dentrodahistoria.com.br,AdGuardSDNSFilterDirect
+HOST,epizoanvick.rest,AdGuardSDNSFilterDirect
 HOST,epjlfziryrpkg.site,AdGuardSDNSFilterDirect
 HOST,eplgb.properhealth.com,AdGuardSDNSFilterDirect
 HOST,epllamityitcp.space,AdGuardSDNSFilterDirect
 HOST,epltnk.kaiteki.gr.jp,AdGuardSDNSFilterDirect
 HOST,eplukorxrmfvy.site,AdGuardSDNSFilterDirect
 HOST,epm.mailperformance.com,AdGuardSDNSFilterDirect
+HOST,epnllezkjgpif.website,AdGuardSDNSFilterDirect
 HOST,epnredirect.ru,AdGuardSDNSFilterDirect
 HOST,epnt.ebay.com,AdGuardSDNSFilterDirect
 HOST,epnzpngg4glry616j55wn13cxo7cq.cfd,AdGuardSDNSFilterDirect
@@ -47528,10 +47600,12 @@ HOST,eqpaulxcpirir.site,AdGuardSDNSFilterDirect
 HOST,eqpmzcorwgnda.store,AdGuardSDNSFilterDirect
 HOST,eqpuvcjjipmjn.space,AdGuardSDNSFilterDirect
 HOST,eqpzad.usinenouvelle.com,AdGuardSDNSFilterDirect
+HOST,eqq91cgw2trehrp.rest,AdGuardSDNSFilterDirect
 HOST,eqqijviondcls.site,AdGuardSDNSFilterDirect
 HOST,eqqppcwtwvsmh.site,AdGuardSDNSFilterDirect
 HOST,eqrqlmjqwictz.website,AdGuardSDNSFilterDirect
 HOST,eqrqq.brilliance.com,AdGuardSDNSFilterDirect
+HOST,eqrzjerfwhcvx.space,AdGuardSDNSFilterDirect
 HOST,eqs.accountants.intuit.com,AdGuardSDNSFilterDirect
 HOST,eqs.intuit.com,AdGuardSDNSFilterDirect
 HOST,eqsdv.everlane.com,AdGuardSDNSFilterDirect
@@ -47680,6 +47754,7 @@ HOST,ert5.rmcsport.tv,AdGuardSDNSFilterDirect
 HOST,ertablisystation.org,AdGuardSDNSFilterDirect
 HOST,ertko.annieandoak.com,AdGuardSDNSFilterDirect
 HOST,eru5tdmbuwxm.com,AdGuardSDNSFilterDirect
+HOST,eructsgirt.rest,AdGuardSDNSFilterDirect
 HOST,eruptpriority.com,AdGuardSDNSFilterDirect
 HOST,erurl.barkpotty.com,AdGuardSDNSFilterDirect
 HOST,erutinmo.snagajob.com,AdGuardSDNSFilterDirect
@@ -47761,6 +47836,7 @@ HOST,eshsm.amazethreads.com,AdGuardSDNSFilterDirect
 HOST,eshur.pranapets.com,AdGuardSDNSFilterDirect
 HOST,esifi.acmetools.com,AdGuardSDNSFilterDirect
 HOST,esjoeuuzfgzsi.website,AdGuardSDNSFilterDirect
+HOST,eskarsunleavesmokier.cyou,AdGuardSDNSFilterDirect
 HOST,eskhnlhqqspju.website,AdGuardSDNSFilterDirect
 HOST,eskimi.com,AdGuardSDNSFilterDirect
 HOST,eskis.frame-store.com,AdGuardSDNSFilterDirect
@@ -47778,6 +47854,7 @@ HOST,esotvjhho.com,AdGuardSDNSFilterDirect
 HOST,esozdcn.icu,AdGuardSDNSFilterDirect
 HOST,espartocourtin.com,AdGuardSDNSFilterDirect
 HOST,espayutnluzem.store,AdGuardSDNSFilterDirect
+HOST,espebwvbducri.space,AdGuardSDNSFilterDirect
 HOST,especiallybeforehand.com,AdGuardSDNSFilterDirect
 HOST,espfwgdkarzwj.space,AdGuardSDNSFilterDirect
 HOST,espmp-agfr.net,AdGuardSDNSFilterDirect
@@ -48153,6 +48230,7 @@ HOST,eufk22.com,AdGuardSDNSFilterDirect
 HOST,eufk55.com,AdGuardSDNSFilterDirect
 HOST,eufnidveovlsj.online,AdGuardSDNSFilterDirect
 HOST,eufnv.barilife.com,AdGuardSDNSFilterDirect
+HOST,eufwayegexdjs.online,AdGuardSDNSFilterDirect
 HOST,eufzej.good-stay.net,AdGuardSDNSFilterDirect
 HOST,eugek.travelpro.com,AdGuardSDNSFilterDirect
 HOST,euggmi.nicosuma.com,AdGuardSDNSFilterDirect
@@ -49024,6 +49102,7 @@ HOST,excuseduchess.com,AdGuardSDNSFilterDirect
 HOST,excuselift.com,AdGuardSDNSFilterDirect
 HOST,exd4.destinia.com.au,AdGuardSDNSFilterDirect
 HOST,exdmarketing.smu.edu.sg,AdGuardSDNSFilterDirect
+HOST,exdsogxhiatsx.space,AdGuardSDNSFilterDirect
 HOST,exdsrgqn.meblekatmandu.pl,AdGuardSDNSFilterDirect
 HOST,exdtqlgaezeqf.site,AdGuardSDNSFilterDirect
 HOST,exdxgjgqdmfrw.online,AdGuardSDNSFilterDirect
@@ -49376,6 +49455,7 @@ HOST,eziccr.dedoles.cz,AdGuardSDNSFilterDirect
 HOST,ezjvr.lifeonrecord.com,AdGuardSDNSFilterDirect
 HOST,ezkccrmvsqzri.site,AdGuardSDNSFilterDirect
 HOST,ezkfqjqijfjwt.site,AdGuardSDNSFilterDirect
+HOST,ezkzzvzwfjasj.website,AdGuardSDNSFilterDirect
 HOST,ezlhfg.wonderweekend.com,AdGuardSDNSFilterDirect
 HOST,ezmmxv.exxpozed.com,AdGuardSDNSFilterDirect
 HOST,ezmob.com,AdGuardSDNSFilterDirect
@@ -49410,6 +49490,7 @@ HOST,ezvthdrknbfad.space,AdGuardSDNSFilterDirect
 HOST,ezwknedlwdetk.online,AdGuardSDNSFilterDirect
 HOST,ezxkarybihqoo.space,AdGuardSDNSFilterDirect
 HOST,ezycsflow.com,AdGuardSDNSFilterDirect
+HOST,ezygwbeelptbx.site,AdGuardSDNSFilterDirect
 HOST,ezytrack.com,AdGuardSDNSFilterDirect
 HOST,ezzdk.lectricebikes.com,AdGuardSDNSFilterDirect
 HOST,ezze0ct.com,AdGuardSDNSFilterDirect
@@ -49705,6 +49786,7 @@ HOST,fairu-schnellvpn.xyz,AdGuardSDNSFilterDirect
 HOST,fairway.golfballplanet.com,AdGuardSDNSFilterDirect
 HOST,fairycarboys.qpon,AdGuardSDNSFilterDirect
 HOST,fairygaze.com,AdGuardSDNSFilterDirect
+HOST,faisanbiotype.cfd,AdGuardSDNSFilterDirect
 HOST,faithfuldifficulty.com,AdGuardSDNSFilterDirect
 HOST,faithfullyreadiness.com,AdGuardSDNSFilterDirect
 HOST,faithlesscourtroom.com,AdGuardSDNSFilterDirect
@@ -50210,6 +50292,7 @@ HOST,fcpomkzxamary.space,AdGuardSDNSFilterDirect
 HOST,fcpszk.telestream.net,AdGuardSDNSFilterDirect
 HOST,fcqrzagadhlvn.online,AdGuardSDNSFilterDirect
 HOST,fcqxpfnznomxj.website,AdGuardSDNSFilterDirect
+HOST,fcqxqbrhpduuk.space,AdGuardSDNSFilterDirect
 HOST,fcqyovdhaayll.space,AdGuardSDNSFilterDirect
 HOST,fcrfes.clarktoys.com,AdGuardSDNSFilterDirect
 HOST,fcroas.rhushiayurveda.com,AdGuardSDNSFilterDirect
@@ -50594,6 +50677,7 @@ HOST,ffkcrs.happy-size.nl,AdGuardSDNSFilterDirect
 HOST,ffkodbsysvriy.online,AdGuardSDNSFilterDirect
 HOST,fflbc.hillmangear.com,AdGuardSDNSFilterDirect
 HOST,fflbmjgdjfsgt.site,AdGuardSDNSFilterDirect
+HOST,fflieipbhlgtl.online,AdGuardSDNSFilterDirect
 HOST,ffluhsrpb.com,AdGuardSDNSFilterDirect
 HOST,fflvibejrazhp.online,AdGuardSDNSFilterDirect
 HOST,ffmemberrship-garena.com,AdGuardSDNSFilterDirect
@@ -51480,6 +51564,7 @@ HOST,firstpresence.pro,AdGuardSDNSFilterDirect
 HOST,firstresponsibility.pro,AdGuardSDNSFilterDirect
 HOST,firstscreenshot.com,AdGuardSDNSFilterDirect
 HOST,firstsponsor.de,AdGuardSDNSFilterDirect
+HOST,firstswynns.click,AdGuardSDNSFilterDirect
 HOST,firsttrack.ru,AdGuardSDNSFilterDirect
 HOST,firstuk.barkingbags.co.uk,AdGuardSDNSFilterDirect
 HOST,firstus.simplysensitivitychecks.com,AdGuardSDNSFilterDirect
@@ -51551,6 +51636,7 @@ HOST,fixedfold.com,AdGuardSDNSFilterDirect
 HOST,fixedlyfully.com,AdGuardSDNSFilterDirect
 HOST,fixingcreepingstarter.com,AdGuardSDNSFilterDirect
 HOST,fixionmedia.com,AdGuardSDNSFilterDirect
+HOST,fixpsemfjmejn.online,AdGuardSDNSFilterDirect
 HOST,fixwap.net,AdGuardSDNSFilterDirect
 HOST,fiydnu.dcgstores.com,AdGuardSDNSFilterDirect
 HOST,fiyyutxomrsic.site,AdGuardSDNSFilterDirect
@@ -51568,6 +51654,7 @@ HOST,fjcgyzakpsskx.space,AdGuardSDNSFilterDirect
 HOST,fjdzgn.paulfredrick.com,AdGuardSDNSFilterDirect
 HOST,fjetd.wilko.com,AdGuardSDNSFilterDirect
 HOST,fjfpl.echosales.ca,AdGuardSDNSFilterDirect
+HOST,fjfxeuiqwjhfo.website,AdGuardSDNSFilterDirect
 HOST,fjgvhc.moondreamwebstore.de,AdGuardSDNSFilterDirect
 HOST,fjhqfcgfahfhw.site,AdGuardSDNSFilterDirect
 HOST,fjighz.armaniexchange.com,AdGuardSDNSFilterDirect
@@ -52205,6 +52292,7 @@ HOST,followsscaringcarrier.com,AdGuardSDNSFilterDirect
 HOST,folnpqyqxwdhl.space,AdGuardSDNSFilterDirect
 HOST,fom.xxxdottube.com,AdGuardSDNSFilterDirect
 HOST,fomentsbedded.cfd,AdGuardSDNSFilterDirect
+HOST,fomgggkpmzlxo.site,AdGuardSDNSFilterDirect
 HOST,fomhr.superlash.pl,AdGuardSDNSFilterDirect
 HOST,fondstudy.com,AdGuardSDNSFilterDirect
 HOST,foneclick.com.br,AdGuardSDNSFilterDirect
@@ -53191,12 +53279,14 @@ HOST,frrhcvblgskvz.site,AdGuardSDNSFilterDirect
 HOST,frrkdiszpiclc.online,AdGuardSDNSFilterDirect
 HOST,frrne.guess.com,AdGuardSDNSFilterDirect
 HOST,frs2c.com,AdGuardSDNSFilterDirect
+HOST,frsamsxjlpfhv.site,AdGuardSDNSFilterDirect
 HOST,frser.manzorabagues.fr,AdGuardSDNSFilterDirect
 HOST,frserver.mithalimart.com,AdGuardSDNSFilterDirect
 HOST,frshery.com,AdGuardSDNSFilterDirect
 HOST,frsipxum.zavopay.com,AdGuardSDNSFilterDirect
 HOST,frthg.antiquefarmhouse.com,AdGuardSDNSFilterDirect
 HOST,frtihyvwigowg.online,AdGuardSDNSFilterDirect
+HOST,frtjdwbojvpyz.space,AdGuardSDNSFilterDirect
 HOST,frtnoquwhksdm.space,AdGuardSDNSFilterDirect
 HOST,frtoi.calpaktravel.com,AdGuardSDNSFilterDirect
 HOST,frtya.com,AdGuardSDNSFilterDirect
@@ -53263,6 +53353,7 @@ HOST,fshop.faridbookdepo.com,AdGuardSDNSFilterDirect
 HOST,fsied.omnicheer.com,AdGuardSDNSFilterDirect
 HOST,fsint.fabspeed.com,AdGuardSDNSFilterDirect
 HOST,fsjftgqefefds.online,AdGuardSDNSFilterDirect
+HOST,fskamdkxhobeu.site,AdGuardSDNSFilterDirect
 HOST,fskgsm.tuinmeubelland.nl,AdGuardSDNSFilterDirect
 HOST,fsknvrmtznthn.online,AdGuardSDNSFilterDirect
 HOST,fsmfceljvhwfg.space,AdGuardSDNSFilterDirect
@@ -53374,6 +53465,7 @@ HOST,ftzblwbirevog.website,AdGuardSDNSFilterDirect
 HOST,fu.oc263j1v4i76i9l.cyou,AdGuardSDNSFilterDirect
 HOST,fuagebel.cyou,AdGuardSDNSFilterDirect
 HOST,fuagesilk.com,AdGuardSDNSFilterDirect
+HOST,fuahwnyxymhlq.site,AdGuardSDNSFilterDirect
 HOST,fuarwt.catawiki.pt,AdGuardSDNSFilterDirect
 HOST,fubbedcubes.com,AdGuardSDNSFilterDirect
 HOST,fubuki-umami.space,AdGuardSDNSFilterDirect
@@ -53482,6 +53574,7 @@ HOST,fundsruffianfollows.com,AdGuardSDNSFilterDirect
 HOST,fungicdiauloschemmy.qpon,AdGuardSDNSFilterDirect
 HOST,fungidcolder.com,AdGuardSDNSFilterDirect
 HOST,funil.webjasper.com.br,AdGuardSDNSFilterDirect
+HOST,funkingdefat.rest,AdGuardSDNSFilterDirect
 HOST,funkydaters.com,AdGuardSDNSFilterDirect
 HOST,funnedravage.com,AdGuardSDNSFilterDirect
 HOST,funnel.olivegroveoundle.co.uk,AdGuardSDNSFilterDirect
@@ -53854,6 +53947,7 @@ HOST,fzklq.getfpv.com,AdGuardSDNSFilterDirect
 HOST,fzkrc.remington.com,AdGuardSDNSFilterDirect
 HOST,fzksk.moderntribe.com,AdGuardSDNSFilterDirect
 HOST,fzlbvs.schuhe24.de,AdGuardSDNSFilterDirect
+HOST,fzlcthmjydxty.online,AdGuardSDNSFilterDirect
 HOST,fzlgqd.luminaire-center.com,AdGuardSDNSFilterDirect
 HOST,fzlpixsrxtixp.site,AdGuardSDNSFilterDirect
 HOST,fzltkaptycrlv.website,AdGuardSDNSFilterDirect
@@ -54874,6 +54968,7 @@ HOST,gen-ref.com,AdGuardSDNSFilterDirect
 HOST,gen.epigemic.cz,AdGuardSDNSFilterDirect
 HOST,genbalar.com,AdGuardSDNSFilterDirect
 HOST,gendbkamiggxs.site,AdGuardSDNSFilterDirect
+HOST,genearcyanize.cfd,AdGuardSDNSFilterDirect
 HOST,geneatcatalog.com,AdGuardSDNSFilterDirect
 HOST,genepiphytol.cfd,AdGuardSDNSFilterDirect
 HOST,genepkevin.com,AdGuardSDNSFilterDirect
@@ -55473,6 +55568,7 @@ HOST,ggo10140lq.com,AdGuardSDNSFilterDirect
 HOST,ggo10141lq.com,AdGuardSDNSFilterDirect
 HOST,ggo10150lq.com,AdGuardSDNSFilterDirect
 HOST,ggo10151lq.com,AdGuardSDNSFilterDirect
+HOST,ggp7fwgmj7kvqeulw5335.cfd,AdGuardSDNSFilterDirect
 HOST,ggpbuvhzihxxh.website,AdGuardSDNSFilterDirect
 HOST,ggpig.melodymaison.co.uk,AdGuardSDNSFilterDirect
 HOST,ggpkyvsokroop.online,AdGuardSDNSFilterDirect
@@ -55562,6 +55658,7 @@ HOST,ghostwoodalbum.com,AdGuardSDNSFilterDirect
 HOST,ghosv.goodgames.com.au,AdGuardSDNSFilterDirect
 HOST,ghovvadv.com,AdGuardSDNSFilterDirect
 HOST,ghp.adp.ca,AdGuardSDNSFilterDirect
+HOST,ghrjyouvkdqwu.space,AdGuardSDNSFilterDirect
 HOST,ghrnbw.avocadostore.de,AdGuardSDNSFilterDirect
 HOST,ghrzlu.skechers.com.tr,AdGuardSDNSFilterDirect
 HOST,ghsmiaohdfgxl.space,AdGuardSDNSFilterDirect
@@ -55656,6 +55753,8 @@ HOST,giftcode-sukienaov.com,AdGuardSDNSFilterDirect
 HOST,gifted-dealer.pro,AdGuardSDNSFilterDirect
 HOST,giftedbamboo.com,AdGuardSDNSFilterDirect
 HOST,giftedbelt.com,AdGuardSDNSFilterDirect
+HOST,giftedbuffet.info,AdGuardSDNSFilterDirect
+HOST,giftedbuffet.tech,AdGuardSDNSFilterDirect
 HOST,gifteddonut.com,AdGuardSDNSFilterDirect
 HOST,giftedimplacablefacile.com,AdGuardSDNSFilterDirect
 HOST,giftedlemon.com,AdGuardSDNSFilterDirect
@@ -55817,6 +55916,7 @@ HOST,gjcvvmwz.com,AdGuardSDNSFilterDirect
 HOST,gjeinv.kraftkoket.se,AdGuardSDNSFilterDirect
 HOST,gjesm.honeybirdette.com,AdGuardSDNSFilterDirect
 HOST,gjfayongoeneq.space,AdGuardSDNSFilterDirect
+HOST,gjfjmxslylmem.space,AdGuardSDNSFilterDirect
 HOST,gjfyeghpsuxmx.space,AdGuardSDNSFilterDirect
 HOST,gjgdm.1aauto.com,AdGuardSDNSFilterDirect
 HOST,gjgfkqrkmfaju.site,AdGuardSDNSFilterDirect
@@ -55825,7 +55925,6 @@ HOST,gjgygejwispoo.space,AdGuardSDNSFilterDirect
 HOST,gjhjo.impactdogcrates.com,AdGuardSDNSFilterDirect
 HOST,gjhkyh.4fresh.ru,AdGuardSDNSFilterDirect
 HOST,gjigle.com,AdGuardSDNSFilterDirect
-HOST,gjirafa.net,AdGuardSDNSFilterDirect
 HOST,gjirc.findyourhealthyplace.com,AdGuardSDNSFilterDirect
 HOST,gjiruqrsnzrsi.store,AdGuardSDNSFilterDirect
 HOST,gjiympgypuqkl.space,AdGuardSDNSFilterDirect
@@ -55853,6 +55952,7 @@ HOST,gjtdzt.brandchee.com,AdGuardSDNSFilterDirect
 HOST,gjtrack.uc.cn,AdGuardSDNSFilterDirect
 HOST,gjtrack.ucweb.com,AdGuardSDNSFilterDirect
 HOST,gjubvembrxsot.space,AdGuardSDNSFilterDirect
+HOST,gjuf2qyz4u14x9ouo587z833.cfd,AdGuardSDNSFilterDirect
 HOST,gjv7fg.ru,AdGuardSDNSFilterDirect
 HOST,gjvgp.contactlensking.com,AdGuardSDNSFilterDirect
 HOST,gjvyboaabepyl.online,AdGuardSDNSFilterDirect
@@ -55927,6 +56027,7 @@ HOST,gkuresx.com,AdGuardSDNSFilterDirect
 HOST,gkvfndkdzavrv.online,AdGuardSDNSFilterDirect
 HOST,gkvjmx3xf.com,AdGuardSDNSFilterDirect
 HOST,gkwubmvlnrpnz.space,AdGuardSDNSFilterDirect
+HOST,gkwvubnomcnst.website,AdGuardSDNSFilterDirect
 HOST,gkxaay.tontarellishop.com,AdGuardSDNSFilterDirect
 HOST,gkxixncsphfli.online,AdGuardSDNSFilterDirect
 HOST,gkxkvp.tumi.co.jp,AdGuardSDNSFilterDirect
@@ -56196,6 +56297,7 @@ HOST,gmmrg.wavea.au,AdGuardSDNSFilterDirect
 HOST,gmmrnnunwgabr.site,AdGuardSDNSFilterDirect
 HOST,gmn.gloo.com,AdGuardSDNSFilterDirect
 HOST,gmnrndtdliili.website,AdGuardSDNSFilterDirect
+HOST,gmnszkjjkaznf.site,AdGuardSDNSFilterDirect
 HOST,gmodmp.jp,AdGuardSDNSFilterDirect
 HOST,gmogqypfiyrtv.space,AdGuardSDNSFilterDirect
 HOST,gmojt.wiser-choices.com,AdGuardSDNSFilterDirect
@@ -57409,6 +57511,7 @@ HOST,gqqfyljqtpmga.website,AdGuardSDNSFilterDirect
 HOST,gqqgsp.tervis.com,AdGuardSDNSFilterDirect
 HOST,gqqxum.mannys.com.au,AdGuardSDNSFilterDirect
 HOST,gqraqz.e-domizil.de,AdGuardSDNSFilterDirect
+HOST,gqrvjbpmobsvi.online,AdGuardSDNSFilterDirect
 HOST,gqssj.dukesweightloss.com.au,AdGuardSDNSFilterDirect
 HOST,gqtdckecwvjym.site,AdGuardSDNSFilterDirect
 HOST,gqtvkxhycjthdx.com,AdGuardSDNSFilterDirect
@@ -57756,6 +57859,7 @@ HOST,grumpyprotection.pro,AdGuardSDNSFilterDirect
 HOST,grunchpotfuls.qpon,AdGuardSDNSFilterDirect
 HOST,grupo.littlelolo.com.br,AdGuardSDNSFilterDirect
 HOST,gruponn.com,AdGuardSDNSFilterDirect
+HOST,gruwiqatdpaz.in,AdGuardSDNSFilterDirect
 HOST,grv.media,AdGuardSDNSFilterDirect
 HOST,grvmedia.com,AdGuardSDNSFilterDirect
 HOST,grvycpghbiild.website,AdGuardSDNSFilterDirect
@@ -63929,6 +64033,7 @@ HOST,gururevenue.com,AdGuardSDNSFilterDirect
 HOST,gus.corinnavondermuehlen.de,AdGuardSDNSFilterDirect
 HOST,gus.gant.co.il,AdGuardSDNSFilterDirect
 HOST,gus.ihlenfeldt.de,AdGuardSDNSFilterDirect
+HOST,gusbpwgmnekeg.site,AdGuardSDNSFilterDirect
 HOST,gusbtocfswjhl.site,AdGuardSDNSFilterDirect
 HOST,gusc.status.stape.global,AdGuardSDNSFilterDirect
 HOST,guseridvicetyhypozoa.cyou,AdGuardSDNSFilterDirect
@@ -64868,6 +64973,7 @@ HOST,hbdaperfmtzvo.site,AdGuardSDNSFilterDirect
 HOST,hbdjkojscptyc.site,AdGuardSDNSFilterDirect
 HOST,hbedtvugrfdgm.space,AdGuardSDNSFilterDirect
 HOST,hbfajjyizvsww.site,AdGuardSDNSFilterDirect
+HOST,hbfhqwyklulff.space,AdGuardSDNSFilterDirect
 HOST,hbfpml.cn,AdGuardSDNSFilterDirect
 HOST,hbgcxdsl.sackit.dk,AdGuardSDNSFilterDirect
 HOST,hbgcxdsl.sackit.eu,AdGuardSDNSFilterDirect
@@ -65318,6 +65424,7 @@ HOST,helpfulmusic.biz,AdGuardSDNSFilterDirect
 HOST,helpingbits.com,AdGuardSDNSFilterDirect
 HOST,helsinki.tulos.fi,AdGuardSDNSFilterDirect
 HOST,helvellreest.com,AdGuardSDNSFilterDirect
+HOST,helvineslaked.rest,AdGuardSDNSFilterDirect
 HOST,hem41xm47.com,AdGuardSDNSFilterDirect
 HOST,hemblx.vans.cl,AdGuardSDNSFilterDirect
 HOST,hemcgm.smaphocase.com,AdGuardSDNSFilterDirect
@@ -65688,6 +65795,7 @@ HOST,hibiki-track.logica.bz,AdGuardSDNSFilterDirect
 HOST,hibiscus76.com,AdGuardSDNSFilterDirect
 HOST,hiboowbrkegop.site,AdGuardSDNSFilterDirect
 HOST,hibylu.smartbuyglasses.no,AdGuardSDNSFilterDirect
+HOST,hickeysideaful.com,AdGuardSDNSFilterDirect
 HOST,hickory27.top,AdGuardSDNSFilterDirect
 HOST,hicnwrwfphkyz.website,AdGuardSDNSFilterDirect
 HOST,hiconversion.com,AdGuardSDNSFilterDirect
@@ -65780,6 +65888,7 @@ HOST,hikvar.ru,AdGuardSDNSFilterDirect
 HOST,hilar.xyz,AdGuardSDNSFilterDirect
 HOST,hilariouseconomics.com,AdGuardSDNSFilterDirect
 HOST,hilariouszinc.com,AdGuardSDNSFilterDirect
+HOST,hildiwblwfzpm.website,AdGuardSDNSFilterDirect
 HOST,hilerant.site,AdGuardSDNSFilterDirect
 HOST,hilfma.case4you.com.br,AdGuardSDNSFilterDirect
 HOST,hilledrechose.cfd,AdGuardSDNSFilterDirect
@@ -66175,6 +66284,7 @@ HOST,hmthcqphqwppf.online,AdGuardSDNSFilterDirect
 HOST,hmtijvrtevxmo.site,AdGuardSDNSFilterDirect
 HOST,hmtpj.splitflask.com,AdGuardSDNSFilterDirect
 HOST,hmtqtokulp.com,AdGuardSDNSFilterDirect
+HOST,hmuejryuvwnzv.online,AdGuardSDNSFilterDirect
 HOST,hmufbqtreuybh.website,AdGuardSDNSFilterDirect
 HOST,hmvbmf.vidaxl.es,AdGuardSDNSFilterDirect
 HOST,hmvqj.mealprepify.com,AdGuardSDNSFilterDirect
@@ -66287,6 +66397,7 @@ HOST,hoebchzyhnrqy.space,AdGuardSDNSFilterDirect
 HOST,hoeinstitutionbye.com,AdGuardSDNSFilterDirect
 HOST,hoerenjs.b-cdn.net,AdGuardSDNSFilterDirect
 HOST,hoeshinkc.com,AdGuardSDNSFilterDirect
+HOST,hoffpsrrqcymm.site,AdGuardSDNSFilterDirect
 HOST,hofpue.priclist.com,AdGuardSDNSFilterDirect
 HOST,hofxbrhznoggg.space,AdGuardSDNSFilterDirect
 HOST,hogei.info,AdGuardSDNSFilterDirect
@@ -66322,6 +66433,7 @@ HOST,hokkaidobank.rapi.jp,AdGuardSDNSFilterDirect
 HOST,hokkid5.com,AdGuardSDNSFilterDirect
 HOST,hokkuarces.com,AdGuardSDNSFilterDirect
 HOST,hokmlnzfftxvg.space,AdGuardSDNSFilterDirect
+HOST,hokqcfvwwxlnr.online,AdGuardSDNSFilterDirect
 HOST,hoksomuptak.net,AdGuardSDNSFilterDirect
 HOST,hokzn.vie-riche.com,AdGuardSDNSFilterDirect
 HOST,hol7.ma1.techvaladobe.com,AdGuardSDNSFilterDirect
@@ -66744,6 +66856,7 @@ HOST,hpyrdr.com,AdGuardSDNSFilterDirect
 HOST,hpyrgd.mentalup.net,AdGuardSDNSFilterDirect
 HOST,hpzlybjsvphzs.site,AdGuardSDNSFilterDirect
 HOST,hpznfzzebpe.com,AdGuardSDNSFilterDirect
+HOST,hpzplstvlj.com,AdGuardSDNSFilterDirect
 HOST,hpzvitkflstxx.website,AdGuardSDNSFilterDirect
 HOST,hq.handiquilter.com,AdGuardSDNSFilterDirect
 HOST,hq.ussportshq.com.au,AdGuardSDNSFilterDirect
@@ -67160,6 +67273,7 @@ HOST,hubcapcafe.net,AdGuardSDNSFilterDirect
 HOST,hubcloud.com.cn,AdGuardSDNSFilterDirect
 HOST,hubeamily.com,AdGuardSDNSFilterDirect
 HOST,hubhc.com,AdGuardSDNSFilterDirect
+HOST,hubhoisableto.org,AdGuardSDNSFilterDirect
 HOST,hubhubhub.name,AdGuardSDNSFilterDirect
 HOST,hubkgy.yves-rocher.sk,AdGuardSDNSFilterDirect
 HOST,hublosk.com,AdGuardSDNSFilterDirect
@@ -67201,6 +67315,7 @@ HOST,hulkingdomine.cfd,AdGuardSDNSFilterDirect
 HOST,hulkycuddie.qpon,AdGuardSDNSFilterDirect
 HOST,hulledbubinga.com,AdGuardSDNSFilterDirect
 HOST,hulloedunregal.cfd,AdGuardSDNSFilterDirect
+HOST,hulvertaluks.cyou,AdGuardSDNSFilterDirect
 HOST,humanclick.com,AdGuardSDNSFilterDirect
 HOST,humanz.com,AdGuardSDNSFilterDirect
 HOST,humaun.optionxyz.com,AdGuardSDNSFilterDirect
@@ -67525,6 +67640,7 @@ HOST,hyklalsicqtvl.online,AdGuardSDNSFilterDirect
 HOST,hyklujfryizpf.online,AdGuardSDNSFilterDirect
 HOST,hylrncjzgdtgi.site,AdGuardSDNSFilterDirect
 HOST,hymjlc.360cashmere.com,AdGuardSDNSFilterDirect
+HOST,hymmrhjrbtvqa.website,AdGuardSDNSFilterDirect
 HOST,hymnxxeqbnrjy.site,AdGuardSDNSFilterDirect
 HOST,hynjc.spacecampwellness.com,AdGuardSDNSFilterDirect
 HOST,hynptv.gourmetgiftbaskets.com,AdGuardSDNSFilterDirect
@@ -67611,6 +67727,7 @@ HOST,hzmhrv.comvita.co.kr,AdGuardSDNSFilterDirect
 HOST,hzmksreiuojy.ru,AdGuardSDNSFilterDirect
 HOST,hzmogejppupou.space,AdGuardSDNSFilterDirect
 HOST,hznenxxzupeym.site,AdGuardSDNSFilterDirect
+HOST,hznmvulxesbuk.space,AdGuardSDNSFilterDirect
 HOST,hzoouw.s-re.jp,AdGuardSDNSFilterDirect
 HOST,hzpxre.diariogol.com,AdGuardSDNSFilterDirect
 HOST,hzqdj.bobbyjones.com,AdGuardSDNSFilterDirect
@@ -67889,6 +68006,7 @@ HOST,ibrahim.laptopache.com,AdGuardSDNSFilterDirect
 HOST,ibrahim.onlinehutbd.com,AdGuardSDNSFilterDirect
 HOST,ibrapush.com,AdGuardSDNSFilterDirect
 HOST,ibryte.com,AdGuardSDNSFilterDirect
+HOST,ibsbjipbonaxj.site,AdGuardSDNSFilterDirect
 HOST,ibtmla.discovery-expedition.com,AdGuardSDNSFilterDirect
 HOST,ibutkbannljgd.site,AdGuardSDNSFilterDirect
 HOST,ibutzm.chr-avenue.com,AdGuardSDNSFilterDirect
@@ -68095,6 +68213,7 @@ HOST,idioticskill.pro,AdGuardSDNSFilterDirect
 HOST,idismghats.com,AdGuardSDNSFilterDirect
 HOST,idjjmzsf.beastcom.eu,AdGuardSDNSFilterDirect
 HOST,idjsyswtwtvpn.space,AdGuardSDNSFilterDirect
+HOST,idjypemjqnivb.space,AdGuardSDNSFilterDirect
 HOST,idkph.naturalstacks.com,AdGuardSDNSFilterDirect
 HOST,idksyl.romanoriginals.co.uk,AdGuardSDNSFilterDirect
 HOST,idkymwzjfpefr.site,AdGuardSDNSFilterDirect
@@ -68366,6 +68485,7 @@ HOST,ihbkqdj55.com,AdGuardSDNSFilterDirect
 HOST,ihbov.cycologygear.eu,AdGuardSDNSFilterDirect
 HOST,ihbrba.parkerthatch.com,AdGuardSDNSFilterDirect
 HOST,ihcamp.ybtour.co.kr,AdGuardSDNSFilterDirect
+HOST,ihcjfeclbdzde.site,AdGuardSDNSFilterDirect
 HOST,ihcrqa.sonnenklar.tv,AdGuardSDNSFilterDirect
 HOST,ihct.mx,AdGuardSDNSFilterDirect
 HOST,ihculppauwbhc.online,AdGuardSDNSFilterDirect
@@ -68436,6 +68556,7 @@ HOST,iihqiezojdtcx.online,AdGuardSDNSFilterDirect
 HOST,iihscneo.www.merciaresearch.com,AdGuardSDNSFilterDirect
 HOST,iiiop.fishercollective.com,AdGuardSDNSFilterDirect
 HOST,iijblypu.idrotermoelettrico.it,AdGuardSDNSFilterDirect
+HOST,iijbombwncqrx.space,AdGuardSDNSFilterDirect
 HOST,iijmzmmzrelcdj.com,AdGuardSDNSFilterDirect
 HOST,iijwomwwwfhrz.online,AdGuardSDNSFilterDirect
 HOST,iijyrnrxflbvn.store,AdGuardSDNSFilterDirect
@@ -71406,6 +71527,7 @@ HOST,intimznaki.tomsk.ru,AdGuardSDNSFilterDirect
 HOST,intinfo.wolterskluwer.com,AdGuardSDNSFilterDirect
 HOST,intlsst.zagg.com,AdGuardSDNSFilterDirect
 HOST,intlsucus.ucweb.com,AdGuardSDNSFilterDirect
+HOST,intobuddy.com,AdGuardSDNSFilterDirect
 HOST,intopicmedia.com,AdGuardSDNSFilterDirect
 HOST,intothespirits.com,AdGuardSDNSFilterDirect
 HOST,intouch.schlesingerassociates.com,AdGuardSDNSFilterDirect
@@ -73230,6 +73352,7 @@ HOST,jhjgzxkdlztab.site,AdGuardSDNSFilterDirect
 HOST,jhkfd.com,AdGuardSDNSFilterDirect
 HOST,jhljjsixvbxlo.space,AdGuardSDNSFilterDirect
 HOST,jhljn.lizapruitt.com,AdGuardSDNSFilterDirect
+HOST,jhloeccwchpee.space,AdGuardSDNSFilterDirect
 HOST,jhmxer.dortmunder-jobanzeiger.de,AdGuardSDNSFilterDirect
 HOST,jhnmpm.kiwoko.com,AdGuardSDNSFilterDirect
 HOST,jhnvsxmcitxye.site,AdGuardSDNSFilterDirect
@@ -73882,6 +74005,7 @@ HOST,jpcvwo.qtoon.co.kr,AdGuardSDNSFilterDirect
 HOST,jpczsw.campingdubelair.com,AdGuardSDNSFilterDirect
 HOST,jpedfaatfb.in,AdGuardSDNSFilterDirect
 HOST,jpeez.h5gfyp7hhe7ec22on.cyou,AdGuardSDNSFilterDirect
+HOST,jpeogzqizz.in,AdGuardSDNSFilterDirect
 HOST,jpfjltsmlrimq.site,AdGuardSDNSFilterDirect
 HOST,jpftozbnnbqxj.site,AdGuardSDNSFilterDirect
 HOST,jpfufu.xlmoto.co.uk,AdGuardSDNSFilterDirect
@@ -73978,6 +74102,7 @@ HOST,jqjvj.makewellness.com,AdGuardSDNSFilterDirect
 HOST,jqk2me2mzf.ru,AdGuardSDNSFilterDirect
 HOST,jqkbmtcjimat.com,AdGuardSDNSFilterDirect
 HOST,jqkncwgomcsaf.site,AdGuardSDNSFilterDirect
+HOST,jqktoecjleeuh.website,AdGuardSDNSFilterDirect
 HOST,jqlpnqzcnehhb.site,AdGuardSDNSFilterDirect
 HOST,jqlrrfgqthdvn.online,AdGuardSDNSFilterDirect
 HOST,jqltgi.promofarma.com,AdGuardSDNSFilterDirect
@@ -73998,6 +74123,7 @@ HOST,jqpsi.evinature.com,AdGuardSDNSFilterDirect
 HOST,jqrgweazndruf.online,AdGuardSDNSFilterDirect
 HOST,jqrlt.groomie.club,AdGuardSDNSFilterDirect
 HOST,jqronboikqdxd.site,AdGuardSDNSFilterDirect
+HOST,jqrrbqfdjkazm.site,AdGuardSDNSFilterDirect
 HOST,jqsdu.heavyheadsocial.com,AdGuardSDNSFilterDirect
 HOST,jqsex.com,AdGuardSDNSFilterDirect
 HOST,jqsklowxurgbh.online,AdGuardSDNSFilterDirect
@@ -74177,6 +74303,7 @@ HOST,jscode.jbzj.com,AdGuardSDNSFilterDirect
 HOST,jscount.com,AdGuardSDNSFilterDirect
 HOST,jscounter.com,AdGuardSDNSFilterDirect
 HOST,jsdelvr.com,AdGuardSDNSFilterDirect
+HOST,jsdndfzpzrdt.com,AdGuardSDNSFilterDirect
 HOST,jsecoin.com,AdGuardSDNSFilterDirect
 HOST,jsemg.dandelionchocolate.com,AdGuardSDNSFilterDirect
 HOST,jsf.cnlinfo.net,AdGuardSDNSFilterDirect
@@ -74189,6 +74316,7 @@ HOST,jshkyh.29cm.co.kr,AdGuardSDNSFilterDirect
 HOST,jshmagjalnjcn.site,AdGuardSDNSFilterDirect
 HOST,jshvwhcznwigo.site,AdGuardSDNSFilterDirect
 HOST,jshwg.maku-industrie.de,AdGuardSDNSFilterDirect
+HOST,jsipdfurro.com,AdGuardSDNSFilterDirect
 HOST,jsivqe.aramco8.com,AdGuardSDNSFilterDirect
 HOST,jsjbt.hotelcollection.in,AdGuardSDNSFilterDirect
 HOST,jsjnxm.scheurich24.de,AdGuardSDNSFilterDirect
@@ -74455,6 +74583,7 @@ HOST,jupzerxxmnkwa.online,AdGuardSDNSFilterDirect
 HOST,juqbheahnq.in,AdGuardSDNSFilterDirect
 HOST,juqzuljruojt.com,AdGuardSDNSFilterDirect
 HOST,juris.pedroburak.com,AdGuardSDNSFilterDirect
+HOST,jurjdpyqrgezo.site,AdGuardSDNSFilterDirect
 HOST,jurorslard.shop,AdGuardSDNSFilterDirect
 HOST,jursp.com,AdGuardSDNSFilterDirect
 HOST,juryolympicsspookily.com,AdGuardSDNSFilterDirect
@@ -74724,6 +74853,7 @@ HOST,jzhkmgdeesljp.online,AdGuardSDNSFilterDirect
 HOST,jzhnqycanbvsn.space,AdGuardSDNSFilterDirect
 HOST,jziweafbssqyj.store,AdGuardSDNSFilterDirect
 HOST,jzjtijnsgpnpe.site,AdGuardSDNSFilterDirect
+HOST,jzkhcjmzghcsf.space,AdGuardSDNSFilterDirect
 HOST,jzkiojvomdxeu.site,AdGuardSDNSFilterDirect
 HOST,jzklxzldskqok.online,AdGuardSDNSFilterDirect
 HOST,jzmgykztfsjwd.website,AdGuardSDNSFilterDirect
@@ -75089,6 +75219,7 @@ HOST,kbuwizdjhjnbj.website,AdGuardSDNSFilterDirect
 HOST,kbviuj.enoteca.co.jp,AdGuardSDNSFilterDirect
 HOST,kbvnpjijrahsgchor.org,AdGuardSDNSFilterDirect
 HOST,kbvxbw.bugatti-fashion.com,AdGuardSDNSFilterDirect
+HOST,kbwakkvqlxmvp.space,AdGuardSDNSFilterDirect
 HOST,kbwecmmmmbldm.website,AdGuardSDNSFilterDirect
 HOST,kbwfirbugcpmk.site,AdGuardSDNSFilterDirect
 HOST,kbwndlwdzdffp.space,AdGuardSDNSFilterDirect
@@ -75138,6 +75269,7 @@ HOST,kcjrn.restaurant.com,AdGuardSDNSFilterDirect
 HOST,kckilfbzuckfx.site,AdGuardSDNSFilterDirect
 HOST,kcldlqybhdgdk.site,AdGuardSDNSFilterDirect
 HOST,kclftdszbdxhi.online,AdGuardSDNSFilterDirect
+HOST,kcmneiugitzfg.website,AdGuardSDNSFilterDirect
 HOST,kcnlbswxseble.online,AdGuardSDNSFilterDirect
 HOST,kcnqur.guante.cl,AdGuardSDNSFilterDirect
 HOST,kco3up8miwi1cqv.rest,AdGuardSDNSFilterDirect
@@ -75318,6 +75450,7 @@ HOST,kerrygumma.cyou,AdGuardSDNSFilterDirect
 HOST,kerrysexchange.com,AdGuardSDNSFilterDirect
 HOST,kertzmann.com,AdGuardSDNSFilterDirect
 HOST,kesevitamus.com,AdGuardSDNSFilterDirect
+HOST,kesfktgsfpdqx.site,AdGuardSDNSFilterDirect
 HOST,keskin-pop.vip,AdGuardSDNSFilterDirect
 HOST,keskin.vip,AdGuardSDNSFilterDirect
 HOST,keskit.site,AdGuardSDNSFilterDirect
@@ -75339,6 +75472,7 @@ HOST,kettledroopingcontinuation.com,AdGuardSDNSFilterDirect
 HOST,kettrinrehangs.cyou,AdGuardSDNSFilterDirect
 HOST,keuaq.amsoil.ca,AdGuardSDNSFilterDirect
 HOST,kevin.poppylotus.com,AdGuardSDNSFilterDirect
+HOST,kevnaishekimf.space,AdGuardSDNSFilterDirect
 HOST,kevqi.emango.sk,AdGuardSDNSFilterDirect
 HOST,kevr.us.tangleteezer.com,AdGuardSDNSFilterDirect
 HOST,kewjptxneqwyg.space,AdGuardSDNSFilterDirect
@@ -75384,6 +75518,7 @@ HOST,kf4kwomxhl.com,AdGuardSDNSFilterDirect
 HOST,kfa9grestp.com,AdGuardSDNSFilterDirect
 HOST,kfbjqsqbvnmrj.site,AdGuardSDNSFilterDirect
 HOST,kfbmswmmo.com,AdGuardSDNSFilterDirect
+HOST,kfbysoxcbleqk.space,AdGuardSDNSFilterDirect
 HOST,kfc-csr21.net.jumia.com.gh,AdGuardSDNSFilterDirect
 HOST,kfcevsqyahjej.space,AdGuardSDNSFilterDirect
 HOST,kfcu.fmservice.com,AdGuardSDNSFilterDirect
@@ -76171,6 +76306,7 @@ HOST,knee-hip-replacement-in-bangalore.net.mydays.de,AdGuardSDNSFilterDirect
 HOST,kneedchanges.cyou,AdGuardSDNSFilterDirect
 HOST,kneesstrictforthcoming.com,AdGuardSDNSFilterDirect
 HOST,kneestolerableadulthood.com,AdGuardSDNSFilterDirect
+HOST,knelledzinged.cyou,AdGuardSDNSFilterDirect
 HOST,knellsbewept.com,AdGuardSDNSFilterDirect
 HOST,knellsjaneiro.cfd,AdGuardSDNSFilterDirect
 HOST,kneomqqrktfwr.space,AdGuardSDNSFilterDirect
@@ -76437,6 +76573,7 @@ HOST,kphsqtglfxqim.space,AdGuardSDNSFilterDirect
 HOST,kphxk.jaxxliving.com,AdGuardSDNSFilterDirect
 HOST,kpi.mysoberhome.nl,AdGuardSDNSFilterDirect
 HOST,kpi.oprotocolodereversao.online,AdGuardSDNSFilterDirect
+HOST,kpimprqvtilkp.space,AdGuardSDNSFilterDirect
 HOST,kpjeq.tupelogoods.com,AdGuardSDNSFilterDirect
 HOST,kpjhskjidjiwy.space,AdGuardSDNSFilterDirect
 HOST,kpjpm.powerssportsmemorabilia.com,AdGuardSDNSFilterDirect
@@ -76642,6 +76779,7 @@ HOST,ks42zt.spec.fm,AdGuardSDNSFilterDirect
 HOST,ksamarketing.sedgwick.com,AdGuardSDNSFilterDirect
 HOST,ksasd.eshopygo.bg,AdGuardSDNSFilterDirect
 HOST,ksaxpnen.furni.io,AdGuardSDNSFilterDirect
+HOST,ksceuuupvjpes.space,AdGuardSDNSFilterDirect
 HOST,kscfgo.accommode.com,AdGuardSDNSFilterDirect
 HOST,ksdamndwucubm.online,AdGuardSDNSFilterDirect
 HOST,ksdarprt.reseguiden.se,AdGuardSDNSFilterDirect
@@ -76889,6 +77027,7 @@ HOST,kvhvkbejzyykt.space,AdGuardSDNSFilterDirect
 HOST,kviaiezbnggon.website,AdGuardSDNSFilterDirect
 HOST,kvintzany.com,AdGuardSDNSFilterDirect
 HOST,kvjkiymoormwj.site,AdGuardSDNSFilterDirect
+HOST,kvjthavimymgk.online,AdGuardSDNSFilterDirect
 HOST,kvkik.pelacase.com,AdGuardSDNSFilterDirect
 HOST,kvlfqp4ooxkleecs4.net.mydays.de,AdGuardSDNSFilterDirect
 HOST,kvnbryoywfjcp.space,AdGuardSDNSFilterDirect
@@ -76931,6 +77070,7 @@ HOST,kwast.kwastmannen.nl,AdGuardSDNSFilterDirect
 HOST,kway.co.il,AdGuardSDNSFilterDirect
 HOST,kwbdjazbglump.space,AdGuardSDNSFilterDirect
 HOST,kwbnmsswawpho.site,AdGuardSDNSFilterDirect
+HOST,kwbomltgixbkn.space,AdGuardSDNSFilterDirect
 HOST,kwbpge.jra-van.jp,AdGuardSDNSFilterDirect
 HOST,kwbrtpsruanue.site,AdGuardSDNSFilterDirect
 HOST,kwdddymzcebzh.site,AdGuardSDNSFilterDirect
@@ -77852,6 +77992,7 @@ HOST,lcads.ru,AdGuardSDNSFilterDirect
 HOST,lcaxfhprvnwaq.online,AdGuardSDNSFilterDirect
 HOST,lcbfk.4wank.com,AdGuardSDNSFilterDirect
 HOST,lcbmtd.icu,AdGuardSDNSFilterDirect
+HOST,lcc2y2bnzwfmw97w9z6l86ily214l.rest,AdGuardSDNSFilterDirect
 HOST,lcccfy.golfenstock.com,AdGuardSDNSFilterDirect
 HOST,lccwslgiotyub.site,AdGuardSDNSFilterDirect
 HOST,lccygeowkysvo.online,AdGuardSDNSFilterDirect
@@ -77926,6 +78067,7 @@ HOST,lcuowqfa.in,AdGuardSDNSFilterDirect
 HOST,lcuozmosstcu.com,AdGuardSDNSFilterDirect
 HOST,lcurn1bc22nmet8.lll98g9ok2oymzifu89b.cyou,AdGuardSDNSFilterDirect
 HOST,lcusfjajbouks.site,AdGuardSDNSFilterDirect
+HOST,lcutmzhnetsum.website,AdGuardSDNSFilterDirect
 HOST,lcutqnmoofuzi.website,AdGuardSDNSFilterDirect
 HOST,lcvrl.cloudninehair.com.au,AdGuardSDNSFilterDirect
 HOST,lcwfab1.com,AdGuardSDNSFilterDirect
@@ -77942,6 +78084,7 @@ HOST,lczoidhsuvuyu.site,AdGuardSDNSFilterDirect
 HOST,lcztnn.asics-trading.co.jp,AdGuardSDNSFilterDirect
 HOST,ld.seasidewellnesspb.com,AdGuardSDNSFilterDirect
 HOST,ld1qwww3kj.com,AdGuardSDNSFilterDirect
+HOST,ld7v2xm6ti.com,AdGuardSDNSFilterDirect
 HOST,ldacaen0.nimbuspeacepoint.com,AdGuardSDNSFilterDirect
 HOST,ldacaen0.prosperityspeak.com,AdGuardSDNSFilterDirect
 HOST,ldaqsvgwamnwi.com,AdGuardSDNSFilterDirect
@@ -78160,6 +78303,7 @@ HOST,lebmfvnquymym.online,AdGuardSDNSFilterDirect
 HOST,lebqwggilusve.online,AdGuardSDNSFilterDirect
 HOST,lebtpm.co-medical.com,AdGuardSDNSFilterDirect
 HOST,leche69.com,AdGuardSDNSFilterDirect
+HOST,lechersreable.com,AdGuardSDNSFilterDirect
 HOST,lechosaholked.cyou,AdGuardSDNSFilterDirect
 HOST,lector-mangas.com,AdGuardSDNSFilterDirect
 HOST,lectormanga1.com,AdGuardSDNSFilterDirect
@@ -78643,6 +78787,7 @@ HOST,libs.pietroalencar.reconecte-se.ai,AdGuardSDNSFilterDirect
 HOST,libstat.com,AdGuardSDNSFilterDirect
 HOST,libsunakite.cfd,AdGuardSDNSFilterDirect
 HOST,libtl.com,AdGuardSDNSFilterDirect
+HOST,libzyrjinzgld.space,AdGuardSDNSFilterDirect
 HOST,licensinginsights.ascap.com,AdGuardSDNSFilterDirect
 HOST,licfmjuqoatiz.website,AdGuardSDNSFilterDirect
 HOST,lichcatdien.info,AdGuardSDNSFilterDirect
@@ -78807,6 +78952,7 @@ HOST,lim.fit-und-schlank.com,AdGuardSDNSFilterDirect
 HOST,lim.getnutrim.com,AdGuardSDNSFilterDirect
 HOST,limbasmaoist.cyou,AdGuardSDNSFilterDirect
 HOST,limbecyblent.com,AdGuardSDNSFilterDirect
+HOST,limbiegenesvistas.cyou,AdGuardSDNSFilterDirect
 HOST,limbusunlay.com,AdGuardSDNSFilterDirect
 HOST,limbycocking.cfd,AdGuardSDNSFilterDirect
 HOST,limcqpzfaknvd.site,AdGuardSDNSFilterDirect
@@ -78833,7 +78979,9 @@ HOST,limetreeloadherself.com,AdGuardSDNSFilterDirect
 HOST,limitationluck.com,AdGuardSDNSFilterDirect
 HOST,limitationplumage.com,AdGuardSDNSFilterDirect
 HOST,limitedquantity.pro,AdGuardSDNSFilterDirect
+HOST,limitedsnaffletrypan.cfd,AdGuardSDNSFilterDirect
 HOST,limitesrifer.com,AdGuardSDNSFilterDirect
+HOST,limitowl.com,AdGuardSDNSFilterDirect
 HOST,limitscompelledmint.com,AdGuardSDNSFilterDirect
 HOST,limnerschaya.com,AdGuardSDNSFilterDirect
 HOST,limniteunvalid.com,AdGuardSDNSFilterDirect
@@ -79057,6 +79205,7 @@ HOST,littlevigorously.com,AdGuardSDNSFilterDirect
 HOST,littlinpickage.com,AdGuardSDNSFilterDirect
 HOST,liuxoi.green-petfood.de,AdGuardSDNSFilterDirect
 HOST,livableprelacy.com,AdGuardSDNSFilterDirect
+HOST,livdnkbosjtwv.website,AdGuardSDNSFilterDirect
 HOST,live-eu.blushtales.com,AdGuardSDNSFilterDirect
 HOST,live-eu.familynonstop.com,AdGuardSDNSFilterDirect
 HOST,live-eu.gamesvot.com,AdGuardSDNSFilterDirect
@@ -79548,6 +79697,7 @@ HOST,lntsyq.cloture-et-jardin.fr,AdGuardSDNSFilterDirect
 HOST,lntvby.banggood.com,AdGuardSDNSFilterDirect
 HOST,lnvguu.lifood.jp,AdGuardSDNSFilterDirect
 HOST,lnvmxk.familyset.jp,AdGuardSDNSFilterDirect
+HOST,lnvvboafokvrq.website,AdGuardSDNSFilterDirect
 HOST,lnwfcptfhvojt.site,AdGuardSDNSFilterDirect
 HOST,lnxfgm.party-calendar.net,AdGuardSDNSFilterDirect
 HOST,lnxiaotrtdsrx.site,AdGuardSDNSFilterDirect
@@ -88034,6 +88184,7 @@ HOST,lr-ingest.io,AdGuardSDNSFilterDirect
 HOST,lr-intake.com,AdGuardSDNSFilterDirect
 HOST,lr1.larotonde.qc.ca,AdGuardSDNSFilterDirect
 HOST,lr49h.budgetisolatieshop.nl,AdGuardSDNSFilterDirect
+HOST,lr8znx4rnowrb5owqkq1kmh.cfd,AdGuardSDNSFilterDirect
 HOST,lraaa.necessaire.com,AdGuardSDNSFilterDirect
 HOST,lrafahzbolzqk.space,AdGuardSDNSFilterDirect
 HOST,lrahczlcvkioo.online,AdGuardSDNSFilterDirect
@@ -88055,11 +88206,13 @@ HOST,lrgermany.wolterskluwer.com,AdGuardSDNSFilterDirect
 HOST,lrgfv.maharishiayurveda.nl,AdGuardSDNSFilterDirect
 HOST,lrgqv.goellevet.com,AdGuardSDNSFilterDirect
 HOST,lrhayaqsckgrw.site,AdGuardSDNSFilterDirect
+HOST,lrhkpzszyrhzl.site,AdGuardSDNSFilterDirect
 HOST,lrhungary.wolterskluwer.com,AdGuardSDNSFilterDirect
 HOST,lrhyty.meteovista.be,AdGuardSDNSFilterDirect
 HOST,lrhyty.weeronline.nl,AdGuardSDNSFilterDirect
 HOST,lrieddklibrbq.space,AdGuardSDNSFilterDirect
 HOST,lritaly.wolterskluwer.com,AdGuardSDNSFilterDirect
+HOST,lrivyphequyco.space,AdGuardSDNSFilterDirect
 HOST,lrjejzefyzbac.space,AdGuardSDNSFilterDirect
 HOST,lrjjly.rockler.com,AdGuardSDNSFilterDirect
 HOST,lrjnbf.sabon.co.jp,AdGuardSDNSFilterDirect
@@ -88380,6 +88533,7 @@ HOST,lunyietruancyroxane.qpon,AdGuardSDNSFilterDirect
 HOST,luolitang.com,AdGuardSDNSFilterDirect
 HOST,luopf.squatwolf.com,AdGuardSDNSFilterDirect
 HOST,lupa.eloe-health.com.br,AdGuardSDNSFilterDirect
+HOST,luphmjsczvmgx.online,AdGuardSDNSFilterDirect
 HOST,lupon.media,AdGuardSDNSFilterDirect
 HOST,lupqvydgvcbjm.site,AdGuardSDNSFilterDirect
 HOST,lups1.site,AdGuardSDNSFilterDirect
@@ -88620,6 +88774,7 @@ HOST,lxwffr.callitspring.com,AdGuardSDNSFilterDirect
 HOST,lxwmazdgleyxy.website,AdGuardSDNSFilterDirect
 HOST,lxwp426ao.com,AdGuardSDNSFilterDirect
 HOST,lxwysd.hirmer.de,AdGuardSDNSFilterDirect
+HOST,lxxdiuzxfvylv.site,AdGuardSDNSFilterDirect
 HOST,lxyvpfalzuhnx.space,AdGuardSDNSFilterDirect
 HOST,lxzcdi.bellarose.sk,AdGuardSDNSFilterDirect
 HOST,lxzduwepfkhiu.site,AdGuardSDNSFilterDirect
@@ -88662,6 +88817,7 @@ HOST,lylfwoiscdn.theglengrant.com,AdGuardSDNSFilterDirect
 HOST,lylfwoiscdn.wildturkeybourbon.com,AdGuardSDNSFilterDirect
 HOST,lyltevnutramaxlaboratoriesinc.e.epiqnotification.com,AdGuardSDNSFilterDirect
 HOST,lylufhuxqwi.com,AdGuardSDNSFilterDirect
+HOST,lymphkokumin.com,AdGuardSDNSFilterDirect
 HOST,lymxj.com,AdGuardSDNSFilterDirect
 HOST,lyncdiscoverinternal.rottne.com,AdGuardSDNSFilterDirect
 HOST,lyncwc-dublin.net.mydays.de,AdGuardSDNSFilterDirect
@@ -88680,7 +88836,9 @@ HOST,lyqipmieqcdyt.online,AdGuardSDNSFilterDirect
 HOST,lyqktmnzhoapj.online,AdGuardSDNSFilterDirect
 HOST,lyqlmfiyinygz.space,AdGuardSDNSFilterDirect
 HOST,lyqmh.sassclothing.com.au,AdGuardSDNSFilterDirect
+HOST,lyrhgcbvzesii.website,AdGuardSDNSFilterDirect
 HOST,lyricaldigressbewail.com,AdGuardSDNSFilterDirect
+HOST,lyricaljustinewicked.cyou,AdGuardSDNSFilterDirect
 HOST,lyricsginger.com,AdGuardSDNSFilterDirect
 HOST,lyricshook.com,AdGuardSDNSFilterDirect
 HOST,lyricslocusvaried.com,AdGuardSDNSFilterDirect
@@ -88746,6 +88904,7 @@ HOST,lzresfdeddzap.online,AdGuardSDNSFilterDirect
 HOST,lzrhay.farmaciasoccavo.it,AdGuardSDNSFilterDirect
 HOST,lzrikate.com,AdGuardSDNSFilterDirect
 HOST,lzrljv.tradera.com,AdGuardSDNSFilterDirect
+HOST,lzsbvojsaxzuy.website,AdGuardSDNSFilterDirect
 HOST,lzspjfgzdqsoh.site,AdGuardSDNSFilterDirect
 HOST,lzswdckjqxbjr.site,AdGuardSDNSFilterDirect
 HOST,lzu1ocasf.com,AdGuardSDNSFilterDirect
@@ -88936,6 +89095,7 @@ HOST,m485oq2gym.top,AdGuardSDNSFilterDirect
 HOST,m4d.cemiteriodapenitencia.com.br,AdGuardSDNSFilterDirect
 HOST,m4d.planoacolher.com.br,AdGuardSDNSFilterDirect
 HOST,m4dynuge4.com,AdGuardSDNSFilterDirect
+HOST,m4vrux6x88zwc1.cfd,AdGuardSDNSFilterDirect
 HOST,m4zoxtrcea1k.controlconceptsusa.com,AdGuardSDNSFilterDirect
 HOST,m5.4fl7299p2k1q4woch6n6g.cyou,AdGuardSDNSFilterDirect
 HOST,m5.66077.cn,AdGuardSDNSFilterDirect
@@ -88957,6 +89117,7 @@ HOST,m700.bigrapidsnews.com,AdGuardSDNSFilterDirect
 HOST,m78vxjm35d.com,AdGuardSDNSFilterDirect
 HOST,m7c0p.freshnrebel.com,AdGuardSDNSFilterDirect
 HOST,m7hkvwwl.xyz,AdGuardSDNSFilterDirect
+HOST,m7xud9jqpu.com,AdGuardSDNSFilterDirect
 HOST,m8.iu65v9f18fgifekcv1p3gg.cyou,AdGuardSDNSFilterDirect
 HOST,m81jmqmn.ru,AdGuardSDNSFilterDirect
 HOST,m81mfege2.com,AdGuardSDNSFilterDirect
@@ -92995,6 +93156,7 @@ HOST,mename.de,AdGuardSDNSFilterDirect
 HOST,menbershipps-ffvn.com,AdGuardSDNSFilterDirect
 HOST,menberships-ff-garrena.com,AdGuardSDNSFilterDirect
 HOST,mendelbearish.com,AdGuardSDNSFilterDirect
+HOST,mendsionic.com,AdGuardSDNSFilterDirect
 HOST,mengis-linden.org,AdGuardSDNSFilterDirect
 HOST,menhichs.cfd,AdGuardSDNSFilterDirect
 HOST,mennlumqmgddz.site,AdGuardSDNSFilterDirect
@@ -97062,6 +97224,7 @@ HOST,miserableconcept.com,AdGuardSDNSFilterDirect
 HOST,miserly-wrap.com,AdGuardSDNSFilterDirect
 HOST,miserybisksbishari.cyou,AdGuardSDNSFilterDirect
 HOST,miseventos.orem.com.mx,AdGuardSDNSFilterDirect
+HOST,misformchipsggr.cyou,AdGuardSDNSFilterDirect
 HOST,misgrewgelding.cyou,AdGuardSDNSFilterDirect
 HOST,misgrowducked.cfd,AdGuardSDNSFilterDirect
 HOST,misguidedshelves.com,AdGuardSDNSFilterDirect
@@ -97450,6 +97613,7 @@ HOST,mlxniwjfsxefz.site,AdGuardSDNSFilterDirect
 HOST,mlxogllalrjbo.site,AdGuardSDNSFilterDirect
 HOST,mly5hvbae.com,AdGuardSDNSFilterDirect
 HOST,mlycqb.centrumkrzesel.pl,AdGuardSDNSFilterDirect
+HOST,mlyynfnutrtvq.space,AdGuardSDNSFilterDirect
 HOST,mlzcakscicnqn.website,AdGuardSDNSFilterDirect
 HOST,mlzepu.somebymi.com,AdGuardSDNSFilterDirect
 HOST,mm-cgnews.com,AdGuardSDNSFilterDirect
@@ -98307,6 +98471,7 @@ HOST,mouse3k.com,AdGuardSDNSFilterDirect
 HOST,mouseflow.com,AdGuardSDNSFilterDirect
 HOST,mousescene.com,AdGuardSDNSFilterDirect
 HOST,mousestats.com,AdGuardSDNSFilterDirect
+HOST,mousestone.biz,AdGuardSDNSFilterDirect
 HOST,mousetrace.com,AdGuardSDNSFilterDirect
 HOST,mousheen.net,AdGuardSDNSFilterDirect
 HOST,mousse32.com,AdGuardSDNSFilterDirect
@@ -98339,6 +98504,7 @@ HOST,movturs.click,AdGuardSDNSFilterDirect
 HOST,mowayazmagacp.space,AdGuardSDNSFilterDirect
 HOST,mowcoordinateegypt.com,AdGuardSDNSFilterDirect
 HOST,mowgoats.com,AdGuardSDNSFilterDirect
+HOST,mowjikjotqhka.website,AdGuardSDNSFilterDirect
 HOST,moxiplayer-ss.checkoutera.com,AdGuardSDNSFilterDirect
 HOST,moxiplayer-ss.topashopo.com,AdGuardSDNSFilterDirect
 HOST,moxopostman.com,AdGuardSDNSFilterDirect
@@ -98953,6 +99119,7 @@ HOST,mttag.com,AdGuardSDNSFilterDirect
 HOST,mttcoin.com,AdGuardSDNSFilterDirect
 HOST,mttkrmejmzbpu.space,AdGuardSDNSFilterDirect
 HOST,mttpsy6666.cc,AdGuardSDNSFilterDirect
+HOST,mtueecezoqlmx.site,AdGuardSDNSFilterDirect
 HOST,mtvgxt.partirpascher.com,AdGuardSDNSFilterDirect
 HOST,mtvnbq.infopraca.pl,AdGuardSDNSFilterDirect
 HOST,mtwataveihajz.space,AdGuardSDNSFilterDirect
@@ -99037,12 +99204,14 @@ HOST,mugcix.hessnatur.com,AdGuardSDNSFilterDirect
 HOST,muggedregent.com,AdGuardSDNSFilterDirect
 HOST,muggpolys.com,AdGuardSDNSFilterDirect
 HOST,muggsparly.rest,AdGuardSDNSFilterDirect
+HOST,muggurscamden.click,AdGuardSDNSFilterDirect
 HOST,mugkk.toynk.com,AdGuardSDNSFilterDirect
 HOST,mugpothop.com,AdGuardSDNSFilterDirect
 HOST,mugvqlryqdtcq.online,AdGuardSDNSFilterDirect
 HOST,muhjwmynzkfns.site,AdGuardSDNSFilterDirect
 HOST,muhkcbunesaer.website,AdGuardSDNSFilterDirect
 HOST,muhttw.spotlightstores.com,AdGuardSDNSFilterDirect
+HOST,muiiiwbdzkyvc.online,AdGuardSDNSFilterDirect
 HOST,mujerescaccias.qpon,AdGuardSDNSFilterDirect
 HOST,mujhetfonkjnt.website,AdGuardSDNSFilterDirect
 HOST,mujjb.babor.com,AdGuardSDNSFilterDirect
@@ -99235,6 +99404,7 @@ HOST,mvgt.madeleine.com,AdGuardSDNSFilterDirect
 HOST,mvgteg.primecables.ca,AdGuardSDNSFilterDirect
 HOST,mvgwlritbbsqq.online,AdGuardSDNSFilterDirect
 HOST,mvhcvlfbzstlex.com,AdGuardSDNSFilterDirect
+HOST,mvhkwtwdciprs.online,AdGuardSDNSFilterDirect
 HOST,mvhlcshfdhsql.website,AdGuardSDNSFilterDirect
 HOST,mvhmppnuvmpdp.online,AdGuardSDNSFilterDirect
 HOST,mvhnfemksjlss.site,AdGuardSDNSFilterDirect
@@ -99300,6 +99470,7 @@ HOST,mwrgi.com,AdGuardSDNSFilterDirect
 HOST,mwrywqefemapj.website,AdGuardSDNSFilterDirect
 HOST,mws.verisk.com,AdGuardSDNSFilterDirect
 HOST,mwsbk.desmondanddempsey.com,AdGuardSDNSFilterDirect
+HOST,mwsfhkhdkeelo.site,AdGuardSDNSFilterDirect
 HOST,mwsgv.rodeoh.com,AdGuardSDNSFilterDirect
 HOST,mwss.maxworx.com,AdGuardSDNSFilterDirect
 HOST,mwstats.net,AdGuardSDNSFilterDirect
@@ -99765,6 +99936,7 @@ HOST,mzjucv.cocopanda.dk,AdGuardSDNSFilterDirect
 HOST,mzki911advancedmetaserver.ahmedhassan.pro,AdGuardSDNSFilterDirect
 HOST,mzlaaqztldbif.site,AdGuardSDNSFilterDirect
 HOST,mzldzb.crocs.pl,AdGuardSDNSFilterDirect
+HOST,mzmkwyqvjpqgs.website,AdGuardSDNSFilterDirect
 HOST,mzmxy.nikon.ca,AdGuardSDNSFilterDirect
 HOST,mzngincolmscd.site,AdGuardSDNSFilterDirect
 HOST,mznkhtumfgify.site,AdGuardSDNSFilterDirect
@@ -100289,6 +100461,7 @@ HOST,natregs.com,AdGuardSDNSFilterDirect
 HOST,nats.xing.com,AdGuardSDNSFilterDirect
 HOST,natsdk.com,AdGuardSDNSFilterDirect
 HOST,natsp.xing.com,AdGuardSDNSFilterDirect
+HOST,nattierfalsest.rest,AdGuardSDNSFilterDirect
 HOST,nattilyolsonjugal.cfd,AdGuardSDNSFilterDirect
 HOST,natto.lyadhgod.com,AdGuardSDNSFilterDirect
 HOST,naturalotter.info,AdGuardSDNSFilterDirect
@@ -101406,6 +101579,7 @@ HOST,ngoctu.click,AdGuardSDNSFilterDirect
 HOST,ngocvang.pw,AdGuardSDNSFilterDirect
 HOST,ngowvulz.com,AdGuardSDNSFilterDirect
 HOST,ngpao.mesotheliomaveterans.org,AdGuardSDNSFilterDirect
+HOST,ngqedenika.com,AdGuardSDNSFilterDirect
 HOST,ngqljdqitwjgd.online,AdGuardSDNSFilterDirect
 HOST,ngsekdkrkwixb.site,AdGuardSDNSFilterDirect
 HOST,ngseriegentsf.org,AdGuardSDNSFilterDirect
@@ -101963,6 +102137,7 @@ HOST,nmcdxf.ma-serre-de-jardin.com,AdGuardSDNSFilterDirect
 HOST,nmcgokdsitgmj.site,AdGuardSDNSFilterDirect
 HOST,nmcyyk.as-eweb.com,AdGuardSDNSFilterDirect
 HOST,nmdsxbxarvpuh.online,AdGuardSDNSFilterDirect
+HOST,nmdthrgpykmpo.website,AdGuardSDNSFilterDirect
 HOST,nmebheeajgqz.com,AdGuardSDNSFilterDirect
 HOST,nmemld.bestusedtires.com,AdGuardSDNSFilterDirect
 HOST,nmetrics.coles.com.au,AdGuardSDNSFilterDirect
@@ -102002,6 +102177,7 @@ HOST,nmqpl.ross-simons.com,AdGuardSDNSFilterDirect
 HOST,nmrjjqoczdaus.site,AdGuardSDNSFilterDirect
 HOST,nmrodam.com,AdGuardSDNSFilterDirect
 HOST,nmroutvgijplm.space,AdGuardSDNSFilterDirect
+HOST,nmscpuyhwzuyb.website,AdGuardSDNSFilterDirect
 HOST,nmsuhgiepzpqc.site,AdGuardSDNSFilterDirect
 HOST,nmtdk.palletforks.com,AdGuardSDNSFilterDirect
 HOST,nmtgzgkehuylt.site,AdGuardSDNSFilterDirect
@@ -102394,6 +102570,7 @@ HOST,noyvyv.bosonshop.com,AdGuardSDNSFilterDirect
 HOST,noyyrlvrby.com,AdGuardSDNSFilterDirect
 HOST,nozfspgytgjir.site,AdGuardSDNSFilterDirect
 HOST,nozvdp.distrelec.nl,AdGuardSDNSFilterDirect
+HOST,nozzleslaxate.com,AdGuardSDNSFilterDirect
 HOST,np.alkhateeb.ae,AdGuardSDNSFilterDirect
 HOST,np.grammofood.shop,AdGuardSDNSFilterDirect
 HOST,np.nestmepartners.com,AdGuardSDNSFilterDirect
@@ -102712,6 +102889,7 @@ HOST,nsstatic.com,AdGuardSDNSFilterDirect
 HOST,nsstatic.net,AdGuardSDNSFilterDirect
 HOST,nsstatistics.calphalon.com,AdGuardSDNSFilterDirect
 HOST,nssvtq4w.xyz,AdGuardSDNSFilterDirect
+HOST,nsswlifbkpvkg.online,AdGuardSDNSFilterDirect
 HOST,nsswmetrics.omanair.com,AdGuardSDNSFilterDirect
 HOST,nsswmetrics.sabre.com,AdGuardSDNSFilterDirect
 HOST,nst.nastro.com.mx,AdGuardSDNSFilterDirect
@@ -102842,6 +103020,7 @@ HOST,nucleindinkly.com,AdGuardSDNSFilterDirect
 HOST,nucleo.nucleosabana.cr,AdGuardSDNSFilterDirect
 HOST,nucleo.online,AdGuardSDNSFilterDirect
 HOST,nucluewktgfak.website,AdGuardSDNSFilterDirect
+HOST,nucppjcuskmeg.com,AdGuardSDNSFilterDirect
 HOST,nuctok.topten10mall.com,AdGuardSDNSFilterDirect
 HOST,nudaliturgy.cfd,AdGuardSDNSFilterDirect
 HOST,nudedworld.com,AdGuardSDNSFilterDirect
@@ -103044,6 +103223,7 @@ HOST,nwlwodnzybpnq.space,AdGuardSDNSFilterDirect
 HOST,nwmlglasjxvgx.space,AdGuardSDNSFilterDirect
 HOST,nwmnd.com,AdGuardSDNSFilterDirect
 HOST,nwmum.com,AdGuardSDNSFilterDirect
+HOST,nwmzoqaznoukm.website,AdGuardSDNSFilterDirect
 HOST,nwnncnbipamso.website,AdGuardSDNSFilterDirect
 HOST,nwnois.seculus.com.br,AdGuardSDNSFilterDirect
 HOST,nwnxyivttoaad.site,AdGuardSDNSFilterDirect
@@ -103282,6 +103462,7 @@ HOST,nzuzubewkirgz.site,AdGuardSDNSFilterDirect
 HOST,nzvmpjjkpinlbi.com,AdGuardSDNSFilterDirect
 HOST,nzwecadkryhup.site,AdGuardSDNSFilterDirect
 HOST,nzx65821s.com,AdGuardSDNSFilterDirect
+HOST,nzxepbrvqtmwn.online,AdGuardSDNSFilterDirect
 HOST,nzxwekknfnfea.online,AdGuardSDNSFilterDirect
 HOST,nzydzsw.com,AdGuardSDNSFilterDirect
 HOST,nzyppdoppxpwb.website,AdGuardSDNSFilterDirect
@@ -103551,6 +103732,7 @@ HOST,obswjwcffcbcf.space,AdGuardSDNSFilterDirect
 HOST,obtaintrout.com,AdGuardSDNSFilterDirect
 HOST,obtfhl.bellemaison.jp,AdGuardSDNSFilterDirect
 HOST,obtqre.contactlensking.com,AdGuardSDNSFilterDirect
+HOST,obtsbskplemtn.website,AdGuardSDNSFilterDirect
 HOST,obtundsfundus.qpon,AdGuardSDNSFilterDirect
 HOST,obuntoibafqlz.site,AdGuardSDNSFilterDirect
 HOST,obus-in.dc.heytapmobile.com,AdGuardSDNSFilterDirect
@@ -103791,6 +103973,7 @@ HOST,oedazrjbdxygw.site,AdGuardSDNSFilterDirect
 HOST,oedbml.collage-shop.jp,AdGuardSDNSFilterDirect
 HOST,oedcylluwpivu.site,AdGuardSDNSFilterDirect
 HOST,oedlmz.underarmour.it,AdGuardSDNSFilterDirect
+HOST,oeedvqbkqgacy.space,AdGuardSDNSFilterDirect
 HOST,oefdjrivunaqq.website,AdGuardSDNSFilterDirect
 HOST,oeg.icedistrict.com,AdGuardSDNSFilterDirect
 HOST,oeg.loiltyrewards.com,AdGuardSDNSFilterDirect
@@ -103808,6 +103991,7 @@ HOST,oeknzzjvrsjia.site,AdGuardSDNSFilterDirect
 HOST,oeko.immergruen-energie.de,AdGuardSDNSFilterDirect
 HOST,oelctjbbdajev.site,AdGuardSDNSFilterDirect
 HOST,oempafnyfiexpe.com,AdGuardSDNSFilterDirect
+HOST,oemteckrcihsp.online,AdGuardSDNSFilterDirect
 HOST,oenpvyvmonaqy.site,AdGuardSDNSFilterDirect
 HOST,oepdduabkjtda.site,AdGuardSDNSFilterDirect
 HOST,oepkdmcujxace.space,AdGuardSDNSFilterDirect
@@ -104427,6 +104611,7 @@ HOST,olpmbjakqfqna.online,AdGuardSDNSFilterDirect
 HOST,olpsk.itsovertime.com,AdGuardSDNSFilterDirect
 HOST,olpyehftremln.website,AdGuardSDNSFilterDirect
 HOST,olpyom.2ndskin.co.kr,AdGuardSDNSFilterDirect
+HOST,olpzlcurobnfs.website,AdGuardSDNSFilterDirect
 HOST,olqguyferpoki.space,AdGuardSDNSFilterDirect
 HOST,olqlxv.nanit.com,AdGuardSDNSFilterDirect
 HOST,olqmvt.chidiyaa.com,AdGuardSDNSFilterDirect
@@ -105314,6 +105499,7 @@ HOST,opgg.beer,AdGuardSDNSFilterDirect
 HOST,oph7o.montecarlosbm-corporate.com,AdGuardSDNSFilterDirect
 HOST,ophan.theguardian.com,AdGuardSDNSFilterDirect
 HOST,ophcizitukjya.site,AdGuardSDNSFilterDirect
+HOST,ophimdoxrnedh.website,AdGuardSDNSFilterDirect
 HOST,ophitesarician.qpon,AdGuardSDNSFilterDirect
 HOST,ophonlexhjaai.space,AdGuardSDNSFilterDirect
 HOST,ophvxe.sorel.jp,AdGuardSDNSFilterDirect
@@ -105334,6 +105520,7 @@ HOST,oplptyjwuka.in,AdGuardSDNSFilterDirect
 HOST,oplronjeluagj.space,AdGuardSDNSFilterDirect
 HOST,oplxhy.daytimer.com,AdGuardSDNSFilterDirect
 HOST,oply.hearstapps.com,AdGuardSDNSFilterDirect
+HOST,opmfyjcxcbtdh.space,AdGuardSDNSFilterDirect
 HOST,opnbwg.com,AdGuardSDNSFilterDirect
 HOST,opnik.walkfulton.com,AdGuardSDNSFilterDirect
 HOST,opnobbohq.com,AdGuardSDNSFilterDirect
@@ -105484,6 +105671,7 @@ HOST,oqphmccprsyie.site,AdGuardSDNSFilterDirect
 HOST,oqqaagrfdsaxu.online,AdGuardSDNSFilterDirect
 HOST,oqqzbccqxtfvf.online,AdGuardSDNSFilterDirect
 HOST,oqr4.destinia.in,AdGuardSDNSFilterDirect
+HOST,oqrrrulukth.in,AdGuardSDNSFilterDirect
 HOST,oqsfkkoakxhjj.space,AdGuardSDNSFilterDirect
 HOST,oqsuhoaevgmnz.site,AdGuardSDNSFilterDirect
 HOST,oqtdwteacikkzz.com,AdGuardSDNSFilterDirect
@@ -106032,6 +106220,7 @@ HOST,outarcaninean.com,AdGuardSDNSFilterDirect
 HOST,outatebinits.com,AdGuardSDNSFilterDirect
 HOST,outbanner.hu.co.kr,AdGuardSDNSFilterDirect
 HOST,outbidplacardshowman.com,AdGuardSDNSFilterDirect
+HOST,outboretaenite.cyou,AdGuardSDNSFilterDirect
 HOST,outbrain.com,AdGuardSDNSFilterDirect
 HOST,outbuymangers.cyou,AdGuardSDNSFilterDirect
 HOST,outcastalisp.shop,AdGuardSDNSFilterDirect
@@ -107111,6 +107300,7 @@ HOST,pardonsslaking.cfd,AdGuardSDNSFilterDirect
 HOST,parenenvine.cfd,AdGuardSDNSFilterDirect
 HOST,parentpicture.com,AdGuardSDNSFilterDirect
 HOST,parentvizards.cyou,AdGuardSDNSFilterDirect
+HOST,parergygrates.com,AdGuardSDNSFilterDirect
 HOST,pargobilgy.qpon,AdGuardSDNSFilterDirect
 HOST,paridaecockles.com,AdGuardSDNSFilterDirect
 HOST,paripartner.com,AdGuardSDNSFilterDirect
@@ -108221,6 +108411,7 @@ HOST,pecirtripyvis.site,AdGuardSDNSFilterDirect
 HOST,pecklehydro.com,AdGuardSDNSFilterDirect
 HOST,pecorafougue.com,AdGuardSDNSFilterDirect
 HOST,pectatedopa.qpon,AdGuardSDNSFilterDirect
+HOST,pecticuganda.cyou,AdGuardSDNSFilterDirect
 HOST,pectinweskits.com,AdGuardSDNSFilterDirect
 HOST,pectosealvia.click,AdGuardSDNSFilterDirect
 HOST,pecukirom.com,AdGuardSDNSFilterDirect
@@ -109490,6 +109681,7 @@ HOST,pkfvfrnzcposg.online,AdGuardSDNSFilterDirect
 HOST,pkgmkwszinnhg.online,AdGuardSDNSFilterDirect
 HOST,pkhevp.suplinx.com,AdGuardSDNSFilterDirect
 HOST,pkhottoqai.com,AdGuardSDNSFilterDirect
+HOST,pkhpmpclulylm.site,AdGuardSDNSFilterDirect
 HOST,pkiagqasgbgqx.online,AdGuardSDNSFilterDirect
 HOST,pkiawn.konvy.com,AdGuardSDNSFilterDirect
 HOST,pkiigvaxvcsqe.online,AdGuardSDNSFilterDirect
@@ -109998,6 +110190,7 @@ HOST,plugs.jameco.com,AdGuardSDNSFilterDirect
 HOST,plugsunlousy.com,AdGuardSDNSFilterDirect
 HOST,plujdydfegzxm.online,AdGuardSDNSFilterDirect
 HOST,plulv.knixteen.ca,AdGuardSDNSFilterDirect
+HOST,plulwjtillajt.website,AdGuardSDNSFilterDirect
 HOST,plum.tripmap.fr,AdGuardSDNSFilterDirect
 HOST,plumbertowards.com,AdGuardSDNSFilterDirect
 HOST,plumingsaeume.com,AdGuardSDNSFilterDirect
@@ -110162,6 +110355,7 @@ HOST,pnq.babcoxmediainc.com,AdGuardSDNSFilterDirect
 HOST,pnqptxkdxkhff.site,AdGuardSDNSFilterDirect
 HOST,pnqxx.tunercult.com,AdGuardSDNSFilterDirect
 HOST,pnspgrcnqjofn.site,AdGuardSDNSFilterDirect
+HOST,pnspihrxaduyk.site,AdGuardSDNSFilterDirect
 HOST,pnsqsv.com,AdGuardSDNSFilterDirect
 HOST,pnsst.prinovia.com,AdGuardSDNSFilterDirect
 HOST,pntbrs.reflectwindow.com,AdGuardSDNSFilterDirect
@@ -110238,6 +110432,7 @@ HOST,pofyybwevmids.online,AdGuardSDNSFilterDirect
 HOST,pogbd.suzannesfashions.ca,AdGuardSDNSFilterDirect
 HOST,pogonipdoe.cyou,AdGuardSDNSFilterDirect
 HOST,pogothere.xyz,AdGuardSDNSFilterDirect
+HOST,pogsucfmwraci.website,AdGuardSDNSFilterDirect
 HOST,pogvmflmokkjh.website,AdGuardSDNSFilterDirect
 HOST,pogyperry.cfd,AdGuardSDNSFilterDirect
 HOST,poi.kinzazaza.org,AdGuardSDNSFilterDirect
@@ -111850,6 +112045,7 @@ HOST,prwrrkaerzzon.space,AdGuardSDNSFilterDirect
 HOST,prx.wayfair.com,AdGuardSDNSFilterDirect
 HOST,prx6.destinia.ch,AdGuardSDNSFilterDirect
 HOST,pryckdnodwfsb.online,AdGuardSDNSFilterDirect
+HOST,pryerssnuffed.cyou,AdGuardSDNSFilterDirect
 HOST,pryingapollobemba.cfd,AdGuardSDNSFilterDirect
 HOST,prymwelsedigd.online,AdGuardSDNSFilterDirect
 HOST,prztkbkycbtgc.online,AdGuardSDNSFilterDirect
@@ -111871,6 +112067,7 @@ HOST,psaqr.rebag.com,AdGuardSDNSFilterDirect
 HOST,psaqzhkc.xyz,AdGuardSDNSFilterDirect
 HOST,psaussasta.net,AdGuardSDNSFilterDirect
 HOST,psbiaf.converse.com,AdGuardSDNSFilterDirect
+HOST,psceiiwiwgswf.site,AdGuardSDNSFilterDirect
 HOST,pschenttidier.com,AdGuardSDNSFilterDirect
 HOST,pscjpstkkqcmo.site,AdGuardSDNSFilterDirect
 HOST,pscpurfwzktny.website,AdGuardSDNSFilterDirect
@@ -112551,6 +112748,7 @@ HOST,puuush.me,AdGuardSDNSFilterDirect
 HOST,puvqnflkiuhwl.site,AdGuardSDNSFilterDirect
 HOST,puxypdnfammzb.online,AdGuardSDNSFilterDirect
 HOST,puysis.com,AdGuardSDNSFilterDirect
+HOST,puywath.cyou,AdGuardSDNSFilterDirect
 HOST,puzrfouhfupuu.space,AdGuardSDNSFilterDirect
 HOST,puzwsrdbdevrh.site,AdGuardSDNSFilterDirect
 HOST,puzzledrally.com,AdGuardSDNSFilterDirect
@@ -112699,6 +112897,7 @@ HOST,pxdb08b82.com,AdGuardSDNSFilterDirect
 HOST,pxdhy.nutraville.com,AdGuardSDNSFilterDirect
 HOST,pxdtkukiwrgiy.site,AdGuardSDNSFilterDirect
 HOST,pxekfmmylcrqo.space,AdGuardSDNSFilterDirect
+HOST,pxfheijvtbkik.website,AdGuardSDNSFilterDirect
 HOST,pxfjndpfpyiqh.site,AdGuardSDNSFilterDirect
 HOST,pxgpnp.angara.com,AdGuardSDNSFilterDirect
 HOST,pxgruigwgorib.website,AdGuardSDNSFilterDirect
@@ -112824,6 +113023,7 @@ HOST,pzcndidfhcoyu.site,AdGuardSDNSFilterDirect
 HOST,pzd.rakuten.co.jp,AdGuardSDNSFilterDirect
 HOST,pzdnf.salonweardirect.co.uk,AdGuardSDNSFilterDirect
 HOST,pzemzwvodejwz.website,AdGuardSDNSFilterDirect
+HOST,pzeqrifnmbatb.space,AdGuardSDNSFilterDirect
 HOST,pzfov.salomon.com,AdGuardSDNSFilterDirect
 HOST,pzgbqa.glamira.at,AdGuardSDNSFilterDirect
 HOST,pzgqgw.able.co.jp,AdGuardSDNSFilterDirect
@@ -112947,6 +113147,7 @@ HOST,qadgb.directtoolsoutlet.com,AdGuardSDNSFilterDirect
 HOST,qadraf.frankoniamoda.ch,AdGuardSDNSFilterDirect
 HOST,qaeadnlcctjvh.online,AdGuardSDNSFilterDirect
 HOST,qaeddggqpmhrs.website,AdGuardSDNSFilterDirect
+HOST,qaegccfsfdqqr.website,AdGuardSDNSFilterDirect
 HOST,qaein.coach.com,AdGuardSDNSFilterDirect
 HOST,qaeka.bluenile.com,AdGuardSDNSFilterDirect
 HOST,qaeqdhaubmsdp.com,AdGuardSDNSFilterDirect
@@ -113429,6 +113630,7 @@ HOST,qiey8zrxz.com,AdGuardSDNSFilterDirect
 HOST,qifacaisklop.com,AdGuardSDNSFilterDirect
 HOST,qifake.com,AdGuardSDNSFilterDirect
 HOST,qifbmk.rodinnebaleni.cz,AdGuardSDNSFilterDirect
+HOST,qifieukjmlhpb.space,AdGuardSDNSFilterDirect
 HOST,qigkvucouqnjs.space,AdGuardSDNSFilterDirect
 HOST,qigreveth.com,AdGuardSDNSFilterDirect
 HOST,qihang168.top,AdGuardSDNSFilterDirect
@@ -113583,6 +113785,7 @@ HOST,qlcmnszrrzdsp.website,AdGuardSDNSFilterDirect
 HOST,qldvnj.purepara.com,AdGuardSDNSFilterDirect
 HOST,qleamb.climbing247.se,AdGuardSDNSFilterDirect
 HOST,qlfqkjluvz.com,AdGuardSDNSFilterDirect
+HOST,qlhbogdkshotr.website,AdGuardSDNSFilterDirect
 HOST,qliqxaxsajpls.space,AdGuardSDNSFilterDirect
 HOST,qlitics.com,AdGuardSDNSFilterDirect
 HOST,qliwncicprtay.site,AdGuardSDNSFilterDirect
@@ -113926,6 +114129,7 @@ HOST,qrfdaxoxjwgyu.space,AdGuardSDNSFilterDirect
 HOST,qrfgfqrokccwh.site,AdGuardSDNSFilterDirect
 HOST,qrfoqq.reppara.com.br,AdGuardSDNSFilterDirect
 HOST,qrgbia.unlimitedbiking.com,AdGuardSDNSFilterDirect
+HOST,qrgetitbngtiz.online,AdGuardSDNSFilterDirect
 HOST,qrgzm.topnutritionandfitness.com,AdGuardSDNSFilterDirect
 HOST,qri2r94eeajr.innovationcast.com,AdGuardSDNSFilterDirect
 HOST,qrigpyenjfbcv.site,AdGuardSDNSFilterDirect
@@ -114497,6 +114701,7 @@ HOST,qwgngn.yapp.li,AdGuardSDNSFilterDirect
 HOST,qwgruwrtcyxft.store,AdGuardSDNSFilterDirect
 HOST,qwhcyayvoo.senza-formations.com,AdGuardSDNSFilterDirect
 HOST,qwikln.com,AdGuardSDNSFilterDirect
+HOST,qwjjfgqlfkmih.site,AdGuardSDNSFilterDirect
 HOST,qwkdjyceo.com,AdGuardSDNSFilterDirect
 HOST,qwkunzuhtgbyu.site,AdGuardSDNSFilterDirect
 HOST,qwlfbjwkaxqqe.site,AdGuardSDNSFilterDirect
@@ -114594,6 +114799,7 @@ HOST,qymxuvoenjium.site,AdGuardSDNSFilterDirect
 HOST,qynyxhaopesox.site,AdGuardSDNSFilterDirect
 HOST,qyogcr.amscope.com,AdGuardSDNSFilterDirect
 HOST,qypaizhuo.com,AdGuardSDNSFilterDirect
+HOST,qypgnzjkoawpe.online,AdGuardSDNSFilterDirect
 HOST,qyplvnzcm1.com,AdGuardSDNSFilterDirect
 HOST,qypqafuymygkj.online,AdGuardSDNSFilterDirect
 HOST,qypuezrjzraew.site,AdGuardSDNSFilterDirect
@@ -114740,6 +114946,7 @@ HOST,r1.rucken.pl,AdGuardSDNSFilterDirect
 HOST,r1c.ricardocuisine.com,AdGuardSDNSFilterDirect
 HOST,r1hy7kmzoivnh8.cfd,AdGuardSDNSFilterDirect
 HOST,r1jprcr42.com,AdGuardSDNSFilterDirect
+HOST,r1owcxiy50.com,AdGuardSDNSFilterDirect
 HOST,r1uwn95z2r4wxj315qkpefkrxf.cfd,AdGuardSDNSFilterDirect
 HOST,r1ztni.oui.sncf,AdGuardSDNSFilterDirect
 HOST,r2.bzl4ymobfn8j69kog835xvoq7q81olmhl8j.cyou,AdGuardSDNSFilterDirect
@@ -114811,6 +115018,7 @@ HOST,racapocjfljkz.space,AdGuardSDNSFilterDirect
 HOST,racbhbkkzaqnb.site,AdGuardSDNSFilterDirect
 HOST,raccoon.alexanderssonlaw.com,AdGuardSDNSFilterDirect
 HOST,raccoon.jaronheard.com,AdGuardSDNSFilterDirect
+HOST,raccooncorders.click,AdGuardSDNSFilterDirect
 HOST,raceamen.com,AdGuardSDNSFilterDirect
 HOST,racedinvict.com,AdGuardSDNSFilterDirect
 HOST,racemeyowden.com,AdGuardSDNSFilterDirect
@@ -114878,6 +115086,7 @@ HOST,ragbagcalciumjochen.cfd,AdGuardSDNSFilterDirect
 HOST,ragckcvjwcgos.com,AdGuardSDNSFilterDirect
 HOST,rageagainstthesoap.com,AdGuardSDNSFilterDirect
 HOST,rageruvanite.com,AdGuardSDNSFilterDirect
+HOST,ragfishcleptavgases.cfd,AdGuardSDNSFilterDirect
 HOST,raggedapproaching.com,AdGuardSDNSFilterDirect
 HOST,raggedstriking.com,AdGuardSDNSFilterDirect
 HOST,raggedtwinheadmaster.com,AdGuardSDNSFilterDirect
@@ -114933,6 +115142,7 @@ HOST,rakam-api.aptoide.com,AdGuardSDNSFilterDirect
 HOST,rake.11st.co.kr,AdGuardSDNSFilterDirect
 HOST,rake.tmap.co.kr,AdGuardSDNSFilterDirect
 HOST,rakeagerosel.com,AdGuardSDNSFilterDirect
+HOST,rakefulseorita.cfd,AdGuardSDNSFilterDirect
 HOST,rakib.rozafragrance.com,AdGuardSDNSFilterDirect
 HOST,rakiblinger.com,AdGuardSDNSFilterDirect
 HOST,rakishgabling.com,AdGuardSDNSFilterDirect
@@ -115086,6 +115296,7 @@ HOST,rationallyimpeccablefix.com,AdGuardSDNSFilterDirect
 HOST,ratitesbogging.com,AdGuardSDNSFilterDirect
 HOST,ratke.biz,AdGuardSDNSFilterDirect
 HOST,ratpmvosvwfra.space,AdGuardSDNSFilterDirect
+HOST,rattideletehindgut.cyou,AdGuardSDNSFilterDirect
 HOST,rattlepteroid.com,AdGuardSDNSFilterDirect
 HOST,rattlesimply.com,AdGuardSDNSFilterDirect
 HOST,ratwapaleola.com,AdGuardSDNSFilterDirect
@@ -115228,6 +115439,7 @@ HOST,rcmjs.rambler.ru,AdGuardSDNSFilterDirect
 HOST,rcnhgfebinhck.space,AdGuardSDNSFilterDirect
 HOST,rcnwsecukrjf.com,AdGuardSDNSFilterDirect
 HOST,rcnxvdowqmfuo.store,AdGuardSDNSFilterDirect
+HOST,rcnzknpqdnjrk.space,AdGuardSDNSFilterDirect
 HOST,rcobagxqggres.website,AdGuardSDNSFilterDirect
 HOST,rcodc.drdennisgross.com,AdGuardSDNSFilterDirect
 HOST,rcounter.rambler.ru,AdGuardSDNSFilterDirect
@@ -115279,6 +115491,7 @@ HOST,rdbwwe.zolotoyvek.ua,AdGuardSDNSFilterDirect
 HOST,rdc.rachatdecredit.net,AdGuardSDNSFilterDirect
 HOST,rdc.rangodochef.com.br,AdGuardSDNSFilterDirect
 HOST,rdcdzuzowsxnq.website,AdGuardSDNSFilterDirect
+HOST,rdchdwkqmdhxr.website,AdGuardSDNSFilterDirect
 HOST,rdchv.ca.coach.com,AdGuardSDNSFilterDirect
 HOST,rdcuk.euforia.com,AdGuardSDNSFilterDirect
 HOST,rdczjr.encasa.it,AdGuardSDNSFilterDirect
@@ -115723,6 +115936,7 @@ HOST,redustsinters.com,AdGuardSDNSFilterDirect
 HOST,reduxcms-sgtm-staging.1800gotjunk.com,AdGuardSDNSFilterDirect
 HOST,reduxcms-sgtm.1800gotjunk.com,AdGuardSDNSFilterDirect
 HOST,redvase.bravenet.com,AdGuardSDNSFilterDirect
+HOST,redwardanubingtewsome.cyou,AdGuardSDNSFilterDirect
 HOST,redwingforbusiness.redwingsafety.com,AdGuardSDNSFilterDirect
 HOST,redwingmagazine.com,AdGuardSDNSFilterDirect
 HOST,redwolfmoon.com,AdGuardSDNSFilterDirect
@@ -115739,6 +115953,7 @@ HOST,reefsetupaccidentally.com,AdGuardSDNSFilterDirect
 HOST,reefunderage.com,AdGuardSDNSFilterDirect
 HOST,reegphjhnoifu.online,AdGuardSDNSFilterDirect
 HOST,reekonefoldonefoldslang.com,AdGuardSDNSFilterDirect
+HOST,reelcombat.com,AdGuardSDNSFilterDirect
 HOST,reemilsie.com,AdGuardSDNSFilterDirect
 HOST,reengelinn.cfd,AdGuardSDNSFilterDirect
 HOST,reeokx.reima.com,AdGuardSDNSFilterDirect
@@ -115864,6 +116079,7 @@ HOST,registro.omegacrmconsulting.com,AdGuardSDNSFilterDirect
 HOST,registryshrillformality.com,AdGuardSDNSFilterDirect
 HOST,registrytodaylocked.com,AdGuardSDNSFilterDirect
 HOST,reglienquan.online,AdGuardSDNSFilterDirect
+HOST,regluespitons.click,AdGuardSDNSFilterDirect
 HOST,regpole.com,AdGuardSDNSFilterDirect
 HOST,regretfinancially.com,AdGuardSDNSFilterDirect
 HOST,regretnotestool.com,AdGuardSDNSFilterDirect
@@ -115939,6 +116155,7 @@ HOST,reklamnative.com,AdGuardSDNSFilterDirect
 HOST,reklamresimleri.yenislowradyo.com,AdGuardSDNSFilterDirect
 HOST,reklamstore.com,AdGuardSDNSFilterDirect
 HOST,reklamstore.cubecdn.net,AdGuardSDNSFilterDirect
+HOST,reknitnacket.cfd,AdGuardSDNSFilterDirect
 HOST,reknockjones.cfd,AdGuardSDNSFilterDirect
 HOST,rel-s.com,AdGuardSDNSFilterDirect
 HOST,relaamlrijdxq.site,AdGuardSDNSFilterDirect
@@ -116014,6 +116231,7 @@ HOST,reliableceaseswat.com,AdGuardSDNSFilterDirect
 HOST,reliablecounter.com,AdGuardSDNSFilterDirect
 HOST,reliableguardianindifference.com,AdGuardSDNSFilterDirect
 HOST,reliablemore.com,AdGuardSDNSFilterDirect
+HOST,reliableparrot.biz,AdGuardSDNSFilterDirect
 HOST,relicremote.com,AdGuardSDNSFilterDirect
 HOST,relictimotyka.cfd,AdGuardSDNSFilterDirect
 HOST,reliefraindues.com,AdGuardSDNSFilterDirect
@@ -116444,6 +116662,7 @@ HOST,responserver.com,AdGuardSDNSFilterDirect
 HOST,responses.wild.com,AdGuardSDNSFilterDirect
 HOST,responsetap.com,AdGuardSDNSFilterDirect
 HOST,responsibleharm.pro,AdGuardSDNSFilterDirect
+HOST,ressctjygpsyx.website,AdGuardSDNSFilterDirect
 HOST,ressources.argusassurance.com,AdGuardSDNSFilterDirect
 HOST,ressources.caradisiac.com,AdGuardSDNSFilterDirect
 HOST,ressources.centraleauto.com,AdGuardSDNSFilterDirect
@@ -116462,6 +116681,7 @@ HOST,rest.sexypornvideo.net,AdGuardSDNSFilterDirect
 HOST,rest.wildstar-online.com,AdGuardSDNSFilterDirect
 HOST,restaffect.com,AdGuardSDNSFilterDirect
 HOST,restartad.com,AdGuardSDNSFilterDirect
+HOST,restateeggedjutish.cyou,AdGuardSDNSFilterDirect
 HOST,restaurant.il-teatro.dk,AdGuardSDNSFilterDirect
 HOST,restaurrothershangan.cfd,AdGuardSDNSFilterDirect
 HOST,resteddiabetepocket.com,AdGuardSDNSFilterDirect
@@ -116586,6 +116806,7 @@ HOST,reverseuntidy.com,AdGuardSDNSFilterDirect
 HOST,reversible68.com,AdGuardSDNSFilterDirect
 HOST,reversionprunesterrific.com,AdGuardSDNSFilterDirect
 HOST,reveteowning.qpon,AdGuardSDNSFilterDirect
+HOST,revetetupik.click,AdGuardSDNSFilterDirect
 HOST,revfusion.net,AdGuardSDNSFilterDirect
 HOST,revi.rcs.it,AdGuardSDNSFilterDirect
 HOST,review.teradata.com,AdGuardSDNSFilterDirect
@@ -116744,6 +116965,7 @@ HOST,rfvhxb5.com,AdGuardSDNSFilterDirect
 HOST,rfvoc.enml.com,AdGuardSDNSFilterDirect
 HOST,rfvqk.manlybands.com,AdGuardSDNSFilterDirect
 HOST,rfvrd.infinitediscs.com,AdGuardSDNSFilterDirect
+HOST,rfwhdtsxfcwtd.space,AdGuardSDNSFilterDirect
 HOST,rfwmfadnncajl.site,AdGuardSDNSFilterDirect
 HOST,rfxqu0v7.xyz,AdGuardSDNSFilterDirect
 HOST,rfxvxqcgsieib.site,AdGuardSDNSFilterDirect
@@ -116853,6 +117075,7 @@ HOST,rhcmpiffrndvj.space,AdGuardSDNSFilterDirect
 HOST,rhcrybpcpbaua.online,AdGuardSDNSFilterDirect
 HOST,rhcvbndidmyqt.site,AdGuardSDNSFilterDirect
 HOST,rhdcmp.maxcolchon.com,AdGuardSDNSFilterDirect
+HOST,rhdthcujhslgr.online,AdGuardSDNSFilterDirect
 HOST,rheig.byglow.com,AdGuardSDNSFilterDirect
 HOST,rheneapfg.com,AdGuardSDNSFilterDirect
 HOST,rheofepltxbqt.space,AdGuardSDNSFilterDirect
@@ -116953,6 +117176,7 @@ HOST,richazcm.in,AdGuardSDNSFilterDirect
 HOST,richeryawp.com,AdGuardSDNSFilterDirect
 HOST,richescrumplekame.qpon,AdGuardSDNSFilterDirect
 HOST,richeseventsphysics.com,AdGuardSDNSFilterDirect
+HOST,richeshumpies.com,AdGuardSDNSFilterDirect
 HOST,richh.cn,AdGuardSDNSFilterDirect
 HOST,richinfo.co,AdGuardSDNSFilterDirect
 HOST,richlifeads.ru,AdGuardSDNSFilterDirect
@@ -117164,6 +117388,7 @@ HOST,rjugiebxhvtwe.space,AdGuardSDNSFilterDirect
 HOST,rjvgkmahuzded.site,AdGuardSDNSFilterDirect
 HOST,rjw4obbw.com,AdGuardSDNSFilterDirect
 HOST,rjxujpuoxmtlr.website,AdGuardSDNSFilterDirect
+HOST,rjynkgozmysuc.online,AdGuardSDNSFilterDirect
 HOST,rjzixftftgard.website,AdGuardSDNSFilterDirect
 HOST,rjzkulworyqil.space,AdGuardSDNSFilterDirect
 HOST,rjzmq.sanctuaryaz.com,AdGuardSDNSFilterDirect
@@ -117744,6 +117969,7 @@ HOST,rpbc1.smartblinds.de,AdGuardSDNSFilterDirect
 HOST,rpbc1.smartblinds.nl,AdGuardSDNSFilterDirect
 HOST,rpbpo.armra.com,AdGuardSDNSFilterDirect
 HOST,rpdata.mapadelareconquista.online,AdGuardSDNSFilterDirect
+HOST,rpegalclg.com,AdGuardSDNSFilterDirect
 HOST,rpeylufgxcrsq.online,AdGuardSDNSFilterDirect
 HOST,rpfkgf.rp-online.de,AdGuardSDNSFilterDirect
 HOST,rpfkgf.saarbruecker-zeitung.de,AdGuardSDNSFilterDirect
@@ -117940,6 +118166,7 @@ HOST,rscrca.elfadistrelec.pl,AdGuardSDNSFilterDirect
 HOST,rscwxy.skintifique.me,AdGuardSDNSFilterDirect
 HOST,rscyoaposqeay.space,AdGuardSDNSFilterDirect
 HOST,rsdre.maharishiayurveda.de,AdGuardSDNSFilterDirect
+HOST,rsecahgkyjzas.site,AdGuardSDNSFilterDirect
 HOST,rsewys.lavor.com,AdGuardSDNSFilterDirect
 HOST,rsezsegxpjyps.site,AdGuardSDNSFilterDirect
 HOST,rsfeeygucnywb.online,AdGuardSDNSFilterDirect
@@ -118672,6 +118899,7 @@ HOST,rtlthwjmiqyqh.site,AdGuardSDNSFilterDirect
 HOST,rtm-tracking.zozo.jp,AdGuardSDNSFilterDirect
 HOST,rtmark.net,AdGuardSDNSFilterDirect
 HOST,rtmbz.anthropologie.com,AdGuardSDNSFilterDirect
+HOST,rtmtuclivckwu.site,AdGuardSDNSFilterDirect
 HOST,rtmugo.deindeal.ch,AdGuardSDNSFilterDirect
 HOST,rtn.citizenshipconclave.com,AdGuardSDNSFilterDirect
 HOST,rtnews.pro,AdGuardSDNSFilterDirect
@@ -118726,6 +118954,7 @@ HOST,rts.spain-residence.es,AdGuardSDNSFilterDirect
 HOST,rtsesvdoiddxi.site,AdGuardSDNSFilterDirect
 HOST,rtshpvva.sohnne.com,AdGuardSDNSFilterDirect
 HOST,rtslxo3a.xyz,AdGuardSDNSFilterDirect
+HOST,rtsxqfqqhafwt.space,AdGuardSDNSFilterDirect
 HOST,rttkpr.bidolubaski.com,AdGuardSDNSFilterDirect
 HOST,rttptu.manutan.it,AdGuardSDNSFilterDirect
 HOST,rttrk.buildlegends.com,AdGuardSDNSFilterDirect
@@ -119110,6 +119339,7 @@ HOST,rwt.whalerecycling.com,AdGuardSDNSFilterDirect
 HOST,rwtraqur.com,AdGuardSDNSFilterDirect
 HOST,rwtzv9ehv.com,AdGuardSDNSFilterDirect
 HOST,rwuccrtjgbwll.site,AdGuardSDNSFilterDirect
+HOST,rwupvdrxiaeyk.online,AdGuardSDNSFilterDirect
 HOST,rwupyp.swimmy.fr,AdGuardSDNSFilterDirect
 HOST,rwvcuxrnnouwx.online,AdGuardSDNSFilterDirect
 HOST,rwvfxkneipjnq.online,AdGuardSDNSFilterDirect
@@ -119159,6 +119389,7 @@ HOST,rxtolo.domiporta.pl,AdGuardSDNSFilterDirect
 HOST,rxvyaqqvdnblc.space,AdGuardSDNSFilterDirect
 HOST,rxwdv.neoprocycling.com.au,AdGuardSDNSFilterDirect
 HOST,rxwjetugafkwt.online,AdGuardSDNSFilterDirect
+HOST,rxyicljgqjtyk.space,AdGuardSDNSFilterDirect
 HOST,rxys.cn,AdGuardSDNSFilterDirect
 HOST,rxzfhfmoegfvts.com,AdGuardSDNSFilterDirect
 HOST,rxzz.metcalfehotel.com,AdGuardSDNSFilterDirect
@@ -121133,6 +121364,7 @@ HOST,sandmakingsilver.info,AdGuardSDNSFilterDirect
 HOST,sandpad.bushheritage.org.au,AdGuardSDNSFilterDirect
 HOST,sandracismaboveaverage.com,AdGuardSDNSFilterDirect
 HOST,sandralift.cyou,AdGuardSDNSFilterDirect
+HOST,sandsnow.info,AdGuardSDNSFilterDirect
 HOST,sandstrophies.com,AdGuardSDNSFilterDirect
 HOST,sanduon.com,AdGuardSDNSFilterDirect
 HOST,sandwichconscientiousroadside.com,AdGuardSDNSFilterDirect
@@ -121206,6 +121438,7 @@ HOST,saoazftijjigm.online,AdGuardSDNSFilterDirect
 HOST,saokenganhangvn.com,AdGuardSDNSFilterDirect
 HOST,saooykasbxdts.space,AdGuardSDNSFilterDirect
 HOST,sape.ru,AdGuardSDNSFilterDirect
+HOST,sapghpwbtrsjq.space,AdGuardSDNSFilterDirect
 HOST,sapgtm.mookaa.co.in,AdGuardSDNSFilterDirect
 HOST,sapha.com,AdGuardSDNSFilterDirect
 HOST,sapi.allstroreshop.com,AdGuardSDNSFilterDirect
@@ -121773,6 +122006,7 @@ HOST,scowpoppanasals.com,AdGuardSDNSFilterDirect
 HOST,scp.deltadentalwa.com,AdGuardSDNSFilterDirect
 HOST,scptp9.com,AdGuardSDNSFilterDirect
 HOST,scpzx.traxxas.com,AdGuardSDNSFilterDirect
+HOST,scqcigoladk.com,AdGuardSDNSFilterDirect
 HOST,scrabemuzo.cfd,AdGuardSDNSFilterDirect
 HOST,scrambledenlargement.com,AdGuardSDNSFilterDirect
 HOST,scrambledmodifiedhe.com,AdGuardSDNSFilterDirect
@@ -121842,6 +122076,7 @@ HOST,scrithemashingpolicy.cfd,AdGuardSDNSFilterDirect
 HOST,scrivanfinlet.com,AdGuardSDNSFilterDirect
 HOST,scrollpop.online,AdGuardSDNSFilterDirect
 HOST,scrollservice.com,AdGuardSDNSFilterDirect
+HOST,scrubchi.com,AdGuardSDNSFilterDirect
 HOST,scrubriding.com,AdGuardSDNSFilterDirect
 HOST,scrubsrha.com,AdGuardSDNSFilterDirect
 HOST,scrubswim.com,AdGuardSDNSFilterDirect
@@ -122054,6 +122289,7 @@ HOST,sdo8357.com,AdGuardSDNSFilterDirect
 HOST,sdoga.frenchgirlorganics.com,AdGuardSDNSFilterDirect
 HOST,sdome.underarmour.co.jp,AdGuardSDNSFilterDirect
 HOST,sdomxqcaeuadm.site,AdGuardSDNSFilterDirect
+HOST,sdoqnyfwqamhk.site,AdGuardSDNSFilterDirect
 HOST,sdpaknwjwrsmj.site,AdGuardSDNSFilterDirect
 HOST,sdpimt.lostgolfballs.com,AdGuardSDNSFilterDirect
 HOST,sdpvirkxndxwc.online,AdGuardSDNSFilterDirect
@@ -122672,6 +122908,7 @@ HOST,semynmdqxacxa.site,AdGuardSDNSFilterDirect
 HOST,semywtuvmzujq.space,AdGuardSDNSFilterDirect
 HOST,send.globalance.com,AdGuardSDNSFilterDirect
 HOST,sendalswaefu.com,AdGuardSDNSFilterDirect
+HOST,sendeewhine.cfd,AdGuardSDNSFilterDirect
 HOST,sendinblast.com,AdGuardSDNSFilterDirect
 HOST,sendingpanel.com,AdGuardSDNSFilterDirect
 HOST,sendingspire.com,AdGuardSDNSFilterDirect
@@ -130154,6 +130391,7 @@ HOST,shahen.shahenshahfashionworld.com,AdGuardSDNSFilterDirect
 HOST,shaikat.nolokjewelry.com,AdGuardSDNSFilterDirect
 HOST,shaiwourtijogno.net,AdGuardSDNSFilterDirect
 HOST,shakamech.com,AdGuardSDNSFilterDirect
+HOST,shakdfjwwwjsn.space,AdGuardSDNSFilterDirect
 HOST,shakegoldfish.com,AdGuardSDNSFilterDirect
 HOST,shakepersianrehearse.com,AdGuardSDNSFilterDirect
 HOST,shakeson.ru,AdGuardSDNSFilterDirect
@@ -131024,6 +131262,7 @@ HOST,shutloneliness.com,AdGuardSDNSFilterDirect
 HOST,shuvo.kidsenglishbd.com,AdGuardSDNSFilterDirect
 HOST,shuvo.purevisionbd.com,AdGuardSDNSFilterDirect
 HOST,shuzilm.cn,AdGuardSDNSFilterDirect
+HOST,shvgtjwblivhm.website,AdGuardSDNSFilterDirect
 HOST,shvhse.com,AdGuardSDNSFilterDirect
 HOST,shvnb.kfcvnpay.com,AdGuardSDNSFilterDirect
 HOST,shwhn.fragrancebymeganmoroney.com,AdGuardSDNSFilterDirect
@@ -131488,6 +131727,7 @@ HOST,sitetracker.com,AdGuardSDNSFilterDirect
 HOST,sitewithg.com,AdGuardSDNSFilterDirect
 HOST,sitientdonnot.cyou,AdGuardSDNSFilterDirect
 HOST,sitorew.com,AdGuardSDNSFilterDirect
+HOST,sitrepsoning.rest,AdGuardSDNSFilterDirect
 HOST,sitsneezerefreshing.com,AdGuardSDNSFilterDirect
 HOST,sitstandwalk.com,AdGuardSDNSFilterDirect
 HOST,sitti.co.id,AdGuardSDNSFilterDirect
@@ -136918,6 +137158,7 @@ HOST,smuyphsl.smu.edu.sg,AdGuardSDNSFilterDirect
 HOST,smv.to,AdGuardSDNSFilterDirect
 HOST,smvmtnlvqymso.online,AdGuardSDNSFilterDirect
 HOST,smvotx.sweatband.com,AdGuardSDNSFilterDirect
+HOST,smvxwnlahkdea.online,AdGuardSDNSFilterDirect
 HOST,smwadnuydogrh.space,AdGuardSDNSFilterDirect
 HOST,smwtnkacakzxv.site,AdGuardSDNSFilterDirect
 HOST,smwvlc.intermixonline.com,AdGuardSDNSFilterDirect
@@ -137027,6 +137268,7 @@ HOST,sng.simplydentalchatswood.com.au,AdGuardSDNSFilterDirect
 HOST,sng.smileworksdentaldoreen.com.au,AdGuardSDNSFilterDirect
 HOST,sng.wollongongdentist4u.com.au,AdGuardSDNSFilterDirect
 HOST,sngmta.qq.com,AdGuardSDNSFilterDirect
+HOST,sngpyudhhdjca.space,AdGuardSDNSFilterDirect
 HOST,snhgshztmhr.com,AdGuardSDNSFilterDirect
 HOST,snhgtm.scienceandhumans.com,AdGuardSDNSFilterDirect
 HOST,snhyvuzgaoxdh.space,AdGuardSDNSFilterDirect
@@ -137108,6 +137350,7 @@ HOST,snuzvaacqofly.online,AdGuardSDNSFilterDirect
 HOST,snvaamefxswbh.online,AdGuardSDNSFilterDirect
 HOST,snvkkflgdoekk.site,AdGuardSDNSFilterDirect
 HOST,snvkl.bulksupplements.com,AdGuardSDNSFilterDirect
+HOST,snvsicdqsihlo.online,AdGuardSDNSFilterDirect
 HOST,snvzgderiitwr.online,AdGuardSDNSFilterDirect
 HOST,snwhfq.texel.net,AdGuardSDNSFilterDirect
 HOST,snxcexrhhsawl.site,AdGuardSDNSFilterDirect
@@ -137272,6 +137515,7 @@ HOST,soicos.com,AdGuardSDNSFilterDirect
 HOST,soilcontent.com,AdGuardSDNSFilterDirect
 HOST,soiledhellier.com,AdGuardSDNSFilterDirect
 HOST,soilenthusiasmshindig.com,AdGuardSDNSFilterDirect
+HOST,soillilac.com,AdGuardSDNSFilterDirect
 HOST,soilmijswdbdb.space,AdGuardSDNSFilterDirect
 HOST,soilphotos.com,AdGuardSDNSFilterDirect
 HOST,soimnu.nivki-park.com.ua,AdGuardSDNSFilterDirect
@@ -137877,6 +138121,7 @@ HOST,sowa.carhartt.com,AdGuardSDNSFilterDirect
 HOST,sowenswiggyrefries.cfd,AdGuardSDNSFilterDirect
 HOST,sowlettuce.com,AdGuardSDNSFilterDirect
 HOST,sowsenetter.com,AdGuardSDNSFilterDirect
+HOST,soxcuvcwsoccc.website,AdGuardSDNSFilterDirect
 HOST,soxfokwppwqpm.website,AdGuardSDNSFilterDirect
 HOST,soxhyxhugzwez.website,AdGuardSDNSFilterDirect
 HOST,soxnhocmadklc.site,AdGuardSDNSFilterDirect
@@ -138254,6 +138499,7 @@ HOST,spider.hoomie.online,AdGuardSDNSFilterDirect
 HOST,spider.storiesofchang.com,AdGuardSDNSFilterDirect
 HOST,spielsbeni.com,AdGuardSDNSFilterDirect
 HOST,spiffymachine.com,AdGuardSDNSFilterDirect
+HOST,spignetsidled.click,AdGuardSDNSFilterDirect
 HOST,spigotscuts.com,AdGuardSDNSFilterDirect
 HOST,spigte.shopee.tw,AdGuardSDNSFilterDirect
 HOST,spike.email-disney.cjm.adobe.com,AdGuardSDNSFilterDirect
@@ -155401,6 +155647,7 @@ HOST,stereotypedsugar.com,AdGuardSDNSFilterDirect
 HOST,sterilecontradiction.com,AdGuardSDNSFilterDirect
 HOST,steroidprop.com,AdGuardSDNSFilterDirect
 HOST,stertouring.com,AdGuardSDNSFilterDirect
+HOST,stethyclapt.cfd,AdGuardSDNSFilterDirect
 HOST,stetic.com,AdGuardSDNSFilterDirect
 HOST,steun.blanket.eu,AdGuardSDNSFilterDirect
 HOST,steun.blanket.uk,AdGuardSDNSFilterDirect
@@ -156979,6 +157226,7 @@ HOST,svlitnlsrnrfg.website,AdGuardSDNSFilterDirect
 HOST,svljbpyjjnmkj.site,AdGuardSDNSFilterDirect
 HOST,svlt.sivola.it,AdGuardSDNSFilterDirect
 HOST,svmarketing.destinationtoronto.com,AdGuardSDNSFilterDirect
+HOST,svmfpwebpfiwn.website,AdGuardSDNSFilterDirect
 HOST,svmjnmmvxntru.site,AdGuardSDNSFilterDirect
 HOST,svmkassokmzkf.online,AdGuardSDNSFilterDirect
 HOST,svmpj.bugmd.com,AdGuardSDNSFilterDirect
@@ -157258,6 +157506,7 @@ HOST,swdced.open32.nl,AdGuardSDNSFilterDirect
 HOST,swdqortugmmrj.online,AdGuardSDNSFilterDirect
 HOST,sweaterokay.com,AdGuardSDNSFilterDirect
 HOST,sweaterwarmly.com,AdGuardSDNSFilterDirect
+HOST,sweatsneozoic.com,AdGuardSDNSFilterDirect
 HOST,sweatyprom.com,AdGuardSDNSFilterDirect
 HOST,sweb.ulta.com,AdGuardSDNSFilterDirect
 HOST,swebanalytics.acs.org,AdGuardSDNSFilterDirect
@@ -157742,6 +157991,7 @@ HOST,sytm.ritualdeterra.com,AdGuardSDNSFilterDirect
 HOST,sytuzk.nissanvimontlaval.com,AdGuardSDNSFilterDirect
 HOST,syuaqkkanztrx.site,AdGuardSDNSFilterDirect
 HOST,syviuvzjlauzh.space,AdGuardSDNSFilterDirect
+HOST,syvxbvuaibmaf.site,AdGuardSDNSFilterDirect
 HOST,sywijqrehycts.website,AdGuardSDNSFilterDirect
 HOST,sywjfnwkthhez.online,AdGuardSDNSFilterDirect
 HOST,sywobt.from-off.com,AdGuardSDNSFilterDirect
@@ -160341,6 +160591,7 @@ HOST,taut-paper.pro,AdGuardSDNSFilterDirect
 HOST,tautingtortes.com,AdGuardSDNSFilterDirect
 HOST,tav.aterceiraondadabolsa.com.br,AdGuardSDNSFilterDirect
 HOST,tav.tradeaovivo.com.br,AdGuardSDNSFilterDirect
+HOST,taversroomthy.com,AdGuardSDNSFilterDirect
 HOST,taversserang.cyou,AdGuardSDNSFilterDirect
 HOST,tavgvouyakozy.website,AdGuardSDNSFilterDirect
 HOST,tavhfq.naspa.co.kr,AdGuardSDNSFilterDirect
@@ -160388,6 +160639,7 @@ HOST,tbe.tom.ru,AdGuardSDNSFilterDirect
 HOST,tbedl.knix.ca,AdGuardSDNSFilterDirect
 HOST,tbex.ru,AdGuardSDNSFilterDirect
 HOST,tbezwqeyyioqa.site,AdGuardSDNSFilterDirect
+HOST,tbfnzwjrgirrg.space,AdGuardSDNSFilterDirect
 HOST,tbgwyrxwtmfrh.site,AdGuardSDNSFilterDirect
 HOST,tbgzda.spyassociates.com,AdGuardSDNSFilterDirect
 HOST,tbhjdhxzkorni.website,AdGuardSDNSFilterDirect
@@ -160857,6 +161109,7 @@ HOST,techsupport.balluff.com,AdGuardSDNSFilterDirect
 HOST,tecoheat-ss.wellheater.com,AdGuardSDNSFilterDirect
 HOST,tecraccimk.com,AdGuardSDNSFilterDirect
 HOST,tecsst.fascedacapitano.it,AdGuardSDNSFilterDirect
+HOST,tectamuehgovj.space,AdGuardSDNSFilterDirect
 HOST,tectrixsnavvle.com,AdGuardSDNSFilterDirect
 HOST,teczbq.amicashop.com,AdGuardSDNSFilterDirect
 HOST,teczoonbdxxug.site,AdGuardSDNSFilterDirect
@@ -160879,6 +161132,7 @@ HOST,teeming-comfortable.com,AdGuardSDNSFilterDirect
 HOST,teemnooseeliminate.com,AdGuardSDNSFilterDirect
 HOST,teenersqueueunbear.cyou,AdGuardSDNSFilterDirect
 HOST,teensexgfs.com,AdGuardSDNSFilterDirect
+HOST,teensysarsnetrandier.cfd,AdGuardSDNSFilterDirect
 HOST,teentitsass.com,AdGuardSDNSFilterDirect
 HOST,teenytinycellar.com,AdGuardSDNSFilterDirect
 HOST,teenytinyshirt.com,AdGuardSDNSFilterDirect
@@ -160895,6 +161149,7 @@ HOST,teflonmalie.com,AdGuardSDNSFilterDirect
 HOST,teh.foryouehealth.de,AdGuardSDNSFilterDirect
 HOST,tehmb.etrendygo.com,AdGuardSDNSFilterDirect
 HOST,tehseelaves.com,AdGuardSDNSFilterDirect
+HOST,tehsvboopmwfi.site,AdGuardSDNSFilterDirect
 HOST,teigwaren.silikonbackform.com,AdGuardSDNSFilterDirect
 HOST,teijgy.herveleger.com,AdGuardSDNSFilterDirect
 HOST,teimyesrhvruc.space,AdGuardSDNSFilterDirect
@@ -161097,6 +161352,7 @@ HOST,terbit2.com,AdGuardSDNSFilterDirect
 HOST,terbit21.gdn,AdGuardSDNSFilterDirect
 HOST,tercabilis.info,AdGuardSDNSFilterDirect
 HOST,terciogouge.com,AdGuardSDNSFilterDirect
+HOST,terciohagrid.click,AdGuardSDNSFilterDirect
 HOST,terciohunting.cyou,AdGuardSDNSFilterDirect
 HOST,terciozonula.qpon,AdGuardSDNSFilterDirect
 HOST,terdeallyighabove.org,AdGuardSDNSFilterDirect
@@ -161422,6 +161678,7 @@ HOST,tgtbtidsommym.site,AdGuardSDNSFilterDirect
 HOST,tgtgzo.otelz.com,AdGuardSDNSFilterDirect
 HOST,tgtmedia.com,AdGuardSDNSFilterDirect
 HOST,tgtrjjlpjntes.space,AdGuardSDNSFilterDirect
+HOST,tgudxroftsego.site,AdGuardSDNSFilterDirect
 HOST,tgurcoinei.com,AdGuardSDNSFilterDirect
 HOST,tguyxzkrxgzqt.online,AdGuardSDNSFilterDirect
 HOST,tgvpr.universalcolours.com,AdGuardSDNSFilterDirect
@@ -162276,6 +162533,7 @@ HOST,tizermy.net,AdGuardSDNSFilterDirect
 HOST,tizernaya-reklama.ru,AdGuardSDNSFilterDirect
 HOST,tizeroff.ru,AdGuardSDNSFilterDirect
 HOST,tiznmykuxnu.in,AdGuardSDNSFilterDirect
+HOST,tizoczopqmi.in,AdGuardSDNSFilterDirect
 HOST,tizofvtuqo.com,AdGuardSDNSFilterDirect
 HOST,tizqnfruqacgjc.com,AdGuardSDNSFilterDirect
 HOST,tizru.com,AdGuardSDNSFilterDirect
@@ -162342,6 +162600,7 @@ HOST,tjnuztjtlqihq.site,AdGuardSDNSFilterDirect
 HOST,tjnwt.crocs.ca,AdGuardSDNSFilterDirect
 HOST,tjokezsaw.remboursementfacile.com,AdGuardSDNSFilterDirect
 HOST,tjosjuihqnxke.online,AdGuardSDNSFilterDirect
+HOST,tjpeczevnjrws.space,AdGuardSDNSFilterDirect
 HOST,tjpnd.petals-wellness.com,AdGuardSDNSFilterDirect
 HOST,tjpze.moventashop.com,AdGuardSDNSFilterDirect
 HOST,tjq79jjz.noirci.studio,AdGuardSDNSFilterDirect
@@ -162729,6 +162988,7 @@ HOST,tlugeo.glamira.cz,AdGuardSDNSFilterDirect
 HOST,tluhigpbrybww.space,AdGuardSDNSFilterDirect
 HOST,tluihoeadocjs.store,AdGuardSDNSFilterDirect
 HOST,tlundf.skullis.com,AdGuardSDNSFilterDirect
+HOST,tluniiykkzmdx.website,AdGuardSDNSFilterDirect
 HOST,tlunuabvemnuv.online,AdGuardSDNSFilterDirect
 HOST,tluutoido.com,AdGuardSDNSFilterDirect
 HOST,tlval.josephinenord.dk,AdGuardSDNSFilterDirect
@@ -163115,6 +163375,7 @@ HOST,tognrhqgiyaja.online,AdGuardSDNSFilterDirect
 HOST,togo.fris.online,AdGuardSDNSFilterDirect
 HOST,togothermany.com,AdGuardSDNSFilterDirect
 HOST,togotosleepbutju.com,AdGuardSDNSFilterDirect
+HOST,toguefallace.cfd,AdGuardSDNSFilterDirect
 HOST,togvnrchpuflt.site,AdGuardSDNSFilterDirect
 HOST,togxfwvfslruy.space,AdGuardSDNSFilterDirect
 HOST,toheroatheism.cfd,AdGuardSDNSFilterDirect
@@ -163471,6 +163732,7 @@ HOST,towerpubic.cyou,AdGuardSDNSFilterDirect
 HOST,towersflimsy.com,AdGuardSDNSFilterDirect
 HOST,townlife-aff.com,AdGuardSDNSFilterDirect
 HOST,towropekaleege.com,AdGuardSDNSFilterDirect
+HOST,towslowmen.cfd,AdGuardSDNSFilterDirect
 HOST,toxaminhones.com,AdGuardSDNSFilterDirect
 HOST,toxemiaseabags.com,AdGuardSDNSFilterDirect
 HOST,toxhfxmokoduz.space,AdGuardSDNSFilterDirect
@@ -169678,6 +169940,7 @@ HOST,ttedwm.com,AdGuardSDNSFilterDirect
 HOST,tteikk.saintmaniero.com,AdGuardSDNSFilterDirect
 HOST,ttfpil.2dehands.be,AdGuardSDNSFilterDirect
 HOST,ttfqcx.catfootwear.com,AdGuardSDNSFilterDirect
+HOST,ttfwotjetavmk.website,AdGuardSDNSFilterDirect
 HOST,ttgmjfgldgv9ed10.com,AdGuardSDNSFilterDirect
 HOST,ttgrs.manumatters.com,AdGuardSDNSFilterDirect
 HOST,tthelitnfv.com,AdGuardSDNSFilterDirect
@@ -169710,6 +169973,7 @@ HOST,ttmomo.win,AdGuardSDNSFilterDirect
 HOST,ttmuvo.croisieres.fr,AdGuardSDNSFilterDirect
 HOST,ttnendqczfpcn.site,AdGuardSDNSFilterDirect
 HOST,ttngh.provenwinners.com,AdGuardSDNSFilterDirect
+HOST,ttnimlmqitkne.online,AdGuardSDNSFilterDirect
 HOST,ttnjhlhys.icu,AdGuardSDNSFilterDirect
 HOST,ttnjzfmlupknf.site,AdGuardSDNSFilterDirect
 HOST,ttnnuo.racing-planet.de,AdGuardSDNSFilterDirect
@@ -169824,6 +170088,7 @@ HOST,tubevay.com,AdGuardSDNSFilterDirect
 HOST,tubexazimebeze.com,AdGuardSDNSFilterDirect
 HOST,tubfmkdxfywgs.site,AdGuardSDNSFilterDirect
 HOST,tublikeopsy.com,AdGuardSDNSFilterDirect
+HOST,tubmvfsqcjuvm.space,AdGuardSDNSFilterDirect
 HOST,tubroaffs.org,AdGuardSDNSFilterDirect
 HOST,tubs.magnushomeproducts.com,AdGuardSDNSFilterDirect
 HOST,tubularstypsis.com,AdGuardSDNSFilterDirect
@@ -170623,6 +170888,7 @@ HOST,uauwsp.warentuin.nl,AdGuardSDNSFilterDirect
 HOST,uavefhtrbkbhq.online,AdGuardSDNSFilterDirect
 HOST,uavnfdezxzote.site,AdGuardSDNSFilterDirect
 HOST,uawefo.guylook.co.kr,AdGuardSDNSFilterDirect
+HOST,uawtcosldsclx.site,AdGuardSDNSFilterDirect
 HOST,uawxtipqoylci.space,AdGuardSDNSFilterDirect
 HOST,uaxcuqmfdjcks.space,AdGuardSDNSFilterDirect
 HOST,uaxfwsb.smallflower.com,AdGuardSDNSFilterDirect
@@ -170654,6 +170920,7 @@ HOST,ubembed.com,AdGuardSDNSFilterDirect
 HOST,ubeqzm.cleor.com,AdGuardSDNSFilterDirect
 HOST,ubercpm.com,AdGuardSDNSFilterDirect
 HOST,ubertags.com,AdGuardSDNSFilterDirect
+HOST,ubgomvvnftoom.space,AdGuardSDNSFilterDirect
 HOST,ubgvqakukavmm.space,AdGuardSDNSFilterDirect
 HOST,ubhoryjlvjfux.website,AdGuardSDNSFilterDirect
 HOST,ubhur.rothys.com,AdGuardSDNSFilterDirect
@@ -170933,6 +171200,7 @@ HOST,uezeus.ueberbit.de,AdGuardSDNSFilterDirect
 HOST,uf.uttomfood.com,AdGuardSDNSFilterDirect
 HOST,ufa9tt1n5.com,AdGuardSDNSFilterDirect
 HOST,ufaexpert.com,AdGuardSDNSFilterDirect
+HOST,ufauolqhhcpmd.space,AdGuardSDNSFilterDirect
 HOST,ufbcrgms.com,AdGuardSDNSFilterDirect
 HOST,ufbkweixxpaoe.site,AdGuardSDNSFilterDirect
 HOST,ufbpqmryrrctn.site,AdGuardSDNSFilterDirect
@@ -171005,6 +171273,7 @@ HOST,ugadceetawiae.site,AdGuardSDNSFilterDirect
 HOST,ugaombhsfshhw.site,AdGuardSDNSFilterDirect
 HOST,ugapt.shoesforall.com,AdGuardSDNSFilterDirect
 HOST,ugawuhis.emeryarabia.com,AdGuardSDNSFilterDirect
+HOST,ugazuogyeeadt.online,AdGuardSDNSFilterDirect
 HOST,ugbcotza.mallowstresses.com,AdGuardSDNSFilterDirect
 HOST,ugcsgjbpzrqvn.website,AdGuardSDNSFilterDirect
 HOST,ugcsmk.aeschbach-chaussures.ch,AdGuardSDNSFilterDirect
@@ -171060,6 +171329,7 @@ HOST,ugwsvh.eurorelogios.com.br,AdGuardSDNSFilterDirect
 HOST,ugxcvvfmhxjus.space,AdGuardSDNSFilterDirect
 HOST,ugzbsu.klimaworld.com,AdGuardSDNSFilterDirect
 HOST,ugzlf.bossaudio.com,AdGuardSDNSFilterDirect
+HOST,ugzmqcshtlyuo.online,AdGuardSDNSFilterDirect
 HOST,ugznz.tryrovina.com,AdGuardSDNSFilterDirect
 HOST,ugzsymmbhe.com,AdGuardSDNSFilterDirect
 HOST,uh5p93ia.xyz,AdGuardSDNSFilterDirect
@@ -171140,6 +171410,7 @@ HOST,uidsync.net,AdGuardSDNSFilterDirect
 HOST,uie.data.cbc.ca,AdGuardSDNSFilterDirect
 HOST,uiefurzwybmbl.site,AdGuardSDNSFilterDirect
 HOST,uiejc.innosupps.com,AdGuardSDNSFilterDirect
+HOST,uielpzzqvawfb.online,AdGuardSDNSFilterDirect
 HOST,uifesg.modulor.de,AdGuardSDNSFilterDirect
 HOST,uifim.gurunanda.com,AdGuardSDNSFilterDirect
 HOST,uifjajryjsobf.space,AdGuardSDNSFilterDirect
@@ -171335,6 +171606,7 @@ HOST,ulerkr.ukrzoloto.ua,AdGuardSDNSFilterDirect
 HOST,ulesxbo.com,AdGuardSDNSFilterDirect
 HOST,ulfsgwtcrwgqm.online,AdGuardSDNSFilterDirect
 HOST,ulfze.thevintagepearl.com,AdGuardSDNSFilterDirect
+HOST,ulg5n21zpek6wmic8u1.rest,AdGuardSDNSFilterDirect
 HOST,ulgmucrlctvsl.store,AdGuardSDNSFilterDirect
 HOST,ulgroiklf.com,AdGuardSDNSFilterDirect
 HOST,ulhbwdxzwifhg.site,AdGuardSDNSFilterDirect
@@ -171488,6 +171760,7 @@ HOST,umhjh9rwe.com,AdGuardSDNSFilterDirect
 HOST,umhkzidngrmor.website,AdGuardSDNSFilterDirect
 HOST,umhyck.belvilla.com,AdGuardSDNSFilterDirect
 HOST,umi.cloudful.de,AdGuardSDNSFilterDirect
+HOST,umiakfibster.com,AdGuardSDNSFilterDirect
 HOST,umiaob.kireibiz.jp,AdGuardSDNSFilterDirect
 HOST,umini.shujupie.com,AdGuardSDNSFilterDirect
 HOST,umisrvofhmysc.site,AdGuardSDNSFilterDirect
@@ -172095,6 +172368,7 @@ HOST,upgradeyoga.com,AdGuardSDNSFilterDirect
 HOST,upheapsbaze.qpon,AdGuardSDNSFilterDirect
 HOST,upholdbrilliancerecast.com,AdGuardSDNSFilterDirect
 HOST,uphtenydsrbdt.space,AdGuardSDNSFilterDirect
+HOST,uphufwudbxxhq.website,AdGuardSDNSFilterDirect
 HOST,upiprxfoyeikp.space,AdGuardSDNSFilterDirect
 HOST,upiwsqxrhnwzl.online,AdGuardSDNSFilterDirect
 HOST,upjakrsvmucdc.website,AdGuardSDNSFilterDirect
@@ -172284,6 +172558,7 @@ HOST,urhtkaleyacnw.space,AdGuardSDNSFilterDirect
 HOST,urimnugocfr.com,AdGuardSDNSFilterDirect
 HOST,urinatereroute.cyou,AdGuardSDNSFilterDirect
 HOST,urineimprobable.com,AdGuardSDNSFilterDirect
+HOST,urineyduools.com,AdGuardSDNSFilterDirect
 HOST,uriokr.bauhaus.es,AdGuardSDNSFilterDirect
 HOST,urit.launchpass.com,AdGuardSDNSFilterDirect
 HOST,urjass.candy2000.com,AdGuardSDNSFilterDirect
@@ -173179,6 +173454,7 @@ HOST,uudauthekhachhanh-tructuyen-thang10.com.vn,AdGuardSDNSFilterDirect
 HOST,uudbvq.skuola.net,AdGuardSDNSFilterDirect
 HOST,uudef.beacon40.com,AdGuardSDNSFilterDirect
 HOST,uudzibtuheqtq.online,AdGuardSDNSFilterDirect
+HOST,uudzkdihvjtit.site,AdGuardSDNSFilterDirect
 HOST,uue2.destinia.ir,AdGuardSDNSFilterDirect
 HOST,uuejoxtufssdg.site,AdGuardSDNSFilterDirect
 HOST,uuezzqtwvrikp.site,AdGuardSDNSFilterDirect
@@ -173188,6 +173464,7 @@ HOST,uufgarwmibysu.online,AdGuardSDNSFilterDirect
 HOST,uufsanys.fit1.hu,AdGuardSDNSFilterDirect
 HOST,uuhapochhbjzl.site,AdGuardSDNSFilterDirect
 HOST,uuhejd.snipes.es,AdGuardSDNSFilterDirect
+HOST,uuhhghulm.com,AdGuardSDNSFilterDirect
 HOST,uuhju.jeevgoodness.com,AdGuardSDNSFilterDirect
 HOST,uuidksinc.net,AdGuardSDNSFilterDirect
 HOST,uuk6x.33euh37v49itgkymlumm.cyou,AdGuardSDNSFilterDirect
@@ -173232,6 +173509,7 @@ HOST,uuyfkmaacszat.space,AdGuardSDNSFilterDirect
 HOST,uuyiiuqwownx.pw,AdGuardSDNSFilterDirect
 HOST,uuzkcflc.com,AdGuardSDNSFilterDirect
 HOST,uuzxaz.vidaxl.com,AdGuardSDNSFilterDirect
+HOST,uuzzelntjacau.online,AdGuardSDNSFilterDirect
 HOST,uv2rnirzt1u3yrptv9ngpb.cfd,AdGuardSDNSFilterDirect
 HOST,uvaf6ko09w.com,AdGuardSDNSFilterDirect
 HOST,uvaimxzf.simpleaisolution.com,AdGuardSDNSFilterDirect
@@ -173265,6 +173543,7 @@ HOST,uvouh.crateandbarrel.ca,AdGuardSDNSFilterDirect
 HOST,uvpcsohrnfxqk.site,AdGuardSDNSFilterDirect
 HOST,uvpnpz.misterspex.ch,AdGuardSDNSFilterDirect
 HOST,uvqvvh.avva.com.tr,AdGuardSDNSFilterDirect
+HOST,uvreconche.rest,AdGuardSDNSFilterDirect
 HOST,uvrggpvzkobmx.store,AdGuardSDNSFilterDirect
 HOST,uvrymdbcocnvl.space,AdGuardSDNSFilterDirect
 HOST,uvsjhe.teechip.com,AdGuardSDNSFilterDirect
@@ -173306,6 +173585,7 @@ HOST,uwqxdgtenyjdd.online,AdGuardSDNSFilterDirect
 HOST,uwsxggozgndtg.online,AdGuardSDNSFilterDirect
 HOST,uwterphco.com,AdGuardSDNSFilterDirect
 HOST,uwtgwe.golfballs.com,AdGuardSDNSFilterDirect
+HOST,uwtgyywrefbls.website,AdGuardSDNSFilterDirect
 HOST,uwttvbcw.everflowutilities.com,AdGuardSDNSFilterDirect
 HOST,uwtybptzsqcvo.online,AdGuardSDNSFilterDirect
 HOST,uwuhzjkgswmao.website,AdGuardSDNSFilterDirect
@@ -173393,6 +173673,7 @@ HOST,uygpvztdwrjcu.website,AdGuardSDNSFilterDirect
 HOST,uyhgqunqkxnx.pw,AdGuardSDNSFilterDirect
 HOST,uyhifvdohrxoy.site,AdGuardSDNSFilterDirect
 HOST,uyhxjy.jdsports.se,AdGuardSDNSFilterDirect
+HOST,uyicwh6muelyyuxcrqcnhjnz.rest,AdGuardSDNSFilterDirect
 HOST,uyivht.robertgraham.us,AdGuardSDNSFilterDirect
 HOST,uyjhzkltcwfnv.website,AdGuardSDNSFilterDirect
 HOST,uyjngwpuciwgq.space,AdGuardSDNSFilterDirect
@@ -173677,6 +173958,7 @@ HOST,vang11.com,AdGuardSDNSFilterDirect
 HOST,vang22.com,AdGuardSDNSFilterDirect
 HOST,vang888.com,AdGuardSDNSFilterDirect
 HOST,vang999.com,AdGuardSDNSFilterDirect
+HOST,vangloeducat.com,AdGuardSDNSFilterDirect
 HOST,vangngocnhanh.info,AdGuardSDNSFilterDirect
 HOST,vangngocrong.com,AdGuardSDNSFilterDirect
 HOST,vangsyours.com,AdGuardSDNSFilterDirect
@@ -174368,6 +174650,7 @@ HOST,verygoodminigames.com,AdGuardSDNSFilterDirect
 HOST,verypopularwebsite.com,AdGuardSDNSFilterDirect
 HOST,verythekit.com,AdGuardSDNSFilterDirect
 HOST,veselchaga.link,AdGuardSDNSFilterDirect
+HOST,vesjqclgesawj.site,AdGuardSDNSFilterDirect
 HOST,veskitnerved.com,AdGuardSDNSFilterDirect
 HOST,veskmyjmoiovz.website,AdGuardSDNSFilterDirect
 HOST,vespymedia.com,AdGuardSDNSFilterDirect
@@ -174669,6 +174952,7 @@ HOST,vibtrvfiegdpi.site,AdGuardSDNSFilterDirect
 HOST,vibvay.com,AdGuardSDNSFilterDirect
 HOST,vibvayvn.com,AdGuardSDNSFilterDirect
 HOST,vic-m.co,AdGuardSDNSFilterDirect
+HOST,vicaireresowscohol.cyou,AdGuardSDNSFilterDirect
 HOST,vicepiter.ru,AdGuardSDNSFilterDirect
 HOST,vicesus.com,AdGuardSDNSFilterDirect
 HOST,viciascapus.shop,AdGuardSDNSFilterDirect
@@ -175216,6 +175500,7 @@ HOST,visa-vpbank-uu-tien.com,AdGuardSDNSFilterDirect
 HOST,visao.metodoastro.com.br,AdGuardSDNSFilterDirect
 HOST,visariomedia.com,AdGuardSDNSFilterDirect
 HOST,viscidvareusebetitle.cfd,AdGuardSDNSFilterDirect
+HOST,viscuslegliketel.cyou,AdGuardSDNSFilterDirect
 HOST,visiads.com,AdGuardSDNSFilterDirect
 HOST,visibilityconnectashy.com,AdGuardSDNSFilterDirect
 HOST,visiblegains.com,AdGuardSDNSFilterDirect
@@ -175471,6 +175756,7 @@ HOST,vklike.com,AdGuardSDNSFilterDirect
 HOST,vkljfmykgnd.com,AdGuardSDNSFilterDirect
 HOST,vklke.fatfender.com,AdGuardSDNSFilterDirect
 HOST,vklkoyvxvznlk.site,AdGuardSDNSFilterDirect
+HOST,vklwhznqazlgl.website,AdGuardSDNSFilterDirect
 HOST,vklzhsplergwb.site,AdGuardSDNSFilterDirect
 HOST,vkofmhfpfjyak.online,AdGuardSDNSFilterDirect
 HOST,vkoq4kyzmj.com,AdGuardSDNSFilterDirect
@@ -175486,6 +175772,7 @@ HOST,vkscdg.solocruceros.com,AdGuardSDNSFilterDirect
 HOST,vkstgpdsqkues.site,AdGuardSDNSFilterDirect
 HOST,vkuwrp.remorques-discount.com,AdGuardSDNSFilterDirect
 HOST,vkvguedutesbt.website,AdGuardSDNSFilterDirect
+HOST,vkvmatnuscqkn.space,AdGuardSDNSFilterDirect
 HOST,vkwaeo.com,AdGuardSDNSFilterDirect
 HOST,vkxyjj.g2a.com,AdGuardSDNSFilterDirect
 HOST,vkyieskdlavjt.space,AdGuardSDNSFilterDirect
@@ -175515,6 +175802,7 @@ HOST,vlgaj.ogee.com,AdGuardSDNSFilterDirect
 HOST,vlgtgjpcgoiqa.online,AdGuardSDNSFilterDirect
 HOST,vlhpssfra.com,AdGuardSDNSFilterDirect
 HOST,vlifpif.com,AdGuardSDNSFilterDirect
+HOST,vligfctcykwng.website,AdGuardSDNSFilterDirect
 HOST,vliplatform.com,AdGuardSDNSFilterDirect
 HOST,vlitag.com,AdGuardSDNSFilterDirect
 HOST,vlixvwaaluajs.online,AdGuardSDNSFilterDirect
@@ -176128,6 +176416,7 @@ HOST,vpbhuddvufxvb.space,AdGuardSDNSFilterDirect
 HOST,vpbhxdrcyorss.online,AdGuardSDNSFilterDirect
 HOST,vpbjuracackcm.online,AdGuardSDNSFilterDirect
 HOST,vpbsvn.com,AdGuardSDNSFilterDirect
+HOST,vpbugplg.com,AdGuardSDNSFilterDirect
 HOST,vpcjijijkzhjv.space,AdGuardSDNSFilterDirect
 HOST,vpdfsr.augsburger-jobanzeiger.de,AdGuardSDNSFilterDirect
 HOST,vpeebbq.com,AdGuardSDNSFilterDirect
@@ -176444,6 +176733,7 @@ HOST,vtook3j0l.com,AdGuardSDNSFilterDirect
 HOST,vtopo.crateandbarrel.ca,AdGuardSDNSFilterDirect
 HOST,vtoqtpohhrghk.online,AdGuardSDNSFilterDirect
 HOST,vtpjt.calisibeauty.co.uk,AdGuardSDNSFilterDirect
+HOST,vtqrnirqxrqqq.site,AdGuardSDNSFilterDirect
 HOST,vtr.thetransferpros.com,AdGuardSDNSFilterDirect
 HOST,vtrabj.icu,AdGuardSDNSFilterDirect
 HOST,vtracker.net,AdGuardSDNSFilterDirect
@@ -176671,6 +176961,7 @@ HOST,vwujib.whiskyitaly.it,AdGuardSDNSFilterDirect
 HOST,vwuocwmrin.in,AdGuardSDNSFilterDirect
 HOST,vwutek.briochin.co.kr,AdGuardSDNSFilterDirect
 HOST,vwvaddoet.com,AdGuardSDNSFilterDirect
+HOST,vwvxrfnsmwakf.online,AdGuardSDNSFilterDirect
 HOST,vww2lbl27o.bettervits.com,AdGuardSDNSFilterDirect
 HOST,vwwhyk.cbd-medic.com,AdGuardSDNSFilterDirect
 HOST,vwwoec.thahab.com,AdGuardSDNSFilterDirect
@@ -177545,6 +177836,7 @@ HOST,wctsub.hostingcheck24.de,AdGuardSDNSFilterDirect
 HOST,wctsub.start24.nl,AdGuardSDNSFilterDirect
 HOST,wcu79k85a.com,AdGuardSDNSFilterDirect
 HOST,wcumiqigmpkoc.site,AdGuardSDNSFilterDirect
+HOST,wcunhtgrhdkdt.online,AdGuardSDNSFilterDirect
 HOST,wcuujkywusvpv.online,AdGuardSDNSFilterDirect
 HOST,wcvrhurqdmx.com,AdGuardSDNSFilterDirect
 HOST,wcvunl9fjg.4mz8b15fh5weebn7fvg2w6g4fuc.cyou,AdGuardSDNSFilterDirect
@@ -178691,6 +178983,7 @@ HOST,wfs.euromatic-bvba.be,AdGuardSDNSFilterDirect
 HOST,wfsczypfjnova.online,AdGuardSDNSFilterDirect
 HOST,wftihvn.xyz,AdGuardSDNSFilterDirect
 HOST,wftoukfy.net,AdGuardSDNSFilterDirect
+HOST,wfumfysum.in,AdGuardSDNSFilterDirect
 HOST,wfwadedzk.com,AdGuardSDNSFilterDirect
 HOST,wfwmem.ginote.co.kr,AdGuardSDNSFilterDirect
 HOST,wfwrbo.fascar.com.br,AdGuardSDNSFilterDirect
@@ -178709,6 +179002,7 @@ HOST,wgdjti.sos-kinderdorf.de,AdGuardSDNSFilterDirect
 HOST,wgdotbbdbfktr.space,AdGuardSDNSFilterDirect
 HOST,wgeaqi.laredoute.gr,AdGuardSDNSFilterDirect
 HOST,wgebnh.mynavi-agent.jp,AdGuardSDNSFilterDirect
+HOST,wgenxjvutxyif.site,AdGuardSDNSFilterDirect
 HOST,wgerhfypjlycg.site,AdGuardSDNSFilterDirect
 HOST,wgflkd.gpasplus.com,AdGuardSDNSFilterDirect
 HOST,wgfqayocqadzp.space,AdGuardSDNSFilterDirect
@@ -179335,6 +179629,7 @@ HOST,wjhbmpzfsrdxj.space,AdGuardSDNSFilterDirect
 HOST,wjibjvgebkolf.space,AdGuardSDNSFilterDirect
 HOST,wjieeshauugup.website,AdGuardSDNSFilterDirect
 HOST,wjirnevntjlfn.space,AdGuardSDNSFilterDirect
+HOST,wjkjigxhegfss.online,AdGuardSDNSFilterDirect
 HOST,wjmepiytpjiki.website,AdGuardSDNSFilterDirect
 HOST,wjmghujaluysu.online,AdGuardSDNSFilterDirect
 HOST,wjmyfp.billetdavion.be,AdGuardSDNSFilterDirect
@@ -179362,6 +179657,7 @@ HOST,wk5fo6pyf.com,AdGuardSDNSFilterDirect
 HOST,wk70ccjk1a.com,AdGuardSDNSFilterDirect
 HOST,wkbkgxkjopxfc.space,AdGuardSDNSFilterDirect
 HOST,wkclick.baidu.com,AdGuardSDNSFilterDirect
+HOST,wkcltobnpuxtr.site,AdGuardSDNSFilterDirect
 HOST,wkctj.baidu.com,AdGuardSDNSFilterDirect
 HOST,wkd.red-mag.ro,AdGuardSDNSFilterDirect
 HOST,wkdcv.teriyakimadness.com,AdGuardSDNSFilterDirect
@@ -180054,6 +180350,7 @@ HOST,wsaovlmqyzglj.space,AdGuardSDNSFilterDirect
 HOST,wsapi-global.master.live,AdGuardSDNSFilterDirect
 HOST,wsapi.master.live,AdGuardSDNSFilterDirect
 HOST,wsdazglmaboql.store,AdGuardSDNSFilterDirect
+HOST,wsdpepznqkrzy.space,AdGuardSDNSFilterDirect
 HOST,wsezwshs.com,AdGuardSDNSFilterDirect
 HOST,wsfmgmmpfdekq.online,AdGuardSDNSFilterDirect
 HOST,wsfpej.denhamjapan.jp,AdGuardSDNSFilterDirect
@@ -180090,6 +180387,7 @@ HOST,wstats.ageverif.com,AdGuardSDNSFilterDirect
 HOST,wstats.click,AdGuardSDNSFilterDirect
 HOST,wstats.slashed.cloud,AdGuardSDNSFilterDirect
 HOST,wstatslive.com,AdGuardSDNSFilterDirect
+HOST,wstcflqkgohpu.site,AdGuardSDNSFilterDirect
 HOST,wstdwwcsgxwqw.space,AdGuardSDNSFilterDirect
 HOST,wstfad.hausgold.de,AdGuardSDNSFilterDirect
 HOST,wstjxlyxtekzi.site,AdGuardSDNSFilterDirect
@@ -180182,6 +180480,7 @@ HOST,wttd.madeleine.co.uk,AdGuardSDNSFilterDirect
 HOST,wttd.madeleine.de,AdGuardSDNSFilterDirect
 HOST,wttd.madeleine.fr,AdGuardSDNSFilterDirect
 HOST,wttd.madeleine.gr,AdGuardSDNSFilterDirect
+HOST,wtufqkijiqssw.site,AdGuardSDNSFilterDirect
 HOST,wtugrhpg.papaia.com.au,AdGuardSDNSFilterDirect
 HOST,wtwfocbffqqzdz.com,AdGuardSDNSFilterDirect
 HOST,wtxqkplrdszqm.space,AdGuardSDNSFilterDirect
@@ -180364,6 +180663,7 @@ HOST,wwqharkuwtwet.online,AdGuardSDNSFilterDirect
 HOST,wwqtpcmsikcab.net,AdGuardSDNSFilterDirect
 HOST,wwrludqshknua.space,AdGuardSDNSFilterDirect
 HOST,wwrupv.tannico.it,AdGuardSDNSFilterDirect
+HOST,wwsohqfbubqyg.online,AdGuardSDNSFilterDirect
 HOST,wwswhutcuchnh.site,AdGuardSDNSFilterDirect
 HOST,wwt.starwank.com,AdGuardSDNSFilterDirect
 HOST,wwtfmeonvlazu.online,AdGuardSDNSFilterDirect
@@ -181232,6 +181532,7 @@ HOST,xcrrdxmdadebs.site,AdGuardSDNSFilterDirect
 HOST,xcrxtvqgr.com,AdGuardSDNSFilterDirect
 HOST,xcswmntemfqmh.site,AdGuardSDNSFilterDirect
 HOST,xctijlhnpycxg.space,AdGuardSDNSFilterDirect
+HOST,xcuaxkknloypd.site,AdGuardSDNSFilterDirect
 HOST,xcultur.com,AdGuardSDNSFilterDirect
 HOST,xcuvjyvdo.com,AdGuardSDNSFilterDirect
 HOST,xcvrle.premiereclasse.com,AdGuardSDNSFilterDirect
@@ -181268,6 +181569,7 @@ HOST,xdmanage.com,AdGuardSDNSFilterDirect
 HOST,xdmwyecqmbykn.website,AdGuardSDNSFilterDirect
 HOST,xdnclxsxoozqv.online,AdGuardSDNSFilterDirect
 HOST,xdneygldlewtb.space,AdGuardSDNSFilterDirect
+HOST,xdniaximcmxti.website,AdGuardSDNSFilterDirect
 HOST,xdnjqtn.com,AdGuardSDNSFilterDirect
 HOST,xdnpjxryzvnde.site,AdGuardSDNSFilterDirect
 HOST,xdntimoypskgq.online,AdGuardSDNSFilterDirect
@@ -181409,6 +181711,7 @@ HOST,xgefcs.geechs-job.com,AdGuardSDNSFilterDirect
 HOST,xgefvi.iteshop.com,AdGuardSDNSFilterDirect
 HOST,xgefwokzxvuzx.space,AdGuardSDNSFilterDirect
 HOST,xgezbc.tripmasters.com,AdGuardSDNSFilterDirect
+HOST,xgfoyrudzstsr.online,AdGuardSDNSFilterDirect
 HOST,xgfps.golfclubs4cash.co.uk,AdGuardSDNSFilterDirect
 HOST,xghklnjmyljlc.site,AdGuardSDNSFilterDirect
 HOST,xghpo.2ppghrgnk4qb6lv.cyou,AdGuardSDNSFilterDirect
@@ -181548,6 +181851,7 @@ HOST,xikxomyzutsto.site,AdGuardSDNSFilterDirect
 HOST,xilflksioan.net,AdGuardSDNSFilterDirect
 HOST,xilpcschzrgnp.site,AdGuardSDNSFilterDirect
 HOST,ximad.com,AdGuardSDNSFilterDirect
+HOST,ximdoqxdrighn.space,AdGuardSDNSFilterDirect
 HOST,ximtfhywwwwbs.online,AdGuardSDNSFilterDirect
 HOST,ximtmikqubrlo.space,AdGuardSDNSFilterDirect
 HOST,ximybkpxwu.com,AdGuardSDNSFilterDirect
@@ -181716,6 +182020,7 @@ HOST,xkxxrdeuknhvz.site,AdGuardSDNSFilterDirect
 HOST,xkybsvfhjuznn.space,AdGuardSDNSFilterDirect
 HOST,xkycnx.look-it.jp,AdGuardSDNSFilterDirect
 HOST,xkyjdirnktpao.space,AdGuardSDNSFilterDirect
+HOST,xkysykhputthf.space,AdGuardSDNSFilterDirect
 HOST,xkzlsm.web-sana.com,AdGuardSDNSFilterDirect
 HOST,xkzura.yves-rocher.se,AdGuardSDNSFilterDirect
 HOST,xkzwyaoqtvzlm.space,AdGuardSDNSFilterDirect
@@ -182912,6 +183217,7 @@ HOST,xnemz1rc5j.com,AdGuardSDNSFilterDirect
 HOST,xneyeaoqjhayv.site,AdGuardSDNSFilterDirect
 HOST,xnfbhzbvsyepf.online,AdGuardSDNSFilterDirect
 HOST,xnfjictwvrnuz.site,AdGuardSDNSFilterDirect
+HOST,xngbmsgvckcqi.space,AdGuardSDNSFilterDirect
 HOST,xngfbikggrivf.site,AdGuardSDNSFilterDirect
 HOST,xngjk.bfreeaustralia.com.au,AdGuardSDNSFilterDirect
 HOST,xniyaklqxkech.website,AdGuardSDNSFilterDirect
@@ -183992,6 +184298,7 @@ HOST,yczl5qg8jr.com,AdGuardSDNSFilterDirect
 HOST,yczpwjtvggloo.online,AdGuardSDNSFilterDirect
 HOST,ydbcct.nikigolf.jp,AdGuardSDNSFilterDirect
 HOST,ydbeuq.superpharm.pl,AdGuardSDNSFilterDirect
+HOST,ydbglhqwywrns.site,AdGuardSDNSFilterDirect
 HOST,ydcbng.yadah.co.kr,AdGuardSDNSFilterDirect
 HOST,ydccky.direnc.net,AdGuardSDNSFilterDirect
 HOST,ydcjrqvjveneo.online,AdGuardSDNSFilterDirect
@@ -184806,6 +185113,7 @@ HOST,yovcb.com,AdGuardSDNSFilterDirect
 HOST,yovoads.com,AdGuardSDNSFilterDirect
 HOST,yowiespopian.com,AdGuardSDNSFilterDirect
 HOST,yowlingmiscues.com,AdGuardSDNSFilterDirect
+HOST,yowsyejcaudph.site,AdGuardSDNSFilterDirect
 HOST,yoxeha.afloral.com,AdGuardSDNSFilterDirect
 HOST,yoxfjudadp.com,AdGuardSDNSFilterDirect
 HOST,yoxgbiywfdlsd.online,AdGuardSDNSFilterDirect
@@ -184840,6 +185148,7 @@ HOST,ypmuecmt.humand.co,AdGuardSDNSFilterDirect
 HOST,ypndvx.stepstone.fr,AdGuardSDNSFilterDirect
 HOST,ypocjgogabqjj.website,AdGuardSDNSFilterDirect
 HOST,ypphgndtjnpyf.online,AdGuardSDNSFilterDirect
+HOST,ypq72b6ningrip8jy.cfd,AdGuardSDNSFilterDirect
 HOST,ypqgnx.morizon.pl,AdGuardSDNSFilterDirect
 HOST,ypqi7zqbyw5qx.hlj6b67ro88imrfl4.cyou,AdGuardSDNSFilterDirect
 HOST,ypqowrizpahrb.space,AdGuardSDNSFilterDirect
@@ -184928,6 +185237,7 @@ HOST,yrkuhr.mysoft.hu,AdGuardSDNSFilterDirect
 HOST,yrlkmglnttcve.online,AdGuardSDNSFilterDirect
 HOST,yrlkte.in360.pl,AdGuardSDNSFilterDirect
 HOST,yrlovhdvzrdxs.site,AdGuardSDNSFilterDirect
+HOST,yrninidzsdiwt.online,AdGuardSDNSFilterDirect
 HOST,yrnyvjyd.paradox24.com,AdGuardSDNSFilterDirect
 HOST,yroclhudiwvcp.website,AdGuardSDNSFilterDirect
 HOST,yronesefurther.org,AdGuardSDNSFilterDirect
@@ -185408,10 +185718,12 @@ HOST,yzvhrn.koelner-jobanzeiger.de,AdGuardSDNSFilterDirect
 HOST,yzvpco.hfashionmall.com,AdGuardSDNSFilterDirect
 HOST,yzwfoxrcwymys.space,AdGuardSDNSFilterDirect
 HOST,yzwkxjepxczno.site,AdGuardSDNSFilterDirect
+HOST,yzwpxwxkmeqxt.site,AdGuardSDNSFilterDirect
 HOST,yzwtz.com,AdGuardSDNSFilterDirect
 HOST,yzxvyl.bestandless.com.au,AdGuardSDNSFilterDirect
 HOST,yzxysg.cadeauxadler.com,AdGuardSDNSFilterDirect
 HOST,yzyjcjmsylgbv.site,AdGuardSDNSFilterDirect
+HOST,yzyqinvovcwyo.online,AdGuardSDNSFilterDirect
 HOST,yzyzh.milkshakehairpro.com,AdGuardSDNSFilterDirect
 HOST,yzzksnfxepiiy.site,AdGuardSDNSFilterDirect
 HOST,yzzqza.vanillashu.co.kr,AdGuardSDNSFilterDirect
@@ -185579,6 +185891,7 @@ HOST,zaman.skinberrybd.com,AdGuardSDNSFilterDirect
 HOST,zambiandagesh.qpon,AdGuardSDNSFilterDirect
 HOST,zamdfpnikouof.space,AdGuardSDNSFilterDirect
 HOST,zamdwy.alexachung.com,AdGuardSDNSFilterDirect
+HOST,zamiaboort.com,AdGuardSDNSFilterDirect
 HOST,zamioculcas2.org,AdGuardSDNSFilterDirect
 HOST,zamkh.mygardyn.com,AdGuardSDNSFilterDirect
 HOST,zamocwtuh.com,AdGuardSDNSFilterDirect
@@ -186221,6 +186534,7 @@ HOST,zion-telemetry-nonprod.api.cnn.io,AdGuardSDNSFilterDirect
 HOST,zion-telemetry.api.cnn.io,AdGuardSDNSFilterDirect
 HOST,zion.api.cnn.io,AdGuardSDNSFilterDirect
 HOST,zion.qbo.intuit.com,AdGuardSDNSFilterDirect
+HOST,zioshdvobbgim.website,AdGuardSDNSFilterDirect
 HOST,zioynaervpnht.space,AdGuardSDNSFilterDirect
 HOST,zipatsunbochur.qpon,AdGuardSDNSFilterDirect
 HOST,zipcrypticbroadsheet.com,AdGuardSDNSFilterDirect
@@ -186304,6 +186618,7 @@ HOST,zjmwizpyxsreb.space,AdGuardSDNSFilterDirect
 HOST,zjnpx.maxtrixkids.com,AdGuardSDNSFilterDirect
 HOST,zjoqtb.jacadi.fr,AdGuardSDNSFilterDirect
 HOST,zjosweqiruoaz.website,AdGuardSDNSFilterDirect
+HOST,zjownvjdhfqub.site,AdGuardSDNSFilterDirect
 HOST,zjozr.underwearexpert.com,AdGuardSDNSFilterDirect
 HOST,zjpmswrjggpxe.site,AdGuardSDNSFilterDirect
 HOST,zjqbxcdwwtvtt.site,AdGuardSDNSFilterDirect
@@ -186540,12 +186855,14 @@ HOST,zmyvawmwezr.com,AdGuardSDNSFilterDirect
 HOST,zmyxpuosmbty.in,AdGuardSDNSFilterDirect
 HOST,zmzkyj.agrieuro.com,AdGuardSDNSFilterDirect
 HOST,zn5k27612f97gjm.cfd,AdGuardSDNSFilterDirect
+HOST,znaoznsvisqke.site,AdGuardSDNSFilterDirect
 HOST,znavidsde.cfd,AdGuardSDNSFilterDirect
 HOST,znbgaspigycyc.space,AdGuardSDNSFilterDirect
 HOST,znbxym.hifiklubben.no,AdGuardSDNSFilterDirect
 HOST,zncnwv.qa.apartmentguide.com,AdGuardSDNSFilterDirect
 HOST,zndresser.cyou,AdGuardSDNSFilterDirect
 HOST,zneerf.ixtem-moto.com,AdGuardSDNSFilterDirect
+HOST,znftxennxelii.website,AdGuardSDNSFilterDirect
 HOST,zngaaixe.fit1.hu,AdGuardSDNSFilterDirect
 HOST,zngkzslgifgon.space,AdGuardSDNSFilterDirect
 HOST,zngvqwp.icu,AdGuardSDNSFilterDirect
@@ -186583,6 +186900,7 @@ HOST,znrakwmcjsvtm.online,AdGuardSDNSFilterDirect
 HOST,znrdyzqiaeros.site,AdGuardSDNSFilterDirect
 HOST,znrttr.jaypore.com,AdGuardSDNSFilterDirect
 HOST,znsvg.keepyourcadence.com,AdGuardSDNSFilterDirect
+HOST,zntdyevefrxsr.website,AdGuardSDNSFilterDirect
 HOST,znutlgbuoivtq.site,AdGuardSDNSFilterDirect
 HOST,znuzsttrjyeir.site,AdGuardSDNSFilterDirect
 HOST,znwsq.kulanikinis.co,AdGuardSDNSFilterDirect
@@ -186798,6 +187116,7 @@ HOST,zqesidsufeygf.website,AdGuardSDNSFilterDirect
 HOST,zqethqturvqgc.online,AdGuardSDNSFilterDirect
 HOST,zqfjqsubxsazb.online,AdGuardSDNSFilterDirect
 HOST,zqfzcqtzrxgar.space,AdGuardSDNSFilterDirect
+HOST,zqgkiobtofztc.site,AdGuardSDNSFilterDirect
 HOST,zqgmq.cleancause.com,AdGuardSDNSFilterDirect
 HOST,zqika.helloryse.com,AdGuardSDNSFilterDirect
 HOST,zqikfvpbhofiq.site,AdGuardSDNSFilterDirect
@@ -187359,6 +187678,7 @@ HOST,zzaoea.costacrociere.it,AdGuardSDNSFilterDirect
 HOST,zzbcje.com,AdGuardSDNSFilterDirect
 HOST,zzbdq.satechi.net,AdGuardSDNSFilterDirect
 HOST,zzbkcfkcglkhm.online,AdGuardSDNSFilterDirect
+HOST,zzbnipxpymmvs.space,AdGuardSDNSFilterDirect
 HOST,zzcnenngkrxio.space,AdGuardSDNSFilterDirect
 HOST,zzddu.kozakh.com,AdGuardSDNSFilterDirect
 HOST,zzdvsgnxamcmq.website,AdGuardSDNSFilterDirect

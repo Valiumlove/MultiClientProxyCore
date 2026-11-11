@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Loon/`
-- 规则数：**1185** · 总行数：**861914**
+- 规则数：**1185** · 总行数：**868486**
 
 ## 常用规则（可直接复制）
 
@@ -72,12 +72,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Actalis.list) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuard.list) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 187 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilter.list) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 187485 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilterDirect.list) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 187914 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilterDirect.list) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Adidas.list) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Adobe.list) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdobeActivation.list) |
-| Advertising | 去广告 | 289290 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Advertising.list) |
-| AdvertisingLite | 去广告精简版 | 188185 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingLite.list) |
+| Advertising | 去广告 | 289696 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Advertising.list) |
+| AdvertisingLite | 去广告精简版 | 188454 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingLite.list) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingMiTV.list) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Aerogard.list) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Agora.list) |
@@ -110,16 +110,16 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Anjuke | 安居客 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Anjuke.list) |
 | Anker | Anker | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Anker.list) |
 | AnnasArchive | Anna's Archive电子书检索 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AnnasArchive.list) |
-| Anthropic | Anthropic | 49 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Anthropic.list) |
+| Anthropic | Anthropic | 51 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Anthropic.list) |
 | Antivirus | 杀毒与安全软件 | 166 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Antivirus.list) |
 | ApiFox | Apifox | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ApiFox.list) |
 | ApiPost | ApiPost | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ApiPost.list) |
 | Apkpure | APKPure | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Apkpure.list) |
 | AppStore | App Store | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppStore.list) |
-| Apple | Apple | 3712 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Apple.list) |
+| Apple | Apple | 4137 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Apple.list) |
 | AppleCDN | Apple CDN | 36 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleCDN.list) |
 | AppleDev | Apple开发者 | 55 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleDev.list) |
-| AppleDirect | Apple 直连 | 1667 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleDirect.list) |
+| AppleDirect | Apple 直连 | 2092 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleDirect.list) |
 | AppleFirmware | Apple固件 | 178 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleFirmware.list) |
 | AppleHardware | Apple硬件 | 226 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleHardware.list) |
 | AppleIntelligence | Apple 智能服务 | 6 | 2026-08-03 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleIntelligence.list) |
@@ -128,7 +128,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | AppleNews | Apple News | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleNews.list) |
 | ApplePKI | Apple证书 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ApplePKI.list) |
 | ApplePodcasts | Apple 播客 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ApplePodcasts.list) |
-| AppleProxy | Apple代理 | 1704 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleProxy.list) |
+| AppleProxy | Apple代理 | 2129 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleProxy.list) |
 | AppleTV | Apple TV | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleTV.list) |
 | AppleUpdate | Apple 更新服务 | 97 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AppleUpdate.list) |
 | ArchLinux | Arch Linux | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ArchLinux.list) |
@@ -236,12 +236,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChangYou.list) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Chegg.list) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChengTongWangPan.list) |
-| China | 中国 | 10337 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/China.list) |
+| China | 中国 | 10280 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/China.list) |
 | ChinaASN | 中国ASN | 5076 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaASN.list) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaBroadnet.list) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaGame.list) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPTV.list) |
-| ChinaIPs | 中国IP | 23164 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPs.list) |
+| ChinaIPs | 中国IP | 23161 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPs.list) |
 | ChinaMedia | 中国媒体 | 358 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaMedia.list) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaMobile.list) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaNews.list) |
@@ -330,7 +330,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | DingDong | 叮咚买菜 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/DingDong.list) |
 | DingTalk | 钉钉 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/DingTalk.list) |
 | DingXiangYuan | 丁香园 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/DingXiangYuan.list) |
-| Direct | 直连 | 1106 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Direct.list) |
+| Direct | 直连 | 1537 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Direct.list) |
 | Discord | Discord | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Discord.list) |
 | Discourse | Discourse论坛平台 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Discourse.list) |
 | DiscoveryPlus | Discovery+ | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/DiscoveryPlus.list) |
@@ -453,13 +453,13 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | GitHub | GitHub | 73 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GitHub.list) |
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GitLab.list) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Gitee.list) |
-| Global | 全球 | 24451 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Global.list) |
-| GlobalAI | 全球AI | 2679 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalAI.list) |
+| Global | 全球 | 24430 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Global.list) |
+| GlobalAI | 全球AI | 3105 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalAI.list) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalCDN.list) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalCloud.list) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalGame.list) |
 | GlobalIPTV | IPTV全球 | 2814 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalIPTV.list) |
-| GlobalMedia | 全球媒体 | 3124 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalMedia.list) |
+| GlobalMedia | 全球媒体 | 3550 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalMedia.list) |
 | GlobalNetDisk | 全球网盘服务 | 59 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalNetDisk.list) |
 | GlobalScholar | 全球学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalScholar.list) |
 | GlobalSign | Globalsign | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalSign.list) |
@@ -617,7 +617,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | KuroGames | 库洛游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/KuroGames.list) |
 | KyodoNews | 共同通讯社 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/KyodoNews.list) |
 | LG | LG | 98 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/LG.list) |
-| Lan | 本地局域网地址 | 1575 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Lan.list) |
+| Lan | 本地局域网地址 | 2001 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Lan.list) |
 | LanZou | 蓝奏云 | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/LanZou.list) |
 | Laracasts | Laracasts教程 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Laracasts.list) |
 | LastFM | Last.fm | 34 | 2026-09-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/LastFM.list) |
@@ -694,7 +694,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | MicrosoftDev | Microsoft 开发服务 | 76 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MicrosoftDev.list) |
 | MicrosoftEdge | Microsoft Edge | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MicrosoftEdge.list) |
 | MicrosoftPKI | 微软证书 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MicrosoftPKI.list) |
-| MicrosoftProxy | Microsoft 代理 | 697 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MicrosoftProxy.list) |
+| MicrosoftProxy | Microsoft 代理 | 1129 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MicrosoftProxy.list) |
 | Midea | 美的 | 10 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Midea.list) |
 | Migu | 咪咕 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Migu.list) |
 | MikroTik | MikroTik路由 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/MikroTik.list) |
@@ -737,7 +737,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Neowin | Neowin科技 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Neowin.list) |
 | NetCup | NetCup托管 | 24 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/NetCup.list) |
 | NetEase | 网易 | 190 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/NetEase.list) |
-| NetEaseMusic | 网易云音乐 | 1454 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/NetEaseMusic.list) |
+| NetEaseMusic | 网易云音乐 | 1880 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/NetEaseMusic.list) |
 | NeteaseCloud | 网易云计算 | 106 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/NeteaseCloud.list) |
 | Netflix | Netflix | 1620 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Netflix.list) |
 | Netlify | Netlify网站托管 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Netlify.list) |
@@ -828,7 +828,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | PostImages | PostImages图片 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/PostImages.list) |
 | PotatoChat | Potato Chat | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/PotatoChat.list) |
 | PrimeVideo | Prime Video | 24 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/PrimeVideo.list) |
-| Privacy | 隐私保护 | 41289 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Privacy.list) |
+| Privacy | 隐私保护 | 41715 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Privacy.list) |
 | PrivateTracker | PT下载 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/PrivateTracker.list) |
 | ProQuest | ProQuest学术 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ProQuest.list) |
 | Progress | Progress软件 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Progress.list) |
@@ -945,7 +945,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | SpaceX | SpaceX | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/SpaceX.list) |
 | Spaceship | Spaceship域名 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Spaceship.list) |
 | Spark | Spark | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Spark.list) |
-| Speedtest | Speedtest | 4888 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Speedtest.list) |
+| Speedtest | Speedtest | 5314 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Speedtest.list) |
 | Spiceworks | Spiceworks社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Spiceworks.list) |
 | Spotify | Spotify | 40 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Spotify.list) |
 | Springer | Springer学术 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Springer.list) |
@@ -961,7 +961,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Startpage | Startpage搜索 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Startpage.list) |
 | StaticFile | Staticfile前端CDN | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/StaticFile.list) |
 | Steam | Steam | 97 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Steam.list) |
-| SteamCN | Steam中国 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/SteamCN.list) |
+| SteamCN | Steam中国 | 17 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/SteamCN.list) |
 | SteamUnlocked | SteamUnlocked游戏资源 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/SteamUnlocked.list) |
 | Steemit | Steemit | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Steemit.list) |
 | StraitsX | StraitsX支付 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/StraitsX.list) |
@@ -1002,7 +1002,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Teambition | Teambition | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Teambition.list) |
 | TechTimes | TechTimes | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/TechTimes.list) |
 | Technogym | Technogym健身 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Technogym.list) |
-| Telegram | Telegram | 1469 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Telegram.list) |
+| Telegram | Telegram | 1895 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Telegram.list) |
 | TempMail | 临时邮箱 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/TempMail.list) |
 | Tencent | 腾讯 | 2781 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Tencent.list) |
 | TencentCloud | 腾讯云计算 | 2715 | 2026-09-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/TencentCloud.list) |
@@ -1211,7 +1211,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | edX | edX 在线课程 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/edX.list) |
 | friDay | friDay影音 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/friDay.list) |
 | iCloud | iCloud | 56 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iCloud.list) |
-| iCloudPrivateRelay | iCloud Private Relay | 1411 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iCloudPrivateRelay.list) |
+| iCloudPrivateRelay | iCloud Private Relay | 1837 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iCloudPrivateRelay.list) |
 | iFlytek | 科大讯飞 | 152 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iFlytek.list) |
 | iQIYI | 爱奇艺 | 82 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iQIYI.list) |
 | iQIYIIntl | 爱奇艺国际版 | 22 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/iQIYIIntl.list) |

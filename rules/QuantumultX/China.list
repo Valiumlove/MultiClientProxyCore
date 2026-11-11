@@ -1,20 +1,17 @@
 # NAME: China
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-09 17:50:29
-# HOST: 24
-# HOST-SUFFIX: 6379
+# UPDATED: 2026-11-11 09:49:15
+# HOST: 20
+# HOST-SUFFIX: 6362
 # HOST-WILDCARD: 2
 # HOST-KEYWORD: 10
 # USER-AGENT: 30
-# IP-CIDR: 3891
+# IP-CIDR: 3854
 # IP6-CIDR: 4
-# GEOIP: 1
 
-HOST,api.alibabacloud.com,China
 HOST,api.blipsandchitz.me,China
 HOST,client.amplifi.com,China
-HOST,cn.alibabacloud.com,China
 HOST,cn.download.nvidia.com,China
 HOST,config.ubnt.com,China
 HOST,ctdsb.clouddiffuse.xyz,China
@@ -29,8 +26,6 @@ HOST,kms.03k.org,China
 HOST,media.cdn.queniuqe.com,China
 HOST,ocsp.globalsign.com,China
 HOST,ocsp2.globalsign.com,China
-HOST,status.alibabacloud.com,China
-HOST,steamcommunity-a.akamaihd.net,China
 HOST,time.izatcloud.net,China
 HOST,time.xtracloud.net,China
 HOST,www.layuicdn.com,China
@@ -769,7 +764,6 @@ HOST-SUFFIX,baozou.com,China
 HOST-SUFFIX,baozoumanhua.com,China
 HOST-SUFFIX,baseopendev.com,China
 HOST-SUFFIX,batchat.com,China
-HOST-SUFFIX,battle.net,China
 HOST-SUFFIX,battlecare.net,China
 HOST-SUFFIX,baydn.com,China
 HOST-SUFFIX,bayescom.com,China
@@ -1509,7 +1503,6 @@ HOST-SUFFIX,cmicapm.com,China
 HOST-SUFFIX,cmpassport.com,China
 HOST-SUFFIX,cmpay.com,China
 HOST-SUFFIX,cmread.com,China
-HOST-SUFFIX,cn,China
 HOST-SUFFIX,cn.pool.ntp.org,China
 HOST-SUFFIX,cnanzhi.com,China
 HOST-SUFFIX,cnb.cool,China
@@ -1794,7 +1787,6 @@ HOST-SUFFIX,didapinche.com,China
 HOST-SUFFIX,didialift.com,China
 HOST-SUFFIX,didichuxing.com,China
 HOST-SUFFIX,didistatic.com,China
-HOST-SUFFIX,digicert.com,China
 HOST-SUFFIX,digitalcnzz.com,China
 HOST-SUFFIX,digitaling.com,China
 HOST-SUFFIX,dili360.com,China
@@ -2299,8 +2291,6 @@ HOST-SUFFIX,funmob.top,China
 HOST-SUFFIX,funnycore.com,China
 HOST-SUFFIX,funshion.com,China
 HOST-SUFFIX,funshion.net,China
-HOST-SUFFIX,futu5.com,China
-HOST-SUFFIX,futunn.com,China
 HOST-SUFFIX,fuwai.com,China
 HOST-SUFFIX,fuwj.com,China
 HOST-SUFFIX,fxbaogao.com,China
@@ -2340,7 +2330,6 @@ HOST-SUFFIX,game234.com,China
 HOST-SUFFIX,gameabc.com,China
 HOST-SUFFIX,gamebonfire.com,China
 HOST-SUFFIX,gameitop.com,China
-HOST-SUFFIX,gameloft.com,China
 HOST-SUFFIX,gameloop.com,China
 HOST-SUFFIX,gamemei.com,China
 HOST-SUFFIX,gamepp.com,China
@@ -2643,7 +2632,6 @@ HOST-SUFFIX,hisilicon.com,China
 HOST-SUFFIX,hismarttv.com,China
 HOST-SUFFIX,hitevision-solutions.com,China
 HOST-SUFFIX,hitv.com,China
-HOST-SUFFIX,hiwifi.com,China
 HOST-SUFFIX,hiyd.com,China
 HOST-SUFFIX,hjapi.com,China
 HOST-SUFFIX,hkgcloudcs.com,China
@@ -3612,7 +3600,6 @@ HOST-SUFFIX,liblib.art,China
 HOST-SUFFIX,liblib.cloud,China
 HOST-SUFFIX,liblib.tv,China
 HOST-SUFFIX,libvideo.com,China
-HOST-SUFFIX,licdn.com,China
 HOST-SUFFIX,liepin.com,China
 HOST-SUFFIX,lietou-static.com,China
 HOST-SUFFIX,lietou.com,China
@@ -3644,8 +3631,6 @@ HOST-SUFFIX,liulishuo.com,China
 HOST-SUFFIX,liunn.com,China
 HOST-SUFFIX,liuxiaoer.com,China
 HOST-SUFFIX,liuxing.com,China
-HOST-SUFFIX,live.com,China
-HOST-SUFFIX,live.net,China
 HOST-SUFFIX,live800.com,China
 HOST-SUFFIX,livecdnstatic.com,China
 HOST-SUFFIX,livechina.com,China
@@ -3953,16 +3938,13 @@ HOST-SUFFIX,moyubuluo.com,China
 HOST-SUFFIX,mrtdephoto.net,China
 HOST-SUFFIX,mrw.so,China
 HOST-SUFFIX,mryys.com,China
-HOST-SUFFIX,ms,China
 HOST-SUFFIX,msanjia.com,China
 HOST-SUFFIX,msauth.net,China
 HOST-SUFFIX,mscbsc.com,China
 HOST-SUFFIX,msecnd.net,China
-HOST-SUFFIX,msedge.net,China
 HOST-SUFFIX,mshare.cc,China
 HOST-SUFFIX,mslmc.net,China
 HOST-SUFFIX,msmartlife.com,China
-HOST-SUFFIX,msn.com,China
 HOST-SUFFIX,msocdn.com,China
 HOST-SUFFIX,msstatic.com,China
 HOST-SUFFIX,mszdld.com,China
@@ -4082,6 +4064,7 @@ HOST-SUFFIX,nfoservers.com,China
 HOST-SUFFIX,nfpeople.com,China
 HOST-SUFFIX,ngabbs.com,China
 HOST-SUFFIX,ngacn.cc,China
+HOST-SUFFIX,nia-teams.com,China
 HOST-SUFFIX,nic.xin,China
 HOST-SUFFIX,nicaifu.com,China
 HOST-SUFFIX,nicezhuanye.com,China
@@ -4148,7 +4131,6 @@ HOST-SUFFIX,oncdp.com,China
 HOST-SUFFIX,oneapm.com,China
 HOST-SUFFIX,onedns.net,China
 HOST-SUFFIX,onegreen.net,China
-HOST-SUFFIX,onenote.com,China
 HOST-SUFFIX,onenote.net,China
 HOST-SUFFIX,oneplus.com,China
 HOST-SUFFIX,oneplus.net,China
@@ -4893,7 +4875,6 @@ HOST-SUFFIX,sxsimg.com,China
 HOST-SUFFIX,sxtvs.com,China
 HOST-SUFFIX,sxyygh.com,China
 HOST-SUFFIX,sydw8.com,China
-HOST-SUFFIX,symcd.com,China
 HOST-SUFFIX,sys321.com,China
 HOST-SUFFIX,syxlgame.com,China
 HOST-SUFFIX,sz-jlc.com,China
@@ -5229,7 +5210,6 @@ HOST-SUFFIX,tr-testboe.net,China
 HOST-SUFFIX,tracup.com,China
 HOST-SUFFIX,trademessenger.com,China
 HOST-SUFFIX,trae.guru,China
-HOST-SUFFIX,trello.com,China
 HOST-SUFFIX,trellocdn.com,China
 HOST-SUFFIX,tripcdn.com,China
 HOST-SUFFIX,tritoninfo.net,China
@@ -5956,7 +5936,6 @@ HOST-SUFFIX,xqymuy.com,China
 HOST-SUFFIX,xsa239.com,China
 HOST-SUFFIX,xsgtvacct.com,China
 HOST-SUFFIX,xslb.net,China
-HOST-SUFFIX,xteko.com,China
 HOST-SUFFIX,xuanchuanyi.com,China
 HOST-SUFFIX,xue51.com,China
 HOST-SUFFIX,xueche.com,China
@@ -6362,7 +6341,6 @@ HOST-SUFFIX,znds.com,China
 HOST-SUFFIX,znnu.com,China
 HOST-SUFFIX,znztv.com,China
 HOST-SUFFIX,zofund.com,China
-HOST-SUFFIX,zoho.com,China
 HOST-SUFFIX,zol.com,China
 HOST-SUFFIX,zongheng.com,China
 HOST-SUFFIX,zpb365.com,China
@@ -6625,7 +6603,6 @@ IP-CIDR,103.111.64.0/24,China
 IP-CIDR,103.113.4.0/22,China
 IP-CIDR,103.114.100.0/22,China
 IP-CIDR,103.114.212.0/23,China
-IP-CIDR,103.114.236.0/22,China
 IP-CIDR,103.115.120.0/24,China
 IP-CIDR,103.115.248.0/22,China
 IP-CIDR,103.116.120.0/23,China
@@ -6640,7 +6617,6 @@ IP-CIDR,103.118.52.0/22,China
 IP-CIDR,103.118.60.0/22,China
 IP-CIDR,103.12.184.0/22,China
 IP-CIDR,103.12.232.0/22,China
-IP-CIDR,103.12.98.0/23,China
 IP-CIDR,103.120.72.0/22,China
 IP-CIDR,103.120.88.0/22,China
 IP-CIDR,103.121.164.0/23,China
@@ -6686,7 +6662,6 @@ IP-CIDR,103.150.24.0/23,China
 IP-CIDR,103.150.37.0/24,China
 IP-CIDR,103.151.148.0/23,China
 IP-CIDR,103.152.151.0/24,China
-IP-CIDR,103.152.186.0/23,China
 IP-CIDR,103.152.209.0/24,China
 IP-CIDR,103.152.224.0/24,China
 IP-CIDR,103.152.28.0/23,China
@@ -6902,7 +6877,6 @@ IP-CIDR,103.238.52.0/22,China
 IP-CIDR,103.238.96.0/23,China
 IP-CIDR,103.238.98.0/24,China
 IP-CIDR,103.239.152.0/22,China
-IP-CIDR,103.239.184.0/22,China
 IP-CIDR,103.239.192.0/22,China
 IP-CIDR,103.239.244.0/22,China
 IP-CIDR,103.239.68.0/22,China
@@ -6998,7 +6972,6 @@ IP-CIDR,103.36.172.0/22,China
 IP-CIDR,103.36.192.0/20,China
 IP-CIDR,103.36.208.0/22,China
 IP-CIDR,103.36.220.0/22,China
-IP-CIDR,103.36.28.0/22,China
 IP-CIDR,103.36.36.0/22,China
 IP-CIDR,103.36.63.0/24,China
 IP-CIDR,103.36.96.0/22,China
@@ -7131,7 +7104,6 @@ IP-CIDR,103.77.28.0/22,China
 IP-CIDR,103.78.126.0/23,China
 IP-CIDR,103.78.228.0/22,China
 IP-CIDR,103.79.200.0/22,China
-IP-CIDR,103.79.228.0/23,China
 IP-CIDR,103.79.24.0/22,China
 IP-CIDR,103.8.220.0/22,China
 IP-CIDR,103.8.33.0/24,China
@@ -7361,7 +7333,6 @@ IP-CIDR,112.132.0.0/16,China
 IP-CIDR,112.192.0.0/14,China
 IP-CIDR,112.224.0.0/11,China
 IP-CIDR,112.64.0.0/14,China
-IP-CIDR,112.73.96.0/19,China
 IP-CIDR,112.74.0.0/16,China
 IP-CIDR,112.80.0.0/12,China
 IP-CIDR,112.96.0.0/13,China
@@ -7394,13 +7365,9 @@ IP-CIDR,113.31.160.0/19,China
 IP-CIDR,113.31.96.0/19,China
 IP-CIDR,113.44.0.0/16,China
 IP-CIDR,113.45.0.0/18,China
-IP-CIDR,113.45.102.0/23,China
-IP-CIDR,113.45.104.0/21,China
-IP-CIDR,113.45.112.0/22,China
 IP-CIDR,113.45.120.0/22,China
 IP-CIDR,113.45.128.0/17,China
 IP-CIDR,113.45.64.0/19,China
-IP-CIDR,113.45.96.0/22,China
 IP-CIDR,113.46.0.0/16,China
 IP-CIDR,113.47.0.0/18,China
 IP-CIDR,113.47.104.0/22,China
@@ -7465,7 +7432,6 @@ IP-CIDR,114.113.208.0/21,China
 IP-CIDR,114.113.221.0/24,China
 IP-CIDR,114.113.223.0/24,China
 IP-CIDR,114.113.224.0/20,China
-IP-CIDR,114.113.66.0/24,China
 IP-CIDR,114.113.88.0/21,China
 IP-CIDR,114.114.112.0/21,China
 IP-CIDR,114.115.0.0/16,China
@@ -7954,7 +7920,6 @@ IP-CIDR,119.80.192.0/21,China
 IP-CIDR,119.80.200.0/22,China
 IP-CIDR,119.80.240.0/22,China
 IP-CIDR,119.80.248.0/21,China
-IP-CIDR,119.80.56.0/24,China
 IP-CIDR,119.80.8.0/22,China
 IP-CIDR,119.84.0.0/14,China
 IP-CIDR,119.88.128.0/17,China
@@ -8293,7 +8258,6 @@ IP-CIDR,125.208.45.0/24,China
 IP-CIDR,125.208.46.0/23,China
 IP-CIDR,125.210.0.0/15,China
 IP-CIDR,125.213.32.0/20,China
-IP-CIDR,125.214.96.0/19,China
 IP-CIDR,125.215.36.0/23,China
 IP-CIDR,125.215.40.0/24,China
 IP-CIDR,125.215.44.0/23,China
@@ -8321,8 +8285,6 @@ IP-CIDR,132.232.0.0/16,China
 IP-CIDR,132.237.134.0/24,China
 IP-CIDR,133.226.32.0/20,China
 IP-CIDR,134.175.0.0/16,China
-IP-CIDR,136.143.186.0/23,China
-IP-CIDR,136.143.188.0/22,China
 IP-CIDR,138.252.72.0/23,China
 IP-CIDR,139.129.0.0/16,China
 IP-CIDR,139.148.0.0/16,China
@@ -8369,10 +8331,8 @@ IP-CIDR,14.112.0.0/12,China
 IP-CIDR,14.134.0.0/15,China
 IP-CIDR,14.144.0.0/12,China
 IP-CIDR,14.16.0.0/12,China
-IP-CIDR,14.167.176.0/20,China
 IP-CIDR,14.204.0.0/15,China
 IP-CIDR,14.208.0.0/12,China
-IP-CIDR,14.241.232.0/21,China
 IP-CIDR,14.255.16.0/24,China
 IP-CIDR,14.255.238.0/24,China
 IP-CIDR,14.255.254.0/24,China
@@ -8471,7 +8431,6 @@ IP-CIDR,156.107.170.0/24,China
 IP-CIDR,156.107.179.0/24,China
 IP-CIDR,156.107.181.0/24,China
 IP-CIDR,156.227.239.0/24,China
-IP-CIDR,156.232.10.0/23,China
 IP-CIDR,156.232.9.0/24,China
 IP-CIDR,157.0.0.0/16,China
 IP-CIDR,157.10.112.0/23,China
@@ -8519,7 +8478,6 @@ IP-CIDR,161.207.0.0/16,China
 IP-CIDR,162.105.0.0/16,China
 IP-CIDR,163.0.0.0/16,China
 IP-CIDR,163.125.0.0/16,China
-IP-CIDR,163.128.254.0/23,China
 IP-CIDR,163.142.0.0/16,China
 IP-CIDR,163.177.0.0/16,China
 IP-CIDR,163.179.0.0/16,China
@@ -8537,15 +8495,12 @@ IP-CIDR,163.61.178.0/23,China
 IP-CIDR,163.61.202.0/23,China
 IP-CIDR,163.61.214.0/23,China
 IP-CIDR,165.101.70.0/24,China
-IP-CIDR,165.173.179.0/24,China
 IP-CIDR,166.111.0.0/16,China
 IP-CIDR,167.139.0.0/16,China
 IP-CIDR,167.220.244.0/22,China
 IP-CIDR,168.160.0.0/17,China
-IP-CIDR,168.160.152.0/24,China
 IP-CIDR,168.160.158.0/23,China
 IP-CIDR,168.160.160.0/21,China
-IP-CIDR,168.160.168.0/24,China
 IP-CIDR,171.104.0.0/13,China
 IP-CIDR,171.112.0.0/12,China
 IP-CIDR,171.208.0.0/12,China
@@ -8563,7 +8518,6 @@ IP-CIDR,175.102.128.0/21,China
 IP-CIDR,175.102.178.0/23,China
 IP-CIDR,175.102.180.0/22,China
 IP-CIDR,175.102.184.0/24,China
-IP-CIDR,175.102.196.0/24,China
 IP-CIDR,175.146.0.0/15,China
 IP-CIDR,175.148.0.0/14,China
 IP-CIDR,175.152.0.0/14,China
@@ -8702,7 +8656,6 @@ IP-CIDR,192.140.208.0/21,China
 IP-CIDR,192.144.128.0/17,China
 IP-CIDR,192.163.11.0/24,China
 IP-CIDR,192.232.97.0/24,China
-IP-CIDR,192.51.173.0/24,China
 IP-CIDR,193.112.0.0/16,China
 IP-CIDR,193.9.44.0/24,China
 IP-CIDR,193.9.46.0/24,China
@@ -9113,7 +9066,6 @@ IP-CIDR,203.99.21.0/24,China
 IP-CIDR,203.99.22.0/23,China
 IP-CIDR,203.99.26.0/23,China
 IP-CIDR,203.99.30.0/23,China
-IP-CIDR,204.141.42.0/23,China
 IP-CIDR,204.77.130.0/24,China
 IP-CIDR,205.198.19.0/24,China
 IP-CIDR,207.57.167.0/24,China
@@ -9395,9 +9347,7 @@ IP-CIDR,211.97.160.0/21,China
 IP-CIDR,211.97.176.0/20,China
 IP-CIDR,211.97.192.0/18,China
 IP-CIDR,211.98.0.0/16,China
-IP-CIDR,211.99.12.0/24,China
 IP-CIDR,211.99.128.0/18,China
-IP-CIDR,211.99.14.0/23,China
 IP-CIDR,211.99.16.0/23,China
 IP-CIDR,211.99.192.0/19,China
 IP-CIDR,211.99.25.0/24,China
@@ -9405,7 +9355,6 @@ IP-CIDR,211.99.26.0/24,China
 IP-CIDR,211.99.28.0/22,China
 IP-CIDR,211.99.32.0/19,China
 IP-CIDR,211.99.64.0/18,China
-IP-CIDR,211.99.8.0/22,China
 IP-CIDR,212.103.62.0/24,China
 IP-CIDR,212.129.128.0/17,China
 IP-CIDR,212.64.0.0/17,China
@@ -9444,7 +9393,6 @@ IP-CIDR,218.244.56.0/23,China
 IP-CIDR,218.244.58.0/24,China
 IP-CIDR,218.245.0.0/17,China
 IP-CIDR,218.246.160.0/19,China
-IP-CIDR,218.246.192.0/19,China
 IP-CIDR,218.246.21.0/24,China
 IP-CIDR,218.246.22.0/24,China
 IP-CIDR,218.246.32.0/22,China
@@ -9830,7 +9778,6 @@ IP-CIDR,42.240.14.0/24,China
 IP-CIDR,42.240.16.0/23,China
 IP-CIDR,42.240.20.0/22,China
 IP-CIDR,42.240.24.0/24,China
-IP-CIDR,42.240.48.0/24,China
 IP-CIDR,42.240.8.0/22,China
 IP-CIDR,42.242.0.0/15,China
 IP-CIDR,42.244.0.0/16,China
@@ -9863,8 +9810,6 @@ IP-CIDR,43.180.0.0/16,China
 IP-CIDR,43.192.0.0/16,China
 IP-CIDR,43.193.0.0/18,China
 IP-CIDR,43.193.64.0/23,China
-IP-CIDR,43.194.0.0/20,China
-IP-CIDR,43.194.16.0/24,China
 IP-CIDR,43.196.0.0/16,China
 IP-CIDR,43.224.12.0/22,China
 IP-CIDR,43.224.24.0/22,China
@@ -9927,7 +9872,6 @@ IP-CIDR,43.240.200.0/23,China
 IP-CIDR,43.240.202.0/24,China
 IP-CIDR,43.240.204.0/22,China
 IP-CIDR,43.240.220.0/22,China
-IP-CIDR,43.240.56.0/21,China
 IP-CIDR,43.240.72.0/22,China
 IP-CIDR,43.241.16.0/22,China
 IP-CIDR,43.241.180.0/22,China
@@ -10067,7 +10011,6 @@ IP-CIDR,45.248.108.0/23,China
 IP-CIDR,45.248.110.0/24,China
 IP-CIDR,45.248.8.0/22,China
 IP-CIDR,45.249.212.0/22,China
-IP-CIDR,45.250.152.0/23,China
 IP-CIDR,45.250.180.0/23,China
 IP-CIDR,45.250.184.0/22,China
 IP-CIDR,45.250.188.0/24,China
@@ -10140,7 +10083,6 @@ IP-CIDR,52.82.131.0/24,China
 IP-CIDR,52.82.132.0/24,China
 IP-CIDR,52.82.134.0/23,China
 IP-CIDR,52.82.136.0/24,China
-IP-CIDR,52.82.144.0/23,China
 IP-CIDR,52.82.148.0/22,China
 IP-CIDR,52.82.160.0/21,China
 IP-CIDR,52.82.170.0/23,China
@@ -10293,7 +10235,6 @@ IP-CIDR,61.87.192.0/18,China
 IP-CIDR,62.234.0.0/16,China
 IP-CIDR,63.140.0.0/24,China
 IP-CIDR,64.188.38.0/23,China
-IP-CIDR,64.188.40.0/22,China
 IP-CIDR,64.188.44.0/24,China
 IP-CIDR,64.96.5.0/24,China
 IP-CIDR,68.79.0.0/18,China
@@ -10351,4 +10292,3 @@ IP6-CIDR,2a0b:b580::/48,China
 IP6-CIDR,2a0b:b581::/48,China
 IP6-CIDR,2a0b:b582::/48,China
 IP6-CIDR,2a0b:b583::/48,China
-GEOIP,CN,China

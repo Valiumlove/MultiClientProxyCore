@@ -1,15 +1,15 @@
 # NAME: Anthropic
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 11:30:54
+# UPDATED: 2026-11-11 09:45:14
 # BEHAVIOR: classical
-# DOMAIN: 8
+# DOMAIN: 10
 # DOMAIN-SUFFIX: 33
 # DOMAIN-KEYWORD: 3
 # IP-CIDR: 1
 # IP-CIDR6: 1
 # IP-ASN: 1
-# PROCESS-NAME: 5
+# PROCESS-NAME: 2
 
 payload:
 - 'DOMAIN,anthropic-com.ghost.io'
@@ -18,6 +18,8 @@ payload:
 - 'DOMAIN,browser-intake-us5-datadoghq.com'
 - 'DOMAIN,cdn.growthbook.io'
 - 'DOMAIN,cdn.usefathom.com'
+- 'DOMAIN,http-intake.logs.us5.datadoghq.com'
+- 'DOMAIN,o1158394.ingest.us.sentry.io'
 - 'DOMAIN,servd-anthropic-website.b-cdn.net'
 - 'DOMAIN,storage.googleapis.com'
 - 'DOMAIN-SUFFIX,ant.dev'
@@ -60,7 +62,4 @@ payload:
 - 'IP-CIDR6,2607:6bc0::/32,no-resolve'
 - 'IP-ASN,399358,no-resolve'
 - 'PROCESS-NAME,Claude'
-- 'PROCESS-NAME,Claude.exe'
 - 'PROCESS-NAME,claude'
-- 'PROCESS-NAME,claude.exe'
-- 'PROCESS-NAME,cowork-svc.exe'
