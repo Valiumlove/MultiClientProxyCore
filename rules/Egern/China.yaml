@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-11 14:54:46
+# UPDATED: 2026-11-12 11:05:19
 no_resolve: true
 domain_set:
   - api.blipsandchitz.me
@@ -8468,6 +8468,7 @@ ip_cidr_set:
   - 163.61.202.0/23
   - 163.61.214.0/23
   - 165.101.70.0/24
+  - 165.173.176.0/24
   - 166.111.0.0/16
   - 167.139.0.0/16
   - 167.220.244.0/22

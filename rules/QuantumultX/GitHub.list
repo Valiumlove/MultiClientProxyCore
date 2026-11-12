@@ -1,8 +1,8 @@
 # NAME: GitHub
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-16 22:24:15
-# HOST: 32
+# UPDATED: 2026-11-12 10:44:20
+# HOST: 33
 # HOST-SUFFIX: 40
 # HOST-KEYWORD: 1
 
@@ -18,6 +18,7 @@ HOST,github-production-repository-file-5c1aeb.s3.amazonaws.com,GitHub
 HOST,github-production-repository-image-32fea6.s3.amazonaws.com,GitHub
 HOST,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com,GitHub
 HOST,github-production-user-asset-6210df.s3.amazonaws.com,GitHub
+HOST,production-copilot-host-westus.webpubsub.azure.com,GitHub
 HOST,productionresultssa0.blob.core.windows.net,GitHub
 HOST,productionresultssa1.blob.core.windows.net,GitHub
 HOST,productionresultssa10.blob.core.windows.net,GitHub
