@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-11 09:44:16
+# UPDATED: 2026-11-13 07:43:01
 # BEHAVIOR: classical
-# DOMAIN: 1912
+# DOMAIN: 1913
 # DOMAIN-SUFFIX: 22356
 # DOMAIN-KEYWORD: 53
 # DOMAIN-WILDCARD: 61
@@ -1130,6 +1130,7 @@ payload:
 - 'DOMAIN,instafeed.nfcube.com'
 - 'DOMAIN,int.mwbbiz.com'
 - 'DOMAIN,interwiki.scpwikicn.com'
+- 'DOMAIN,iprsoftwaremedia.com'
 - 'DOMAIN,ipxy.io'
 - 'DOMAIN,irp-cdn.multiscreensite.com'
 - 'DOMAIN,isitmaintained.com'

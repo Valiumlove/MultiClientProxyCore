@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Loon/`
-- 规则数：**1185** · 总行数：**897899**
+- 规则数：**1185** · 总行数：**899018**
 
 ## 常用规则（可直接复制）
 
@@ -72,12 +72,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Actalis.list) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuard.list) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilter.list) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 189664 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilterDirect.list) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190241 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdGuardSDNSFilterDirect.list) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Adidas.list) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Adobe.list) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdobeActivation.list) |
-| Advertising | 去广告 | 291632 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Advertising.list) |
-| AdvertisingLite | 去广告精简版 | 190121 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingLite.list) |
+| Advertising | 去广告 | 292178 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Advertising.list) |
+| AdvertisingLite | 去广告精简版 | 190116 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingLite.list) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/AdvertisingMiTV.list) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Aerogard.list) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Agora.list) |
@@ -236,12 +236,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChangYou.list) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Chegg.list) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChengTongWangPan.list) |
-| China | 中国 | 10281 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/China.list) |
+| China | 中国 | 10285 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/China.list) |
 | ChinaASN | 中国ASN | 5076 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaASN.list) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaBroadnet.list) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaGame.list) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPTV.list) |
-| ChinaIPs | 中国IP | 23161 | 2026-11-11 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPs.list) |
+| ChinaIPs | 中国IP | 23157 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaIPs.list) |
 | ChinaMedia | 中国媒体 | 358 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaMedia.list) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaMobile.list) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/ChinaNews.list) |
@@ -453,7 +453,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | GitHub | GitHub | 74 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GitHub.list) |
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GitLab.list) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Gitee.list) |
-| Global | 全球 | 24430 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Global.list) |
+| Global | 全球 | 24431 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/Global.list) |
 | GlobalAI | 全球AI | 4954 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalAI.list) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalCDN.list) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Loon/GlobalCloud.list) |

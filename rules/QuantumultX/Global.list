@@ -1,8 +1,8 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-11 09:44:14
-# HOST: 1912
+# UPDATED: 2026-11-13 07:42:43
+# HOST: 1913
 # HOST-SUFFIX: 22364
 # HOST-WILDCARD: 61
 # HOST-KEYWORD: 53
@@ -1127,6 +1127,7 @@ HOST,info.knak.com,Global
 HOST,instafeed.nfcube.com,Global
 HOST,int.mwbbiz.com,Global
 HOST,interwiki.scpwikicn.com,Global
+HOST,iprsoftwaremedia.com,Global
 HOST,ipxy.io,Global
 HOST,irp-cdn.multiscreensite.com,Global
 HOST,isitmaintained.com,Global

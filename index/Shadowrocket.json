@@ -2,7 +2,7 @@
   "client": "Shadowrocket",
   "rule_file_extension": "list",
   "rule_count": 1185,
-  "total_line_count": 897935,
+  "total_line_count": 899054,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 189586,
+        "DOMAIN": 190163,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 189664,
-      "rule_updated_at": "2026-11-12T03:00:20.104463+00:00",
+      "total_line_count": 190241,
+      "rule_updated_at": "2026-11-13T10:22:58.821967+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -471,17 +471,17 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 17501,
+        "DOMAIN": 17500,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 272843,
+        "DOMAIN-SUFFIX": 273396,
         "IP-ASN": 15,
-        "IP-CIDR": 1041,
+        "IP-CIDR": 1035,
         "IP-CIDR6": 6,
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 291632,
-      "rule_updated_at": "2026-11-12T02:58:45.915753+00:00",
+      "total_line_count": 292178,
+      "rule_updated_at": "2026-11-13T11:01:20.603436+00:00",
       "file": "rules/Shadowrocket/Advertising.list"
     },
     {
@@ -498,13 +498,13 @@
       "type_counts": {
         "DOMAIN": 26932,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162783,
+        "DOMAIN-SUFFIX": 162778,
         "IP-CIDR": 233,
         "IP-CIDR6": 4,
         "URL-REGEX": 5
       },
-      "total_line_count": 190121,
-      "rule_updated_at": "2026-11-12T02:44:47.954661+00:00",
+      "total_line_count": 190116,
+      "rule_updated_at": "2026-11-13T11:00:16.329698+00:00",
       "file": "rules/Shadowrocket/AdvertisingLite.list"
     },
     {
@@ -2652,12 +2652,12 @@
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
         "DOMAIN-SUFFIX": 6362,
-        "IP-CIDR": 3855,
+        "IP-CIDR": 3859,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10281,
-      "rule_updated_at": "2026-11-11T13:32:35.501595+00:00",
+      "total_line_count": 10285,
+      "rule_updated_at": "2026-11-12T18:15:03.466402+00:00",
       "file": "rules/Shadowrocket/China.list"
     },
     {
@@ -2711,11 +2711,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12626,
-        "IP-CIDR6": 5459
+        "IP-CIDR": 12657,
+        "IP-CIDR6": 5424
       },
-      "total_line_count": 23161,
-      "rule_updated_at": "2026-11-11T13:23:49.693238+00:00",
+      "total_line_count": 23157,
+      "rule_updated_at": "2026-11-13T00:44:44.578215+00:00",
       "file": "rules/Shadowrocket/ChinaIPs.list"
     },
     {
@@ -5872,7 +5872,7 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 1912,
+        "DOMAIN": 1913,
         "DOMAIN-KEYWORD": 53,
         "DOMAIN-SUFFIX": 22364,
         "IP-CIDR": 80,
@@ -5880,8 +5880,8 @@
         "PROCESS-NAME": 8,
         "USER-AGENT": 9
       },
-      "total_line_count": 24430,
-      "rule_updated_at": "2026-11-10T23:58:31.910401+00:00",
+      "total_line_count": 24431,
+      "rule_updated_at": "2026-11-12T23:35:11.508453+00:00",
       "file": "rules/Shadowrocket/Global.list"
     },
     {

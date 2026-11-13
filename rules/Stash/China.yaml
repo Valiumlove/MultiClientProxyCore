@@ -1,14 +1,14 @@
 # NAME: China
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 11:03:37
+# UPDATED: 2026-11-13 18:27:46
 # BEHAVIOR: classical
 # DOMAIN: 20
 # DOMAIN-SUFFIX: 6362
 # DOMAIN-KEYWORD: 10
 # DOMAIN-WILDCARD: 2
 # DOMAIN-REGEX: 4
-# IP-CIDR: 3855
+# IP-CIDR: 3859
 # IP-CIDR6: 4
 # USER-AGENT: 30
 
@@ -8310,6 +8310,10 @@ payload:
 - 'IP-CIDR,14.16.0.0/12,no-resolve'
 - 'IP-CIDR,14.204.0.0/15,no-resolve'
 - 'IP-CIDR,14.208.0.0/12,no-resolve'
+- 'IP-CIDR,14.226.104.0/21,no-resolve'
+- 'IP-CIDR,14.226.168.0/21,no-resolve'
+- 'IP-CIDR,14.227.192.0/20,no-resolve'
+- 'IP-CIDR,14.227.96.0/20,no-resolve'
 - 'IP-CIDR,14.255.16.0/24,no-resolve'
 - 'IP-CIDR,14.255.238.0/24,no-resolve'
 - 'IP-CIDR,14.255.254.0/24,no-resolve'

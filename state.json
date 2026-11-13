@@ -209,10 +209,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Surge/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-12T03:02:43.338001+00:00",
-          "bytes": 5329534,
-          "sha256": "dcbe839754f31ba9739664ad2e4cb0dcdcb452070b2ecb745e1d1259413cd841",
-          "semantic_sha256": "dde5f0e5ef995cf429ed665da242f8fbc207e039d53161b78f7b1d628bde9cb4"
+          "rule_updated_at": "2026-11-13T10:23:06.439965+00:00",
+          "bytes": 5350611,
+          "sha256": "654b4b54bfeee8405a87265a78dde7b13b28f8c39b4cedf13e83562539021bdd",
+          "semantic_sha256": "be2eb75bc4b1256f37310aa570a4a2fb2ca590b8986a3540805547a04f61cd1d"
         },
         "Adidas": {
           "file": "rules/Surge/Adidas.list",
@@ -237,17 +237,17 @@
         },
         "Advertising": {
           "file": "rules/Surge/Advertising.list",
-          "rule_updated_at": "2026-11-12T03:02:03.449953+00:00",
-          "bytes": 9796561,
-          "sha256": "b3869e8adb4018286bf7eefb3760af398f2b8d90f6020e2de312b3048946ed01",
-          "semantic_sha256": "98ba6d0c297f4167b8826b76ba559923dff904772ee8555e1461feba5bacf09c"
+          "rule_updated_at": "2026-11-13T11:01:44.133975+00:00",
+          "bytes": 9825411,
+          "sha256": "fecda3f0167b940d3007112d6c6c8cca17f0ecc77cf2e74c4e43a1e40ff0b0c1",
+          "semantic_sha256": "06bd3c5a451e332d4450fce892cdec6d39c7fed51278a70dbdb7d61b2ef60309"
         },
         "AdvertisingLite": {
           "file": "rules/Surge/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-12T02:45:56.920205+00:00",
-          "bytes": 6302752,
-          "sha256": "f60f327d86464428218cbd0cdf6a3636f3ce3bfd22c9602a90c2077515854e60",
-          "semantic_sha256": "dda8bc27f2ca0010f2ec05874cec1e2ff731273df46892421139cd7373acbfa6"
+          "rule_updated_at": "2026-11-13T11:00:26.472221+00:00",
+          "bytes": 6307826,
+          "sha256": "8c5548902ce789617905fe05d748aaa0f51db8c7f6b9c844cea7d77184656040",
+          "semantic_sha256": "0011dfca761003e568fdde769c602af38faa56f00859e1af09a594a7c77c473c"
         },
         "AdvertisingMiTV": {
           "file": "rules/Surge/AdvertisingMiTV.list",
@@ -1315,10 +1315,10 @@
         },
         "China": {
           "file": "rules/Surge/China.list",
-          "rule_updated_at": "2026-11-11T13:33:28.254935+00:00",
-          "bytes": 305506,
-          "sha256": "931dff6d42db2014d19d9ecf4fdcba44cd6f2667be54ca72b7ce2b05fafa5cb8",
-          "semantic_sha256": "2e1fe751ecf51940cd9fe957337e205656ae8d4abee5d8d346a1e8fd0d95e81e"
+          "rule_updated_at": "2026-11-12T18:15:19.468634+00:00",
+          "bytes": 305645,
+          "sha256": "8e2ff9a2772d541969413083c885494d761256bd430229cca61a063927f8c739",
+          "semantic_sha256": "d2ad13e255a952022a04683a5de33a1ed3f7755dd42b73b2e3a86ce78aa03e17"
         },
         "ChinaASN": {
           "file": "rules/Surge/ChinaASN.list",
@@ -1343,10 +1343,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Surge/ChinaIPs.list",
-          "rule_updated_at": "2026-11-11T13:23:49.705821+00:00",
-          "bytes": 776957,
-          "sha256": "cc10fd9aad6af956cb5044c7ad9ab25d4632813df611104e6c82a2d834214b1f",
-          "semantic_sha256": "420ea8093d1abbf4f59223f074213ae6103de5b71ca44ef54a88da62d8b7a266"
+          "rule_updated_at": "2026-11-13T00:44:47.122520+00:00",
+          "bytes": 776754,
+          "sha256": "1de5c5673124b802caa3f03cd652abf1df2056b363dfe0896b5e01985d8c9b8b",
+          "semantic_sha256": "5bf891b5c6882fabcad32905553b5834b77c4ff8c5c7e9503b842acb96f63877"
         },
         "ChinaIPTV": {
           "file": "rules/Surge/ChinaIPTV.list",
@@ -2953,10 +2953,10 @@
         },
         "Global": {
           "file": "rules/Surge/Global.list",
-          "rule_updated_at": "2026-11-11T00:03:38.326787+00:00",
-          "bytes": 696212,
-          "sha256": "bcbb9e41caf28c4aefaa149a2cc070595d5f6c8136226a10e0d66ef69e841567",
-          "semantic_sha256": "60a766327b71483002c358c6f50311877d290f260a38e396572e9bde27707625"
+          "rule_updated_at": "2026-11-12T23:36:19.099612+00:00",
+          "bytes": 696240,
+          "sha256": "2ccf37a050c3b58e79c4072831b458c7e98aabd96606f2407d28cd69f0af523d",
+          "semantic_sha256": "32cd93d3a642b8370d16fdea82a92defc60f4a8958e34ea737055eb4be373911"
         },
         "GlobalAI": {
           "file": "rules/Surge/GlobalAI.list",
@@ -8509,10 +8509,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-12T03:09:19.372005+00:00",
-          "bytes": 6087381,
-          "sha256": "c2513d6683d8f915c71e3210924bf87be90f2916ac8134bd83da31e21c22537c",
-          "semantic_sha256": "af876d7a0f4633f702f060dd93cc0b1885c9e42fee5312112b9ae9e04e52e289"
+          "rule_updated_at": "2026-11-13T10:23:31.018026+00:00",
+          "bytes": 6111606,
+          "sha256": "460dda20c27b6c404ef33229e9c519ce6ba87a2384a2f551371906398315c42a",
+          "semantic_sha256": "30290bb0c5b79caea673bfd759cd66a8cc428b8b3309665a13b4973ae15595e7"
         },
         "Adidas": {
           "file": "rules/Mihomo/Adidas.yaml",
@@ -8537,17 +8537,17 @@
         },
         "Advertising": {
           "file": "rules/Mihomo/Advertising.yaml",
-          "rule_updated_at": "2026-11-12T03:11:12.522439+00:00",
-          "bytes": 10962036,
-          "sha256": "44c70fa1db04e5fd965aa7a2db23305cea8459678ee90d2c197a3e2f37e5efd3",
-          "semantic_sha256": "cafebdcdf0f542b41f230683c332448a951fb6d3681427d669dd8ef3ce53b796"
+          "rule_updated_at": "2026-11-13T11:02:50.530495+00:00",
+          "bytes": 10994290,
+          "sha256": "2587fc9883d80fb2c62ecbef38939a23123a8b780c5114177024c0b114c4fa43",
+          "semantic_sha256": "0788f8b62835034a3cd4b6d01f5d604ab60109a7fe0f5a1dc11a45cae38a045e"
         },
         "AdvertisingLite": {
           "file": "rules/Mihomo/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-12T02:49:35.383144+00:00",
-          "bytes": 7062890,
-          "sha256": "32925eb73f33babdc142126719d1fe5ee436959204f4db44fbd1f8215e7965b5",
-          "semantic_sha256": "47942e8b8369a757f05dc892e1b35fbd9c5106dc0e491fdaf90b218586b72844"
+          "rule_updated_at": "2026-11-13T11:01:26.998406+00:00",
+          "bytes": 7068684,
+          "sha256": "cb689509f0b10d8e55c1f3033fc0999d3041182979e3c2cee60447315410115a",
+          "semantic_sha256": "b16af50ea3a0d7494a2edf5ba75e94dc11f323645dc1ee16074ad4190852c198"
         },
         "AdvertisingMiTV": {
           "file": "rules/Mihomo/AdvertisingMiTV.yaml",
@@ -9615,10 +9615,10 @@
         },
         "China": {
           "file": "rules/Mihomo/China.yaml",
-          "rule_updated_at": "2026-11-11T13:35:04.640888+00:00",
-          "bytes": 345792,
-          "sha256": "a8ccf85e531b98612bda27b5514f1a64d6190925704c0bcccd4a1a30ad454d7c",
-          "semantic_sha256": "fb38f7a0ce273e95a1b848b3c398c7b0f311afc887293bcaee4e203d2bfadb02"
+          "rule_updated_at": "2026-11-12T18:16:07.398177+00:00",
+          "bytes": 345947,
+          "sha256": "1034dfec143986f45dda3337acbe1c4ff13377fd1f682c0c9e7a7d560c67359e",
+          "semantic_sha256": "27e2dd3bd8553a61ae4682771f04ea1ff8cc6b2361e72a640a21657261f421bf"
         },
         "ChinaASN": {
           "file": "rules/Mihomo/ChinaASN.yaml",
@@ -9643,10 +9643,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Mihomo/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-11T13:23:49.685533+00:00",
-          "bytes": 869632,
-          "sha256": "0c6a64585bf455245f3c91e791e90101464d183bc7e0efc4bb8ef87069740efb",
-          "semantic_sha256": "9d48e4b022119678c63fba0612dae8f9d66975d8392f892ae975eb935c180454"
+          "rule_updated_at": "2026-11-13T00:44:54.882534+00:00",
+          "bytes": 869413,
+          "sha256": "5c2e5a2eb8ad4776139db53bfdd6fcb9075f25061648769588510fd8df5165c1",
+          "semantic_sha256": "6159fd4f271f565af051353e802f157dc1202d4d30a81dcce61342748552915f"
         },
         "ChinaIPTV": {
           "file": "rules/Mihomo/ChinaIPTV.yaml",
@@ -11253,10 +11253,10 @@
         },
         "Global": {
           "file": "rules/Mihomo/Global.yaml",
-          "rule_updated_at": "2026-11-11T00:18:29.139682+00:00",
-          "bytes": 796214,
-          "sha256": "a7c3d81c84c574b7c0dcbf436bd7534b5f751da8b766f555e97ca7625d3f15ec",
-          "semantic_sha256": "c7425f337cc7f6dcf93790d16bd4f96e44a9d4fb72dd6e7e28c777557fb3be3c"
+          "rule_updated_at": "2026-11-12T23:39:29.310874+00:00",
+          "bytes": 796246,
+          "sha256": "477dbebc8f7f5539599ecc492691edb72eb251b1f92a2b54be96e988898f7d57",
+          "semantic_sha256": "cf881209040834f0dc348f0c602a124546196df3b2588df874036e39fe36b98b"
         },
         "GlobalAI": {
           "file": "rules/Mihomo/GlobalAI.yaml",
@@ -16809,10 +16809,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-12T02:56:08.707034+00:00",
-          "bytes": 9496852,
-          "sha256": "1bc53eb82773d42288e7d04442825a877596d692f9b0a1958ee145e67279e6b4",
-          "semantic_sha256": "30d6a40f149e74c5755719f9483049572c115df791d6ed995f79a04bab5113a0"
+          "rule_updated_at": "2026-11-13T10:22:43.841113+00:00",
+          "bytes": 9535243,
+          "sha256": "55786bde1fdae9e6e4db9207b34ac76f8a6bba97076035c647c05f86b0b16e49",
+          "semantic_sha256": "68d320badca65ab9d1b23a88ffa4101ac092e8a136289847dccf6fb9a2996171"
         },
         "Adidas": {
           "file": "rules/QuantumultX/Adidas.list",
@@ -16837,17 +16837,17 @@
         },
         "Advertising": {
           "file": "rules/QuantumultX/Advertising.list",
-          "rule_updated_at": "2026-11-12T02:53:08.592014+00:00",
-          "bytes": 12700482,
-          "sha256": "6344e87fd658fc56df6b89879bf4743a05c86d2e1cad345cdc4e79aea47156ac",
-          "semantic_sha256": "3a95e54b529f85b3540aedf8d0249f2235c1733455d6b2ed9d594d9a30de107e"
+          "rule_updated_at": "2026-11-13T11:00:32.948952+00:00",
+          "bytes": 12737896,
+          "sha256": "46ee74b2cdf453b80de11c9ffca9b97ec7c25378a5fc296597d42ffde53db957",
+          "semantic_sha256": "8bc8790f117666278a24a40cefa855b10ea23a2f91b81da61850c1514ca07e67"
         },
         "AdvertisingLite": {
           "file": "rules/QuantumultX/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-12T02:42:04.176654+00:00",
-          "bytes": 8960178,
-          "sha256": "fa658057cfd0f3f502cfff97292a62984ebbd0bf2e0994cbdd8f216671b9f6fd",
-          "semantic_sha256": "6a4f2e8253053b25ed4fd5ca7667eb17f2835b7b284bd20068cef42f7342f599"
+          "rule_updated_at": "2026-11-13T10:59:56.209978+00:00",
+          "bytes": 8967772,
+          "sha256": "f638a597d4b78c499af33930f1a7bb15c04b42e96ec8284344efb590f3ba230b",
+          "semantic_sha256": "f83c11f893e0a145589eaa409e261e482d5dd51116aaac8cabe3386a17bcb194"
         },
         "AdvertisingMiTV": {
           "file": "rules/QuantumultX/AdvertisingMiTV.list",
@@ -17915,10 +17915,10 @@
         },
         "China": {
           "file": "rules/QuantumultX/China.list",
-          "rule_updated_at": "2026-11-11T13:31:21.041631+00:00",
-          "bytes": 312038,
-          "sha256": "edb2398972529341fe31ed645df0cfe3ad16f457df9369197adcfb3331ca7e65",
-          "semantic_sha256": "a529a095086d00bb33718a6e2efe48327ab2309c4cf29cd89001500d34164534"
+          "rule_updated_at": "2026-11-12T18:14:29.559172+00:00",
+          "bytes": 312157,
+          "sha256": "9ada902d8796972dc7f7bce3fb64540899fe5a52de5d95e665ecc352a4614bee",
+          "semantic_sha256": "9ec66415e945b823093e9a1ef7b9c917f7a5372f4d9439f9f96fa25bbd58e381"
         },
         "ChinaASN": {
           "file": "rules/QuantumultX/ChinaASN.list",
@@ -17943,10 +17943,10 @@
         },
         "ChinaIPs": {
           "file": "rules/QuantumultX/ChinaIPs.list",
-          "rule_updated_at": "2026-11-11T13:23:49.661178+00:00",
-          "bytes": 730635,
-          "sha256": "d21e8ee464b8cbe6308081af55aa2b231b1456c9074e5d01cc83d2df6fb9ea78",
-          "semantic_sha256": "8211912116af8e52dd95d58c58271ec28c1ffec07cbc3a3700befe288fedb86d"
+          "rule_updated_at": "2026-11-13T00:44:39.190128+00:00",
+          "bytes": 730440,
+          "sha256": "21569b228a66659ff3c1fe7da6e992baba41027492d104376659b896cd9dd034",
+          "semantic_sha256": "4a48a5d71760e77e17e8b1a322e96854f8ade5b28af705d71b8576683917ead4"
         },
         "ChinaIPTV": {
           "file": "rules/QuantumultX/ChinaIPTV.list",
@@ -19553,10 +19553,10 @@
         },
         "Global": {
           "file": "rules/QuantumultX/Global.list",
-          "rule_updated_at": "2026-11-10T23:47:53.440623+00:00",
-          "bytes": 819909,
-          "sha256": "9ee1813ff212af7ff22ada99fd8d1f9b38180bff9fe5ded818f77f613aef98c0",
-          "semantic_sha256": "5400fd06ba7aa193759cf434e3513c85d3002f7e3f49242efa1ed5da138761b4"
+          "rule_updated_at": "2026-11-12T23:33:02.931469+00:00",
+          "bytes": 819942,
+          "sha256": "c216872361097374b1a4db7f4733f448009f94ed38c981bfb3ccb3427dce8923",
+          "semantic_sha256": "05933dc9ef5969cfca6a5d4cd310b2dedefd56bf3961848b5969da466b07ef2a"
         },
         "GlobalAI": {
           "file": "rules/QuantumultX/GlobalAI.list",
@@ -25109,10 +25109,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Loon/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-12T02:58:09.300484+00:00",
-          "bytes": 5329534,
-          "sha256": "dcbe839754f31ba9739664ad2e4cb0dcdcb452070b2ecb745e1d1259413cd841",
-          "semantic_sha256": "dde5f0e5ef995cf429ed665da242f8fbc207e039d53161b78f7b1d628bde9cb4"
+          "rule_updated_at": "2026-11-13T10:22:51.293575+00:00",
+          "bytes": 5350611,
+          "sha256": "654b4b54bfeee8405a87265a78dde7b13b28f8c39b4cedf13e83562539021bdd",
+          "semantic_sha256": "be2eb75bc4b1256f37310aa570a4a2fb2ca590b8986a3540805547a04f61cd1d"
         },
         "Adidas": {
           "file": "rules/Loon/Adidas.list",
@@ -25137,17 +25137,17 @@
         },
         "Advertising": {
           "file": "rules/Loon/Advertising.list",
-          "rule_updated_at": "2026-11-12T02:55:57.762707+00:00",
-          "bytes": 9796561,
-          "sha256": "b3869e8adb4018286bf7eefb3760af398f2b8d90f6020e2de312b3048946ed01",
-          "semantic_sha256": "98ba6d0c297f4167b8826b76ba559923dff904772ee8555e1461feba5bacf09c"
+          "rule_updated_at": "2026-11-13T11:00:55.783040+00:00",
+          "bytes": 9825411,
+          "sha256": "fecda3f0167b940d3007112d6c6c8cca17f0ecc77cf2e74c4e43a1e40ff0b0c1",
+          "semantic_sha256": "06bd3c5a451e332d4450fce892cdec6d39c7fed51278a70dbdb7d61b2ef60309"
         },
         "AdvertisingLite": {
           "file": "rules/Loon/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-12T02:43:30.785571+00:00",
-          "bytes": 6302752,
-          "sha256": "f60f327d86464428218cbd0cdf6a3636f3ce3bfd22c9602a90c2077515854e60",
-          "semantic_sha256": "dda8bc27f2ca0010f2ec05874cec1e2ff731273df46892421139cd7373acbfa6"
+          "rule_updated_at": "2026-11-13T11:00:06.196664+00:00",
+          "bytes": 6307826,
+          "sha256": "8c5548902ce789617905fe05d748aaa0f51db8c7f6b9c844cea7d77184656040",
+          "semantic_sha256": "0011dfca761003e568fdde769c602af38faa56f00859e1af09a594a7c77c473c"
         },
         "AdvertisingMiTV": {
           "file": "rules/Loon/AdvertisingMiTV.list",
@@ -26215,10 +26215,10 @@
         },
         "China": {
           "file": "rules/Loon/China.list",
-          "rule_updated_at": "2026-11-11T13:31:52.564231+00:00",
-          "bytes": 305506,
-          "sha256": "931dff6d42db2014d19d9ecf4fdcba44cd6f2667be54ca72b7ce2b05fafa5cb8",
-          "semantic_sha256": "2e1fe751ecf51940cd9fe957337e205656ae8d4abee5d8d346a1e8fd0d95e81e"
+          "rule_updated_at": "2026-11-12T18:14:47.022030+00:00",
+          "bytes": 305645,
+          "sha256": "8e2ff9a2772d541969413083c885494d761256bd430229cca61a063927f8c739",
+          "semantic_sha256": "d2ad13e255a952022a04683a5de33a1ed3f7755dd42b73b2e3a86ce78aa03e17"
         },
         "ChinaASN": {
           "file": "rules/Loon/ChinaASN.list",
@@ -26243,10 +26243,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Loon/ChinaIPs.list",
-          "rule_updated_at": "2026-11-11T13:23:49.671648+00:00",
-          "bytes": 776957,
-          "sha256": "cc10fd9aad6af956cb5044c7ad9ab25d4632813df611104e6c82a2d834214b1f",
-          "semantic_sha256": "420ea8093d1abbf4f59223f074213ae6103de5b71ca44ef54a88da62d8b7a266"
+          "rule_updated_at": "2026-11-13T00:44:41.940252+00:00",
+          "bytes": 776754,
+          "sha256": "1de5c5673124b802caa3f03cd652abf1df2056b363dfe0896b5e01985d8c9b8b",
+          "semantic_sha256": "5bf891b5c6882fabcad32905553b5834b77c4ff8c5c7e9503b842acb96f63877"
         },
         "ChinaIPTV": {
           "file": "rules/Loon/ChinaIPTV.list",
@@ -27853,10 +27853,10 @@
         },
         "Global": {
           "file": "rules/Loon/Global.list",
-          "rule_updated_at": "2026-11-10T23:53:12.972117+00:00",
-          "bytes": 696212,
-          "sha256": "bcbb9e41caf28c4aefaa149a2cc070595d5f6c8136226a10e0d66ef69e841567",
-          "semantic_sha256": "60a766327b71483002c358c6f50311877d290f260a38e396572e9bde27707625"
+          "rule_updated_at": "2026-11-12T23:34:08.053797+00:00",
+          "bytes": 696240,
+          "sha256": "2ccf37a050c3b58e79c4072831b458c7e98aabd96606f2407d28cd69f0af523d",
+          "semantic_sha256": "32cd93d3a642b8370d16fdea82a92defc60f4a8958e34ea737055eb4be373911"
         },
         "GlobalAI": {
           "file": "rules/Loon/GlobalAI.list",
@@ -33409,10 +33409,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-12T03:00:20.104463+00:00",
-          "bytes": 5329534,
-          "sha256": "dcbe839754f31ba9739664ad2e4cb0dcdcb452070b2ecb745e1d1259413cd841",
-          "semantic_sha256": "dde5f0e5ef995cf429ed665da242f8fbc207e039d53161b78f7b1d628bde9cb4"
+          "rule_updated_at": "2026-11-13T10:22:58.821967+00:00",
+          "bytes": 5350611,
+          "sha256": "654b4b54bfeee8405a87265a78dde7b13b28f8c39b4cedf13e83562539021bdd",
+          "semantic_sha256": "be2eb75bc4b1256f37310aa570a4a2fb2ca590b8986a3540805547a04f61cd1d"
         },
         "Adidas": {
           "file": "rules/Shadowrocket/Adidas.list",
@@ -33437,17 +33437,17 @@
         },
         "Advertising": {
           "file": "rules/Shadowrocket/Advertising.list",
-          "rule_updated_at": "2026-11-12T02:58:45.915753+00:00",
-          "bytes": 9796561,
-          "sha256": "b3869e8adb4018286bf7eefb3760af398f2b8d90f6020e2de312b3048946ed01",
-          "semantic_sha256": "98ba6d0c297f4167b8826b76ba559923dff904772ee8555e1461feba5bacf09c"
+          "rule_updated_at": "2026-11-13T11:01:20.603436+00:00",
+          "bytes": 9825411,
+          "sha256": "fecda3f0167b940d3007112d6c6c8cca17f0ecc77cf2e74c4e43a1e40ff0b0c1",
+          "semantic_sha256": "06bd3c5a451e332d4450fce892cdec6d39c7fed51278a70dbdb7d61b2ef60309"
         },
         "AdvertisingLite": {
           "file": "rules/Shadowrocket/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-12T02:44:47.954661+00:00",
-          "bytes": 6302752,
-          "sha256": "f60f327d86464428218cbd0cdf6a3636f3ce3bfd22c9602a90c2077515854e60",
-          "semantic_sha256": "dda8bc27f2ca0010f2ec05874cec1e2ff731273df46892421139cd7373acbfa6"
+          "rule_updated_at": "2026-11-13T11:00:16.329698+00:00",
+          "bytes": 6307826,
+          "sha256": "8c5548902ce789617905fe05d748aaa0f51db8c7f6b9c844cea7d77184656040",
+          "semantic_sha256": "0011dfca761003e568fdde769c602af38faa56f00859e1af09a594a7c77c473c"
         },
         "AdvertisingMiTV": {
           "file": "rules/Shadowrocket/AdvertisingMiTV.list",
@@ -34515,10 +34515,10 @@
         },
         "China": {
           "file": "rules/Shadowrocket/China.list",
-          "rule_updated_at": "2026-11-11T13:32:35.501595+00:00",
-          "bytes": 305506,
-          "sha256": "931dff6d42db2014d19d9ecf4fdcba44cd6f2667be54ca72b7ce2b05fafa5cb8",
-          "semantic_sha256": "2e1fe751ecf51940cd9fe957337e205656ae8d4abee5d8d346a1e8fd0d95e81e"
+          "rule_updated_at": "2026-11-12T18:15:03.466402+00:00",
+          "bytes": 305645,
+          "sha256": "8e2ff9a2772d541969413083c885494d761256bd430229cca61a063927f8c739",
+          "semantic_sha256": "d2ad13e255a952022a04683a5de33a1ed3f7755dd42b73b2e3a86ce78aa03e17"
         },
         "ChinaASN": {
           "file": "rules/Shadowrocket/ChinaASN.list",
@@ -34543,10 +34543,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Shadowrocket/ChinaIPs.list",
-          "rule_updated_at": "2026-11-11T13:23:49.693238+00:00",
-          "bytes": 776957,
-          "sha256": "cc10fd9aad6af956cb5044c7ad9ab25d4632813df611104e6c82a2d834214b1f",
-          "semantic_sha256": "420ea8093d1abbf4f59223f074213ae6103de5b71ca44ef54a88da62d8b7a266"
+          "rule_updated_at": "2026-11-13T00:44:44.578215+00:00",
+          "bytes": 776754,
+          "sha256": "1de5c5673124b802caa3f03cd652abf1df2056b363dfe0896b5e01985d8c9b8b",
+          "semantic_sha256": "5bf891b5c6882fabcad32905553b5834b77c4ff8c5c7e9503b842acb96f63877"
         },
         "ChinaIPTV": {
           "file": "rules/Shadowrocket/ChinaIPTV.list",
@@ -36153,10 +36153,10 @@
         },
         "Global": {
           "file": "rules/Shadowrocket/Global.list",
-          "rule_updated_at": "2026-11-10T23:58:31.910401+00:00",
-          "bytes": 696212,
-          "sha256": "bcbb9e41caf28c4aefaa149a2cc070595d5f6c8136226a10e0d66ef69e841567",
-          "semantic_sha256": "60a766327b71483002c358c6f50311877d290f260a38e396572e9bde27707625"
+          "rule_updated_at": "2026-11-12T23:35:11.508453+00:00",
+          "bytes": 696240,
+          "sha256": "2ccf37a050c3b58e79c4072831b458c7e98aabd96606f2407d28cd69f0af523d",
+          "semantic_sha256": "32cd93d3a642b8370d16fdea82a92defc60f4a8958e34ea737055eb4be373911"
         },
         "GlobalAI": {
           "file": "rules/Shadowrocket/GlobalAI.list",
@@ -41709,10 +41709,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-12T03:11:08.968646+00:00",
-          "bytes": 6087381,
-          "sha256": "c2513d6683d8f915c71e3210924bf87be90f2916ac8134bd83da31e21c22537c",
-          "semantic_sha256": "af876d7a0f4633f702f060dd93cc0b1885c9e42fee5312112b9ae9e04e52e289"
+          "rule_updated_at": "2026-11-13T10:23:39.493404+00:00",
+          "bytes": 6111606,
+          "sha256": "460dda20c27b6c404ef33229e9c519ce6ba87a2384a2f551371906398315c42a",
+          "semantic_sha256": "30290bb0c5b79caea673bfd759cd66a8cc428b8b3309665a13b4973ae15595e7"
         },
         "Adidas": {
           "file": "rules/Stash/Adidas.yaml",
@@ -41737,17 +41737,17 @@
         },
         "Advertising": {
           "file": "rules/Stash/Advertising.yaml",
-          "rule_updated_at": "2026-11-12T03:13:41.950210+00:00",
-          "bytes": 10962828,
-          "sha256": "f5835c1eb75b85c05bca8503a05950ae345c5c8a3ea2bdb1d1715e12cc168336",
-          "semantic_sha256": "507b3e05cc0eb9d219134ed482f72d208aea70437cecca80c27129be98c0f3ef"
+          "rule_updated_at": "2026-11-13T11:03:09.844257+00:00",
+          "bytes": 10995082,
+          "sha256": "5af4e9aa3f7c5344c481e3027bf862573ad8f9a8a9f868c1de306b79b6bd3c3a",
+          "semantic_sha256": "6dfd1c2b94769b45dfdf1c5f1ad7dadbc149de5511a44ae0889a095d113f964f"
         },
         "AdvertisingLite": {
           "file": "rules/Stash/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-12T02:50:37.572668+00:00",
-          "bytes": 7063175,
-          "sha256": "c1318ab4a083b5589bbb3a0d177ef9d14b34e3354bb09b67e3c690055be69c82",
-          "semantic_sha256": "82e7cd80ffcc03dae5d09f7c39379891402186459695c540cd9c9c25470d8e38"
+          "rule_updated_at": "2026-11-13T11:01:50.044871+00:00",
+          "bytes": 7068969,
+          "sha256": "a25ec99ee2a2432ae9d0e662ce865dc2f06b262d138a7e493874eba8c8d0d59e",
+          "semantic_sha256": "87ee7724df47d5d2947003019b71e2b16c46de1965699c58f854072226519820"
         },
         "AdvertisingMiTV": {
           "file": "rules/Stash/AdvertisingMiTV.yaml",
@@ -42815,10 +42815,10 @@
         },
         "China": {
           "file": "rules/Stash/China.yaml",
-          "rule_updated_at": "2026-11-11T13:35:43.562295+00:00",
-          "bytes": 346960,
-          "sha256": "a51c9416525bdcc05e7d3fa1af6784a0a6009d385bf30703b3bef8f60e82812d",
-          "semantic_sha256": "e868574734b829f00388111f9f61c3547569535b99a72863bb4cfc767ba81a60"
+          "rule_updated_at": "2026-11-12T18:16:22.416141+00:00",
+          "bytes": 347115,
+          "sha256": "0595c798445c2274c8d83b1a3509b4c9b9ef81eb2be42bd463e25b64eb9c753e",
+          "semantic_sha256": "804179b7f4ee63c7e1a785bee469308ce8e7501864f334e97cbdeab72b94648f"
         },
         "ChinaASN": {
           "file": "rules/Stash/ChinaASN.yaml",
@@ -42843,10 +42843,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Stash/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-11T13:23:49.743828+00:00",
-          "bytes": 869632,
-          "sha256": "0c6a64585bf455245f3c91e791e90101464d183bc7e0efc4bb8ef87069740efb",
-          "semantic_sha256": "9d48e4b022119678c63fba0612dae8f9d66975d8392f892ae975eb935c180454"
+          "rule_updated_at": "2026-11-13T00:44:57.434682+00:00",
+          "bytes": 869413,
+          "sha256": "5c2e5a2eb8ad4776139db53bfdd6fcb9075f25061648769588510fd8df5165c1",
+          "semantic_sha256": "6159fd4f271f565af051353e802f157dc1202d4d30a81dcce61342748552915f"
         },
         "ChinaIPTV": {
           "file": "rules/Stash/ChinaIPTV.yaml",
@@ -44453,10 +44453,10 @@
         },
         "Global": {
           "file": "rules/Stash/Global.yaml",
-          "rule_updated_at": "2026-11-11T00:23:28.747369+00:00",
-          "bytes": 796214,
-          "sha256": "7cdd1fd6554c1a91245e4933ccc5fa4961e7ec3834ace4f9e9371bb5847e1a7e",
-          "semantic_sha256": "49f76c5e109ffcab82d77635b9248017bca8f961292623f134cc2d7785dcf2e5"
+          "rule_updated_at": "2026-11-12T23:40:34.163290+00:00",
+          "bytes": 796246,
+          "sha256": "3fb5e474f22ac3d1097f9791643ce8fc7cfc8a652143b7d61c6f4acc2f156c02",
+          "semantic_sha256": "43bc02c52344308b8f958946498894bd71a7b0b2e9d7949f1ca91eab57d531bb"
         },
         "GlobalAI": {
           "file": "rules/Stash/GlobalAI.yaml",
@@ -50009,9 +50009,9 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/SingBox/AdGuardSDNSFilterDirect.json",
-          "rule_updated_at": "2026-11-12T03:05:09.120551+00:00",
-          "bytes": 6086398,
-          "sha256": "ff47ee71063d0900cbffa75b5c3261990fe441efe8cdcb92e6b754f610e38f6f",
+          "rule_updated_at": "2026-11-13T10:23:14.191991+00:00",
+          "bytes": 6110623,
+          "sha256": "19518f7b997408b0b48310976b2b8d4662ecbb8a171c8dc51bed8d9fd5524a39",
           "semantic_sha256": null
         },
         "Adidas": {
@@ -50037,16 +50037,16 @@
         },
         "Advertising": {
           "file": "rules/SingBox/Advertising.json",
-          "rule_updated_at": "2026-11-12T03:05:43.604701+00:00",
-          "bytes": 9038581,
-          "sha256": "974426b608690db04d65c2c2b8ec0aa1895ad8c0bb5da686cdc663d1513cb470",
+          "rule_updated_at": "2026-11-13T11:02:10.160790+00:00",
+          "bytes": 9064922,
+          "sha256": "81cbbada3663b309271008a412d10fd5ed8ce3ed67a17c8080c8f20fd531fa08",
           "semantic_sha256": null
         },
         "AdvertisingLite": {
           "file": "rules/SingBox/AdvertisingLite.json",
-          "rule_updated_at": "2026-11-12T02:47:03.971609+00:00",
-          "bytes": 5919809,
-          "sha256": "a04bfe7040247ddc5dc278a2a694a7a39919d6c8a05d035d7e5750edc83a9b2e",
+          "rule_updated_at": "2026-11-13T11:00:37.758278+00:00",
+          "bytes": 5924364,
+          "sha256": "0b5a7d5a70f71bfb731f312a5de0a529abab6c1e625219ecf65dda67c8fb1a36",
           "semantic_sha256": null
         },
         "AdvertisingMiTV": {
@@ -51115,9 +51115,9 @@
         },
         "China": {
           "file": "rules/SingBox/China.json",
-          "rule_updated_at": "2026-11-11T13:33:53.107917+00:00",
-          "bytes": 254728,
-          "sha256": "5391886bd42b20342ff24cdfd03f6eccf5343367f230cd29e050b8c5c942317c",
+          "rule_updated_at": "2026-11-12T18:15:34.933092+00:00",
+          "bytes": 254835,
+          "sha256": "268d5db1d347192b841127cc4b086efdc1beeb5cf32c6d039bde48d31e83c551",
           "semantic_sha256": null
         },
         "ChinaBroadnet": {
@@ -51136,9 +51136,9 @@
         },
         "ChinaIPs": {
           "file": "rules/SingBox/ChinaIPs.json",
-          "rule_updated_at": "2026-11-11T13:23:49.715295+00:00",
-          "bytes": 500300,
-          "sha256": "f5a95cec6e52be263145809ac31c36341fa89af01a18c2740609e402ef340adc",
+          "rule_updated_at": "2026-11-13T00:44:49.652333+00:00",
+          "bytes": 500164,
+          "sha256": "d4d9d82849a929d29a38cf1ed2c636ce62d906ef0ed377d62daf1d0ca7304a1c",
           "semantic_sha256": null
         },
         "ChinaIPTV": {
@@ -52746,9 +52746,9 @@
         },
         "Global": {
           "file": "rules/SingBox/Global.json",
-          "rule_updated_at": "2026-11-11T00:08:41.174783+00:00",
-          "bytes": 635655,
-          "sha256": "870666f52461758777ad257f1a3ea33374b3483d888dc8af1748206b7cd36e34",
+          "rule_updated_at": "2026-11-12T23:37:21.884538+00:00",
+          "bytes": 635687,
+          "sha256": "461e6c9baf8f658834d62a01ce8b1bf888ab192bb1186b2c4ea77669b9a07284",
           "semantic_sha256": null
         },
         "GlobalAI": {
@@ -58302,10 +58302,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-12T03:07:32.690806+00:00",
-          "bytes": 4760266,
-          "sha256": "a2e0cb48480963ddcb6e7388f4b1000e9b98cec1feed9f7ca32405b77adc20ec",
-          "semantic_sha256": "21667ab96bac1c2d0698239eef41f37cd32f1e1990f5e1fad067d5adf8e71691"
+          "rule_updated_at": "2026-11-13T10:23:22.363842+00:00",
+          "bytes": 4778982,
+          "sha256": "56d889f6472dcd127f2801747d6c4e5fe0aacf08fd36b8fef4d2ef927811a3e3",
+          "semantic_sha256": "ea651dadb52f131c865f25f8989eb7f3d74e2b7f3760c333b719ae3586e5937a"
         },
         "Adidas": {
           "file": "rules/Egern/Adidas.yaml",
@@ -58330,17 +58330,17 @@
         },
         "Advertising": {
           "file": "rules/Egern/Advertising.yaml",
-          "rule_updated_at": "2026-11-12T03:08:36.886586+00:00",
-          "bytes": 7000968,
-          "sha256": "0c8a586167180183d7676f3dfd4c8e5a3658c01a0e36e69e76f56856008f8766",
-          "semantic_sha256": "814398def0b8f9fe61c8b63c14ac24516d27f6708ba6aecbcd33c8188744c7c3"
+          "rule_updated_at": "2026-11-13T11:02:33.237362+00:00",
+          "bytes": 7021352,
+          "sha256": "3c9fe9da4eff2b8d2126b6a429cbb3de011c354e91c85b12bf3eb997fcd04b32",
+          "semantic_sha256": "1b8764a67918ad2279ed865b1eb656f3d852315bbbb942c2676e6509903252a3"
         },
         "AdvertisingLite": {
           "file": "rules/Egern/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-12T02:48:14.761793+00:00",
-          "bytes": 4590970,
-          "sha256": "ab8beabc314ea5ae48fd80d0fb88fec7d5c57af129f7f8ea36a5137b3826e0f8",
-          "semantic_sha256": "aeea1c09bde307fcb9f4a7b3132f4157246fde66ba6ca3c31c85c61ef4814d21"
+          "rule_updated_at": "2026-11-13T11:01:01.825702+00:00",
+          "bytes": 4594265,
+          "sha256": "bef181d0a0b06439f25b1cb85e62f0ec04f120aa2f6f3caf7cddf40ae7a5bfc7",
+          "semantic_sha256": "c7c355afc5ba5cb3afab5c96c0dcdc431533c47b392f9dbdea5f04c61469533e"
         },
         "AdvertisingMiTV": {
           "file": "rules/Egern/AdvertisingMiTV.yaml",
@@ -59408,10 +59408,10 @@
         },
         "China": {
           "file": "rules/Egern/China.yaml",
-          "rule_updated_at": "2026-11-11T13:34:39.596498+00:00",
-          "bytes": 183917,
-          "sha256": "5b06ca6cd766bda65827dfdb8ac986da8b6476e9fa87b78c906ddab90910a312",
-          "semantic_sha256": "87fd1cbc41344e838e6b8ad5cc2f8a9945b3b771b67fa4d8bc546f12cdf3c6ed"
+          "rule_updated_at": "2026-11-12T18:15:50.833355+00:00",
+          "bytes": 183996,
+          "sha256": "d2adbf6e992fa8b55a15bd5fb429fef349d62d4851143b6ee09217ac4f74393c",
+          "semantic_sha256": "86068c91477cdc19337f81cc51349ad7a8043fce22654d5174bfde7970056d0e"
         },
         "ChinaASN": {
           "file": "rules/Egern/ChinaASN.yaml",
@@ -59436,10 +59436,10 @@
         },
         "ChinaIPs": {
           "file": "rules/Egern/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-11T13:23:49.733913+00:00",
-          "bytes": 440080,
-          "sha256": "0a63b10ba3073a25f713527b242e01f40b57d290124ad4c265492cb306306256",
-          "semantic_sha256": "6f4a7548d7db21be91d1266141f16acd95ff0a22eceb872dbe4210be6bcc399e"
+          "rule_updated_at": "2026-11-13T00:44:52.186574+00:00",
+          "bytes": 439902,
+          "sha256": "33f8d156a0a0c82ce98cae6bcdb135e277ee268d6f6c36b5f9ad36ff50c9e557",
+          "semantic_sha256": "e5bf16524a2dbfbd6867818dc5387105a03db44725108ad392963d49c4caeb86"
         },
         "ChinaIPTV": {
           "file": "rules/Egern/ChinaIPTV.yaml",
@@ -61046,10 +61046,10 @@
         },
         "Global": {
           "file": "rules/Egern/Global.yaml",
-          "rule_updated_at": "2026-11-11T00:13:34.928212+00:00",
-          "bytes": 466320,
-          "sha256": "e5488a8b4f1aee7fa12552549cb95052d7f30943e140158ea56890ac1e2fad88",
-          "semantic_sha256": "ca9470e61c4009738e047e56ac84616038201e7fd3dd86d85b237dc78a0d7843"
+          "rule_updated_at": "2026-11-12T23:38:23.985483+00:00",
+          "bytes": 466345,
+          "sha256": "a9a161ee0eb2c7f81f8484f21c11c8e70bb29dd7962cd972cea06869767ba2fb",
+          "semantic_sha256": "fdc82fe80b1d5bfda5a5efea5b7e1bead14a4b91d44c19d81ccbd981e47c36f4"
         },
         "GlobalAI": {
           "file": "rules/Egern/GlobalAI.yaml",

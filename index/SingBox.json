@@ -2,7 +2,7 @@
   "client": "SingBox",
   "rule_file_extension": "json",
   "rule_count": 1184,
-  "total_line_count": 887613,
+  "total_line_count": 888732,
   "rules": [
     {
       "name": "115",
@@ -400,12 +400,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 189586,
+        "domain": 190163,
         "domain_suffix": 4,
         "ip_cidr": 74
       },
-      "total_line_count": 189664,
-      "rule_updated_at": "2026-11-12T03:05:09.120551+00:00",
+      "total_line_count": 190241,
+      "rule_updated_at": "2026-11-13T10:23:14.191991+00:00",
       "file": "rules/SingBox/AdGuardSDNSFilterDirect.json"
     },
     {
@@ -461,13 +461,13 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 17501,
+        "domain": 17500,
         "domain_keyword": 210,
-        "domain_suffix": 272843,
-        "ip_cidr": 1047
+        "domain_suffix": 273396,
+        "ip_cidr": 1041
       },
-      "total_line_count": 291601,
-      "rule_updated_at": "2026-11-12T03:05:43.604701+00:00",
+      "total_line_count": 292147,
+      "rule_updated_at": "2026-11-13T11:02:10.160790+00:00",
       "file": "rules/SingBox/Advertising.json"
     },
     {
@@ -482,11 +482,11 @@
       "type_counts": {
         "domain": 26932,
         "domain_keyword": 164,
-        "domain_suffix": 162783,
+        "domain_suffix": 162778,
         "ip_cidr": 237
       },
-      "total_line_count": 190116,
-      "rule_updated_at": "2026-11-12T02:47:03.971609+00:00",
+      "total_line_count": 190111,
+      "rule_updated_at": "2026-11-13T11:00:37.758278+00:00",
       "file": "rules/SingBox/AdvertisingLite.json"
     },
     {
@@ -2598,10 +2598,10 @@
         "domain": 20,
         "domain_keyword": 10,
         "domain_suffix": 6362,
-        "ip_cidr": 3859
+        "ip_cidr": 3863
       },
-      "total_line_count": 10251,
-      "rule_updated_at": "2026-11-11T13:33:53.107917+00:00",
+      "total_line_count": 10255,
+      "rule_updated_at": "2026-11-12T18:15:34.933092+00:00",
       "file": "rules/SingBox/China.json"
     },
     {
@@ -2639,10 +2639,10 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "ip_cidr": 18085
+        "ip_cidr": 18081
       },
-      "total_line_count": 18085,
-      "rule_updated_at": "2026-11-11T13:23:49.715295+00:00",
+      "total_line_count": 18081,
+      "rule_updated_at": "2026-11-13T00:44:49.652333+00:00",
       "file": "rules/SingBox/ChinaIPs.json"
     },
     {
@@ -5771,14 +5771,14 @@
         "process_name"
       ],
       "type_counts": {
-        "domain": 1912,
+        "domain": 1913,
         "domain_keyword": 53,
         "domain_suffix": 22364,
         "ip_cidr": 84,
         "process_name": 8
       },
-      "total_line_count": 24421,
-      "rule_updated_at": "2026-11-11T00:08:41.174783+00:00",
+      "total_line_count": 24422,
+      "rule_updated_at": "2026-11-12T23:37:21.884538+00:00",
       "file": "rules/SingBox/Global.json"
     },
     {
