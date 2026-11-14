@@ -1,9 +1,10 @@
 # NAME: Grok
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-08-27 10:11:47
+# UPDATED: 2026-11-14 04:06:45
 domain_suffix_set:
   - grok.com
   - grok.x.com
+  - grokbot.com
   - grokipedia.com
   - x.ai

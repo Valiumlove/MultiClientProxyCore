@@ -2,7 +2,7 @@
   "client": "Shadowrocket",
   "rule_file_extension": "list",
   "rule_count": 1185,
-  "total_line_count": 899054,
+  "total_line_count": 899823,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190163,
+        "DOMAIN": 190471,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190241,
-      "rule_updated_at": "2026-11-13T10:22:58.821967+00:00",
+      "total_line_count": 190549,
+      "rule_updated_at": "2026-11-14T05:49:42.078266+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -473,15 +473,15 @@
       "type_counts": {
         "DOMAIN": 17500,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 273396,
+        "DOMAIN-SUFFIX": 273631,
         "IP-ASN": 15,
         "IP-CIDR": 1035,
         "IP-CIDR6": 6,
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 292178,
-      "rule_updated_at": "2026-11-13T11:01:20.603436+00:00",
+      "total_line_count": 292413,
+      "rule_updated_at": "2026-11-14T02:07:14.137680+00:00",
       "file": "rules/Shadowrocket/Advertising.list"
     },
     {
@@ -498,13 +498,13 @@
       "type_counts": {
         "DOMAIN": 26932,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162778,
+        "DOMAIN-SUFFIX": 162995,
         "IP-CIDR": 233,
         "IP-CIDR6": 4,
         "URL-REGEX": 5
       },
-      "total_line_count": 190116,
-      "rule_updated_at": "2026-11-13T11:00:16.329698+00:00",
+      "total_line_count": 190333,
+      "rule_updated_at": "2026-11-13T23:31:43.768329+00:00",
       "file": "rules/Shadowrocket/AdvertisingLite.list"
     },
     {
@@ -2652,12 +2652,12 @@
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
         "DOMAIN-SUFFIX": 6362,
-        "IP-CIDR": 3859,
+        "IP-CIDR": 3860,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10285,
-      "rule_updated_at": "2026-11-12T18:15:03.466402+00:00",
+      "total_line_count": 10286,
+      "rule_updated_at": "2026-11-14T05:10:31.284689+00:00",
       "file": "rules/Shadowrocket/China.list"
     },
     {
@@ -2711,11 +2711,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12657,
+        "IP-CIDR": 12658,
         "IP-CIDR6": 5424
       },
-      "total_line_count": 23157,
-      "rule_updated_at": "2026-11-13T00:44:44.578215+00:00",
+      "total_line_count": 23158,
+      "rule_updated_at": "2026-11-13T21:51:03.951598+00:00",
       "file": "rules/Shadowrocket/ChinaIPs.list"
     },
     {
@@ -5872,16 +5872,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 1913,
+        "DOMAIN": 1914,
         "DOMAIN-KEYWORD": 53,
-        "DOMAIN-SUFFIX": 22364,
+        "DOMAIN-SUFFIX": 22365,
         "IP-CIDR": 80,
         "IP-CIDR6": 4,
         "PROCESS-NAME": 8,
         "USER-AGENT": 9
       },
-      "total_line_count": 24431,
-      "rule_updated_at": "2026-11-12T23:35:11.508453+00:00",
+      "total_line_count": 24433,
+      "rule_updated_at": "2026-11-14T00:57:42.580938+00:00",
       "file": "rules/Shadowrocket/Global.list"
     },
     {
@@ -6289,10 +6289,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 4
+        "DOMAIN-SUFFIX": 5
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-28T13:21:06.237289+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-13T20:06:33.462218+00:00",
       "file": "rules/Shadowrocket/Grok.list"
     },
     {
@@ -12758,14 +12758,14 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 3395,
+        "DOMAIN": 3399,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 3765,
         "IP-CIDR": 3,
         "USER-AGENT": 1
       },
-      "total_line_count": 7165,
-      "rule_updated_at": "2026-11-12T02:17:45.587946+00:00",
+      "total_line_count": 7169,
+      "rule_updated_at": "2026-11-13T23:37:28.515074+00:00",
       "file": "rules/Shadowrocket/Speedtest.list"
     },
     {

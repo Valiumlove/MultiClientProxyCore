@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-13 07:42:43
-# HOST: 1913
-# HOST-SUFFIX: 22364
+# UPDATED: 2026-11-14 09:06:56
+# HOST: 1914
+# HOST-SUFFIX: 22365
 # HOST-WILDCARD: 61
 # HOST-KEYWORD: 53
 # USER-AGENT: 9
@@ -1397,6 +1397,7 @@ HOST,public-us-pingsx.api.clonoth.com,Global
 HOST,public.hare200.com,Global
 HOST,public.komiic.com,Global
 HOST,public.mocortech.com,Global
+HOST,public.popclip.app,Global
 HOST,public.zoorix.com,Global
 HOST,q676790b.pmhcjk.com,Global
 HOST,qualcomm.sc.omtrdc.net,Global
@@ -2293,6 +2294,7 @@ HOST-SUFFIX,51lieqi.com,Global
 HOST-SUFFIX,51luoben.com,Global
 HOST-SUFFIX,51luoli.info,Global
 HOST-SUFFIX,51mh.app,Global
+HOST-SUFFIX,51papaya.com,Global
 HOST-SUFFIX,51pincha.cc,Global
 HOST-SUFFIX,51tuqiang.com,Global
 HOST-SUFFIX,520aa.tv,Global

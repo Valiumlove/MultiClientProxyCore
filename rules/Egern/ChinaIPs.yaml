@@ -1,7 +1,7 @@
 # NAME: ChinaIPs
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-13 16:15:31
+# UPDATED: 2026-11-14 12:38:59
 no_resolve: true
 ip_cidr_set:
   - 1.0.1.0/24
@@ -6124,6 +6124,7 @@ ip_cidr_set:
   - 124.71.192.0/19
   - 124.71.224.0/20
   - 124.71.240.0/21
+  - 124.71.241.0/24
   - 124.71.244.0/23
   - 124.71.248.0/23
   - 124.71.250.0/23

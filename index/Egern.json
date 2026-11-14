@@ -2,7 +2,7 @@
   "client": "Egern",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 899035,
+  "total_line_count": 899804,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 190163,
+        "domain_set": 190471,
         "domain_suffix_set": 4,
         "ip_cidr_set": 74
       },
-      "total_line_count": 190241,
-      "rule_updated_at": "2026-11-13T10:23:22.363842+00:00",
+      "total_line_count": 190549,
+      "rule_updated_at": "2026-11-14T05:50:05.717285+00:00",
       "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -475,15 +475,15 @@
         "asn_set": 15,
         "domain_keyword_set": 210,
         "domain_set": 17500,
-        "domain_suffix_set": 273396,
+        "domain_suffix_set": 273631,
         "domain_wildcard_set": 22,
         "ip_cidr6_set": 6,
         "ip_cidr_set": 1035,
         "url_regex_set": 15,
         "user_agent_set": 1
       },
-      "total_line_count": 292200,
-      "rule_updated_at": "2026-11-13T11:02:33.237362+00:00",
+      "total_line_count": 292435,
+      "rule_updated_at": "2026-11-14T02:08:04.092789+00:00",
       "file": "rules/Egern/Advertising.yaml"
     },
     {
@@ -501,14 +501,14 @@
       "type_counts": {
         "domain_keyword_set": 164,
         "domain_set": 26932,
-        "domain_suffix_set": 162778,
+        "domain_suffix_set": 162995,
         "domain_wildcard_set": 15,
         "ip_cidr6_set": 4,
         "ip_cidr_set": 233,
         "url_regex_set": 5
       },
-      "total_line_count": 190131,
-      "rule_updated_at": "2026-11-13T11:01:01.825702+00:00",
+      "total_line_count": 190348,
+      "rule_updated_at": "2026-11-13T23:32:08.844592+00:00",
       "file": "rules/Egern/AdvertisingLite.yaml"
     },
     {
@@ -2647,11 +2647,11 @@
         "domain_suffix_set": 6362,
         "domain_wildcard_set": 2,
         "ip_cidr6_set": 4,
-        "ip_cidr_set": 3859,
+        "ip_cidr_set": 3860,
         "user_agent_set": 30
       },
-      "total_line_count": 10291,
-      "rule_updated_at": "2026-11-12T18:15:50.833355+00:00",
+      "total_line_count": 10292,
+      "rule_updated_at": "2026-11-14T05:11:00.953191+00:00",
       "file": "rules/Egern/China.yaml"
     },
     {
@@ -2706,10 +2706,10 @@
       "type_counts": {
         "asn_set": 5076,
         "ip_cidr6_set": 5424,
-        "ip_cidr_set": 12657
+        "ip_cidr_set": 12658
       },
-      "total_line_count": 23157,
-      "rule_updated_at": "2026-11-13T00:44:52.186574+00:00",
+      "total_line_count": 23158,
+      "rule_updated_at": "2026-11-13T21:51:06.571642+00:00",
       "file": "rules/Egern/ChinaIPs.yaml"
     },
     {
@@ -5855,15 +5855,15 @@
       ],
       "type_counts": {
         "domain_keyword_set": 53,
-        "domain_set": 1913,
-        "domain_suffix_set": 22364,
+        "domain_set": 1914,
+        "domain_suffix_set": 22365,
         "domain_wildcard_set": 61,
         "ip_cidr6_set": 4,
         "ip_cidr_set": 80,
         "user_agent_set": 9
       },
-      "total_line_count": 24484,
-      "rule_updated_at": "2026-11-12T23:38:23.985483+00:00",
+      "total_line_count": 24486,
+      "rule_updated_at": "2026-11-14T01:00:54.244066+00:00",
       "file": "rules/Egern/Global.yaml"
     },
     {
@@ -6267,10 +6267,10 @@
         "domain_suffix_set"
       ],
       "type_counts": {
-        "domain_suffix_set": 4
+        "domain_suffix_set": 5
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-28T13:21:08.920289+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-13T20:06:33.772217+00:00",
       "file": "rules/Egern/Grok.yaml"
     },
     {
@@ -12707,13 +12707,13 @@
       ],
       "type_counts": {
         "domain_keyword_set": 1,
-        "domain_set": 3395,
+        "domain_set": 3399,
         "domain_suffix_set": 3765,
         "ip_cidr_set": 3,
         "user_agent_set": 1
       },
-      "total_line_count": 7165,
-      "rule_updated_at": "2026-11-12T02:18:27.827483+00:00",
+      "total_line_count": 7169,
+      "rule_updated_at": "2026-11-13T23:37:29.129240+00:00",
       "file": "rules/Egern/Speedtest.yaml"
     },
     {

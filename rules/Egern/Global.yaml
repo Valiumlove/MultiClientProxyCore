@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-13 07:43:18
+# UPDATED: 2026-11-14 09:07:11
 no_resolve: true
 domain_set:
   - 3dna.nationbuilder.com
@@ -1391,6 +1391,7 @@ domain_set:
   - public.hare200.com
   - public.komiic.com
   - public.mocortech.com
+  - public.popclip.app
   - public.zoorix.com
   - q676790b.pmhcjk.com
   - qualcomm.sc.omtrdc.net
@@ -2288,6 +2289,7 @@ domain_suffix_set:
   - 51luoben.com
   - 51luoli.info
   - 51mh.app
+  - 51papaya.com
   - 51pincha.cc
   - 51tuqiang.com
   - 520aa.tv

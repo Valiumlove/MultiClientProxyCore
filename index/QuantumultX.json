@@ -2,7 +2,7 @@
   "client": "QuantumultX",
   "rule_file_extension": "list",
   "rule_count": 1185,
-  "total_line_count": 899031,
+  "total_line_count": 899800,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "HOST": 190163,
+        "HOST": 190471,
         "HOST-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190241,
-      "rule_updated_at": "2026-11-13T10:22:43.841113+00:00",
+      "total_line_count": 190549,
+      "rule_updated_at": "2026-11-14T05:49:27.500333+00:00",
       "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -474,7 +474,7 @@
       "type_counts": {
         "HOST": 17500,
         "HOST-KEYWORD": 210,
-        "HOST-SUFFIX": 273396,
+        "HOST-SUFFIX": 273631,
         "HOST-WILDCARD": 22,
         "IP6-CIDR": 6,
         "IP-ASN": 15,
@@ -482,8 +482,8 @@
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 292200,
-      "rule_updated_at": "2026-11-13T11:00:32.948952+00:00",
+      "total_line_count": 292435,
+      "rule_updated_at": "2026-11-14T02:06:54.183353+00:00",
       "file": "rules/QuantumultX/Advertising.list"
     },
     {
@@ -501,14 +501,14 @@
       "type_counts": {
         "HOST": 26932,
         "HOST-KEYWORD": 164,
-        "HOST-SUFFIX": 162778,
+        "HOST-SUFFIX": 162995,
         "HOST-WILDCARD": 15,
         "IP6-CIDR": 4,
         "IP-CIDR": 233,
         "URL-REGEX": 5
       },
-      "total_line_count": 190131,
-      "rule_updated_at": "2026-11-13T10:59:56.209978+00:00",
+      "total_line_count": 190348,
+      "rule_updated_at": "2026-11-13T23:31:27.083324+00:00",
       "file": "rules/QuantumultX/AdvertisingLite.list"
     },
     {
@@ -2645,11 +2645,11 @@
         "HOST-SUFFIX": 6362,
         "HOST-WILDCARD": 2,
         "IP6-CIDR": 4,
-        "IP-CIDR": 3859,
+        "IP-CIDR": 3860,
         "USER-AGENT": 30
       },
-      "total_line_count": 10287,
-      "rule_updated_at": "2026-11-12T18:14:29.559172+00:00",
+      "total_line_count": 10288,
+      "rule_updated_at": "2026-11-14T05:10:11.314240+00:00",
       "file": "rules/QuantumultX/China.list"
     },
     {
@@ -2704,10 +2704,10 @@
       "type_counts": {
         "IP6-CIDR": 5424,
         "IP-ASN": 5076,
-        "IP-CIDR": 12657
+        "IP-CIDR": 12658
       },
-      "total_line_count": 23157,
-      "rule_updated_at": "2026-11-13T00:44:39.190128+00:00",
+      "total_line_count": 23158,
+      "rule_updated_at": "2026-11-13T21:51:02.529722+00:00",
       "file": "rules/QuantumultX/ChinaIPs.list"
     },
     {
@@ -5852,16 +5852,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 1913,
+        "HOST": 1914,
         "HOST-KEYWORD": 53,
-        "HOST-SUFFIX": 22364,
+        "HOST-SUFFIX": 22365,
         "HOST-WILDCARD": 61,
         "IP6-CIDR": 4,
         "IP-CIDR": 80,
         "USER-AGENT": 9
       },
-      "total_line_count": 24484,
-      "rule_updated_at": "2026-11-12T23:33:02.931469+00:00",
+      "total_line_count": 24486,
+      "rule_updated_at": "2026-11-14T00:55:25.271893+00:00",
       "file": "rules/QuantumultX/Global.list"
     },
     {
@@ -6265,10 +6265,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 4
+        "HOST-SUFFIX": 5
       },
-      "total_line_count": 4,
-      "rule_updated_at": "2026-07-28T13:21:04.301613+00:00",
+      "total_line_count": 5,
+      "rule_updated_at": "2026-11-13T20:06:33.230338+00:00",
       "file": "rules/QuantumultX/Grok.list"
     },
     {
@@ -12704,14 +12704,14 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 3395,
+        "HOST": 3399,
         "HOST-KEYWORD": 1,
         "HOST-SUFFIX": 3765,
         "IP-CIDR": 3,
         "USER-AGENT": 1
       },
-      "total_line_count": 7165,
-      "rule_updated_at": "2026-11-12T02:17:06.960609+00:00",
+      "total_line_count": 7169,
+      "rule_updated_at": "2026-11-13T23:37:28.119560+00:00",
       "file": "rules/QuantumultX/Speedtest.list"
     },
     {
