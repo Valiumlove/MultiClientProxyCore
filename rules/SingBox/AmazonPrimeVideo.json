@@ -32,7 +32,9 @@
       ],
       "domain_keyword": [
         "avoddashs"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.amazon.avod.thirdpartyclient"
       ]

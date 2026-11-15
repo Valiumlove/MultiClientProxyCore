@@ -180,7 +180,9 @@
         "www-cdn.icloud.com.akadns.net",
         "wwwicloud.com",
         "wwwitunes.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.apple.geod"
       ]

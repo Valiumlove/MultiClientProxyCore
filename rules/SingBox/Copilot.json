@@ -396,7 +396,9 @@
         "2604:f20::/32",
         "2607:6bc0::/32",
         "64.23.132.171/32"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "Antigravity",
         "Antigravity.exe",

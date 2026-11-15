@@ -15,6 +15,7 @@
         "execute-api.ap-southeast-1.amazonaws.com",
         "execute-api.us-east-1.amazonaws.com",
         "forthethrone.com",
+        "h264.io",
         "hbo",
         "hbo-europe.com",
         "hbo.ba",
@@ -94,7 +95,9 @@
         "s3-ap-southeast-1.amazonaws.com",
         "warnermediacdn.com",
         "youboranqs01.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.hbo.hbonow"
       ]

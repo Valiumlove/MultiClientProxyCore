@@ -43,7 +43,9 @@
         "viacom.com",
         "viacomcbs.com",
         "viacomcbspressexpress.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.cbs.app",
         "com.showtime.standalone"

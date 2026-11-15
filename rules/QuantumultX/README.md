@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/QuantumultX/`
-- 规则数：**1185** · 总行数：**899800**
+- 规则数：**1185** · 总行数：**900553**
 
 ## 常用规则（可直接复制）
 
@@ -72,12 +72,12 @@ https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Qua
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Actalis.list) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdGuard.list) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdGuardSDNSFilter.list) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190549 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdGuardSDNSFilterDirect.list) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdGuardSDNSFilterDirect.list) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Adidas.list) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Adobe.list) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdobeActivation.list) |
-| Advertising | 去广告 | 292435 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Advertising.list) |
-| AdvertisingLite | 去广告精简版 | 190348 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdvertisingLite.list) |
+| Advertising | 去广告 | 292779 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Advertising.list) |
+| AdvertisingLite | 去广告精简版 | 190516 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdvertisingLite.list) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/AdvertisingMiTV.list) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Aerogard.list) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Agora.list) |
@@ -241,7 +241,7 @@ https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Qua
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaBroadnet.list) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaGame.list) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaIPTV.list) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaIPs.list) |
+| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaIPs.list) |
 | ChinaMedia | 中国媒体 | 356 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaMedia.list) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaMobile.list) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/ChinaNews.list) |
@@ -454,7 +454,7 @@ https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Qua
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GitLab.list) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Gitee.list) |
 | Global | 全球 | 24486 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Global.list) |
-| GlobalAI | 全球AI | 4940 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GlobalAI.list) |
+| GlobalAI | 全球AI | 4937 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GlobalAI.list) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GlobalCDN.list) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GlobalCloud.list) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GlobalGame.list) |
@@ -469,7 +469,7 @@ https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Qua
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Gog.list) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Golang.list) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Goodreads.list) |
-| Google | Google | 1183 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Google.list) |
+| Google | Google | 1142 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/Google.list) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GoogleDeepMind.list) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GoogleEarth.list) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/QuantumultX/GoogleFCM.list) |

@@ -1,8 +1,8 @@
 # NAME: AdGuardSDNSFilter
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:23:51
-# HOST: 182
+# UPDATED: 2026-11-12 19:48:35
+# HOST: 184
 # HOST-SUFFIX: 4
 
 HOST,5471782.fls.doubleclick.net,AdGuardSDNSFilter
@@ -24,6 +24,7 @@ HOST,ads.tdbank.com,AdGuardSDNSFilter
 HOST,advert.kf5.com,AdGuardSDNSFilter
 HOST,afi-b.com,AdGuardSDNSFilter
 HOST,analytics.amplitude.com,AdGuardSDNSFilter
+HOST,analytics.cibc.com,AdGuardSDNSFilter
 HOST,anwb.webpower.eu,AdGuardSDNSFilter
 HOST,ap01.records.in.treasuredata.com,AdGuardSDNSFilter
 HOST,api.ads.tvb.com,AdGuardSDNSFilter
@@ -177,6 +178,7 @@ HOST,tr.rdrtr.com,AdGuardSDNSFilter
 HOST,track.rutarget.ru,AdGuardSDNSFilter
 HOST,track.webgains.com,AdGuardSDNSFilter
 HOST,trk.ecomm.lenovo.com,AdGuardSDNSFilter
+HOST,unsubscribe.email.premierleague.com,AdGuardSDNSFilter
 HOST,unsubscribe.lhinsights.com,AdGuardSDNSFilter
 HOST,used.ca,AdGuardSDNSFilter
 HOST,validate.perfdrive.com,AdGuardSDNSFilter

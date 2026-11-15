@@ -6,7 +6,9 @@
         "lastpass.com",
         "lastpass.eu",
         "lputil.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "LastPass"
       ]

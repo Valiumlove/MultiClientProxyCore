@@ -2,7 +2,7 @@
   "client": "Egern",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 899804,
+  "total_line_count": 900557,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "ip_cidr_set"
       ],
       "type_counts": {
-        "domain_set": 190471,
+        "domain_set": 190756,
         "domain_suffix_set": 4,
         "ip_cidr_set": 74
       },
-      "total_line_count": 190549,
-      "rule_updated_at": "2026-11-14T05:50:05.717285+00:00",
+      "total_line_count": 190834,
+      "rule_updated_at": "2026-11-15T01:16:05.883453+00:00",
       "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -475,15 +475,15 @@
         "asn_set": 15,
         "domain_keyword_set": 210,
         "domain_set": 17500,
-        "domain_suffix_set": 273631,
+        "domain_suffix_set": 273975,
         "domain_wildcard_set": 22,
         "ip_cidr6_set": 6,
         "ip_cidr_set": 1035,
         "url_regex_set": 15,
         "user_agent_set": 1
       },
-      "total_line_count": 292435,
-      "rule_updated_at": "2026-11-14T02:08:04.092789+00:00",
+      "total_line_count": 292779,
+      "rule_updated_at": "2026-11-15T02:16:44.515575+00:00",
       "file": "rules/Egern/Advertising.yaml"
     },
     {
@@ -501,14 +501,14 @@
       "type_counts": {
         "domain_keyword_set": 164,
         "domain_set": 26932,
-        "domain_suffix_set": 162995,
+        "domain_suffix_set": 163163,
         "domain_wildcard_set": 15,
         "ip_cidr6_set": 4,
         "ip_cidr_set": 233,
         "url_regex_set": 5
       },
-      "total_line_count": 190348,
-      "rule_updated_at": "2026-11-13T23:32:08.844592+00:00",
+      "total_line_count": 190516,
+      "rule_updated_at": "2026-11-15T02:14:48.122048+00:00",
       "file": "rules/Egern/AdvertisingLite.yaml"
     },
     {
@@ -2709,7 +2709,7 @@
         "ip_cidr_set": 12658
       },
       "total_line_count": 23158,
-      "rule_updated_at": "2026-11-13T21:51:06.571642+00:00",
+      "rule_updated_at": "2026-11-14T18:14:45.207743+00:00",
       "file": "rules/Egern/ChinaIPs.yaml"
     },
     {
@@ -5882,12 +5882,12 @@
         "asn_set": 4,
         "domain_keyword_set": 11,
         "domain_set": 144,
-        "domain_suffix_set": 4773,
+        "domain_suffix_set": 4770,
         "ip_cidr6_set": 2,
         "ip_cidr_set": 5,
         "url_regex_set": 1
       },
-      "total_line_count": 4940,
+      "total_line_count": 4937,
       "rule_updated_at": "2026-11-12T03:24:46.200921+00:00",
       "file": "rules/Egern/GlobalAI.yaml"
     },
@@ -6130,10 +6130,10 @@
       "type_counts": {
         "domain_keyword_set": 6,
         "domain_set": 241,
-        "domain_suffix_set": 934,
+        "domain_suffix_set": 893,
         "ip_cidr_set": 2
       },
-      "total_line_count": 1183,
+      "total_line_count": 1142,
       "rule_updated_at": "2026-10-29T03:07:14.049979+00:00",
       "file": "rules/Egern/Google.yaml"
     },

@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Egern/`
-- 规则数：**1185** · 总行数：**899804**
+- 规则数：**1185** · 总行数：**900557**
 
 ## 常用规则（可直接复制）
 
@@ -98,12 +98,12 @@ rules:
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Actalis.yaml) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuard.yaml) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilter.yaml) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190549 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilterDirect.yaml) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilterDirect.yaml) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Adidas.yaml) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Adobe.yaml) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdobeActivation.yaml) |
-| Advertising | 去广告 | 292435 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Advertising.yaml) |
-| AdvertisingLite | 去广告精简版 | 190348 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingLite.yaml) |
+| Advertising | 去广告 | 292779 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Advertising.yaml) |
+| AdvertisingLite | 去广告精简版 | 190516 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingLite.yaml) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingMiTV.yaml) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Aerogard.yaml) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Agora.yaml) |
@@ -267,7 +267,7 @@ rules:
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaBroadnet.yaml) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaGame.yaml) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPTV.yaml) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPs.yaml) |
+| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPs.yaml) |
 | ChinaMedia | 中国媒体 | 356 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaMedia.yaml) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaMobile.yaml) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaNews.yaml) |
@@ -480,7 +480,7 @@ rules:
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GitLab.yaml) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gitee.yaml) |
 | Global | 全球 | 24486 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Global.yaml) |
-| GlobalAI | 全球AI | 4940 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalAI.yaml) |
+| GlobalAI | 全球AI | 4937 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalAI.yaml) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalCDN.yaml) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalCloud.yaml) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalGame.yaml) |
@@ -495,7 +495,7 @@ rules:
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gog.yaml) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Golang.yaml) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Goodreads.yaml) |
-| Google | Google | 1183 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Google.yaml) |
+| Google | Google | 1142 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Google.yaml) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleDeepMind.yaml) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleEarth.yaml) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleFCM.yaml) |

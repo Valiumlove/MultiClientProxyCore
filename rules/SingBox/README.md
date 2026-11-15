@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/SingBox/`
-- 规则数：**1184** · 总行数：**889501**
+- 规则数：**1184** · 总行数：**890254**
 
 ## 常用规则（可直接复制）
 
@@ -153,12 +153,12 @@
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Actalis.json) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuard.json) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilter.json) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190549 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adidas.json) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adobe.json) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdobeActivation.json) |
-| Advertising | 去广告 | 292382 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
-| AdvertisingLite | 去广告精简版 | 190328 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
+| Advertising | 去广告 | 292726 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
+| AdvertisingLite | 去广告精简版 | 190496 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingMiTV.json) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Aerogard.json) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Agora.json) |
@@ -321,7 +321,7 @@
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaBroadnet.json) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaGame.json) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPTV.json) |
-| ChinaIPs | 中国IP | 18082 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
+| ChinaIPs | 中国IP | 18082 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
 | ChinaMedia | 中国媒体 | 345 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMedia.json) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMobile.json) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaNews.json) |
@@ -534,7 +534,7 @@
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GitLab.json) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Gitee.json) |
 | Global | 全球 | 24424 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Global.json) |
-| GlobalAI | 全球AI | 4959 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalAI.json) |
+| GlobalAI | 全球AI | 4956 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalAI.json) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalCDN.json) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalCloud.json) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GlobalGame.json) |
@@ -549,7 +549,7 @@
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Gog.json) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Golang.json) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Goodreads.json) |
-| Google | Google | 1188 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Google.json) |
+| Google | Google | 1147 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Google.json) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GoogleDeepMind.json) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GoogleEarth.json) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/GoogleFCM.json) |

@@ -1,9 +1,9 @@
 # NAME: AppleDirect
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-11 22:31:46
-# HOST: 42
-# HOST-SUFFIX: 3700
+# UPDATED: 2026-11-12 19:43:42
+# HOST: 45
+# HOST-SUFFIX: 3883
 # IP-CIDR: 14
 
 HOST,analytics-fe.digital-cloud.medallia.eu,AppleDirect
@@ -15,6 +15,7 @@ HOST,bot.cdn.adeo.cloud,AppleDirect
 HOST,cdn.ltba.io,AppleDirect
 HOST,collection.cyberprocurement.com,AppleDirect
 HOST,dn-analytics.alketech.eu,AppleDirect
+HOST,e.muckrack.com,AppleDirect
 HOST,gs-loc-cn.apple.com,AppleDirect
 HOST,http-intake.logs.us5.datadoghq.com,AppleDirect
 HOST,ihgtelecom.brsserver.com.br,AppleDirect
@@ -36,8 +37,10 @@ HOST,speed.isrcomunicaciones.es,AppleDirect
 HOST,speedtest-din.rapidnet.co.in,AppleDirect
 HOST,speedtest-par.flowhardware.ch,AppleDirect
 HOST,speedtest-phoenix.resoundnetworks.com,AppleDirect
+HOST,speedtest.alpenhost.at,AppleDirect
 HOST,speedtest.bgsi.io,AppleDirect
 HOST,speedtest.dreamnetgigafiber.com,AppleDirect
+HOST,speedtest.internetarribes.es,AppleDirect
 HOST,speedtest.vel.as205941.net,AppleDirect
 HOST,speedtest.way2netbroadband.com,AppleDirect
 HOST,speedtest1-phnyazjv.as20055.net,AppleDirect
@@ -87,6 +90,7 @@ HOST-SUFFIX,49m2mwpb84qfctyk.cfd,AppleDirect
 HOST-SUFFIX,4a75c45821.com,AppleDirect
 HOST-SUFFIX,4ad9bqnjb.com,AppleDirect
 HOST-SUFFIX,4bjubv7lxvpch3.cfd,AppleDirect
+HOST-SUFFIX,4gvlnlfx4qr67ulrn.rest,AppleDirect
 HOST-SUFFIX,4hfm8gfow.com,AppleDirect
 HOST-SUFFIX,4j9cjy80f.com,AppleDirect
 HOST-SUFFIX,4k1x3mkrus.com,AppleDirect
@@ -106,6 +110,8 @@ HOST-SUFFIX,6htu6jje0l.com,AppleDirect
 HOST-SUFFIX,6joxw2fjmuvowzx7mffw92u1.cfd,AppleDirect
 HOST-SUFFIX,70eb07b991.com,AppleDirect
 HOST-SUFFIX,7ciiewbz2neo1g9q5y5.rest,AppleDirect
+HOST-SUFFIX,7oavaac8i.com,AppleDirect
+HOST-SUFFIX,7p329mu17cci85n3m.rest,AppleDirect
 HOST-SUFFIX,7ymrfgg6h54652e35f.rest,AppleDirect
 HOST-SUFFIX,83b016defa.com,AppleDirect
 HOST-SUFFIX,858dfdc554.com,AppleDirect
@@ -142,6 +148,8 @@ HOST-SUFFIX,aagprboumamaz.space,AppleDirect
 HOST-SUFFIX,aainwekolbdzo.site,AppleDirect
 HOST-SUFFIX,aamunqjutjfiq.website,AppleDirect
 HOST-SUFFIX,aaplimg.com,AppleDirect
+HOST-SUFFIX,abelianmxd.cfd,AppleDirect
+HOST-SUFFIX,abidetoucans.cyou,AppleDirect
 HOST-SUFFIX,abiencegingko.cfd,AppleDirect
 HOST-SUFFIX,ablowbulchin.com,AppleDirect
 HOST-SUFFIX,abortphecda.com,AppleDirect
@@ -177,6 +185,7 @@ HOST-SUFFIX,aicryelrhhwya.space,AppleDirect
 HOST-SUFFIX,airersalkyls.cfd,AppleDirect
 HOST-SUFFIX,airtbpwzylosx.online,AppleDirect
 HOST-SUFFIX,aiscsaxgwwdtj.online,AppleDirect
+HOST-SUFFIX,aivwuxzgcygjq.site,AppleDirect
 HOST-SUFFIX,aizgxeukmyojd.website,AppleDirect
 HOST-SUFFIX,ajtcqmlorjesx.site,AppleDirect
 HOST-SUFFIX,akadns.net,AppleDirect
@@ -184,10 +193,12 @@ HOST-SUFFIX,akkashocwvu.in,AppleDirect
 HOST-SUFFIX,akqcrzyoqktvz.online,AppleDirect
 HOST-SUFFIX,alagaubarosmatearcat.cyou,AppleDirect
 HOST-SUFFIX,alfionaupleap.com,AppleDirect
+HOST-SUFFIX,alglhogzeqhel.site,AppleDirect
 HOST-SUFFIX,alimentashtray.click,AppleDirect
 HOST-SUFFIX,aliveharbor.info,AppleDirect
 HOST-SUFFIX,aliveharbor.me,AppleDirect
 HOST-SUFFIX,alludesexptl.cyou,AppleDirect
+HOST-SUFFIX,allureddefenceculets.cfd,AppleDirect
 HOST-SUFFIX,alppbalwrsyyw.online,AppleDirect
 HOST-SUFFIX,alvmcwmdyspqc.site,AppleDirect
 HOST-SUFFIX,alypinehubbly.cyou,AppleDirect
@@ -413,6 +424,7 @@ HOST-SUFFIX,angasarum.cyou,AppleDirect
 HOST-SUFFIX,angatholed.click,AppleDirect
 HOST-SUFFIX,anptvosfntjlq.space,AppleDirect
 HOST-SUFFIX,anrlfkpaweafl.online,AppleDirect
+HOST-SUFFIX,ansxwfkltrmyj.site,AppleDirect
 HOST-SUFFIX,antrumciphers.click,AppleDirect
 HOST-SUFFIX,anxegytdedafg.site,AppleDirect
 HOST-SUFFIX,ap.delfi.ee,AppleDirect
@@ -445,6 +457,7 @@ HOST-SUFFIX,aqpkokeeyyncfl.com,AppleDirect
 HOST-SUFFIX,aquaticsulpho.com,AppleDirect
 HOST-SUFFIX,aqwjngvkgqrzv.website,AppleDirect
 HOST-SUFFIX,archeryhardies.qpon,AppleDirect
+HOST-SUFFIX,areekcookee.rest,AppleDirect
 HOST-SUFFIX,arhhrgiwaecso.online,AppleDirect
 HOST-SUFFIX,artjnley.com,AppleDirect
 HOST-SUFFIX,arwpochlfvqoe.online,AppleDirect
@@ -460,6 +473,7 @@ HOST-SUFFIX,atrgprhdzfhfb.online,AppleDirect
 HOST-SUFFIX,atrvcdsjuqcwi.online,AppleDirect
 HOST-SUFFIX,atuudhyvlwexf.site,AppleDirect
 HOST-SUFFIX,atwhiqmah.in,AppleDirect
+HOST-SUFFIX,auahobcnuyvwd.website,AppleDirect
 HOST-SUFFIX,aura.fairyaura.com,AppleDirect
 HOST-SUFFIX,auroazlgqmaop.online,AppleDirect
 HOST-SUFFIX,autorepairworcester.com,AppleDirect
@@ -531,6 +545,7 @@ HOST-SUFFIX,billieshariana.com,AppleDirect
 HOST-SUFFIX,bimaskeymen.rest,AppleDirect
 HOST-SUFFIX,binioudaikers.cyou,AppleDirect
 HOST-SUFFIX,binioumusales.rest,AppleDirect
+HOST-SUFFIX,binwfyodpaq.in,AppleDirect
 HOST-SUFFIX,biometuples.com,AppleDirect
 HOST-SUFFIX,bionalmsful.cfd,AppleDirect
 HOST-SUFFIX,bionomysolera.com,AppleDirect
@@ -564,7 +579,9 @@ HOST-SUFFIX,bosniakleverer.cyou,AppleDirect
 HOST-SUFFIX,bot.cdn.adeo.cloud,AppleDirect
 HOST-SUFFIX,botchssu.cyou,AppleDirect
 HOST-SUFFIX,boxfulironist.click,AppleDirect
+HOST-SUFFIX,boyyeykcleeza.website,AppleDirect
 HOST-SUFFIX,bqbgshfmnhuza.space,AppleDirect
+HOST-SUFFIX,bquoheminqrp.com,AppleDirect
 HOST-SUFFIX,bquskelcsmrvk.site,AppleDirect
 HOST-SUFFIX,bqwtvcpkrrnlq.site,AppleDirect
 HOST-SUFFIX,bqyrrwhnugwrp.website,AppleDirect
@@ -582,17 +599,22 @@ HOST-SUFFIX,broughyuca.cyou,AppleDirect
 HOST-SUFFIX,browsepantartful.com,AppleDirect
 HOST-SUFFIX,brphcvsebhffc.site,AppleDirect
 HOST-SUFFIX,brpjhyovttcxc.site,AppleDirect
+HOST-SUFFIX,brujabaretmisterm.cyou,AppleDirect
 HOST-SUFFIX,bspyoibtwrrc.com,AppleDirect
 HOST-SUFFIX,btmail.di7.org,AppleDirect
 HOST-SUFFIX,bubblygrain.biz,AppleDirect
 HOST-SUFFIX,bucabjnocfjgu.website,AppleDirect
+HOST-SUFFIX,bucklesunmold.com,AppleDirect
 HOST-SUFFIX,bukvwavcmonjv.space,AppleDirect
+HOST-SUFFIX,bvypp3rttivc1fq914v.cfd,AppleDirect
 HOST-SUFFIX,bvzzcqfalsend.space,AppleDirect
+HOST-SUFFIX,bwanpzeajyoga.online,AppleDirect
 HOST-SUFFIX,bwujpusmudu.in,AppleDirect
 HOST-SUFFIX,bxkhuffkbmxln.space,AppleDirect
 HOST-SUFFIX,byarjsfxfrove.space,AppleDirect
 HOST-SUFFIX,byebyebaby.it.com,AppleDirect
 HOST-SUFFIX,bylawskilnman.click,AppleDirect
+HOST-SUFFIX,bywsijvjatyfp.space,AppleDirect
 HOST-SUFFIX,bzaykoxkpefyf.site,AppleDirect
 HOST-SUFFIX,bzpogcssaxbmc.space,AppleDirect
 HOST-SUFFIX,bzrgbresuhvrw.space,AppleDirect
@@ -606,6 +628,7 @@ HOST-SUFFIX,calmcactus.pro,AppleDirect
 HOST-SUFFIX,camailwhickerruddles.cyou,AppleDirect
 HOST-SUFFIX,camaligraia.cyou,AppleDirect
 HOST-SUFFIX,canliopenest.rest,AppleDirect
+HOST-SUFFIX,canrwhwfhzobw.space,AppleDirect
 HOST-SUFFIX,caomddembovjm.site,AppleDirect
 HOST-SUFFIX,capricsucci.cyou,AppleDirect
 HOST-SUFFIX,carapussq.cyou,AppleDirect
@@ -623,6 +646,7 @@ HOST-SUFFIX,cbvbujjk.xyz,AppleDirect
 HOST-SUFFIX,ccmoqobmauoqa.site,AppleDirect
 HOST-SUFFIX,ccucnuuahikzz.online,AppleDirect
 HOST-SUFFIX,ccvmhtybbbhir.website,AppleDirect
+HOST-SUFFIX,ccxcgbntafhsv.website,AppleDirect
 HOST-SUFFIX,cdiscount.top,AppleDirect
 HOST-SUFFIX,cdkiiioannygv.site,AppleDirect
 HOST-SUFFIX,cdlsmpnouoacr.site,AppleDirect
@@ -630,6 +654,7 @@ HOST-SUFFIX,cdn-apple.com,AppleDirect
 HOST-SUFFIX,cdn.caffeine.ai,AppleDirect
 HOST-SUFFIX,cdn.ltba.io,AppleDirect
 HOST-SUFFIX,cdxwzqkuuacxl.site,AppleDirect
+HOST-SUFFIX,cegibxgxdkfuc.site,AppleDirect
 HOST-SUFFIX,cembalicourts.click,AppleDirect
 HOST-SUFFIX,cemhlobja.com,AppleDirect
 HOST-SUFFIX,centassels.com,AppleDirect
@@ -639,6 +664,7 @@ HOST-SUFFIX,cerxwkmeywkdy.online,AppleDirect
 HOST-SUFFIX,ceymmbgyqnnes.space,AppleDirect
 HOST-SUFFIX,cfdfasdvrrfnj.online,AppleDirect
 HOST-SUFFIX,cfmbroselispers.cyou,AppleDirect
+HOST-SUFFIX,cfphzvdymxipz.online,AppleDirect
 HOST-SUFFIX,cgcexsprstohm.online,AppleDirect
 HOST-SUFFIX,cgcshlpzacjjg.site,AppleDirect
 HOST-SUFFIX,chalinamajagga.click,AppleDirect
@@ -657,9 +683,12 @@ HOST-SUFFIX,chstqexkitsce.com,AppleDirect
 HOST-SUFFIX,chulpagliffy.cyou,AppleDirect
 HOST-SUFFIX,chulpathrangreprise.cyou,AppleDirect
 HOST-SUFFIX,cilwbiudkzyuy.website,AppleDirect
+HOST-SUFFIX,cingleanlagelollup.cyou,AppleDirect
 HOST-SUFFIX,ciqhpbyoybhclr.rest,AppleDirect
 HOST-SUFFIX,cirjoiqvewufy.online,AppleDirect
+HOST-SUFFIX,ciupqkbtklvb.com,AppleDirect
 HOST-SUFFIX,cjvwedvpdnjsi.online,AppleDirect
+HOST-SUFFIX,ckbwbclddktqr.space,AppleDirect
 HOST-SUFFIX,ckglrdomnwddc.online,AppleDirect
 HOST-SUFFIX,ckgumkswxgaoa.site,AppleDirect
 HOST-SUFFIX,ckucufscmjrkq.site,AppleDirect
@@ -673,9 +702,12 @@ HOST-SUFFIX,click4.pro,AppleDirect
 HOST-SUFFIX,clicknerd.com,AppleDirect
 HOST-SUFFIX,client-analytics.grigora.co,AppleDirect
 HOST-SUFFIX,cliffedopinerbiles.cfd,AppleDirect
+HOST-SUFFIX,cloabobra.cyou,AppleDirect
 HOST-SUFFIX,clothapprovegerman.com,AppleDirect
 HOST-SUFFIX,cloyerpapaw.click,AppleDirect
 HOST-SUFFIX,cmcojoetqgtnq.space,AppleDirect
+HOST-SUFFIX,cmdrqpsntamwk.space,AppleDirect
+HOST-SUFFIX,cmosdznhcybkr.site,AppleDirect
 HOST-SUFFIX,cn-ssl.ls.apple.com,AppleDirect
 HOST-SUFFIX,cn.apple.com,AppleDirect
 HOST-SUFFIX,cn.ls.apple.com,AppleDirect
@@ -698,11 +730,13 @@ HOST-SUFFIX,commandslikeable.com,AppleDirect
 HOST-SUFFIX,compassionatespreadinquire.com,AppleDirect
 HOST-SUFFIX,conceitclevernessethic.com,AppleDirect
 HOST-SUFFIX,condancing.com,AppleDirect
+HOST-SUFFIX,conjoinmollusk.click,AppleDirect
 HOST-SUFFIX,consentrecruit.com,AppleDirect
 HOST-SUFFIX,contenuardillaantigun.cyou,AppleDirect
 HOST-SUFFIX,contuselegator.com,AppleDirect
 HOST-SUFFIX,coolankle.com,AppleDirect
 HOST-SUFFIX,coolaspen.me,AppleDirect
+HOST-SUFFIX,coolaspen.tech,AppleDirect
 HOST-SUFFIX,coothcapling.cyou,AppleDirect
 HOST-SUFFIX,copm.mayflower.de,AppleDirect
 HOST-SUFFIX,cortahewt.com,AppleDirect
@@ -740,7 +774,9 @@ HOST-SUFFIX,ctomffkdsonux.website,AppleDirect
 HOST-SUFFIX,ctvsxekypkaue.online,AppleDirect
 HOST-SUFFIX,ctzzirfslkvcv.website,AppleDirect
 HOST-SUFFIX,cubdomdwamish.qpon,AppleDirect
+HOST-SUFFIX,cubicalstoner.cyou,AppleDirect
 HOST-SUFFIX,cucutoto.gastrack.live,AppleDirect
+HOST-SUFFIX,cuddyzuleika.cfd,AppleDirect
 HOST-SUFFIX,cudgelgateau.click,AppleDirect
 HOST-SUFFIX,cufmmuhibj.in,AppleDirect
 HOST-SUFFIX,culprithellman.cyou,AppleDirect
@@ -756,9 +792,11 @@ HOST-SUFFIX,cxcskkwvghzvp.website,AppleDirect
 HOST-SUFFIX,cxmuoewwxzczi.site,AppleDirect
 HOST-SUFFIX,cyclopslicorn.com,AppleDirect
 HOST-SUFFIX,cydskqupzdook.online,AppleDirect
+HOST-SUFFIX,czajzhhntppol.website,AppleDirect
 HOST-SUFFIX,czapwobjmqucl.online,AppleDirect
 HOST-SUFFIX,czeqjvr.com,AppleDirect
 HOST-SUFFIX,czseliubfandv.site,AppleDirect
+HOST-SUFFIX,czuoszwava.in,AppleDirect
 HOST-SUFFIX,czxlxynsoqscz.site,AppleDirect
 HOST-SUFFIX,d.kelviq.com,AppleDirect
 HOST-SUFFIX,d.posy.co,AppleDirect
@@ -771,6 +809,7 @@ HOST-SUFFIX,d3cesrg5igdcgt.cloudfront.net,AppleDirect
 HOST-SUFFIX,daccuegfendgo.site,AppleDirect
 HOST-SUFFIX,damoselluggersketogen.cfd,AppleDirect
 HOST-SUFFIX,dandieamobyr.cfd,AppleDirect
+HOST-SUFFIX,dardicvv.cfd,AppleDirect
 HOST-SUFFIX,dash.cfworks.vip,AppleDirect
 HOST-SUFFIX,data.bettkonzept.de,AppleDirect
 HOST-SUFFIX,data.hamburgerkultursommer.de,AppleDirect
@@ -778,6 +817,7 @@ HOST-SUFFIX,data.simplepages.ai,AppleDirect
 HOST-SUFFIX,data284.click,AppleDirect
 HOST-SUFFIX,data741.click,AppleDirect
 HOST-SUFFIX,datafast.yash.ceo,AppleDirect
+HOST-SUFFIX,datqtwusfdrdj.website,AppleDirect
 HOST-SUFFIX,dawnsunset.me,AppleDirect
 HOST-SUFFIX,dawnsunset.org,AppleDirect
 HOST-SUFFIX,dbnivsmljtdbk.space,AppleDirect
@@ -787,8 +827,10 @@ HOST-SUFFIX,ddft5oqi7q.com,AppleDirect
 HOST-SUFFIX,ddohiwvrhnife.site,AppleDirect
 HOST-SUFFIX,ddyejopzyjxxzf.com,AppleDirect
 HOST-SUFFIX,deashedungilt.cfd,AppleDirect
+HOST-SUFFIX,debugszinced.rest,AppleDirect
 HOST-SUFFIX,deducedcallid.cfd,AppleDirect
 HOST-SUFFIX,deerbreeze.com,AppleDirect
+HOST-SUFFIX,degustochroma.click,AppleDirect
 HOST-SUFFIX,deixislathen.click,AppleDirect
 HOST-SUFFIX,dekeifblwjuou.online,AppleDirect
 HOST-SUFFIX,denyochred.cyou,AppleDirect
@@ -797,10 +839,13 @@ HOST-SUFFIX,depurgearomas.com,AppleDirect
 HOST-SUFFIX,detunedverbssublet.cfd,AppleDirect
 HOST-SUFFIX,devilyconches.cfd,AppleDirect
 HOST-SUFFIX,devzpntxzimzy.website,AppleDirect
+HOST-SUFFIX,dfcqsybwzgnzy.online,AppleDirect
 HOST-SUFFIX,dfdvhjuletrsh.site,AppleDirect
+HOST-SUFFIX,dfjwmytrhzfsy.site,AppleDirect
 HOST-SUFFIX,dhaagtotq.in,AppleDirect
 HOST-SUFFIX,dhdkptepdezia.space,AppleDirect
 HOST-SUFFIX,dhovqdnulcadz.site,AppleDirect
+HOST-SUFFIX,dillesksyruped.click,AppleDirect
 HOST-SUFFIX,diloe.xyz,AppleDirect
 HOST-SUFFIX,diltsnjkxnxev.website,AppleDirect
 HOST-SUFFIX,dimitydirks.cyou,AppleDirect
@@ -814,9 +859,11 @@ HOST-SUFFIX,dkpmtrhnbjqzk.space,AppleDirect
 HOST-SUFFIX,dlguehzfijdys.website,AppleDirect
 HOST-SUFFIX,dlmbmjmplwepo.website,AppleDirect
 HOST-SUFFIX,dltcauxfnkcgg.website,AppleDirect
+HOST-SUFFIX,dmaipdzphaasj.website,AppleDirect
 HOST-SUFFIX,dn-analytics.alketech.eu,AppleDirect
 HOST-SUFFIX,dnrrwrherpizl.space,AppleDirect
 HOST-SUFFIX,dodderyatabals.cyou,AppleDirect
+HOST-SUFFIX,dolosehoggism.click,AppleDirect
 HOST-SUFFIX,domesticrejoinedremark.com,AppleDirect
 HOST-SUFFIX,domugthhpdtft.space,AppleDirect
 HOST-SUFFIX,domzpbsymwbtf.online,AppleDirect
@@ -824,6 +871,7 @@ HOST-SUFFIX,donwgdsqq.com,AppleDirect
 HOST-SUFFIX,doolfuscoloc.cfd,AppleDirect
 HOST-SUFFIX,dooncorvee.cyou,AppleDirect
 HOST-SUFFIX,doorspondy.cyou,AppleDirect
+HOST-SUFFIX,doumeqtimrllx.online,AppleDirect
 HOST-SUFFIX,dowpvxtbknqml.online,AppleDirect
 HOST-SUFFIX,dphheyqbwgaau.online,AppleDirect
 HOST-SUFFIX,dqwdebmtifbey.online,AppleDirect
@@ -831,13 +879,17 @@ HOST-SUFFIX,dqwqglbiiealk.website,AppleDirect
 HOST-SUFFIX,drammeshuttleplace.cyou,AppleDirect
 HOST-SUFFIX,dreadfulrulingextension.com,AppleDirect
 HOST-SUFFIX,drhfybnsntsop.online,AppleDirect
+HOST-SUFFIX,drmgsqxgfhgtf.website,AppleDirect
 HOST-SUFFIX,drollydoddie.cyou,AppleDirect
+HOST-SUFFIX,drtjzmceapgik.space,AppleDirect
 HOST-SUFFIX,dryzwmskikisl.site,AppleDirect
 HOST-SUFFIX,dscqxvxlwbxpc.space,AppleDirect
 HOST-SUFFIX,dsyaae.com,AppleDirect
 HOST-SUFFIX,dsznwssdfnylt.website,AppleDirect
 HOST-SUFFIX,dt.louis.info,AppleDirect
+HOST-SUFFIX,dtqelcsqivmqj.online,AppleDirect
 HOST-SUFFIX,dtswpgusucgfd.website,AppleDirect
+HOST-SUFFIX,dtuqzwvfgiphe.online,AppleDirect
 HOST-SUFFIX,du9kcdusj.com,AppleDirect
 HOST-SUFFIX,dubioclawers.cfd,AppleDirect
 HOST-SUFFIX,dudsyeaning.rest,AppleDirect
@@ -884,6 +936,7 @@ HOST-SUFFIX,earringmavin.cyou,AppleDirect
 HOST-SUFFIX,easselyerth.cfd,AppleDirect
 HOST-SUFFIX,eatvvxxcaszwi.space,AppleDirect
 HOST-SUFFIX,eaxemfcmapemq.space,AppleDirect
+HOST-SUFFIX,ebzzilrmoithf.space,AppleDirect
 HOST-SUFFIX,eccytygvbsnjh.space,AppleDirect
 HOST-SUFFIX,eccztfkgzgean.site,AppleDirect
 HOST-SUFFIX,echistampoon.cyou,AppleDirect
@@ -896,6 +949,7 @@ HOST-SUFFIX,eegaizkumkpjk.space,AppleDirect
 HOST-SUFFIX,eewqlmtwdsron.space,AppleDirect
 HOST-SUFFIX,eeztfgqkdagfl.online,AppleDirect
 HOST-SUFFIX,efgkjtkupbqqs.site,AppleDirect
+HOST-SUFFIX,efvcxevyy9lqbf.cfd,AppleDirect
 HOST-SUFFIX,egmoytcwvwfnc.website,AppleDirect
 HOST-SUFFIX,egqbgoqmqiuoc.website,AppleDirect
 HOST-SUFFIX,eh1vuqrlpyku62uic.rest,AppleDirect
@@ -934,6 +988,8 @@ HOST-SUFFIX,ephrvhtwhffar.website,AppleDirect
 HOST-SUFFIX,epigeumexpone.click,AppleDirect
 HOST-SUFFIX,epizoanvick.rest,AppleDirect
 HOST-SUFFIX,epnllezkjgpif.website,AppleDirect
+HOST-SUFFIX,eppeoiwixrnzt.site,AppleDirect
+HOST-SUFFIX,epskbyzwbmpra.online,AppleDirect
 HOST-SUFFIX,eqhqnbjk.com,AppleDirect
 HOST-SUFFIX,eqmchbiqeezwa.site,AppleDirect
 HOST-SUFFIX,eqq91cgw2trehrp.rest,AppleDirect
@@ -966,9 +1022,11 @@ HOST-SUFFIX,evkpkbwwmnfgj.site,AppleDirect
 HOST-SUFFIX,evomitlettuce.cfd,AppleDirect
 HOST-SUFFIX,evosuuirkzjhq.online,AppleDirect
 HOST-SUFFIX,evrpzvsplmwzt.site,AppleDirect
+HOST-SUFFIX,evsfmzsdxilxd.site,AppleDirect
 HOST-SUFFIX,ewaxekpshwrid.space,AppleDirect
 HOST-SUFFIX,ewnpqbtouobrn.online,AppleDirect
 HOST-SUFFIX,exdsogxhiatsx.space,AppleDirect
+HOST-SUFFIX,expelsgenoise.cyou,AppleDirect
 HOST-SUFFIX,expertcoueism.cfd,AppleDirect
 HOST-SUFFIX,extgpraeses.cyou,AppleDirect
 HOST-SUFFIX,exulsundaes.cfd,AppleDirect
@@ -978,6 +1036,7 @@ HOST-SUFFIX,ezkzzvzwfjasj.website,AppleDirect
 HOST-SUFFIX,ezygwbeelptbx.site,AppleDirect
 HOST-SUFFIX,f1nn1211ykik9f7h7q1gzzpebhz.rest,AppleDirect
 HOST-SUFFIX,f30fpad7.xyz,AppleDirect
+HOST-SUFFIX,f46281l9orhz3pgmzjkf.rest,AppleDirect
 HOST-SUFFIX,f6b31898hlujrbob93rn99h9mu53y.rest,AppleDirect
 HOST-SUFFIX,fabulousbreeze.com,AppleDirect
 HOST-SUFFIX,faisanbiotype.cfd,AppleDirect
@@ -988,6 +1047,7 @@ HOST-SUFFIX,farol.rogerle.com,AppleDirect
 HOST-SUFFIX,favousshakha.cfd,AppleDirect
 HOST-SUFFIX,faxopdow.in,AppleDirect
 HOST-SUFFIX,fbfvlqsjqclep.website,AppleDirect
+HOST-SUFFIX,fbouuanxwspzh.website,AppleDirect
 HOST-SUFFIX,fclvqcvpcxho.com,AppleDirect
 HOST-SUFFIX,fcqxqbrhpduuk.space,AppleDirect
 HOST-SUFFIX,fddmimp37.com,AppleDirect
@@ -999,12 +1059,14 @@ HOST-SUFFIX,ffbqwmedfryqu.online,AppleDirect
 HOST-SUFFIX,fflieipbhlgtl.online,AppleDirect
 HOST-SUFFIX,ffluhsrpb.com,AppleDirect
 HOST-SUFFIX,ffyraljvdojjt.online,AppleDirect
+HOST-SUFFIX,fgcxmwiaayzmg.space,AppleDirect
 HOST-SUFFIX,fgvowyavmmcau.site,AppleDirect
 HOST-SUFFIX,fhgqrvoaikmjf.site,AppleDirect
 HOST-SUFFIX,fhujkvxcgfv.com,AppleDirect
 HOST-SUFFIX,fhylxvhtxpnwo.space,AppleDirect
 HOST-SUFFIX,figglegrillpruned.cfd,AppleDirect
 HOST-SUFFIX,fimxtefr.in,AppleDirect
+HOST-SUFFIX,finebucket.info,AppleDirect
 HOST-SUFFIX,firstswynns.click,AppleDirect
 HOST-SUFFIX,fivvdbnotgndfg.com,AppleDirect
 HOST-SUFFIX,fixagebiggety.rest,AppleDirect
@@ -1025,6 +1087,7 @@ HOST-SUFFIX,fmyvtaydfeubb.online,AppleDirect
 HOST-SUFFIX,fnrvva9u4z.com,AppleDirect
 HOST-SUFFIX,fnyiktwkrptlh.space,AppleDirect
 HOST-SUFFIX,fohztovjigukz.space,AppleDirect
+HOST-SUFFIX,foinedmtscmd.com,AppleDirect
 HOST-SUFFIX,foliesacantha.cyou,AppleDirect
 HOST-SUFFIX,fomgggkpmzlxo.site,AppleDirect
 HOST-SUFFIX,foqtqtpkyy.com,AppleDirect
@@ -1033,8 +1096,11 @@ HOST-SUFFIX,forexclub.ru,AppleDirect
 HOST-SUFFIX,formicbine.com,AppleDirect
 HOST-SUFFIX,forms.gpuslash.com,AppleDirect
 HOST-SUFFIX,forthright-film.com,AppleDirect
+HOST-SUFFIX,foucqegmupzjw.site,AppleDirect
 HOST-SUFFIX,fourlytics.foureyes.financial,AppleDirect
+HOST-SUFFIX,foyerspolaxis.rest,AppleDirect
 HOST-SUFFIX,fqiouceqvfjpa.website,AppleDirect
+HOST-SUFFIX,fqqwubotkwynt.site,AppleDirect
 HOST-SUFFIX,fqxcrzj9r7kotjuvh84iyqjrir5917.cfd,AppleDirect
 HOST-SUFFIX,frakturfasten.cyou,AppleDirect
 HOST-SUFFIX,frapptents.com,AppleDirect
@@ -1049,6 +1115,7 @@ HOST-SUFFIX,frzgerjccnf.com,AppleDirect
 HOST-SUFFIX,fskamdkxhobeu.site,AppleDirect
 HOST-SUFFIX,fsnndjtymruaf.space,AppleDirect
 HOST-SUFFIX,ftdwnqyfhwihn.space,AppleDirect
+HOST-SUFFIX,ftflqcbjxbonu.space,AppleDirect
 HOST-SUFFIX,ftkhknxsfimhp.site,AppleDirect
 HOST-SUFFIX,fuagebel.cyou,AppleDirect
 HOST-SUFFIX,fuahwnyxymhlq.site,AppleDirect
@@ -1072,18 +1139,22 @@ HOST-SUFFIX,gangwaynumberprivacy.com,AppleDirect
 HOST-SUFFIX,ganldbtpleyni.space,AppleDirect
 HOST-SUFFIX,ganoinekubong.cfd,AppleDirect
 HOST-SUFFIX,gapmeezmpklpd.website,AppleDirect
+HOST-SUFFIX,gaslikepipiri.rest,AppleDirect
 HOST-SUFFIX,gawbctrhehzls.site,AppleDirect
 HOST-SUFFIX,gbbqaanguyacx.website,AppleDirect
 HOST-SUFFIX,gbguqrbokfdlz.space,AppleDirect
 HOST-SUFFIX,gcp.distriktstandvarden.se,AppleDirect
 HOST-SUFFIX,gcpczbniuuuoo.site,AppleDirect
 HOST-SUFFIX,gdixalmotphku.online,AppleDirect
+HOST-SUFFIX,gebcgqxgcbote.website,AppleDirect
 HOST-SUFFIX,genearcyanize.cfd,AppleDirect
 HOST-SUFFIX,geordieizchak.cyou,AppleDirect
 HOST-SUFFIX,gesupdfknxzae.website,AppleDirect
 HOST-SUFFIX,geuvkatbkmlsn.space,AppleDirect
+HOST-SUFFIX,geyabxkpzbvsy.online,AppleDirect
 HOST-SUFFIX,ggp7fwgmj7kvqeulw5335.cfd,AppleDirect
 HOST-SUFFIX,ggvjgcqosjsiv.online,AppleDirect
+HOST-SUFFIX,ggymibegmsflu.space,AppleDirect
 HOST-SUFFIX,ghanamolto.cyou,AppleDirect
 HOST-SUFFIX,ghostscholars.com,AppleDirect
 HOST-SUFFIX,ghrjyouvkdqwu.space,AppleDirect
@@ -1095,6 +1166,7 @@ HOST-SUFFIX,giftedbuffet.tech,AppleDirect
 HOST-SUFFIX,gifvqnylnssyg.website,AppleDirect
 HOST-SUFFIX,gilylqiazyyei.site,AppleDirect
 HOST-SUFFIX,givynlmumqzjd.online,AppleDirect
+HOST-SUFFIX,gjaetiklkqycy.online,AppleDirect
 HOST-SUFFIX,gjfjmxslylmem.space,AppleDirect
 HOST-SUFFIX,gjuf2qyz4u14x9ouo587z833.cfd,AppleDirect
 HOST-SUFFIX,gkhtzvgekzcwk.space,AppleDirect
@@ -1121,6 +1193,7 @@ HOST-SUFFIX,gostat.com,AppleDirect
 HOST-SUFFIX,gpxnb4xgtjmtxol34nbzzl5oex.rest,AppleDirect
 HOST-SUFFIX,gqrvjbpmobsvi.online,AppleDirect
 HOST-SUFFIX,grabsmpropea.org,AppleDirect
+HOST-SUFFIX,gradwcntoprvn.online,AppleDirect
 HOST-SUFFIX,grafana.com,AppleDirect
 HOST-SUFFIX,grafana.net,AppleDirect
 HOST-SUFFIX,gristyupcurls.rest,AppleDirect
@@ -1145,6 +1218,8 @@ HOST-SUFFIX,guigegoriest.click,AppleDirect
 HOST-SUFFIX,gummyability.com,AppleDirect
 HOST-SUFFIX,guppiessunyietucuna.cyou,AppleDirect
 HOST-SUFFIX,gusbpwgmnekeg.site,AppleDirect
+HOST-SUFFIX,guxuxecuitddv.online,AppleDirect
+HOST-SUFFIX,gvxjqaciaxwvo.space,AppleDirect
 HOST-SUFFIX,gvzfoohrojaqw.online,AppleDirect
 HOST-SUFFIX,gwdkavydmyuf.com,AppleDirect
 HOST-SUFFIX,gwj7zqwp2p9ioj7ku3jzrbr.rest,AppleDirect
@@ -1162,6 +1237,7 @@ HOST-SUFFIX,habenabray.cfd,AppleDirect
 HOST-SUFFIX,hagprepay.cyou,AppleDirect
 HOST-SUFFIX,hahibrcxfjhjd.website,AppleDirect
 HOST-SUFFIX,halvedsheds.click,AppleDirect
+HOST-SUFFIX,hamalnarrowfinnier.cyou,AppleDirect
 HOST-SUFFIX,haqgcjroiitgr.space,AppleDirect
 HOST-SUFFIX,harkssnurp.com,AppleDirect
 HOST-SUFFIX,harqfvbcnfpdb.site,AppleDirect
@@ -1184,6 +1260,7 @@ HOST-SUFFIX,heauty-viesected.com,AppleDirect
 HOST-SUFFIX,heavengabbykatcina.cyou,AppleDirect
 HOST-SUFFIX,hedge.jymbro.app,AppleDirect
 HOST-SUFFIX,hehfphznjarkd.online,AppleDirect
+HOST-SUFFIX,hehsnanmlquyx.space,AppleDirect
 HOST-SUFFIX,hehyznjjcnypx.space,AppleDirect
 HOST-SUFFIX,hejdlnmicpblpm.com,AppleDirect
 HOST-SUFFIX,helpfulmusic.biz,AppleDirect
@@ -1204,6 +1281,7 @@ HOST-SUFFIX,hguv.hn3h5lwzrbwi82kwegwjnc2iw6.cfd,AppleDirect
 HOST-SUFFIX,hhjagwizdqahy.space,AppleDirect
 HOST-SUFFIX,hhskqxsqdsocm.site,AppleDirect
 HOST-SUFFIX,hickeysideaful.com,AppleDirect
+HOST-SUFFIX,hickykacharinatural.cyou,AppleDirect
 HOST-SUFFIX,hildiwblwfzpm.website,AppleDirect
 HOST-SUFFIX,hiresbeakertubba.cfd,AppleDirect
 HOST-SUFFIX,hispaforfearshim.cyou,AppleDirect
@@ -1253,6 +1331,7 @@ HOST-SUFFIX,hvflwoyoxetjz.online,AppleDirect
 HOST-SUFFIX,hvryrpkrtiusl.com,AppleDirect
 HOST-SUFFIX,hvvfmnqzmylfp.website,AppleDirect
 HOST-SUFFIX,hwdfqfdu.com,AppleDirect
+HOST-SUFFIX,hwikmrenzqmva.online,AppleDirect
 HOST-SUFFIX,hxugzvxvfwam.com,AppleDirect
 HOST-SUFFIX,hxuxv7vx0.com,AppleDirect
 HOST-SUFFIX,hxypzksqmlnor.online,AppleDirect
@@ -1280,6 +1359,7 @@ HOST-SUFFIX,idfqmtrhzvtgn.online,AppleDirect
 HOST-SUFFIX,idjypemjqnivb.space,AppleDirect
 HOST-SUFFIX,ifawj9hvvl.com,AppleDirect
 HOST-SUFFIX,ifcvmqaovxgit.site,AppleDirect
+HOST-SUFFIX,iffkhsuxcxnjv.online,AppleDirect
 HOST-SUFFIX,ifvkcwzhysyia.site,AppleDirect
 HOST-SUFFIX,ighygwmxzifwc.website,AppleDirect
 HOST-SUFFIX,igkhupjtzyaaa.space,AppleDirect
@@ -1293,12 +1373,15 @@ HOST-SUFFIX,ijjjepuharutb.online,AppleDirect
 HOST-SUFFIX,ijuvqzngmcnjo.website,AppleDirect
 HOST-SUFFIX,ikaeibrnztebr.site,AppleDirect
 HOST-SUFFIX,ilgosajlubqdg.space,AppleDirect
+HOST-SUFFIX,illfhpcxxmgel.space,AppleDirect
+HOST-SUFFIX,ilnsuyxbzrcqs.space,AppleDirect
 HOST-SUFFIX,ilpfpxfkkkpqz.site,AppleDirect
 HOST-SUFFIX,imiffrcmswhpi.space,AppleDirect
 HOST-SUFFIX,immitmalkite.click,AppleDirect
 HOST-SUFFIX,imprennets.rest,AppleDirect
 HOST-SUFFIX,imqnbnwqfmxqh.site,AppleDirect
 HOST-SUFFIX,imtvzvzihstno.online,AppleDirect
+HOST-SUFFIX,imufhtdmngfkx.site,AppleDirect
 HOST-SUFFIX,indieskills.com,AppleDirect
 HOST-SUFFIX,inetoe.xyz,AppleDirect
 HOST-SUFFIX,inexeyxzouqzh.space,AppleDirect
@@ -1353,6 +1436,7 @@ HOST-SUFFIX,jewupyokehispano.cfd,AppleDirect
 HOST-SUFFIX,jexywyneljzny.space,AppleDirect
 HOST-SUFFIX,jffpcvacalnrv.online,AppleDirect
 HOST-SUFFIX,jgayqzye.com,AppleDirect
+HOST-SUFFIX,jgceudwlcveio.website,AppleDirect
 HOST-SUFFIX,jgfkscpqbais.com,AppleDirect
 HOST-SUFFIX,jgollcdgvgndi.website,AppleDirect
 HOST-SUFFIX,jgsxwcwrdkiwk.website,AppleDirect
@@ -1366,6 +1450,8 @@ HOST-SUFFIX,jkxhvqruxnhap.online,AppleDirect
 HOST-SUFFIX,jltpxzdwnnwuj.space,AppleDirect
 HOST-SUFFIX,jlzzwb9ix8vpxk3.cfd,AppleDirect
 HOST-SUFFIX,jocelyntururi.rest,AppleDirect
+HOST-SUFFIX,josephajewbushlauwine.cfd,AppleDirect
+HOST-SUFFIX,jotanngycjvxw.online,AppleDirect
 HOST-SUFFIX,journey.gerresheim-serviert.de,AppleDirect
 HOST-SUFFIX,jpcbwgndalsqk.online,AppleDirect
 HOST-SUFFIX,jpeogzqizz.in,AppleDirect
@@ -1375,15 +1461,18 @@ HOST-SUFFIX,jqlxcdanyqbtz.online,AppleDirect
 HOST-SUFFIX,jqrrbqfdjkazm.site,AppleDirect
 HOST-SUFFIX,jrixwxojoccnm.com,AppleDirect
 HOST-SUFFIX,jrnplooafwfjn.space,AppleDirect
+HOST-SUFFIX,jrqvkeudbdevm.space,AppleDirect
 HOST-SUFFIX,js.matomotj.cc,AppleDirect
 HOST-SUFFIX,jsdndfzpzrdt.com,AppleDirect
 HOST-SUFFIX,jsipdfurro.com,AppleDirect
 HOST-SUFFIX,jsoedbrzgxpqb.online,AppleDirect
 HOST-SUFFIX,jsumdixbcmepv.site,AppleDirect
 HOST-SUFFIX,jtkccoslbmmrw.website,AppleDirect
+HOST-SUFFIX,jtrqeevihpuau.site,AppleDirect
 HOST-SUFFIX,jubmxyrmpdthm.space,AppleDirect
 HOST-SUFFIX,junlxlbsqp.com,AppleDirect
 HOST-SUFFIX,juntol.xyz,AppleDirect
+HOST-SUFFIX,juoanvouymacf.site,AppleDirect
 HOST-SUFFIX,jurjdpyqrgezo.site,AppleDirect
 HOST-SUFFIX,jusgrmawfbaqu.com,AppleDirect
 HOST-SUFFIX,jvelknhcjragq.space,AppleDirect
@@ -1412,15 +1501,18 @@ HOST-SUFFIX,kanhqyioycepf.online,AppleDirect
 HOST-SUFFIX,karatesisaria.rest,AppleDirect
 HOST-SUFFIX,kartcalques.rest,AppleDirect
 HOST-SUFFIX,kasoyckcsmgal.online,AppleDirect
+HOST-SUFFIX,kaurqcckxtmxz.online,AppleDirect
 HOST-SUFFIX,kayeowitzxvas.website,AppleDirect
 HOST-SUFFIX,kbwakkvqlxmvp.space,AppleDirect
 HOST-SUFFIX,kbxatopvgjpth.space,AppleDirect
+HOST-SUFFIX,kcfrfiwoqzwda.site,AppleDirect
 HOST-SUFFIX,kcmneiugitzfg.website,AppleDirect
 HOST-SUFFIX,kcnlbswxseble.online,AppleDirect
 HOST-SUFFIX,kco3up8miwi1cqv.rest,AppleDirect
 HOST-SUFFIX,kdlweeirjtofc.online,AppleDirect
 HOST-SUFFIX,ke8me98qh.com,AppleDirect
 HOST-SUFFIX,keenporch.org,AppleDirect
+HOST-SUFFIX,kejwsfsmcdvyd.space,AppleDirect
 HOST-SUFFIX,kenaimerls.com,AppleDirect
 HOST-SUFFIX,keodinh.net,AppleDirect
 HOST-SUFFIX,kesfktgsfpdqx.site,AppleDirect
@@ -1442,6 +1534,7 @@ HOST-SUFFIX,kkdhbuydmbgyo.space,AppleDirect
 HOST-SUFFIX,klkmiwbofjnbr.site,AppleDirect
 HOST-SUFFIX,kluckerzaque.cfd,AppleDirect
 HOST-SUFFIX,knelledzinged.cyou,AppleDirect
+HOST-SUFFIX,knickixodids.cfd,AppleDirect
 HOST-SUFFIX,knopsdewfall.rest,AppleDirect
 HOST-SUFFIX,knurryanele.cyou,AppleDirect
 HOST-SUFFIX,kocletggrqkdh.site,AppleDirect
@@ -1454,6 +1547,7 @@ HOST-SUFFIX,kpimprqvtilkp.space,AppleDirect
 HOST-SUFFIX,kpveankjptsra.website,AppleDirect
 HOST-SUFFIX,kpyktnhvzxzdb.online,AppleDirect
 HOST-SUFFIX,kqprfqoezehja.site,AppleDirect
+HOST-SUFFIX,kraalscandidscrannia.cyou,AppleDirect
 HOST-SUFFIX,krindtrdlmfvx.online,AppleDirect
 HOST-SUFFIX,krpxzaxqykgwi.website,AppleDirect
 HOST-SUFFIX,ksceuuupvjpes.space,AppleDirect
@@ -1468,11 +1562,15 @@ HOST-SUFFIX,kuomxnlobnzvn.space,AppleDirect
 HOST-SUFFIX,kusjw4wqj.com,AppleDirect
 HOST-SUFFIX,kv4tzec84ouiv6.cfd,AppleDirect
 HOST-SUFFIX,kvjthavimymgk.online,AppleDirect
+HOST-SUFFIX,kvskvclkziqne.online,AppleDirect
 HOST-SUFFIX,kwbomltgixbkn.space,AppleDirect
 HOST-SUFFIX,kwintravetoer.cyou,AppleDirect
+HOST-SUFFIX,kwmomvbdrhrrg.site,AppleDirect
 HOST-SUFFIX,kwxytrygpcmxu.space,AppleDirect
 HOST-SUFFIX,kxbhakvhkhmgy.website,AppleDirect
 HOST-SUFFIX,kxgdynrozodcv.online,AppleDirect
+HOST-SUFFIX,kxtzxsvtjpfev.website,AppleDirect
+HOST-SUFFIX,kxwzalqsecehl.website,AppleDirect
 HOST-SUFFIX,kylzuarxeyeli.online,AppleDirect
 HOST-SUFFIX,kyrjreyxdcmel.online,AppleDirect
 HOST-SUFFIX,kzfvmhkubmlyn.online,AppleDirect
@@ -1480,6 +1578,7 @@ HOST-SUFFIX,kztpnaxnschnm.online,AppleDirect
 HOST-SUFFIX,kzvwrhgo.com,AppleDirect
 HOST-SUFFIX,kzzbdsattavdw.space,AppleDirect
 HOST-SUFFIX,l4y1o8l9wvejpnwc.rest,AppleDirect
+HOST-SUFFIX,laboresbracers.cyou,AppleDirect
 HOST-SUFFIX,labraskulmet.com,AppleDirect
 HOST-SUFFIX,labroidconfess.cyou,AppleDirect
 HOST-SUFFIX,lacergrippy.click,AppleDirect
@@ -1523,6 +1622,7 @@ HOST-SUFFIX,limpingnet.com,AppleDirect
 HOST-SUFFIX,livdnkbosjtwv.website,AppleDirect
 HOST-SUFFIX,lixwczxdqqxzw.space,AppleDirect
 HOST-SUFFIX,ljtolgrfnqhma.website,AppleDirect
+HOST-SUFFIX,ljxpbshzqmnxd.site,AppleDirect
 HOST-SUFFIX,lkmodbikgcvbd.space,AppleDirect
 HOST-SUFFIX,lkseavjkzupfw.space,AppleDirect
 HOST-SUFFIX,llaaeuwepty.com,AppleDirect
@@ -1538,12 +1638,14 @@ HOST-SUFFIX,locketsauce.com,AppleDirect
 HOST-SUFFIX,loftergunyahbolo.cyou,AppleDirect
 HOST-SUFFIX,log.steffen-benecke.de,AppleDirect
 HOST-SUFFIX,log.t-chat.vip,AppleDirect
+HOST-SUFFIX,logmancopist.cyou,AppleDirect
 HOST-SUFFIX,loinwryneck.com,AppleDirect
 HOST-SUFFIX,lonyfoj.com,AppleDirect
 HOST-SUFFIX,loomingdulbertpolony.cfd,AppleDirect
 HOST-SUFFIX,loosesection.com,AppleDirect
 HOST-SUFFIX,lounderewererupsilon.cfd,AppleDirect
 HOST-SUFFIX,lovablyablymilted.cfd,AppleDirect
+HOST-SUFFIX,loyaltymatrix.com,AppleDirect
 HOST-SUFFIX,lp70zi3ou3.com,AppleDirect
 HOST-SUFFIX,lqmixpyveuzqh.space,AppleDirect
 HOST-SUFFIX,lr8znx4rnowrb5owqkq1kmh.cfd,AppleDirect
@@ -1593,6 +1695,7 @@ HOST-SUFFIX,m4vrux6x88zwc1.cfd,AppleDirect
 HOST-SUFFIX,m7xud9jqpu.com,AppleDirect
 HOST-SUFFIX,m8hjt4bhchx7lcf2wy4qtk.cfd,AppleDirect
 HOST-SUFFIX,maetqzgexzurh.website,AppleDirect
+HOST-SUFFIX,mafogmpacaps.in,AppleDirect
 HOST-SUFFIX,mammazentrum-hamburg.de,AppleDirect
 HOST-SUFFIX,mandalamutt.cyou,AppleDirect
 HOST-SUFFIX,manehshluhovulist.cyou,AppleDirect
@@ -1601,6 +1704,7 @@ HOST-SUFFIX,mantuaquatre.cyou,AppleDirect
 HOST-SUFFIX,manygramaoscines.cyou,AppleDirect
 HOST-SUFFIX,mappycentare.com,AppleDirect
 HOST-SUFFIX,marlockpommergamed.cyou,AppleDirect
+HOST-SUFFIX,maskedadmin.com,AppleDirect
 HOST-SUFFIX,mato.pruebasfondeo.com,AppleDirect
 HOST-SUFFIX,matomo-elkwue.wbk-dev.de,AppleDirect
 HOST-SUFFIX,matomo.100-kreative-ideen.de,AppleDirect
@@ -2090,13 +2194,16 @@ HOST-SUFFIX,mats.medivise.de,AppleDirect
 HOST-SUFFIX,maturequart.com,AppleDirect
 HOST-SUFFIX,matzotipid.click,AppleDirect
 HOST-SUFFIX,mbfo10wjf.com,AppleDirect
+HOST-SUFFIX,mbhgdthtfvwvf.space,AppleDirect
 HOST-SUFFIX,mbreviewer.com,AppleDirect
 HOST-SUFFIX,mbyaaukeizite.online,AppleDirect
 HOST-SUFFIX,mbyfhkzasrxbn.space,AppleDirect
 HOST-SUFFIX,mccjspwqbiiun.online,AppleDirect
+HOST-SUFFIX,mcjtbmepmgrhy.space,AppleDirect
 HOST-SUFFIX,me.com,AppleDirect
 HOST-SUFFIX,mecgvgxgwqric.online,AppleDirect
 HOST-SUFFIX,media.assets.dealeron.com,AppleDirect
+HOST-SUFFIX,mefkthnqxifjr.website,AppleDirect
 HOST-SUFFIX,mendsionic.com,AppleDirect
 HOST-SUFFIX,meowkofbxivyi.space,AppleDirect
 HOST-SUFFIX,mesure.ad-works.fr,AppleDirect
@@ -2117,20 +2224,25 @@ HOST-SUFFIX,mgvjcurwdujhf.site,AppleDirect
 HOST-SUFFIX,mhaafduliizbe.site,AppleDirect
 HOST-SUFFIX,mhstirljanfyy.website,AppleDirect
 HOST-SUFFIX,miaowsskirl.cyou,AppleDirect
+HOST-SUFFIX,micatebumprewinds.cfd,AppleDirect
 HOST-SUFFIX,migsbabishbolting.cyou,AppleDirect
 HOST-SUFFIX,minerva.hypnova.ai,AppleDirect
 HOST-SUFFIX,mireapnvztyru.website,AppleDirect
 HOST-SUFFIX,misformchipsggr.cyou,AppleDirect
 HOST-SUFFIX,missiqcalqmu.in,AppleDirect
 HOST-SUFFIX,mjkynfbvbikpl.site,AppleDirect
+HOST-SUFFIX,mjlrssyhioj.com,AppleDirect
 HOST-SUFFIX,mjpauup21.com,AppleDirect
+HOST-SUFFIX,mjwlfprfdybal.online,AppleDirect
 HOST-SUFFIX,mkdhwyqybkwqe.online,AppleDirect
 HOST-SUFFIX,mkfshtuxymriq.space,AppleDirect
 HOST-SUFFIX,mkkxyedstghhd.site,AppleDirect
 HOST-SUFFIX,mkt.supercell.com,AppleDirect
 HOST-SUFFIX,mletnkddrqios.space,AppleDirect
+HOST-SUFFIX,mljkzxrvtieeh.website,AppleDirect
 HOST-SUFFIX,mlyynfnutrtvq.space,AppleDirect
 HOST-SUFFIX,mmksracaonlsd.site,AppleDirect
+HOST-SUFFIX,mmmporlalokma.space,AppleDirect
 HOST-SUFFIX,mmzmhggnqdzbs.site,AppleDirect
 HOST-SUFFIX,mndftqopovamj.online,AppleDirect
 HOST-SUFFIX,mnqpiodhufoso.online,AppleDirect
@@ -2164,6 +2276,7 @@ HOST-SUFFIX,muiiiwbdzkyvc.online,AppleDirect
 HOST-SUFFIX,mujnfamihqce.in,AppleDirect
 HOST-SUFFIX,mumblealarmedrisen.cyou,AppleDirect
 HOST-SUFFIX,mumggwcvchccq.space,AppleDirect
+HOST-SUFFIX,munbfoeocuheu.online,AppleDirect
 HOST-SUFFIX,muntinbeltmanunca.cyou,AppleDirect
 HOST-SUFFIX,musquawchoky.click,AppleDirect
 HOST-SUFFIX,mvemojfndjgyi.website,AppleDirect
@@ -2173,9 +2286,11 @@ HOST-SUFFIX,mwrywqefemapj.website,AppleDirect
 HOST-SUFFIX,mwsfhkhdkeelo.site,AppleDirect
 HOST-SUFFIX,mwuekzwqdrnan.online,AppleDirect
 HOST-SUFFIX,mxhkadwedflsr.online,AppleDirect
+HOST-SUFFIX,mxvlaoctzvwyb.website,AppleDirect
 HOST-SUFFIX,myibyjkjwxsee.online,AppleDirect
 HOST-SUFFIX,myomayeshiva.cyou,AppleDirect
 HOST-SUFFIX,myvisites.com,AppleDirect
+HOST-SUFFIX,mzaqgfzlmlmhw.website,AppleDirect
 HOST-SUFFIX,mzmkwyqvjpqgs.website,AppleDirect
 HOST-SUFFIX,mzstatic.com,AppleDirect
 HOST-SUFFIX,n.altitude.xyz,AppleDirect
@@ -2214,12 +2329,16 @@ HOST-SUFFIX,nichtsforay.cfd,AppleDirect
 HOST-SUFFIX,niismjhqtmqnq.space,AppleDirect
 HOST-SUFFIX,nikhwlgyrkqld.site,AppleDirect
 HOST-SUFFIX,niueiqsndsbcz.space,AppleDirect
+HOST-SUFFIX,niwrtodujaz.in,AppleDirect
+HOST-SUFFIX,nixnrpwbxhuza.website,AppleDirect
 HOST-SUFFIX,njffqlgsccwff.online,AppleDirect
 HOST-SUFFIX,njzrirvxprspg.site,AppleDirect
+HOST-SUFFIX,nkcdnydwkcmdp.site,AppleDirect
 HOST-SUFFIX,nkghwccxeymyp.site,AppleDirect
 HOST-SUFFIX,nkgmobguttncn.online,AppleDirect
 HOST-SUFFIX,nkrmvifnnztez.online,AppleDirect
 HOST-SUFFIX,nmdthrgpykmpo.website,AppleDirect
+HOST-SUFFIX,nmocqlujlilko.site,AppleDirect
 HOST-SUFFIX,nmscpuyhwzuyb.website,AppleDirect
 HOST-SUFFIX,nmsuhgiepzpqc.site,AppleDirect
 HOST-SUFFIX,nneagmdjdshrf.online,AppleDirect
@@ -2235,7 +2354,10 @@ HOST-SUFFIX,nowmodulo.com,AppleDirect
 HOST-SUFFIX,nozzleslaxate.com,AppleDirect
 HOST-SUFFIX,npfxfpejvarjn.online,AppleDirect
 HOST-SUFFIX,nptsywyveaqfq.website,AppleDirect
+HOST-SUFFIX,nqejmuknzurfc.online,AppleDirect
+HOST-SUFFIX,nrdyxtmzbku.com,AppleDirect
 HOST-SUFFIX,nryrdmggbqsql.site,AppleDirect
+HOST-SUFFIX,nrzqmdwfqfqse.space,AppleDirect
 HOST-SUFFIX,nsewbdlfjeshr.space,AppleDirect
 HOST-SUFFIX,nslfxaqclyjdu.site,AppleDirect
 HOST-SUFFIX,nsswlifbkpvkg.online,AppleDirect
@@ -2265,10 +2387,13 @@ HOST-SUFFIX,nzxepbrvqtmwn.online,AppleDirect
 HOST-SUFFIX,nzxwekknfnfea.online,AppleDirect
 HOST-SUFFIX,o4bk.yl5t41964nw9v2gmc9i82w9xihweozouvi4.cfd,AppleDirect
 HOST-SUFFIX,o5ei2c69bm.centroabb.com,AppleDirect
+HOST-SUFFIX,o68u4mc85u7wribbcu9f3kwgpyj.cfd,AppleDirect
 HOST-SUFFIX,oacsztduksuby.space,AppleDirect
+HOST-SUFFIX,oauntvabltxpu.online,AppleDirect
 HOST-SUFFIX,oavgofyxwyryj.online,AppleDirect
 HOST-SUFFIX,obdndfupmqoqs.online,AppleDirect
 HOST-SUFFIX,obs.protoroundprince.com,AppleDirect
+HOST-SUFFIX,obslwycwddbbh.website,AppleDirect
 HOST-SUFFIX,obstinacysexist.com,AppleDirect
 HOST-SUFFIX,obtsbskplemtn.website,AppleDirect
 HOST-SUFFIX,obzdiqozp.in,AppleDirect
@@ -2320,6 +2445,7 @@ HOST-SUFFIX,oqdwsxdgbraas.website,AppleDirect
 HOST-SUFFIX,oqqzbccqxtfvf.online,AppleDirect
 HOST-SUFFIX,oqrrrulukth.in,AppleDirect
 HOST-SUFFIX,oqujaczroycoa.website,AppleDirect
+HOST-SUFFIX,ordfkfcnrrlzr.online,AppleDirect
 HOST-SUFFIX,oryssuskimfourre.cyou,AppleDirect
 HOST-SUFFIX,osgxzapi.in,AppleDirect
 HOST-SUFFIX,oswincvpxrs.com,AppleDirect
@@ -2336,6 +2462,7 @@ HOST-SUFFIX,overprotectivecriticizearable.com,AppleDirect
 HOST-SUFFIX,owalqwcmzucjs.space,AppleDirect
 HOST-SUFFIX,owdkspzudzwnz.website,AppleDirect
 HOST-SUFFIX,owncloud.tbllzon.com,AppleDirect
+HOST-SUFFIX,ownwdfdghpxyk.website,AppleDirect
 HOST-SUFFIX,owqjomwvssfdx.space,AppleDirect
 HOST-SUFFIX,oxberrygesnera.rest,AppleDirect
 HOST-SUFFIX,oxlabdapfxaw.in,AppleDirect
@@ -2368,7 +2495,9 @@ HOST-SUFFIX,pardedthereonvirason.cyou,AppleDirect
 HOST-SUFFIX,parergygrates.com,AppleDirect
 HOST-SUFFIX,parkishmozingediting.cfd,AppleDirect
 HOST-SUFFIX,parvetrismus.cfd,AppleDirect
+HOST-SUFFIX,patclxqwxybvn.site,AppleDirect
 HOST-SUFFIX,pdfdoyrcfev.com,AppleDirect
+HOST-SUFFIX,pdgifgpbfasrb.online,AppleDirect
 HOST-SUFFIX,pdprocessosage.cyou,AppleDirect
 HOST-SUFFIX,pdynrtubqauer.site,AppleDirect
 HOST-SUFFIX,pe3hu7i6r8q4qe53w.rest,AppleDirect
@@ -2381,6 +2510,7 @@ HOST-SUFFIX,pelwizmmaiquo.site,AppleDirect
 HOST-SUFFIX,peplessgroutsetym.cyou,AppleDirect
 HOST-SUFFIX,peppedpiing.click,AppleDirect
 HOST-SUFFIX,peqpazmweassq.website,AppleDirect
+HOST-SUFFIX,perlldmytuxyg.space,AppleDirect
 HOST-SUFFIX,perpentiatric.cfd,AppleDirect
 HOST-SUFFIX,personamaiefic.rest,AppleDirect
 HOST-SUFFIX,pfcfngllppeol.site,AppleDirect
@@ -2421,6 +2551,7 @@ HOST-SUFFIX,pixel.profound.click,AppleDirect
 HOST-SUFFIX,pjcmoaxftojjz.website,AppleDirect
 HOST-SUFFIX,pjedqnndrgncb.space,AppleDirect
 HOST-SUFFIX,pjlgqycnxajzg.space,AppleDirect
+HOST-SUFFIX,pkcbqcfqhanxn.website,AppleDirect
 HOST-SUFFIX,pkhpmpclulylm.site,AppleDirect
 HOST-SUFFIX,pkp21ni51cqurgjgn3t9q.rest,AppleDirect
 HOST-SUFFIX,pl.fastsheets.io,AppleDirect
@@ -2459,7 +2590,11 @@ HOST-SUFFIX,pqyqqqchhcqrv.site,AppleDirect
 HOST-SUFFIX,prancesfrappcooed.cyou,AppleDirect
 HOST-SUFFIX,presselhavedartoic.cfd,AppleDirect
 HOST-SUFFIX,preview.tbllzon.com,AppleDirect
+HOST-SUFFIX,priapicunbased.cyou,AppleDirect
+HOST-SUFFIX,prioralmatricrousing.cfd,AppleDirect
 HOST-SUFFIX,projectglove.com,AppleDirect
+HOST-SUFFIX,propylamoile.com,AppleDirect
+HOST-SUFFIX,proxiessippleexodist.cfd,AppleDirect
 HOST-SUFFIX,prudentcunas.rest,AppleDirect
 HOST-SUFFIX,pryerssnuffed.cyou,AppleDirect
 HOST-SUFFIX,przwyerclgags.online,AppleDirect
@@ -2469,8 +2604,10 @@ HOST-SUFFIX,pscpurfwzktny.website,AppleDirect
 HOST-SUFFIX,pseudoinionnewcal.cfd,AppleDirect
 HOST-SUFFIX,psychidwhoops.cfd,AppleDirect
 HOST-SUFFIX,ptelnqutbqhfx.site,AppleDirect
+HOST-SUFFIX,pteyynqpqzbqn.space,AppleDirect
 HOST-SUFFIX,puamwfdfltwzp.space,AppleDirect
 HOST-SUFFIX,puckrietalioz.website,AppleDirect
+HOST-SUFFIX,puffinnashgab.rest,AppleDirect
 HOST-SUFFIX,pulledbagsful.cfd,AppleDirect
 HOST-SUFFIX,pulse.rasmlabs.com,AppleDirect
 HOST-SUFFIX,pumanqahhb.in,AppleDirect
@@ -2487,12 +2624,15 @@ HOST-SUFFIX,pxfjndpfpyiqh.site,AppleDirect
 HOST-SUFFIX,pxpmnthwmqzcf.site,AppleDirect
 HOST-SUFFIX,pxuxlswadjlfu.space,AppleDirect
 HOST-SUFFIX,pzeqrifnmbatb.space,AppleDirect
+HOST-SUFFIX,q1c1pmwv6uy5xk3j8rxq6t.cfd,AppleDirect
 HOST-SUFFIX,qaegccfsfdqqr.website,AppleDirect
 HOST-SUFFIX,qaxerpzgohvqv.online,AppleDirect
 HOST-SUFFIX,qbxdoahjiykjz.site,AppleDirect
+HOST-SUFFIX,qbzdmkvtfjnkh.online,AppleDirect
 HOST-SUFFIX,qcrydchpkzlbw.online,AppleDirect
 HOST-SUFFIX,qcxavdkqorwri.space,AppleDirect
 HOST-SUFFIX,qde87pge0.com,AppleDirect
+HOST-SUFFIX,qdgjpsiqkjiet.website,AppleDirect
 HOST-SUFFIX,qdkjlaslytowm.space,AppleDirect
 HOST-SUFFIX,qdubzbifbzclc.space,AppleDirect
 HOST-SUFFIX,qevdyjaxjruwm.online,AppleDirect
@@ -2508,6 +2648,7 @@ HOST-SUFFIX,qjmpirxhmjrwk.website,AppleDirect
 HOST-SUFFIX,qk2fqqtx7p3r7nl.cfd,AppleDirect
 HOST-SUFFIX,qlakcpscdsvde.online,AppleDirect
 HOST-SUFFIX,qlhbogdkshotr.website,AppleDirect
+HOST-SUFFIX,qlpvssymowjat.site,AppleDirect
 HOST-SUFFIX,qmbevqclblwss.space,AppleDirect
 HOST-SUFFIX,qmjkpfldtkvny.site,AppleDirect
 HOST-SUFFIX,qmtdazupilzyt.space,AppleDirect
@@ -2529,6 +2670,7 @@ HOST-SUFFIX,qtiofrxmeuyuk.online,AppleDirect
 HOST-SUFFIX,qtuwrmjlwgkuv.space,AppleDirect
 HOST-SUFFIX,queriesumm.cfd,AppleDirect
 HOST-SUFFIX,questionablequesting.com,AppleDirect
+HOST-SUFFIX,qulpnrpviqvgg.website,AppleDirect
 HOST-SUFFIX,qupbkhnlqgw5vyti5.cfd,AppleDirect
 HOST-SUFFIX,qvfmpqrd.com,AppleDirect
 HOST-SUFFIX,qvohvnhwxb.com,AppleDirect
@@ -2538,9 +2680,11 @@ HOST-SUFFIX,qwjjfgqlfkmih.site,AppleDirect
 HOST-SUFFIX,qwyefmelmyubo.website,AppleDirect
 HOST-SUFFIX,qypgnzjkoawpe.online,AppleDirect
 HOST-SUFFIX,qyqtjsefhymde.online,AppleDirect
+HOST-SUFFIX,qzrohlnbbyeft.website,AppleDirect
 HOST-SUFFIX,qzwzbemuupzbl.space,AppleDirect
 HOST-SUFFIX,r1owcxiy50.com,AppleDirect
 HOST-SUFFIX,rabiseater.cfd,AppleDirect
+HOST-SUFFIX,raccapfzxzukl.space,AppleDirect
 HOST-SUFFIX,raccooncorders.click,AppleDirect
 HOST-SUFFIX,ragfishcleptavgases.cfd,AppleDirect
 HOST-SUFFIX,rakefulseorita.cfd,AppleDirect
@@ -2579,15 +2723,18 @@ HOST-SUFFIX,reoiledgratin.cfd,AppleDirect
 HOST-SUFFIX,reomittold.com,AppleDirect
 HOST-SUFFIX,resnaphurdledrecramp.cfd,AppleDirect
 HOST-SUFFIX,resnubhardest.cfd,AppleDirect
+HOST-SUFFIX,respotcapered.cyou,AppleDirect
 HOST-SUFFIX,ressctjygpsyx.website,AppleDirect
 HOST-SUFFIX,restateeggedjutish.cyou,AppleDirect
 HOST-SUFFIX,retoxo.com,AppleDirect
 HOST-SUFFIX,revetetupik.click,AppleDirect
+HOST-SUFFIX,rftgwmifboelz.website,AppleDirect
 HOST-SUFFIX,rftjsuwyyzrjf.site,AppleDirect
 HOST-SUFFIX,rfwhdtsxfcwtd.space,AppleDirect
 HOST-SUFFIX,rfxvxqcgsieib.site,AppleDirect
 HOST-SUFFIX,rgifxzvpuyjih.space,AppleDirect
 HOST-SUFFIX,rgkfuuhvmgquy.online,AppleDirect
+HOST-SUFFIX,rgoridetghmuz.website,AppleDirect
 HOST-SUFFIX,rhdthcujhslgr.online,AppleDirect
 HOST-SUFFIX,rhilxpozhkzrz.site,AppleDirect
 HOST-SUFFIX,rhoxtnbtarvry.site,AppleDirect
@@ -2659,6 +2806,7 @@ HOST-SUFFIX,ryivqamowwxxlk.com,AppleDirect
 HOST-SUFFIX,rykauhxgkwwaq.online,AppleDirect
 HOST-SUFFIX,ryvmfussmajcp.site,AppleDirect
 HOST-SUFFIX,rzxfrofoiamfl.website,AppleDirect
+HOST-SUFFIX,rzytwpkefeoyw.site,AppleDirect
 HOST-SUFFIX,s.3gncloud.com,AppleDirect
 HOST-SUFFIX,s.clim94.fr,AppleDirect
 HOST-SUFFIX,s.elnb21.com,AppleDirect
@@ -2680,11 +2828,13 @@ HOST-SUFFIX,sacelasartors.cfd,AppleDirect
 HOST-SUFFIX,sagsajijqpavd.space,AppleDirect
 HOST-SUFFIX,salmonsjudaize.com,AppleDirect
 HOST-SUFFIX,sandsnow.info,AppleDirect
+HOST-SUFFIX,sapelemoils.click,AppleDirect
 HOST-SUFFIX,sapghpwbtrsjq.space,AppleDirect
 HOST-SUFFIX,saqicbvtocmbo.online,AppleDirect
 HOST-SUFFIX,saquarolunel.rest,AppleDirect
 HOST-SUFFIX,sawttmoujczwb.site,AppleDirect
 HOST-SUFFIX,saxtxyidygpnh.site,AppleDirect
+HOST-SUFFIX,sbigiumsjduxd.site,AppleDirect
 HOST-SUFFIX,sciggfxnkmqai.website,AppleDirect
 HOST-SUFFIX,scoldsetamins.com,AppleDirect
 HOST-SUFFIX,scotermarsoon.cyou,AppleDirect
@@ -2699,6 +2849,7 @@ HOST-SUFFIX,sdlcbmlpmfbpj.site,AppleDirect
 HOST-SUFFIX,sdoqnyfwqamhk.site,AppleDirect
 HOST-SUFFIX,sdpaknwjwrsmj.site,AppleDirect
 HOST-SUFFIX,sdsakrbkquxdm.site,AppleDirect
+HOST-SUFFIX,sdvpvjlspoz.com,AppleDirect
 HOST-SUFFIX,searingcavelet.rest,AppleDirect
 HOST-SUFFIX,secure-analytics.com,AppleDirect
 HOST-SUFFIX,seedpodflattop.qpon,AppleDirect
@@ -2715,6 +2866,7 @@ HOST-SUFFIX,sericeamammas.click,AppleDirect
 HOST-SUFFIX,servedby.cherokeemediagroup2.com,AppleDirect
 HOST-SUFFIX,server-side-tagging-ycy2jyrtma-uc.a.run.app,AppleDirect
 HOST-SUFFIX,serverside.myticket.de,AppleDirect
+HOST-SUFFIX,seyusxutyylve.site,AppleDirect
 HOST-SUFFIX,sfenuhakgotd.in,AppleDirect
 HOST-SUFFIX,sfnneengosvuw.space,AppleDirect
 HOST-SUFFIX,sgbrftxioksgf.online,AppleDirect
@@ -2739,6 +2891,7 @@ HOST-SUFFIX,sjqssnmvmxcqw.website,AppleDirect
 HOST-SUFFIX,sjzieadynfqtl.online,AppleDirect
 HOST-SUFFIX,skbkubknjdecc.online,AppleDirect
 HOST-SUFFIX,skdcbeacmhihb.website,AppleDirect
+HOST-SUFFIX,sketchpodcast.com,AppleDirect
 HOST-SUFFIX,skjllrslooltb.online,AppleDirect
 HOST-SUFFIX,skydoveiodizershoved.cfd,AppleDirect
 HOST-SUFFIX,sljzidwidlgul.online,AppleDirect
@@ -2747,11 +2900,13 @@ HOST-SUFFIX,slunkenfulgora.click,AppleDirect
 HOST-SUFFIX,slwzbjciejyhy.space,AppleDirect
 HOST-SUFFIX,smlapllabrpny.website,AppleDirect
 HOST-SUFFIX,smvxwnlahkdea.online,AppleDirect
+HOST-SUFFIX,snaooicdnsuas.space,AppleDirect
 HOST-SUFFIX,snazkmgnaprwj.website,AppleDirect
 HOST-SUFFIX,sneerscuartel.com,AppleDirect
 HOST-SUFFIX,sngpyudhhdjca.space,AppleDirect
 HOST-SUFFIX,snhyvuzgaoxdh.space,AppleDirect
 HOST-SUFFIX,snortsrasters.cyou,AppleDirect
+HOST-SUFFIX,snowdahlia.pro,AppleDirect
 HOST-SUFFIX,snowkpaplikeleyland.cfd,AppleDirect
 HOST-SUFFIX,snvsicdqsihlo.online,AppleDirect
 HOST-SUFFIX,softasitai.rest,AppleDirect
@@ -2760,6 +2915,7 @@ HOST-SUFFIX,softlypacesock.com,AppleDirect
 HOST-SUFFIX,soillilac.com,AppleDirect
 HOST-SUFFIX,solarscolder.cfd,AppleDirect
 HOST-SUFFIX,solution97.com,AppleDirect
+HOST-SUFFIX,sommaconrail.com,AppleDirect
 HOST-SUFFIX,sonic.productsense.com,AppleDirect
 HOST-SUFFIX,soubltxbnwhkt.space,AppleDirect
 HOST-SUFFIX,sourdeddcloster.cfd,AppleDirect
@@ -2777,6 +2933,7 @@ HOST-SUFFIX,spktmxycjeeke.site,AppleDirect
 HOST-SUFFIX,spoiljinxplate.com,AppleDirect
 HOST-SUFFIX,sprighterogateputted.cfd,AppleDirect
 HOST-SUFFIX,spxx7cb5jt.elmquist.info,AppleDirect
+HOST-SUFFIX,spyzdindnauks.site,AppleDirect
 HOST-SUFFIX,spzsynbvnudov.site,AppleDirect
 HOST-SUFFIX,sqjmykhwzoyod.site,AppleDirect
 HOST-SUFFIX,sqnoiupwiklmt.online,AppleDirect
@@ -3071,8 +3228,10 @@ HOST-SUFFIX,styvbzqigmutr.space,AppleDirect
 HOST-SUFFIX,subornscurlew.cfd,AppleDirect
 HOST-SUFFIX,subpdoojkuaze.space,AppleDirect
 HOST-SUFFIX,suburban-deposit.pro,AppleDirect
+HOST-SUFFIX,suezandaqui.rest,AppleDirect
 HOST-SUFFIX,sunrosehippi.com,AppleDirect
 HOST-SUFFIX,svmfpwebpfiwn.website,AppleDirect
+HOST-SUFFIX,swaggedstrepenlowmen.cfd,AppleDirect
 HOST-SUFFIX,sweatsneozoic.com,AppleDirect
 HOST-SUFFIX,swhyspqaijpjp.online,AppleDirect
 HOST-SUFFIX,swirwnxtcvqwb.online,AppleDirect
@@ -3084,6 +3243,7 @@ HOST-SUFFIX,sync.alpha-peptides.com,AppleDirect
 HOST-SUFFIX,syvxbvuaibmaf.site,AppleDirect
 HOST-SUFFIX,szpmhpaglacgw.website,AppleDirect
 HOST-SUFFIX,szxodjgapleiw.space,AppleDirect
+HOST-SUFFIX,szzrkszzyg.com,AppleDirect
 HOST-SUFFIX,t.92b94jt6icqlrxmoipg.cfd,AppleDirect
 HOST-SUFFIX,t.92ng.com,AppleDirect
 HOST-SUFFIX,t.arrhub.ro,AppleDirect
@@ -3143,6 +3303,7 @@ HOST-SUFFIX,tfcnxspcpgorn.site,AppleDirect
 HOST-SUFFIX,tfhwtqlgesdry.site,AppleDirect
 HOST-SUFFIX,tfqrifustrybg.store,AppleDirect
 HOST-SUFFIX,tftxmcofqtcjs.space,AppleDirect
+HOST-SUFFIX,tggtudrdytkps.site,AppleDirect
 HOST-SUFFIX,tgudxroftsego.site,AppleDirect
 HOST-SUFFIX,thifuwospdvev.site,AppleDirect
 HOST-SUFFIX,think.ugc.ink,AppleDirect
@@ -3240,6 +3401,7 @@ HOST-SUFFIX,tuivswlrvepxa.space,AppleDirect
 HOST-SUFFIX,tungahlucite.com,AppleDirect
 HOST-SUFFIX,tunlandporotic.cyou,AppleDirect
 HOST-SUFFIX,tupjatohvon.in,AppleDirect
+HOST-SUFFIX,tuqwuqqxflqxa.online,AppleDirect
 HOST-SUFFIX,tusehzdefdblz.space,AppleDirect
 HOST-SUFFIX,tuur.dxpr.com,AppleDirect
 HOST-SUFFIX,tvwofyvaksbuy.online,AppleDirect
@@ -3251,6 +3413,7 @@ HOST-SUFFIX,tybffeppxwzmm.website,AppleDirect
 HOST-SUFFIX,tyjkblfitchsc.website,AppleDirect
 HOST-SUFFIX,typisttuckerspurt.com,AppleDirect
 HOST-SUFFIX,tzentalrheaejogtrot.cfd,AppleDirect
+HOST-SUFFIX,tzmaasbuxigix.online,AppleDirect
 HOST-SUFFIX,u.kirkify.co,AppleDirect
 HOST-SUFFIX,u.lanternbi.com,AppleDirect
 HOST-SUFFIX,u.nosykettle.com,AppleDirect
@@ -3319,8 +3482,10 @@ HOST-SUFFIX,uplinksspindly.cyou,AppleDirect
 HOST-SUFFIX,upsmwvpdtsvxi.space,AppleDirect
 HOST-SUFFIX,upwardsdecreasecommitment.com,AppleDirect
 HOST-SUFFIX,uqaymrtomzmfm.site,AppleDirect
+HOST-SUFFIX,uqrgdfwafkazi.space,AppleDirect
 HOST-SUFFIX,urhikhwdttauq.online,AppleDirect
 HOST-SUFFIX,urineyduools.com,AppleDirect
+HOST-SUFFIX,urjxessdbskvr.website,AppleDirect
 HOST-SUFFIX,urkptdjgrquuw.online,AppleDirect
 HOST-SUFFIX,urosomerevived.cyou,AppleDirect
 HOST-SUFFIX,urticaponiard.com,AppleDirect
@@ -3351,6 +3516,7 @@ HOST-SUFFIX,uxehncmdfgwfw.online,AppleDirect
 HOST-SUFFIX,uxrwxlja.com,AppleDirect
 HOST-SUFFIX,uxviteyylmlj79jwlbm7kjl6.cfd,AppleDirect
 HOST-SUFFIX,uyicwh6muelyyuxcrqcnhjnz.rest,AppleDirect
+HOST-SUFFIX,uyqhhxjylygof.site,AppleDirect
 HOST-SUFFIX,uzvjbgknoijof.site,AppleDirect
 HOST-SUFFIX,v.teamer.university,AppleDirect
 HOST-SUFFIX,v1.tbllzon.com,AppleDirect
@@ -3476,12 +3642,14 @@ HOST-SUFFIX,vkvmatnuscqkn.space,AppleDirect
 HOST-SUFFIX,vkyieskdlavjt.space,AppleDirect
 HOST-SUFFIX,vlifpif.com,AppleDirect
 HOST-SUFFIX,vligfctcykwng.website,AppleDirect
+HOST-SUFFIX,vmlfyrzyiaszj.online,AppleDirect
 HOST-SUFFIX,vmmimgei.com,AppleDirect
 HOST-SUFFIX,vnbodehnermda.online,AppleDirect
 HOST-SUFFIX,vnfelmhyftgeg.site,AppleDirect
 HOST-SUFFIX,vnojwtpjedvft.website,AppleDirect
 HOST-SUFFIX,vofyheiohcrzv.site,AppleDirect
 HOST-SUFFIX,vpbugplg.com,AppleDirect
+HOST-SUFFIX,vpyprkzguiqdj.online,AppleDirect
 HOST-SUFFIX,vrzrfnfcsdlff.online,AppleDirect
 HOST-SUFFIX,vsqmwlmyyljyz.website,AppleDirect
 HOST-SUFFIX,vtqrnirqxrqqq.site,AppleDirect
@@ -3490,6 +3658,7 @@ HOST-SUFFIX,vueffikzsjewx.online,AppleDirect
 HOST-SUFFIX,vul4a3k0kt.com,AppleDirect
 HOST-SUFFIX,vvbhoxbjrfmtd.website,AppleDirect
 HOST-SUFFIX,vvgxvczfx.com,AppleDirect
+HOST-SUFFIX,vvqpgzbwrzsuh.space,AppleDirect
 HOST-SUFFIX,vwvxrfnsmwakf.online,AppleDirect
 HOST-SUFFIX,vxnurbodyeces.space,AppleDirect
 HOST-SUFFIX,vxwmwouqvuabr.site,AppleDirect
@@ -3499,6 +3668,7 @@ HOST-SUFFIX,vywyunzjjzkda.site,AppleDirect
 HOST-SUFFIX,vzdfbajkrwede.site,AppleDirect
 HOST-SUFFIX,vzjibpjzejpfc.online,AppleDirect
 HOST-SUFFIX,vzpvaxcbwcx.com,AppleDirect
+HOST-SUFFIX,vztmzgauqofc.com,AppleDirect
 HOST-SUFFIX,w.1ecjbovmygj6ph8.cfd,AppleDirect
 HOST-SUFFIX,w0c42chjph.com,AppleDirect
 HOST-SUFFIX,w7u31ox8.xyz,AppleDirect
@@ -3514,6 +3684,7 @@ HOST-SUFFIX,wasiz.com,AppleDirect
 HOST-SUFFIX,wavedsuspect.click,AppleDirect
 HOST-SUFFIX,waveletiricize.cfd,AppleDirect
 HOST-SUFFIX,wbfwvrhljnsgr.website,AppleDirect
+HOST-SUFFIX,wbsmuenfbnsqk.site,AppleDirect
 HOST-SUFFIX,wcunhtgrhdkdt.online,AppleDirect
 HOST-SUFFIX,wdahqumfpnmav.space,AppleDirect
 HOST-SUFFIX,weaveworkingheaviness.com,AppleDirect
@@ -3535,6 +3706,7 @@ HOST-SUFFIX,wgotdxjymlfme.site,AppleDirect
 HOST-SUFFIX,whalpbottu.cyou,AppleDirect
 HOST-SUFFIX,whensobrehon.rest,AppleDirect
 HOST-SUFFIX,whgezpjzhlfnq.online,AppleDirect
+HOST-SUFFIX,whimmedamies.cfd,AppleDirect
 HOST-SUFFIX,whtnjvjjiyltx.online,AppleDirect
 HOST-SUFFIX,whuamiefcgeaq.website,AppleDirect
 HOST-SUFFIX,winectr.cyou,AppleDirect
@@ -3549,7 +3721,9 @@ HOST-SUFFIX,wkcltobnpuxtr.site,AppleDirect
 HOST-SUFFIX,wkmuiqnokrsji.site,AppleDirect
 HOST-SUFFIX,wkxwoawiqphxb.website,AppleDirect
 HOST-SUFFIX,wmlxmfjvnvwmq.space,AppleDirect
+HOST-SUFFIX,wmrzpmaekbwdy.space,AppleDirect
 HOST-SUFFIX,wmymtjaraeoxv.space,AppleDirect
+HOST-SUFFIX,wnxrluoksntpw.website,AppleDirect
 HOST-SUFFIX,womxwsnxadxtl.space,AppleDirect
 HOST-SUFFIX,woodfrost.info,AppleDirect
 HOST-SUFFIX,workplaceanticipatedtribe.com,AppleDirect
@@ -3580,6 +3754,7 @@ HOST-SUFFIX,wxynsnaplyrio.online,AppleDirect
 HOST-SUFFIX,wyessora.click,AppleDirect
 HOST-SUFFIX,wyggbgqwzctxq.space,AppleDirect
 HOST-SUFFIX,xagmkdnfixmvz.website,AppleDirect
+HOST-SUFFIX,xamarlwmbpylo.website,AppleDirect
 HOST-SUFFIX,xanthanraison.rest,AppleDirect
 HOST-SUFFIX,xatosmxz.in,AppleDirect
 HOST-SUFFIX,xauxpvmriexkj.space,AppleDirect
@@ -3602,10 +3777,12 @@ HOST-SUFFIX,xgxvahupqhhxy.online,AppleDirect
 HOST-SUFFIX,xgyhtexgsgvqt.site,AppleDirect
 HOST-SUFFIX,xhbtuppqjdgpa.online,AppleDirect
 HOST-SUFFIX,ximdoqxdrighn.space,AppleDirect
+HOST-SUFFIX,xjfjsqbyajuwg.space,AppleDirect
 HOST-SUFFIX,xjsgturadzcgo.online,AppleDirect
 HOST-SUFFIX,xjxlnrogiygnd.online,AppleDirect
 HOST-SUFFIX,xjzkkbfqfotbc.space,AppleDirect
 HOST-SUFFIX,xkdfimjqgpsyj.site,AppleDirect
+HOST-SUFFIX,xkx9oxlxblgpe78u.rest,AppleDirect
 HOST-SUFFIX,xkysykhputthf.space,AppleDirect
 HOST-SUFFIX,xldadwsosaqiq.site,AppleDirect
 HOST-SUFFIX,xlhjhcxrddfuy.site,AppleDirect
@@ -3634,7 +3811,9 @@ HOST-SUFFIX,xwzsvikozysmg.space,AppleDirect
 HOST-SUFFIX,xxelg4lfzbnwv4b.rest,AppleDirect
 HOST-SUFFIX,xxezsifdsivsa.site,AppleDirect
 HOST-SUFFIX,xxtzyeiujzlnz.space,AppleDirect
+HOST-SUFFIX,xxwzjxspkozgy.website,AppleDirect
 HOST-SUFFIX,xybpbifpyzhtz.space,AppleDirect
+HOST-SUFFIX,xysiaydrbuzpd.website,AppleDirect
 HOST-SUFFIX,xyxrhrnppvbxi.site,AppleDirect
 HOST-SUFFIX,xzesmujr.in,AppleDirect
 HOST-SUFFIX,yagwxmzvjkgkt.online,AppleDirect
@@ -3651,11 +3830,13 @@ HOST-SUFFIX,yfafhmnvpdhtb.site,AppleDirect
 HOST-SUFFIX,yfqgyzuifmkjw.space,AppleDirect
 HOST-SUFFIX,yglfrbwtjmbeg.online,AppleDirect
 HOST-SUFFIX,yhhdxlmzwelwq.site,AppleDirect
+HOST-SUFFIX,yhxpacevrlsmc.space,AppleDirect
 HOST-SUFFIX,yicuhxojxgqju.space,AppleDirect
 HOST-SUFFIX,yixiu.us,AppleDirect
 HOST-SUFFIX,yjlkcpxjdzlfb.site,AppleDirect
 HOST-SUFFIX,ykacgkgqmvxfn.site,AppleDirect
 HOST-SUFFIX,ykbrbfmlpoqkj.website,AppleDirect
+HOST-SUFFIX,ykoppuvofidgr.website,AppleDirect
 HOST-SUFFIX,ylqtjplsdrspb.space,AppleDirect
 HOST-SUFFIX,ymdytifzfyxkv.website,AppleDirect
 HOST-SUFFIX,ynwnzoxxtaolq.website,AppleDirect
@@ -3691,8 +3872,10 @@ HOST-SUFFIX,yzwpxwxkmeqxt.site,AppleDirect
 HOST-SUFFIX,yzyqinvovcwyo.online,AppleDirect
 HOST-SUFFIX,zamiaboort.com,AppleDirect
 HOST-SUFFIX,zbnmyrdxthmbl.site,AppleDirect
+HOST-SUFFIX,zbrjapghdgvryv.com,AppleDirect
 HOST-SUFFIX,zcxcbcsjafdck.space,AppleDirect
 HOST-SUFFIX,zebracave.com,AppleDirect
+HOST-SUFFIX,zentnertuglike.cyou,AppleDirect
 HOST-SUFFIX,zeroclampentice.com,AppleDirect
 HOST-SUFFIX,zextzccadpr.com,AppleDirect
 HOST-SUFFIX,zgaoczburrxqk.site,AppleDirect
@@ -3701,8 +3884,10 @@ HOST-SUFFIX,zhtmxmrzgwltk.site,AppleDirect
 HOST-SUFFIX,zhwsixguoj.com,AppleDirect
 HOST-SUFFIX,zicocuuoabmkr.website,AppleDirect
 HOST-SUFFIX,zigptycmiycjn.space,AppleDirect
+HOST-SUFFIX,ziipgrpkhbigq.space,AppleDirect
 HOST-SUFFIX,zioshdvobbgim.website,AppleDirect
 HOST-SUFFIX,zipfjdlsiqcoz.space,AppleDirect
+HOST-SUFFIX,zippkkqlxvxws.site,AppleDirect
 HOST-SUFFIX,ziramchaetae.cyou,AppleDirect
 HOST-SUFFIX,zjclzojzgrfmy.space,AppleDirect
 HOST-SUFFIX,zjedmeoqtthd.com,AppleDirect
@@ -3722,6 +3907,7 @@ HOST-SUFFIX,zoxlzvrqeqadk.site,AppleDirect
 HOST-SUFFIX,zpglicukmfijq.site,AppleDirect
 HOST-SUFFIX,zpptusrwzaapg.site,AppleDirect
 HOST-SUFFIX,zpzocdawngoct.website,AppleDirect
+HOST-SUFFIX,zqbpgojxnbvzt.space,AppleDirect
 HOST-SUFFIX,zqgkiobtofztc.site,AppleDirect
 HOST-SUFFIX,zqhutmwasjdxd.website,AppleDirect
 HOST-SUFFIX,zqqydxzdxvwqs.online,AppleDirect
@@ -3748,6 +3934,7 @@ HOST-SUFFIX,zylmjmmemwkqq.website,AppleDirect
 HOST-SUFFIX,zyroybpkznwik.site,AppleDirect
 HOST-SUFFIX,zzbnipxpymmvs.space,AppleDirect
 HOST-SUFFIX,zzjgigxgomlde.site,AppleDirect
+IP-CIDR,104.251.176.0/22,AppleDirect
 IP-CIDR,139.178.128.0/18,AppleDirect
 IP-CIDR,144.178.0.0/19,AppleDirect
 IP-CIDR,144.178.36.0/22,AppleDirect
@@ -3755,7 +3942,6 @@ IP-CIDR,144.178.48.0/20,AppleDirect
 IP-CIDR,165.173.176.0/24,AppleDirect
 IP-CIDR,17.0.0.0/8,AppleDirect
 IP-CIDR,192.35.50.0/24,AppleDirect
-IP-CIDR,192.51.172.0/24,AppleDirect
 IP-CIDR,198.183.17.0/24,AppleDirect
 IP-CIDR,203.205.64.0/19,AppleDirect
 IP-CIDR,205.180.175.0/24,AppleDirect

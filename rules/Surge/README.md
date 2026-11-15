@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Surge/`
-- 规则数：**1185** · 总行数：**899823**
+- 规则数：**1185** · 总行数：**900576**
 
 ## 常用规则（可直接复制）
 
@@ -72,12 +72,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Actalis.list) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuard.list) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilter.list) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190549 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilterDirect.list) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilterDirect.list) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Adidas.list) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Adobe.list) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdobeActivation.list) |
-| Advertising | 去广告 | 292413 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Advertising.list) |
-| AdvertisingLite | 去广告精简版 | 190333 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingLite.list) |
+| Advertising | 去广告 | 292757 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Advertising.list) |
+| AdvertisingLite | 去广告精简版 | 190501 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingLite.list) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingMiTV.list) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Aerogard.list) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Agora.list) |
@@ -241,7 +241,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaBroadnet.list) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaGame.list) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPTV.list) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPs.list) |
+| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPs.list) |
 | ChinaMedia | 中国媒体 | 358 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaMedia.list) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaMobile.list) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaNews.list) |
@@ -454,7 +454,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GitLab.list) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Gitee.list) |
 | Global | 全球 | 24433 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Global.list) |
-| GlobalAI | 全球AI | 4954 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalAI.list) |
+| GlobalAI | 全球AI | 4951 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalAI.list) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalCDN.list) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalCloud.list) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalGame.list) |
@@ -469,7 +469,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Gog.list) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Golang.list) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Goodreads.list) |
-| Google | Google | 1187 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Google.list) |
+| Google | Google | 1146 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Google.list) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GoogleDeepMind.list) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GoogleEarth.list) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GoogleFCM.list) |

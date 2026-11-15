@@ -1,7 +1,8 @@
 # NAME: DeepSeek
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-08-27 10:19:28
-# HOST-SUFFIX: 1
+# UPDATED: 2026-11-12 19:50:13
+# HOST-SUFFIX: 2
 
 HOST-SUFFIX,deepseek.com,DeepSeek
+HOST-SUFFIX,deepseeksvc.com,DeepSeek

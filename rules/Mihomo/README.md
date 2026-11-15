@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Mihomo/`
-- 规则数：**1185** · 总行数：**899823**
+- 规则数：**1185** · 总行数：**900576**
 
 ## 常用规则（可直接复制）
 
@@ -152,12 +152,12 @@ rules:
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Actalis.yaml) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdGuard.yaml) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdGuardSDNSFilter.yaml) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190549 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdGuardSDNSFilterDirect.yaml) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdGuardSDNSFilterDirect.yaml) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Adidas.yaml) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Adobe.yaml) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdobeActivation.yaml) |
-| Advertising | 去广告 | 292419 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Advertising.yaml) |
-| AdvertisingLite | 去广告精简版 | 190343 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdvertisingLite.yaml) |
+| Advertising | 去广告 | 292763 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Advertising.yaml) |
+| AdvertisingLite | 去广告精简版 | 190511 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdvertisingLite.yaml) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/AdvertisingMiTV.yaml) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Aerogard.yaml) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Agora.yaml) |
@@ -321,7 +321,7 @@ rules:
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaBroadnet.yaml) |
 | ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaGame.yaml) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaIPTV.yaml) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaIPs.yaml) |
+| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaIPs.yaml) |
 | ChinaMedia | 中国媒体 | 345 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaMedia.yaml) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaMobile.yaml) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/ChinaNews.yaml) |
@@ -534,7 +534,7 @@ rules:
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GitLab.yaml) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Gitee.yaml) |
 | Global | 全球 | 24485 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Global.yaml) |
-| GlobalAI | 全球AI | 4963 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GlobalAI.yaml) |
+| GlobalAI | 全球AI | 4960 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GlobalAI.yaml) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GlobalCDN.yaml) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GlobalCloud.yaml) |
 | GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GlobalGame.yaml) |
@@ -549,7 +549,7 @@ rules:
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Gog.yaml) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Golang.yaml) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Goodreads.yaml) |
-| Google | Google | 1188 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Google.yaml) |
+| Google | Google | 1147 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/Google.yaml) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GoogleDeepMind.yaml) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GoogleEarth.yaml) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Mihomo/GoogleFCM.yaml) |

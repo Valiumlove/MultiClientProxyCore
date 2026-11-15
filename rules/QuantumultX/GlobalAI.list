@@ -1,9 +1,9 @@
 # NAME: GlobalAI
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-12 13:31:25
+# UPDATED: 2026-11-14 23:19:41
 # HOST: 144
-# HOST-SUFFIX: 4773
+# HOST-SUFFIX: 4770
 # HOST-KEYWORD: 11
 # IP-CIDR: 5
 # IP6-CIDR: 2
@@ -1157,8 +1157,6 @@ HOST-SUFFIX,deducedcallid.cfd,GlobalAI
 HOST-SUFFIX,deepinfra.com,GlobalAI
 HOST-SUFFIX,deepmind.com,GlobalAI
 HOST-SUFFIX,deepmind.google,GlobalAI
-HOST-SUFFIX,deepseek.com,GlobalAI
-HOST-SUFFIX,deepseeksvc.com,GlobalAI
 HOST-SUFFIX,deepwiki.com,GlobalAI
 HOST-SUFFIX,deepwiki.org,GlobalAI
 HOST-SUFFIX,deerbreeze.com,GlobalAI
@@ -1228,7 +1226,6 @@ HOST-SUFFIX,donwgdsqq.com,GlobalAI
 HOST-SUFFIX,doolfuscoloc.cfd,GlobalAI
 HOST-SUFFIX,dooncorvee.cyou,GlobalAI
 HOST-SUFFIX,doorspondy.cyou,GlobalAI
-HOST-SUFFIX,doubao.com,GlobalAI
 HOST-SUFFIX,doudou.com,GlobalAI
 HOST-SUFFIX,doumeqtimrllx.online,GlobalAI
 HOST-SUFFIX,dowpvxtbknqml.online,GlobalAI

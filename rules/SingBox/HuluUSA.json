@@ -60,7 +60,9 @@
         "thehulubraintrust.com",
         "wwwhuluplus.com",
         "yb.uncn.jp"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.hulu.plus"
       ]

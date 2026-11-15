@@ -2,7 +2,7 @@
   "client": "Mihomo",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 899823,
+  "total_line_count": 900576,
   "rules": [
     {
       "name": "115",
@@ -402,12 +402,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190471,
+        "DOMAIN": 190756,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190549,
-      "rule_updated_at": "2026-11-14T05:50:13.670060+00:00",
+      "total_line_count": 190834,
+      "rule_updated_at": "2026-11-15T01:16:14.272715+00:00",
       "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -468,14 +468,14 @@
       "type_counts": {
         "DOMAIN": 17500,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 273631,
+        "DOMAIN-SUFFIX": 273975,
         "DOMAIN-WILDCARD": 22,
         "IP-ASN": 15,
         "IP-CIDR": 1035,
         "IP-CIDR6": 6
       },
-      "total_line_count": 292419,
-      "rule_updated_at": "2026-11-14T02:08:21.971171+00:00",
+      "total_line_count": 292763,
+      "rule_updated_at": "2026-11-15T02:17:03.108037+00:00",
       "file": "rules/Mihomo/Advertising.yaml"
     },
     {
@@ -492,13 +492,13 @@
       "type_counts": {
         "DOMAIN": 26932,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162995,
+        "DOMAIN-SUFFIX": 163163,
         "DOMAIN-WILDCARD": 15,
         "IP-CIDR": 233,
         "IP-CIDR6": 4
       },
-      "total_line_count": 190343,
-      "rule_updated_at": "2026-11-13T23:32:17.708031+00:00",
+      "total_line_count": 190511,
+      "rule_updated_at": "2026-11-15T02:14:57.756090+00:00",
       "file": "rules/Mihomo/AdvertisingLite.yaml"
     },
     {
@@ -2693,7 +2693,7 @@
         "IP-CIDR6": 5424
       },
       "total_line_count": 23158,
-      "rule_updated_at": "2026-11-13T21:51:07.411228+00:00",
+      "rule_updated_at": "2026-11-14T18:14:45.146520+00:00",
       "file": "rules/Mihomo/ChinaIPs.yaml"
     },
     {
@@ -5861,13 +5861,13 @@
       "type_counts": {
         "DOMAIN": 144,
         "DOMAIN-KEYWORD": 11,
-        "DOMAIN-SUFFIX": 4773,
+        "DOMAIN-SUFFIX": 4770,
         "IP-ASN": 4,
         "IP-CIDR": 5,
         "IP-CIDR6": 2,
         "PROCESS-NAME": 24
       },
-      "total_line_count": 4963,
+      "total_line_count": 4960,
       "rule_updated_at": "2026-11-12T03:24:48.306524+00:00",
       "file": "rules/Mihomo/GlobalAI.yaml"
     },
@@ -6109,11 +6109,11 @@
       "type_counts": {
         "DOMAIN": 241,
         "DOMAIN-KEYWORD": 6,
-        "DOMAIN-SUFFIX": 934,
+        "DOMAIN-SUFFIX": 893,
         "IP-CIDR": 2,
         "PROCESS-NAME": 5
       },
-      "total_line_count": 1188,
+      "total_line_count": 1147,
       "rule_updated_at": "2026-10-29T03:07:14.246092+00:00",
       "file": "rules/Mihomo/Google.yaml"
     },

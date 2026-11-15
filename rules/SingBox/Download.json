@@ -11,7 +11,9 @@
         "xlliveud",
         "xunlei",
         "yunpan"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "DownloadService",
         "DownloadService.exe",

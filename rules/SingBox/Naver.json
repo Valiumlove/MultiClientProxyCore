@@ -255,7 +255,9 @@
         "2400:dcc0:af02::/48",
         "2400:dcc0:af03::/48",
         "2400:dcc0:d001::/48"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.linecorp.linetv"
       ]

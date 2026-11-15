@@ -7,7 +7,9 @@
       ],
       "domain_keyword": [
         "jooxweb-api"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "com.tencent.ibg.joox"
       ]

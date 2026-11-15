@@ -1,9 +1,9 @@
 # NAME: Nvidia
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:05:57
+# UPDATED: 2026-11-12 19:44:20
 # HOST: 3
-# HOST-SUFFIX: 62
+# HOST-SUFFIX: 65
 
 HOST,cn.download.nvidia.com,Nvidia
 HOST,nvidia.custhelp.com,Nvidia
@@ -21,6 +21,9 @@ HOST-SUFFIX,gputechconf.com.tw,Nvidia
 HOST-SUFFIX,gputechconf.eu,Nvidia
 HOST-SUFFIX,gputechconf.in,Nvidia
 HOST-SUFFIX,gputechconf.jp,Nvidia
+HOST-SUFFIX,hf.co,Nvidia
+HOST-SUFFIX,hf.space,Nvidia
+HOST-SUFFIX,huggingface.co,Nvidia
 HOST-SUFFIX,nvda.d2.sc.omtrdc.net,Nvidia
 HOST-SUFFIX,nvidia.asia,Nvidia
 HOST-SUFFIX,nvidia.at,Nvidia

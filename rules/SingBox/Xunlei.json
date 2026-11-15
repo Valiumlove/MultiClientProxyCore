@@ -38,7 +38,9 @@
         "xunlei.net",
         "xycdn.com",
         "xycloud.com"
-      ],
+      ]
+    },
+    {
       "process_name": [
         "Thunder",
         "Thunder.exe"

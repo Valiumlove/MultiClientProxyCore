@@ -2,7 +2,7 @@
   "client": "Shadowrocket",
   "rule_file_extension": "list",
   "rule_count": 1185,
-  "total_line_count": 899823,
+  "total_line_count": 900576,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190471,
+        "DOMAIN": 190756,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190549,
-      "rule_updated_at": "2026-11-14T05:49:42.078266+00:00",
+      "total_line_count": 190834,
+      "rule_updated_at": "2026-11-15T01:15:42.484856+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -473,15 +473,15 @@
       "type_counts": {
         "DOMAIN": 17500,
         "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 273631,
+        "DOMAIN-SUFFIX": 273975,
         "IP-ASN": 15,
         "IP-CIDR": 1035,
         "IP-CIDR6": 6,
         "URL-REGEX": 15,
         "USER-AGENT": 1
       },
-      "total_line_count": 292413,
-      "rule_updated_at": "2026-11-14T02:07:14.137680+00:00",
+      "total_line_count": 292757,
+      "rule_updated_at": "2026-11-15T02:15:45.770682+00:00",
       "file": "rules/Shadowrocket/Advertising.list"
     },
     {
@@ -498,13 +498,13 @@
       "type_counts": {
         "DOMAIN": 26932,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162995,
+        "DOMAIN-SUFFIX": 163163,
         "IP-CIDR": 233,
         "IP-CIDR6": 4,
         "URL-REGEX": 5
       },
-      "total_line_count": 190333,
-      "rule_updated_at": "2026-11-13T23:31:43.768329+00:00",
+      "total_line_count": 190501,
+      "rule_updated_at": "2026-11-15T02:14:22.852349+00:00",
       "file": "rules/Shadowrocket/AdvertisingLite.list"
     },
     {
@@ -2715,7 +2715,7 @@
         "IP-CIDR6": 5424
       },
       "total_line_count": 23158,
-      "rule_updated_at": "2026-11-13T21:51:03.951598+00:00",
+      "rule_updated_at": "2026-11-14T18:14:45.164194+00:00",
       "file": "rules/Shadowrocket/ChinaIPs.list"
     },
     {
@@ -5900,14 +5900,14 @@
       "type_counts": {
         "DOMAIN": 144,
         "DOMAIN-KEYWORD": 11,
-        "DOMAIN-SUFFIX": 4773,
+        "DOMAIN-SUFFIX": 4770,
         "IP-ASN": 4,
         "IP-CIDR": 5,
         "IP-CIDR6": 2,
         "PROCESS-NAME": 14,
         "URL-REGEX": 1
       },
-      "total_line_count": 4954,
+      "total_line_count": 4951,
       "rule_updated_at": "2026-11-12T03:24:39.889886+00:00",
       "file": "rules/Shadowrocket/GlobalAI.list"
     },
@@ -6151,11 +6151,11 @@
       "type_counts": {
         "DOMAIN": 241,
         "DOMAIN-KEYWORD": 6,
-        "DOMAIN-SUFFIX": 934,
+        "DOMAIN-SUFFIX": 893,
         "IP-CIDR": 2,
         "PROCESS-NAME": 4
       },
-      "total_line_count": 1187,
+      "total_line_count": 1146,
       "rule_updated_at": "2026-10-29T03:07:13.553805+00:00",
       "file": "rules/Shadowrocket/Google.list"
     },
