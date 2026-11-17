@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Surge/`
-- 规则数：**1185** · 总行数：**900576**
+- 规则数：**1185** · 总行数：**849272**
 
 ## 常用规则（可直接复制）
 
@@ -72,12 +72,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Actalis.list) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuard.list) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilter.list) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilterDirect.list) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 189704 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdGuardSDNSFilterDirect.list) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Adidas.list) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Adobe.list) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdobeActivation.list) |
-| Advertising | 去广告 | 292757 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Advertising.list) |
-| AdvertisingLite | 去广告精简版 | 190501 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingLite.list) |
+| Advertising | 去广告 | 293132 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Advertising.list) |
+| AdvertisingLite | 去广告精简版 | 188091 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingLite.list) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AdvertisingMiTV.list) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Aerogard.list) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Agora.list) |
@@ -91,13 +91,13 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Akiko | Akiko服装 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Akiko.list) |
 | AlJazeera | 半岛电视台 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AlJazeera.list) |
 | AliGames | 阿里游戏 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AliGames.list) |
-| AliPay | 支付宝 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AliPay.list) |
-| Alibaba | 阿里巴巴 | 1627 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Alibaba.list) |
+| AliPay | 支付宝 | 20 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AliPay.list) |
+| Alibaba | 阿里巴巴 | 1624 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Alibaba.list) |
 | Aliyun | 阿里云 | 100 | 2026-08-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Aliyun.list) |
 | AliyunDrive | 阿里云盘 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AliyunDrive.list) |
 | All4 | All 4 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/All4.list) |
 | Alphabet | Alphabet 集团 | 1133 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Alphabet.list) |
-| Amazon | Amazon | 292 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Amazon.list) |
+| Amazon | Amazon | 284 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Amazon.list) |
 | AmazonCloud | Amazon云计算 | 5157 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AmazonCloud.list) |
 | AmazonPrimeVideo | Amazon Prime Video | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AmazonPrimeVideo.list) |
 | AnTianKeJi | 安天科技 | 11 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AnTianKeJi.list) |
@@ -116,10 +116,10 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ApiPost | ApiPost | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ApiPost.list) |
 | Apkpure | APKPure | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Apkpure.list) |
 | AppStore | App Store | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppStore.list) |
-| Apple | Apple | 5987 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Apple.list) |
+| Apple | Apple | 2086 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Apple.list) |
 | AppleCDN | Apple CDN | 36 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleCDN.list) |
 | AppleDev | Apple开发者 | 55 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleDev.list) |
-| AppleDirect | Apple 直连 | 3942 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleDirect.list) |
+| AppleDirect | Apple 直连 | 35 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleDirect.list) |
 | AppleFirmware | Apple固件 | 178 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleFirmware.list) |
 | AppleHardware | Apple硬件 | 226 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleHardware.list) |
 | AppleIntelligence | Apple 智能服务 | 6 | 2026-08-03 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleIntelligence.list) |
@@ -128,7 +128,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | AppleNews | Apple News | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleNews.list) |
 | ApplePKI | Apple证书 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ApplePKI.list) |
 | ApplePodcasts | Apple 播客 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ApplePodcasts.list) |
-| AppleProxy | Apple代理 | 3979 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleProxy.list) |
+| AppleProxy | Apple代理 | 73 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleProxy.list) |
 | AppleTV | Apple TV | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleTV.list) |
 | AppleUpdate | Apple 更新服务 | 97 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/AppleUpdate.list) |
 | ArchLinux | Arch Linux | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ArchLinux.list) |
@@ -145,9 +145,9 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Autodesk | Autodesk 欧特克 | 558 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Autodesk.list) |
 | Aviasales | Aviasales机票 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Aviasales.list) |
 | Azure | Microsoft Azure | 154 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Azure.list) |
-| BBC | BBC | 41 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BBC.list) |
+| BBC | BBC | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BBC.list) |
 | BJYouth | 北京青年报 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BJYouth.list) |
-| BMW | 宝马 | 730 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BMW.list) |
+| BMW | 宝马 | 728 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BMW.list) |
 | BOC | 中国银行 | 22 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BOC.list) |
 | BOCOM | 交通银行 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/BOCOM.list) |
 | Bahamut | 巴哈姆特 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Bahamut.list) |
@@ -209,7 +209,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | CGB | 广发银行 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CGB.list) |
 | CHT | 中华电信 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CHT.list) |
 | CIBN | CIBN互联网电视 | 71 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CIBN.list) |
-| CITIC | 中信银行 | 30 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CITIC.list) |
+| CITIC | 中信银行 | 29 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CITIC.list) |
 | CKJR | 创客匠人 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CKJR.list) |
 | CMB | 招商银行 | 39 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CMB.list) |
 | CNB | CNB代码托管 | 2 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CNB.list) |
@@ -236,12 +236,12 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChangYou.list) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Chegg.list) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChengTongWangPan.list) |
-| China | 中国 | 10286 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/China.list) |
+| China | 中国 | 10301 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/China.list) |
 | ChinaASN | 中国ASN | 5076 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaASN.list) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaBroadnet.list) |
-| ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaGame.list) |
+| ChinaGame | 中国游戏 | 292 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaGame.list) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPTV.list) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPs.list) |
+| ChinaIPs | 中国IP | 22978 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaIPs.list) |
 | ChinaMedia | 中国媒体 | 358 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaMedia.list) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaMobile.list) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChinaNews.list) |
@@ -253,7 +253,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | ChineseAcademyOfSciences | 中国科学院文献情报中心 | 44 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChineseAcademyOfSciences.list) |
 | ChuangKeTie | 创客贴 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChuangKeTie.list) |
 | ChunYou | 纯游 | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ChunYou.list) |
-| Cisco | 思科 | 123 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Cisco.list) |
+| Cisco | 思科 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Cisco.list) |
 | CityUHK | 香港城市大学 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CityUHK.list) |
 | Clarivate | 科睿唯安 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Clarivate.list) |
 | Clearasil | Clearasil护肤 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Clearasil.list) |
@@ -281,7 +281,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Container | 容器与云原生 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Container.list) |
 | Contentful | Contentful CMS | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Contentful.list) |
 | CoolAPK | 酷安 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CoolAPK.list) |
-| Copilot | Microsoft Copilot | 404 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Copilot.list) |
+| Copilot | Microsoft Copilot | 401 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Copilot.list) |
 | CopyManga | 拷贝漫画 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CopyManga.list) |
 | Corel | Corel软件 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Corel.list) |
 | Costco | 好市多/开市客 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Costco.list) |
@@ -289,7 +289,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Coursera | Coursera 在线课程 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Coursera.list) |
 | CowLevel | CowLevel游戏社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CowLevel.list) |
 | CowTransfer | 奶牛快传 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CowTransfer.list) |
-| Cryptocurrency | 加密货币 | 240 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Cryptocurrency.list) |
+| Cryptocurrency | 加密货币 | 241 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Cryptocurrency.list) |
 | CurseForge | CurseForge游戏模组 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CurseForge.list) |
 | Cursor | Cursor AI 编程工具 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Cursor.list) |
 | CyberTrust | CyberTrust证书认证 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/CyberTrust.list) |
@@ -317,7 +317,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Deppon | 德邦快递 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Deppon.list) |
 | Deribit | Deribit期权 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Deribit.list) |
 | Dettol | 滴露 | 35 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Dettol.list) |
-| Developer | 开发者 | 739 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Developer.list) |
+| Developer | 开发者 | 743 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Developer.list) |
 | DeviantArt | DeviantArt | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DeviantArt.list) |
 | Dewu | 得物 | 45 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Dewu.list) |
 | DiDi | 滴滴出行 | 26 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DiDi.list) |
@@ -330,7 +330,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | DingDong | 叮咚买菜 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DingDong.list) |
 | DingTalk | 钉钉 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DingTalk.list) |
 | DingXiangYuan | 丁香园 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DingXiangYuan.list) |
-| Direct | 直连 | 3423 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Direct.list) |
+| Direct | 直连 | 299 | 2026-08-18 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Direct.list) |
 | Discord | Discord | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Discord.list) |
 | Discourse | Discourse论坛平台 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Discourse.list) |
 | DiscoveryPlus | Discovery+ | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/DiscoveryPlus.list) |
@@ -423,7 +423,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | FontsInUse | FontsInUse | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/FontsInUse.list) |
 | Forbes | 福布斯 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Forbes.list) |
 | Forza | Forza赛车游戏 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Forza.list) |
-| Fox | Fox | 262 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Fox.list) |
+| Fox | Fox | 261 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Fox.list) |
 | Framer | Framer设计 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Framer.list) |
 | FreeCodeCamp | FreeCodeCamp编程学习 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/FreeCodeCamp.list) |
 | Freenode | Freenode IRC网络 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Freenode.list) |
@@ -433,7 +433,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | GGSel | GGsel游戏账号 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GGSel.list) |
 | GMOInternet | GMO互联网 | 157 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GMOInternet.list) |
 | Gaijin | Gaijin游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Gaijin.list) |
-| Game | 游戏 | 1285 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Game.list) |
+| Game | 游戏 | 1298 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Game.list) |
 | GameDownload | 游戏下载 | 498 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GameDownload.list) |
 | GamerSky | 游民星空 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GamerSky.list) |
 | Gamesplanet | Gamesplanet游戏销售 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Gamesplanet.list) |
@@ -453,15 +453,15 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | GitHub | GitHub | 74 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GitHub.list) |
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GitLab.list) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Gitee.list) |
-| Global | 全球 | 24433 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Global.list) |
-| GlobalAI | 全球AI | 4951 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalAI.list) |
+| Global | 全球 | 24438 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Global.list) |
+| GlobalAI | 全球AI | 447 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalAI.list) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalCDN.list) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalCloud.list) |
-| GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalGame.list) |
+| GlobalGame | 全球游戏 | 883 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalGame.list) |
 | GlobalIPTV | IPTV全球 | 2814 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalIPTV.list) |
-| GlobalMedia | 全球媒体 | 5401 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalMedia.list) |
+| GlobalMedia | 全球媒体 | 1718 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalMedia.list) |
 | GlobalNetDisk | 全球网盘服务 | 59 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalNetDisk.list) |
-| GlobalScholar | 全球学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalScholar.list) |
+| GlobalScholar | 全球学术 | 320 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalScholar.list) |
 | GlobalSign | Globalsign | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/GlobalSign.list) |
 | Globo | Globo传媒 | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Globo.list) |
 | Glyphs | Glyphs字体 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Glyphs.list) |
@@ -534,8 +534,8 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Hupu | 虎扑 | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Hupu.list) |
 | HurricaneElectric | Hurricane Electric | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/HurricaneElectric.list) |
 | IBKR | 盈透证券 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/IBKR.list) |
-| IBM | IBM | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/IBM.list) |
-| ICBC | 中国工商银行 | 58 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ICBC.list) |
+| IBM | IBM | 18 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/IBM.list) |
+| ICBC | 中国工商银行 | 57 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ICBC.list) |
 | ICable | 香港有线电视 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ICable.list) |
 | IDG | IDG集团 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/IDG.list) |
 | IEEE | IEEE | 54 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/IEEE.list) |
@@ -617,7 +617,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | KuroGames | 库洛游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/KuroGames.list) |
 | KyodoNews | 共同通讯社 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/KyodoNews.list) |
 | LG | LG | 98 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/LG.list) |
-| Lan | 本地局域网地址 | 3852 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Lan.list) |
+| Lan | 本地局域网地址 | 173 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Lan.list) |
 | LanZou | 蓝奏云 | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/LanZou.list) |
 | Laracasts | Laracasts教程 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Laracasts.list) |
 | LastFM | Last.fm | 34 | 2026-09-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/LastFM.list) |
@@ -690,11 +690,11 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | MetaBrainz | MetaBrainz数据 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MetaBrainz.list) |
 | Metacritic | Metacritic | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Metacritic.list) |
 | MiWu | 米物 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MiWu.list) |
-| Microsoft | Microsoft | 920 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Microsoft.list) |
+| Microsoft | Microsoft | 917 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Microsoft.list) |
 | MicrosoftDev | Microsoft 开发服务 | 76 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MicrosoftDev.list) |
 | MicrosoftEdge | Microsoft Edge | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MicrosoftEdge.list) |
 | MicrosoftPKI | 微软证书 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MicrosoftPKI.list) |
-| MicrosoftProxy | Microsoft 代理 | 2980 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MicrosoftProxy.list) |
+| MicrosoftProxy | Microsoft 代理 | 83 | 2026-08-05 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MicrosoftProxy.list) |
 | Midea | 美的 | 10 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Midea.list) |
 | Migu | 咪咕 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Migu.list) |
 | MikroTik | MikroTik路由 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/MikroTik.list) |
@@ -737,7 +737,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Neowin | Neowin科技 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Neowin.list) |
 | NetCup | NetCup托管 | 24 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/NetCup.list) |
 | NetEase | 网易 | 190 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/NetEase.list) |
-| NetEaseMusic | 网易云音乐 | 3731 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/NetEaseMusic.list) |
+| NetEaseMusic | 网易云音乐 | 52 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/NetEaseMusic.list) |
 | NeteaseCloud | 网易云计算 | 106 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/NeteaseCloud.list) |
 | Netflix | Netflix | 1620 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Netflix.list) |
 | Netlify | Netlify网站托管 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Netlify.list) |
@@ -828,7 +828,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | PostImages | PostImages图片 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/PostImages.list) |
 | PotatoChat | Potato Chat | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/PotatoChat.list) |
 | PrimeVideo | Prime Video | 24 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/PrimeVideo.list) |
-| Privacy | 隐私保护 | 43566 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Privacy.list) |
+| Privacy | 隐私保护 | 39887 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Privacy.list) |
 | PrivateTracker | PT下载 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/PrivateTracker.list) |
 | ProQuest | ProQuest学术 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/ProQuest.list) |
 | Progress | Progress软件 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Progress.list) |
@@ -899,7 +899,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Sankei | 产经新闻 | 30 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Sankei.list) |
 | Scala | Scala编程语言 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Scala.list) |
 | Scaleflex | Scaleflex | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Scaleflex.list) |
-| Scholar | 学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Scholar.list) |
+| Scholar | 学术 | 320 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Scholar.list) |
 | Schoopia | 同学派 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Schoopia.list) |
 | Schwab | 嘉信理财 | 9 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Schwab.list) |
 | SciHub | Sci-Hub学术 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/SciHub.list) |
@@ -945,7 +945,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | SpaceX | SpaceX | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/SpaceX.list) |
 | Spaceship | Spaceship域名 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Spaceship.list) |
 | Spark | Spark | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Spark.list) |
-| Speedtest | Speedtest | 7169 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Speedtest.list) |
+| Speedtest | Speedtest | 3509 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Speedtest.list) |
 | Spiceworks | Spiceworks社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Spiceworks.list) |
 | Spotify | Spotify | 40 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Spotify.list) |
 | Springer | Springer学术 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Springer.list) |
@@ -1002,7 +1002,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Teambition | Teambition | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Teambition.list) |
 | TechTimes | TechTimes | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/TechTimes.list) |
 | Technogym | Technogym健身 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Technogym.list) |
-| Telegram | Telegram | 3746 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Telegram.list) |
+| Telegram | Telegram | 67 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Telegram.list) |
 | TempMail | 临时邮箱 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/TempMail.list) |
 | Tencent | 腾讯 | 2781 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Tencent.list) |
 | TencentCloud | 腾讯云计算 | 2715 | 2026-09-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/TencentCloud.list) |
@@ -1150,7 +1150,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | XiaoGouKeJi | 小狗科技 | 23 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoGouKeJi.list) |
 | XiaoHeihe | 小黑盒 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoHeihe.list) |
 | XiaoHongShu | 小红书 | 12 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoHongShu.list) |
-| XiaoMi | 小米 | 197 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoMi.list) |
+| XiaoMi | 小米 | 198 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoMi.list) |
 | XiaoYuZhou | 小宇宙播客 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoYuZhou.list) |
 | XiaoYuanKeJi | 小源科技 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaoYuanKeJi.list) |
 | XiaomiAI | 小米 AI | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/XiaomiAI.list) |
@@ -1164,7 +1164,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | YY | YY 直播 | 5 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YY.list) |
 | YYeTs | 人人影视 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YYeTs.list) |
 | Yahoo | Yahoo | 178 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Yahoo.list) |
-| Yandex | Yandex | 215 | 2026-10-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Yandex.list) |
+| Yandex | Yandex | 215 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Yandex.list) |
 | YiXiaKeJi | 一下科技 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YiXiaKeJi.list) |
 | YiZhiBo | 易直播 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YiZhiBo.list) |
 | YnoProject | Yno同人游戏 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YnoProject.list) |
@@ -1173,7 +1173,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | Yomiuri | 读卖新闻 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Yomiuri.list) |
 | YouMengChuangXiang | 游梦创想 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouMengChuangXiang.list) |
 | YouMind | YouMind | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouMind.list) |
-| YouTube | YouTube | 190 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouTube.list) |
+| YouTube | YouTube | 189 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouTube.list) |
 | YouTubeMusic | YouTube Music | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouTubeMusic.list) |
 | YouZan | 有赞 | 7 | 2026-08-01 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/YouZan.list) |
 | Youku | 优酷 | 62 | 2026-08-01 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/Youku.list) |
@@ -1211,7 +1211,7 @@ RULE-SET,https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/
 | edX | edX 在线课程 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/edX.list) |
 | friDay | friDay影音 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/friDay.list) |
 | iCloud | iCloud | 56 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iCloud.list) |
-| iCloudPrivateRelay | iCloud Private Relay | 3688 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iCloudPrivateRelay.list) |
+| iCloudPrivateRelay | iCloud Private Relay | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iCloudPrivateRelay.list) |
 | iFlytek | 科大讯飞 | 152 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iFlytek.list) |
 | iQIYI | 爱奇艺 | 82 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iQIYI.list) |
 | iQIYIIntl | 爱奇艺国际版 | 22 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Surge/iQIYIIntl.list) |

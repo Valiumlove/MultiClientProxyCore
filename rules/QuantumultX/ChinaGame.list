@@ -1,9 +1,9 @@
 # NAME: ChinaGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-07 03:16:56
+# UPDATED: 2026-11-17 18:08:21
 # HOST: 2
-# HOST-SUFFIX: 279
+# HOST-SUFFIX: 290
 
 HOST,end-api.shallow.ink,ChinaGame
 HOST,end.shallow.ink,ChinaGame
@@ -61,6 +61,8 @@ HOST-SUFFIX,aligames.com,ChinaGame
 HOST-SUFFIX,anticheatexpert.com,ChinaGame
 HOST-SUFFIX,appeeres.com,ChinaGame
 HOST-SUFFIX,arcaea.cn,ChinaGame
+HOST-SUFFIX,arknights.com,ChinaGame
+HOST-SUFFIX,arknights.com.cn,ChinaGame
 HOST-SUFFIX,astral-vector.com,ChinaGame
 HOST-SUFFIX,battlecare.net,ChinaGame
 HOST-SUFFIX,bcfmglobal.com,ChinaGame
@@ -121,7 +123,14 @@ HOST-SUFFIX,heavenlywind.cc,ChinaGame
 HOST-SUFFIX,hero.com,ChinaGame
 HOST-SUFFIX,heroesports.com,ChinaGame
 HOST-SUFFIX,herogame.com,ChinaGame
+HOST-SUFFIX,hgto.cc,ChinaGame
 HOST-SUFFIX,hkgcloudcs.com,ChinaGame
+HOST-SUFFIX,hycdn.cn,ChinaGame
+HOST-SUFFIX,hycdn.com,ChinaGame
+HOST-SUFFIX,hypergryph.cn,ChinaGame
+HOST-SUFFIX,hypergryph.com,ChinaGame
+HOST-SUFFIX,hypergryph.com.cn,ChinaGame
+HOST-SUFFIX,hypergryph.net,ChinaGame
 HOST-SUFFIX,i3839.com,ChinaGame
 HOST-SUFFIX,ihappystudio.cn,ChinaGame
 HOST-SUFFIX,ihappystudio.com,ChinaGame
@@ -176,6 +185,7 @@ HOST-SUFFIX,nextworkshop.net,ChinaGame
 HOST-SUFFIX,nikkigames.cn,ChinaGame
 HOST-SUFFIX,nikkigames.com.cn,ChinaGame
 HOST-SUFFIX,nzsiteres.com,ChinaGame
+HOST-SUFFIX,octavedge.com,ChinaGame
 HOST-SUFFIX,papegames.cn,ChinaGame
 HOST-SUFFIX,papegames.com,ChinaGame
 HOST-SUFFIX,phira.cn,ChinaGame
@@ -206,6 +216,8 @@ HOST-SUFFIX,seasungames.com,ChinaGame
 HOST-SUFFIX,seasunwbl.com,ChinaGame
 HOST-SUFFIX,shengqugames.com,ChinaGame
 HOST-SUFFIX,shyxhy.com,ChinaGame
+HOST-SUFFIX,skland.com,ChinaGame
+HOST-SUFFIX,skland.net,ChinaGame
 HOST-SUFFIX,skydweller.cn,ChinaGame
 HOST-SUFFIX,sl916.com,ChinaGame
 HOST-SUFFIX,supercellcommunity.cn,ChinaGame
@@ -261,7 +273,6 @@ HOST-SUFFIX,xhlsgs.com,ChinaGame
 HOST-SUFFIX,xindong.com,ChinaGame
 HOST-SUFFIX,xinwuji.com,ChinaGame
 HOST-SUFFIX,xishanju.com,ChinaGame
-HOST-SUFFIX,xn--owtw8cc49ajfl.cn,ChinaGame
 HOST-SUFFIX,xoyo.com,ChinaGame
 HOST-SUFFIX,xoyocdn.com,ChinaGame
 HOST-SUFFIX,ycgame.com,ChinaGame

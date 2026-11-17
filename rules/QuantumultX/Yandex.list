@@ -1,9 +1,9 @@
 # NAME: Yandex
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-20 13:59:32
+# UPDATED: 2026-11-17 15:33:11
 # HOST: 18
-# HOST-SUFFIX: 140
+# HOST-SUFFIX: 141
 # IP-CIDR: 41
 # IP6-CIDR: 16
 
@@ -162,6 +162,7 @@ HOST-SUFFIX,yangofellowship.com,Yandex
 HOST-SUFFIX,yastat.net,Yandex
 HOST-SUFFIX,yastatic-net.ru,Yandex
 HOST-SUFFIX,yastatic.net,Yandex
+HOST-SUFFIX,yb-payment.ru,Yandex
 HOST-SUFFIX,yccdn.ru,Yandex
 HOST-SUFFIX,ydb.tech,Yandex
 HOST-SUFFIX,yndx.net,Yandex

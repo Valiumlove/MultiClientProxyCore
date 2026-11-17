@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 12:01:45
-# HOST: 321
-# HOST-SUFFIX: 5629
+# UPDATED: 2026-11-17 15:33:02
+# HOST: 324
+# HOST-SUFFIX: 5630
 # HOST-WILDCARD: 15
 # HOST-KEYWORD: 5
 # USER-AGENT: 5
@@ -96,6 +96,7 @@ HOST,communities.apple.com,Apple
 HOST,configuration-lb.ls-apple.com.akadns.net,Apple
 HOST,configuration.apple.com,Apple
 HOST,configuration.apple.com.akadns.net,Apple
+HOST,configuration.ls.apple.com,Apple
 HOST,crl-lb.apple.com.akadns.net,Apple
 HOST,crl.apple.com,Apple
 HOST,cstat.apple.com,Apple
@@ -198,9 +199,11 @@ HOST,mesu.apple.com,Apple
 HOST,misc-assets.itunes.apple.com,Apple
 HOST,ml.cdn-apple.com,Apple
 HOST,music.apple.com,Apple
+HOST,musicstatus.itunes.apple.com,Apple
 HOST,musicstatus.music.apple.com,Apple
 HOST,mvod.itunes.apple.com,Apple
 HOST,myapp.itunes.apple.com,Apple
+HOST,mzstorekit.itunes.apple.com,Apple
 HOST,naxos.lastampausa.com,Apple
 HOST,news-assets.apple.com,Apple
 HOST,news-client.apple.com,Apple
@@ -1660,6 +1663,7 @@ HOST-SUFFIX,canliopenest.rest,Apple
 HOST-SUFFIX,canrwhwfhzobw.space,Apple
 HOST-SUFFIX,caomddembovjm.site,Apple
 HOST-SUFFIX,capricsucci.cyou,Apple
+HOST-SUFFIX,captive.apple.com,Apple
 HOST-SUFFIX,carapussq.cyou,Apple
 HOST-SUFFIX,carbon.com,Apple
 HOST-SUFFIX,cardwriggle.cyou,Apple

@@ -1,9 +1,9 @@
 # NAME: Speedtest
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-14 07:42:06
+# UPDATED: 2026-11-17 15:34:01
 # BEHAVIOR: classical
-# DOMAIN: 3399
+# DOMAIN: 3400
 # DOMAIN-SUFFIX: 3765
 # DOMAIN-KEYWORD: 1
 # DOMAIN-REGEX: 1
@@ -2687,6 +2687,7 @@ payload:
 - 'DOMAIN,speedtest2.openfiber.it'
 - 'DOMAIN,speedtest2.pa.mycci.net'
 - 'DOMAIN,speedtest2.pacificinternet.com'
+- 'DOMAIN,speedtest2.par2.as216190.net'
 - 'DOMAIN,speedtest2.phx.1gservers.com'
 - 'DOMAIN,speedtest2.plusnet.com.tr'
 - 'DOMAIN,speedtest2.power-speed.at'

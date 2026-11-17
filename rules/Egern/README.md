@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/Egern/`
-- 规则数：**1185** · 总行数：**900557**
+- 规则数：**1185** · 总行数：**851168**
 
 ## 常用规则（可直接复制）
 
@@ -90,7 +90,7 @@ rules:
 | ASUS | 华硕 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ASUS.yaml) |
 | ATT | AT&T | 135 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ATT.yaml) |
 | ATTWatchTV | AT&T WatchTV | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ATTWatchTV.yaml) |
-| AWS | Amazon Web Services | 77 | 2026-08-24 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AWS.yaml) |
+| AWS | Amazon Web Services | 80 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AWS.yaml) |
 | AbemaTV | AbemaTV | 24 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AbemaTV.yaml) |
 | AcFun | AcFun弹幕视频网 | 11 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AcFun.yaml) |
 | AccuWeather | AccuWeather天气 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AccuWeather.yaml) |
@@ -98,12 +98,12 @@ rules:
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Actalis.yaml) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuard.yaml) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilter.yaml) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190834 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilterDirect.yaml) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 189704 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdGuardSDNSFilterDirect.yaml) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Adidas.yaml) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Adobe.yaml) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdobeActivation.yaml) |
-| Advertising | 去广告 | 292779 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Advertising.yaml) |
-| AdvertisingLite | 去广告精简版 | 190516 | 2026-11-15 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingLite.yaml) |
+| Advertising | 去广告 | 293154 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Advertising.yaml) |
+| AdvertisingLite | 去广告精简版 | 189984 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingLite.yaml) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AdvertisingMiTV.yaml) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Aerogard.yaml) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Agora.yaml) |
@@ -117,13 +117,13 @@ rules:
 | Akiko | Akiko服装 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Akiko.yaml) |
 | AlJazeera | 半岛电视台 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AlJazeera.yaml) |
 | AliGames | 阿里游戏 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AliGames.yaml) |
-| AliPay | 支付宝 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AliPay.yaml) |
-| Alibaba | 阿里巴巴 | 1626 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Alibaba.yaml) |
+| AliPay | 支付宝 | 20 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AliPay.yaml) |
+| Alibaba | 阿里巴巴 | 1623 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Alibaba.yaml) |
 | Aliyun | 阿里云 | 100 | 2026-08-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Aliyun.yaml) |
 | AliyunDrive | 阿里云盘 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AliyunDrive.yaml) |
 | All4 | All 4 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/All4.yaml) |
-| Alphabet | Alphabet 集团 | 1133 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Alphabet.yaml) |
-| Amazon | Amazon | 296 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Amazon.yaml) |
+| Alphabet | Alphabet 集团 | 1135 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Alphabet.yaml) |
+| Amazon | Amazon | 291 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Amazon.yaml) |
 | AmazonCloud | Amazon云计算 | 5157 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AmazonCloud.yaml) |
 | AmazonPrimeVideo | Amazon Prime Video | 27 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AmazonPrimeVideo.yaml) |
 | AnTianKeJi | 安天科技 | 11 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AnTianKeJi.yaml) |
@@ -142,10 +142,10 @@ rules:
 | ApiPost | ApiPost | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ApiPost.yaml) |
 | Apkpure | APKPure | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Apkpure.yaml) |
 | AppStore | App Store | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppStore.yaml) |
-| Apple | Apple | 5993 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Apple.yaml) |
+| Apple | Apple | 2092 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Apple.yaml) |
 | AppleCDN | Apple CDN | 36 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleCDN.yaml) |
 | AppleDev | Apple开发者 | 55 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleDev.yaml) |
-| AppleDirect | Apple 直连 | 3942 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleDirect.yaml) |
+| AppleDirect | Apple 直连 | 35 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleDirect.yaml) |
 | AppleFirmware | Apple固件 | 177 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleFirmware.yaml) |
 | AppleHardware | Apple硬件 | 226 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleHardware.yaml) |
 | AppleIntelligence | Apple 智能服务 | 6 | 2026-08-03 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleIntelligence.yaml) |
@@ -154,7 +154,7 @@ rules:
 | AppleNews | Apple News | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleNews.yaml) |
 | ApplePKI | Apple证书 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ApplePKI.yaml) |
 | ApplePodcasts | Apple 播客 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ApplePodcasts.yaml) |
-| AppleProxy | Apple代理 | 3970 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleProxy.yaml) |
+| AppleProxy | Apple代理 | 64 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleProxy.yaml) |
 | AppleTV | Apple TV | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleTV.yaml) |
 | AppleUpdate | Apple 更新服务 | 97 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/AppleUpdate.yaml) |
 | ArchLinux | Arch Linux | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ArchLinux.yaml) |
@@ -171,9 +171,9 @@ rules:
 | Autodesk | Autodesk 欧特克 | 558 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Autodesk.yaml) |
 | Aviasales | Aviasales机票 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Aviasales.yaml) |
 | Azure | Microsoft Azure | 154 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Azure.yaml) |
-| BBC | BBC | 41 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BBC.yaml) |
+| BBC | BBC | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BBC.yaml) |
 | BJYouth | 北京青年报 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BJYouth.yaml) |
-| BMW | 宝马 | 730 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BMW.yaml) |
+| BMW | 宝马 | 728 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BMW.yaml) |
 | BOC | 中国银行 | 22 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BOC.yaml) |
 | BOCOM | 交通银行 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/BOCOM.yaml) |
 | Bahamut | 巴哈姆特 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Bahamut.yaml) |
@@ -235,7 +235,7 @@ rules:
 | CGB | 广发银行 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CGB.yaml) |
 | CHT | 中华电信 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CHT.yaml) |
 | CIBN | CIBN互联网电视 | 71 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CIBN.yaml) |
-| CITIC | 中信银行 | 30 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CITIC.yaml) |
+| CITIC | 中信银行 | 29 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CITIC.yaml) |
 | CKJR | 创客匠人 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CKJR.yaml) |
 | CMB | 招商银行 | 39 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CMB.yaml) |
 | CNB | CNB代码托管 | 2 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CNB.yaml) |
@@ -262,12 +262,12 @@ rules:
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChangYou.yaml) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Chegg.yaml) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChengTongWangPan.yaml) |
-| China | 中国 | 10292 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/China.yaml) |
+| China | 中国 | 10307 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/China.yaml) |
 | ChinaASN | 中国ASN | 5076 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaASN.yaml) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaBroadnet.yaml) |
-| ChinaGame | 中国游戏 | 281 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaGame.yaml) |
+| ChinaGame | 中国游戏 | 293 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaGame.yaml) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPTV.yaml) |
-| ChinaIPs | 中国IP | 23158 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPs.yaml) |
+| ChinaIPs | 中国IP | 22978 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaIPs.yaml) |
 | ChinaMedia | 中国媒体 | 356 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaMedia.yaml) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaMobile.yaml) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChinaNews.yaml) |
@@ -279,7 +279,7 @@ rules:
 | ChineseAcademyOfSciences | 中国科学院文献情报中心 | 44 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChineseAcademyOfSciences.yaml) |
 | ChuangKeTie | 创客贴 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChuangKeTie.yaml) |
 | ChunYou | 纯游 | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ChunYou.yaml) |
-| Cisco | 思科 | 123 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Cisco.yaml) |
+| Cisco | 思科 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Cisco.yaml) |
 | CityUHK | 香港城市大学 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CityUHK.yaml) |
 | Clarivate | 科睿唯安 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Clarivate.yaml) |
 | Clearasil | Clearasil护肤 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Clearasil.yaml) |
@@ -304,10 +304,10 @@ rules:
 | Comodo | Comodo | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Comodo.yaml) |
 | ComssOne | Comss资讯 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ComssOne.yaml) |
 | ConnectivityCheck | 网络连通检测 | 28 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ConnectivityCheck.yaml) |
-| Container | 容器与云原生 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Container.yaml) |
+| Container | 容器与云原生 | 10 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Container.yaml) |
 | Contentful | Contentful CMS | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Contentful.yaml) |
 | CoolAPK | 酷安 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CoolAPK.yaml) |
-| Copilot | Microsoft Copilot | 390 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Copilot.yaml) |
+| Copilot | Microsoft Copilot | 387 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Copilot.yaml) |
 | CopyManga | 拷贝漫画 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CopyManga.yaml) |
 | Corel | Corel软件 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Corel.yaml) |
 | Costco | 好市多/开市客 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Costco.yaml) |
@@ -315,7 +315,7 @@ rules:
 | Coursera | Coursera 在线课程 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Coursera.yaml) |
 | CowLevel | CowLevel游戏社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CowLevel.yaml) |
 | CowTransfer | 奶牛快传 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CowTransfer.yaml) |
-| Cryptocurrency | 加密货币 | 240 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Cryptocurrency.yaml) |
+| Cryptocurrency | 加密货币 | 241 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Cryptocurrency.yaml) |
 | CurseForge | CurseForge游戏模组 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CurseForge.yaml) |
 | Cursor | Cursor AI 编程工具 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Cursor.yaml) |
 | CyberTrust | CyberTrust证书认证 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/CyberTrust.yaml) |
@@ -343,7 +343,7 @@ rules:
 | Deppon | 德邦快递 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Deppon.yaml) |
 | Deribit | Deribit期权 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Deribit.yaml) |
 | Dettol | 滴露 | 35 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Dettol.yaml) |
-| Developer | 开发者 | 739 | 2026-11-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Developer.yaml) |
+| Developer | 开发者 | 744 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Developer.yaml) |
 | DeviantArt | DeviantArt | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DeviantArt.yaml) |
 | Dewu | 得物 | 45 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Dewu.yaml) |
 | DiDi | 滴滴出行 | 26 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DiDi.yaml) |
@@ -356,12 +356,12 @@ rules:
 | DingDong | 叮咚买菜 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DingDong.yaml) |
 | DingTalk | 钉钉 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DingTalk.yaml) |
 | DingXiangYuan | 丁香园 | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DingXiangYuan.yaml) |
-| Direct | 直连 | 3387 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Direct.yaml) |
+| Direct | 直连 | 263 | 2026-08-18 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Direct.yaml) |
 | Discord | Discord | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Discord.yaml) |
 | Discourse | Discourse论坛平台 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Discourse.yaml) |
 | DiscoveryPlus | Discovery+ | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DiscoveryPlus.yaml) |
 | Discuz | Discuz论坛 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Discuz.yaml) |
-| Disney | Disney | 248 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Disney.yaml) |
+| Disney | Disney | 249 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Disney.yaml) |
 | Disqus | Disqus | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Disqus.yaml) |
 | DoH | 加密 DNS | 127 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/DoH.yaml) |
 | Docker | Docker | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Docker.yaml) |
@@ -406,7 +406,7 @@ rules:
 | Enfa | 美赞臣 | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Enfa.yaml) |
 | Entrust | Entrust证书认证 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Entrust.yaml) |
 | Envato | Envato创意 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Envato.yaml) |
-| Epic | Epic Games | 33 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Epic.yaml) |
+| Epic | Epic Games | 36 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Epic.yaml) |
 | EpicBrowser | Epic隐私浏览器 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/EpicBrowser.yaml) |
 | EscapeFromTarkov | 逃离塔科夫 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/EscapeFromTarkov.yaml) |
 | Espn | ESPN | 11 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Espn.yaml) |
@@ -449,7 +449,7 @@ rules:
 | FontsInUse | FontsInUse | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/FontsInUse.yaml) |
 | Forbes | 福布斯 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Forbes.yaml) |
 | Forza | Forza赛车游戏 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Forza.yaml) |
-| Fox | Fox | 262 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Fox.yaml) |
+| Fox | Fox | 261 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Fox.yaml) |
 | Framer | Framer设计 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Framer.yaml) |
 | FreeCodeCamp | FreeCodeCamp编程学习 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/FreeCodeCamp.yaml) |
 | Freenode | Freenode IRC网络 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Freenode.yaml) |
@@ -459,7 +459,7 @@ rules:
 | GGSel | GGsel游戏账号 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GGSel.yaml) |
 | GMOInternet | GMO互联网 | 157 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GMOInternet.yaml) |
 | Gaijin | Gaijin游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gaijin.yaml) |
-| Game | 游戏 | 1285 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Game.yaml) |
+| Game | 游戏 | 1302 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Game.yaml) |
 | GameDownload | 游戏下载 | 498 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GameDownload.yaml) |
 | GamerSky | 游民星空 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GamerSky.yaml) |
 | Gamesplanet | Gamesplanet游戏销售 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gamesplanet.yaml) |
@@ -479,15 +479,15 @@ rules:
 | GitHub | GitHub | 74 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GitHub.yaml) |
 | GitLab | GitLab | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GitLab.yaml) |
 | Gitee | Gitee 码云 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gitee.yaml) |
-| Global | 全球 | 24486 | 2026-11-14 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Global.yaml) |
-| GlobalAI | 全球AI | 4937 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalAI.yaml) |
+| Global | 全球 | 24491 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Global.yaml) |
+| GlobalAI | 全球AI | 434 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalAI.yaml) |
 | GlobalCDN | 全球CDN服务 | 195 | 2026-08-08 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalCDN.yaml) |
 | GlobalCloud | 全球云计算 | 2774 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalCloud.yaml) |
-| GlobalGame | 全球游戏 | 884 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalGame.yaml) |
+| GlobalGame | 全球游戏 | 886 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalGame.yaml) |
 | GlobalIPTV | IPTV全球 | 2814 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalIPTV.yaml) |
-| GlobalMedia | 全球媒体 | 5405 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalMedia.yaml) |
+| GlobalMedia | 全球媒体 | 1722 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalMedia.yaml) |
 | GlobalNetDisk | 全球网盘服务 | 59 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalNetDisk.yaml) |
-| GlobalScholar | 全球学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalScholar.yaml) |
+| GlobalScholar | 全球学术 | 320 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalScholar.yaml) |
 | GlobalSign | Globalsign | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GlobalSign.yaml) |
 | Globo | Globo传媒 | 40 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Globo.yaml) |
 | Glyphs | Glyphs字体 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Glyphs.yaml) |
@@ -495,11 +495,11 @@ rules:
 | Gog | GOG | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Gog.yaml) |
 | Golang | Go编程语言 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Golang.yaml) |
 | Goodreads | Goodreads | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Goodreads.yaml) |
-| Google | Google | 1142 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Google.yaml) |
+| Google | Google | 1144 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Google.yaml) |
 | GoogleDeepMind | Google DeepMind | 49 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleDeepMind.yaml) |
 | GoogleEarth | Google Earth | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleEarth.yaml) |
 | GoogleFCM | 谷歌推送 | 50 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleFCM.yaml) |
-| GooglePlay | Google Play 商店 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GooglePlay.yaml) |
+| GooglePlay | Google Play 商店 | 10 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GooglePlay.yaml) |
 | GoogleRegistry | Google 域名注册服务 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleRegistry.yaml) |
 | GoogleVoice | Google Voice | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GoogleVoice.yaml) |
 | GovCN | GovernmentCN | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/GovCN.yaml) |
@@ -539,7 +539,7 @@ rules:
 | HibyMusic | 海贝音乐 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HibyMusic.yaml) |
 | Hijacking | 反劫持 | 221 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Hijacking.yaml) |
 | Hikvision | 海康威视 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Hikvision.yaml) |
-| HoYoverse | 米哈游HoYoverse | 26 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HoYoverse.yaml) |
+| HoYoverse | 米哈游HoYoverse | 27 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HoYoverse.yaml) |
 | HomeDepot | Home Depot | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HomeDepot.yaml) |
 | Homebrew | Homebrew包管理器 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Homebrew.yaml) |
 | HongKongPost | 香港邮政证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HongKongPost.yaml) |
@@ -560,8 +560,8 @@ rules:
 | Hupu | 虎扑 | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Hupu.yaml) |
 | HurricaneElectric | Hurricane Electric | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/HurricaneElectric.yaml) |
 | IBKR | 盈透证券 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/IBKR.yaml) |
-| IBM | IBM | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/IBM.yaml) |
-| ICBC | 中国工商银行 | 58 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ICBC.yaml) |
+| IBM | IBM | 18 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/IBM.yaml) |
+| ICBC | 中国工商银行 | 57 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ICBC.yaml) |
 | ICable | 香港有线电视 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ICable.yaml) |
 | IDG | IDG集团 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/IDG.yaml) |
 | IEEE | IEEE | 54 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/IEEE.yaml) |
@@ -643,7 +643,7 @@ rules:
 | KuroGames | 库洛游戏 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/KuroGames.yaml) |
 | KyodoNews | 共同通讯社 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/KyodoNews.yaml) |
 | LG | LG | 98 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/LG.yaml) |
-| Lan | 本地局域网地址 | 3852 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Lan.yaml) |
+| Lan | 本地局域网地址 | 173 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Lan.yaml) |
 | LanZou | 蓝奏云 | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/LanZou.yaml) |
 | Laracasts | Laracasts教程 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Laracasts.yaml) |
 | LastFM | Last.fm | 34 | 2026-09-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/LastFM.yaml) |
@@ -716,11 +716,11 @@ rules:
 | MetaBrainz | MetaBrainz数据 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MetaBrainz.yaml) |
 | Metacritic | Metacritic | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Metacritic.yaml) |
 | MiWu | 米物 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MiWu.yaml) |
-| Microsoft | Microsoft | 919 | 2026-11-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Microsoft.yaml) |
+| Microsoft | Microsoft | 916 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Microsoft.yaml) |
 | MicrosoftDev | Microsoft 开发服务 | 76 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MicrosoftDev.yaml) |
 | MicrosoftEdge | Microsoft Edge | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MicrosoftEdge.yaml) |
 | MicrosoftPKI | 微软证书 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MicrosoftPKI.yaml) |
-| MicrosoftProxy | Microsoft 代理 | 2980 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MicrosoftProxy.yaml) |
+| MicrosoftProxy | Microsoft 代理 | 83 | 2026-08-05 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MicrosoftProxy.yaml) |
 | Midea | 美的 | 10 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Midea.yaml) |
 | Migu | 咪咕 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Migu.yaml) |
 | MikroTik | MikroTik路由 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/MikroTik.yaml) |
@@ -763,9 +763,9 @@ rules:
 | Neowin | Neowin科技 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Neowin.yaml) |
 | NetCup | NetCup托管 | 24 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NetCup.yaml) |
 | NetEase | 网易 | 190 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NetEase.yaml) |
-| NetEaseMusic | 网易云音乐 | 3731 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NetEaseMusic.yaml) |
+| NetEaseMusic | 网易云音乐 | 52 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NetEaseMusic.yaml) |
 | NeteaseCloud | 网易云计算 | 106 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NeteaseCloud.yaml) |
-| Netflix | Netflix | 1620 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Netflix.yaml) |
+| Netflix | Netflix | 1624 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Netflix.yaml) |
 | Netlify | Netlify网站托管 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Netlify.yaml) |
 | Newegg | 新蛋 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Newegg.yaml) |
 | NewsCorp | 新闻集团 | 152 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NewsCorp.yaml) |
@@ -785,7 +785,7 @@ rules:
 | NowTV | Now TV | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/NowTV.yaml) |
 | Nurofen | Nurofen布洛芬 | 28 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Nurofen.yaml) |
 | Nvidia | 英伟达 | 68 | 2026-09-10 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Nvidia.yaml) |
-| OKAApps | OKA Apps | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OKAApps.yaml) |
+| OKAApps | OKA Apps | 2 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OKAApps.yaml) |
 | OKX | OKX交易所 | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OKX.yaml) |
 | OP | OnePiece | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OP.yaml) |
 | OPPO | OPPO | 73 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OPPO.yaml) |
@@ -797,7 +797,7 @@ rules:
 | OneDrive | OneDrive | 22 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OneDrive.yaml) |
 | OneKey | OneKey钱包 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OneKey.yaml) |
 | OnePlus | 一加 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OnePlus.yaml) |
-| OpenAI | OpenAI | 53 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OpenAI.yaml) |
+| OpenAI | OpenAI | 54 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OpenAI.yaml) |
 | OpenCollective | Open Collective | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OpenCollective.yaml) |
 | OpenJSFoundation | OpenJS基金会 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OpenJSFoundation.yaml) |
 | OpenSourceInsights | 开源分析 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OpenSourceInsights.yaml) |
@@ -813,7 +813,7 @@ rules:
 | OuPeng | 欧朋浏览器 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/OuPeng.yaml) |
 | Ozon | Ozon电商 | 63 | 2026-08-07 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Ozon.yaml) |
 | PBS | PBS | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PBS.yaml) |
-| PCCW | 电讯盈科 | 31 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PCCW.yaml) |
+| PCCW | 电讯盈科 | 32 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PCCW.yaml) |
 | PChomeTW | PChome Online 網路家庭 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PChomeTW.yaml) |
 | PPTV | PPTV | 19 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PPTV.yaml) |
 | PSBC | 中国邮政储蓄银行 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PSBC.yaml) |
@@ -854,7 +854,7 @@ rules:
 | PostImages | PostImages图片 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PostImages.yaml) |
 | PotatoChat | Potato Chat | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PotatoChat.yaml) |
 | PrimeVideo | Prime Video | 24 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PrimeVideo.yaml) |
-| Privacy | 隐私保护 | 43574 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Privacy.yaml) |
+| Privacy | 隐私保护 | 39895 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Privacy.yaml) |
 | PrivateTracker | PT下载 | 122 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/PrivateTracker.yaml) |
 | ProQuest | ProQuest学术 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ProQuest.yaml) |
 | Progress | Progress软件 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Progress.yaml) |
@@ -925,7 +925,7 @@ rules:
 | Sankei | 产经新闻 | 30 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Sankei.yaml) |
 | Scala | Scala编程语言 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Scala.yaml) |
 | Scaleflex | Scaleflex | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Scaleflex.yaml) |
-| Scholar | 学术 | 321 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Scholar.yaml) |
+| Scholar | 学术 | 320 | 2026-11-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Scholar.yaml) |
 | Schoopia | 同学派 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Schoopia.yaml) |
 | Schwab | 嘉信理财 | 9 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Schwab.yaml) |
 | SciHub | Sci-Hub学术 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/SciHub.yaml) |
@@ -971,7 +971,7 @@ rules:
 | SpaceX | SpaceX | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/SpaceX.yaml) |
 | Spaceship | Spaceship域名 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Spaceship.yaml) |
 | Spark | Spark | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Spark.yaml) |
-| Speedtest | Speedtest | 7169 | 2026-11-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Speedtest.yaml) |
+| Speedtest | Speedtest | 3510 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Speedtest.yaml) |
 | Spiceworks | Spiceworks社区 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Spiceworks.yaml) |
 | Spotify | Spotify | 39 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Spotify.yaml) |
 | Springer | Springer学术 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Springer.yaml) |
@@ -1028,7 +1028,7 @@ rules:
 | Teambition | Teambition | 10 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Teambition.yaml) |
 | TechTimes | TechTimes | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/TechTimes.yaml) |
 | Technogym | Technogym健身 | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Technogym.yaml) |
-| Telegram | Telegram | 3741 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Telegram.yaml) |
+| Telegram | Telegram | 62 | 2026-10-09 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Telegram.yaml) |
 | TempMail | 临时邮箱 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/TempMail.yaml) |
 | Tencent | 腾讯 | 2781 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Tencent.yaml) |
 | TencentCloud | 腾讯云计算 | 2715 | 2026-09-04 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/TencentCloud.yaml) |
@@ -1109,10 +1109,10 @@ rules:
 | VidolTV | Vidol TV | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/VidolTV.yaml) |
 | VikACG | VikACG | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/VikACG.yaml) |
 | Viki | Viki | 8 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Viki.yaml) |
-| Vimeo | Vimeo | 16 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Vimeo.yaml) |
+| Vimeo | Vimeo | 17 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Vimeo.yaml) |
 | VipShop | 唯品会 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/VipShop.yaml) |
 | VisualArts | Visual Arts游戏 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/VisualArts.yaml) |
-| Viu | Viu视频 | 6 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Viu.yaml) |
+| Viu | Viu视频 | 7 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Viu.yaml) |
 | ViuTV | ViuTV | 12 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/ViuTV.yaml) |
 | Vivo | vivo | 17 | 2026-08-13 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Vivo.yaml) |
 | VoIP | VoIP 通信 | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/VoIP.yaml) |
@@ -1190,7 +1190,7 @@ rules:
 | YY | YY 直播 | 5 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YY.yaml) |
 | YYeTs | 人人影视 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YYeTs.yaml) |
 | Yahoo | Yahoo | 178 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Yahoo.yaml) |
-| Yandex | Yandex | 215 | 2026-10-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Yandex.yaml) |
+| Yandex | Yandex | 215 | 2026-11-17 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Yandex.yaml) |
 | YiXiaKeJi | 一下科技 | 14 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YiXiaKeJi.yaml) |
 | YiZhiBo | 易直播 | 5 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YiZhiBo.yaml) |
 | YnoProject | Yno同人游戏 | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YnoProject.yaml) |
@@ -1199,7 +1199,7 @@ rules:
 | Yomiuri | 读卖新闻 | 13 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Yomiuri.yaml) |
 | YouMengChuangXiang | 游梦创想 | 21 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouMengChuangXiang.yaml) |
 | YouMind | YouMind | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouMind.yaml) |
-| YouTube | YouTube | 193 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouTube.yaml) |
+| YouTube | YouTube | 192 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouTube.yaml) |
 | YouTubeMusic | YouTube Music | 1 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouTubeMusic.yaml) |
 | YouZan | 有赞 | 7 | 2026-08-01 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/YouZan.yaml) |
 | Youku | 优酷 | 62 | 2026-08-01 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/Youku.yaml) |
@@ -1237,7 +1237,7 @@ rules:
 | edX | edX 在线课程 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/edX.yaml) |
 | friDay | friDay影音 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/friDay.yaml) |
 | iCloud | iCloud | 56 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iCloud.yaml) |
-| iCloudPrivateRelay | iCloud Private Relay | 3688 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iCloudPrivateRelay.yaml) |
+| iCloudPrivateRelay | iCloud Private Relay | 9 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iCloudPrivateRelay.yaml) |
 | iFlytek | 科大讯飞 | 152 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iFlytek.yaml) |
 | iQIYI | 爱奇艺 | 81 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iQIYI.yaml) |
 | iQIYIIntl | 爱奇艺国际版 | 20 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/Egern/iQIYIIntl.yaml) |

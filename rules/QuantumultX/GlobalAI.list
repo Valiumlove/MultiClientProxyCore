@@ -1,8 +1,8 @@
 # NAME: GlobalAI
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-14 23:19:41
-# HOST: 144
+# UPDATED: 2026-11-17 15:29:48
+# HOST: 145
 # HOST-SUFFIX: 4770
 # HOST-KEYWORD: 11
 # IP-CIDR: 5
@@ -65,6 +65,7 @@ HOST,d3stzm2eumvgb4.cloudfront.net,GlobalAI
 HOST,d3ucl0eqgl80l5.cloudfront.net,GlobalAI
 HOST,d96jfp62lg3kj.cloudfront.net,GlobalAI
 HOST,daily-cloudcode-pa.googleapis.com,GlobalAI
+HOST,daily-cloudcode-pa.sandbox.googleapis.com,GlobalAI
 HOST,dashscope.aliyuncs.com,GlobalAI
 HOST,dc.applicationinsights.azure.com,GlobalAI
 HOST,dc.services.visualstudio.com,GlobalAI

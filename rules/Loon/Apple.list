@@ -1,9 +1,9 @@
 # NAME: Apple
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:46:44
-# DOMAIN: 321
-# DOMAIN-SUFFIX: 5629
+# UPDATED: 2026-11-17 15:33:02
+# DOMAIN: 324
+# DOMAIN-SUFFIX: 5630
 # DOMAIN-KEYWORD: 5
 # USER-AGENT: 5
 # IP-CIDR: 15
@@ -96,6 +96,7 @@ DOMAIN,communities.apple.com
 DOMAIN,configuration-lb.ls-apple.com.akadns.net
 DOMAIN,configuration.apple.com
 DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,configuration.ls.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
 DOMAIN,cstat.apple.com
@@ -198,9 +199,11 @@ DOMAIN,mesu.apple.com
 DOMAIN,misc-assets.itunes.apple.com
 DOMAIN,ml.cdn-apple.com
 DOMAIN,music.apple.com
+DOMAIN,musicstatus.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,myapp.itunes.apple.com
+DOMAIN,mzstorekit.itunes.apple.com
 DOMAIN,naxos.lastampausa.com
 DOMAIN,news-assets.apple.com
 DOMAIN,news-client.apple.com
@@ -1660,6 +1663,7 @@ DOMAIN-SUFFIX,canliopenest.rest
 DOMAIN-SUFFIX,canrwhwfhzobw.space
 DOMAIN-SUFFIX,caomddembovjm.site
 DOMAIN-SUFFIX,capricsucci.cyou
+DOMAIN-SUFFIX,captive.apple.com
 DOMAIN-SUFFIX,carapussq.cyou
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,cardwriggle.cyou

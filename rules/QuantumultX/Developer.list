@@ -1,8 +1,8 @@
 # NAME: Developer
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-10 12:54:08
-# HOST: 92
+# UPDATED: 2026-11-17 19:06:38
+# HOST: 96
 # HOST-SUFFIX: 647
 
 HOST,amp.akamaized.net,Developer
@@ -11,6 +11,7 @@ HOST,appleworldwidedeveloper.hb-api.omtrdc.net,Developer
 HOST,appleworldwidedeveloper.sc.omtrdc.net,Developer
 HOST,az764295.vo.msecnd.net,Developer
 HOST,bingsettingssearch.trafficmanager.net,Developer
+HOST,builds.dotnet.microsoft.com,Developer
 HOST,cdn-cn.apple-mapkit.com,Developer
 HOST,cdn-cn1.apple-mapkit.com,Developer
 HOST,cdn-cn2.apple-mapkit.com,Developer
@@ -35,6 +36,7 @@ HOST,developer.microsoft.com,Developer
 HOST,developers.facebook.com,Developer
 HOST,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,Developer
 HOST,docker-pinata-support.s3.amazonaws.com,Developer
+HOST,dotnetcli.trafficmanager.net,Developer
 HOST,download.visualstudio.microsoft.com,Developer
 HOST,dtlgalleryint.cloudapp.net,Developer
 HOST,firebase-settings.crashlytics.com,Developer
@@ -91,10 +93,12 @@ HOST,psg-int-centralus.cloudapp.net,Developer
 HOST,psg-int-eastus.cloudapp.net,Developer
 HOST,rink.hockeyapp.net,Developer
 HOST,rt.services.visualstudio.com,Developer
+HOST,sundry-star-net-geo.trafficmanager.net,Developer
 HOST,update.crashlytics.com,Developer
 HOST,vscode-sync-insiders.trafficmanager.net,Developer
 HOST,vscode-sync.trafficmanager.net,Developer
 HOST,vscode.blob.core.windows.net,Developer
+HOST,vscode.download.prss.microsoft.com,Developer
 HOST,vscode.search.windows.net,Developer
 HOST,vsmarketplacebadge.apphb.com,Developer
 HOST-SUFFIX,01.org,Developer

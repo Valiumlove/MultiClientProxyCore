@@ -1,13 +1,13 @@
 # NAME: China
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-14 13:11:43
+# UPDATED: 2026-11-17 19:56:03
 # HOST: 20
-# HOST-SUFFIX: 6362
+# HOST-SUFFIX: 6370
 # HOST-WILDCARD: 2
 # HOST-KEYWORD: 10
 # USER-AGENT: 30
-# IP-CIDR: 3860
+# IP-CIDR: 3867
 # IP6-CIDR: 4
 
 HOST,api.blipsandchitz.me,China
@@ -677,6 +677,7 @@ HOST-SUFFIX,appshike.com,China
 HOST-SUFFIX,appsimg.com,China
 HOST-SUFFIX,appvipshop.com,China
 HOST-SUFFIX,arco.design,China
+HOST-SUFFIX,arknights.com,China
 HOST-SUFFIX,arpun.com,China
 HOST-SUFFIX,asczwa.com,China
 HOST-SUFFIX,asczxcefsv.com,China
@@ -2601,6 +2602,7 @@ HOST-SUFFIX,hezuvip.com,China
 HOST-SUFFIX,hf-aw.com,China
 HOST-SUFFIX,hftfund.com,China
 HOST-SUFFIX,hfx.net,China
+HOST-SUFFIX,hgto.cc,China
 HOST-SUFFIX,hhtravel.com,China
 HOST-SUFFIX,hiaiabc.com,China
 HOST-SUFFIX,hiascend.com,China
@@ -2784,9 +2786,12 @@ HOST-SUFFIX,hxfy888.com,China
 HOST-SUFFIX,hxnews.com,China
 HOST-SUFFIX,hxsd.com,China
 HOST-SUFFIX,hybiome.com,China
+HOST-SUFFIX,hycdn.com,China
 HOST-SUFFIX,hydun.com,China
 HOST-SUFFIX,hypercachenet.com,China
 HOST-SUFFIX,hypercachenode.com,China
+HOST-SUFFIX,hypergryph.com,China
+HOST-SUFFIX,hypergryph.net,China
 HOST-SUFFIX,hzchengdun.com,China
 HOST-SUFFIX,hzchengdun.net,China
 HOST-SUFFIX,hzdtv.tv,China
@@ -4108,6 +4113,7 @@ HOST-SUFFIX,obriccloud.com,China
 HOST-SUFFIX,obricclouddw.com,China
 HOST-SUFFIX,oceancloudapi.com,China
 HOST-SUFFIX,oceanengine.com,China
+HOST-SUFFIX,octavedge.com,China
 HOST-SUFFIX,ocwms.com,China
 HOST-SUFFIX,oeeee.com,China
 HOST-SUFFIX,oend.net,China
@@ -4728,6 +4734,8 @@ HOST-SUFFIX,sipeed.com,China
 HOST-SUFFIX,sjfls6.com,China
 HOST-SUFFIX,sjwyx.com,China
 HOST-SUFFIX,skimit.net,China
+HOST-SUFFIX,skland.com,China
+HOST-SUFFIX,skland.net,China
 HOST-SUFFIX,sksight.com,China
 HOST-SUFFIX,skycn.com,China
 HOST-SUFFIX,skypixel.com,China
@@ -8286,6 +8294,8 @@ IP-CIDR,132.232.0.0/16,China
 IP-CIDR,132.237.134.0/24,China
 IP-CIDR,133.226.32.0/20,China
 IP-CIDR,134.175.0.0/16,China
+IP-CIDR,135.84.80.0/22,China
+IP-CIDR,136.143.176.0/23,China
 IP-CIDR,138.252.72.0/23,China
 IP-CIDR,139.129.0.0/16,China
 IP-CIDR,139.148.0.0/16,China
@@ -8499,7 +8509,10 @@ IP-CIDR,163.61.178.0/23,China
 IP-CIDR,163.61.202.0/23,China
 IP-CIDR,163.61.214.0/23,China
 IP-CIDR,165.101.70.0/24,China
+IP-CIDR,165.173.128.0/23,China
+IP-CIDR,165.173.174.0/23,China
 IP-CIDR,165.173.176.0/24,China
+IP-CIDR,165.173.180.0/22,China
 IP-CIDR,166.111.0.0/16,China
 IP-CIDR,167.139.0.0/16,China
 IP-CIDR,167.220.244.0/22,China
@@ -8675,6 +8688,7 @@ IP-CIDR,198.208.61.0/24,China
 IP-CIDR,198.208.63.0/24,China
 IP-CIDR,198.208.67.0/24,China
 IP-CIDR,199.244.144.0/24,China
+IP-CIDR,199.67.64.0/23,China
 IP-CIDR,2.56.255.0/24,China
 IP-CIDR,2.58.242.0/24,China
 IP-CIDR,2.59.151.0/24,China
@@ -10283,6 +10297,7 @@ IP-CIDR,8.164.0.0/14,China
 IP-CIDR,8.168.0.0/14,China
 IP-CIDR,8.176.0.0/17,China
 IP-CIDR,8.176.128.0/19,China
+IP-CIDR,8.39.54.0/23,China
 IP-CIDR,81.173.18.0/23,China
 IP-CIDR,81.173.20.0/22,China
 IP-CIDR,81.23.208.0/20,China

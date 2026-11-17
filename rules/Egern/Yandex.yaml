@@ -1,7 +1,7 @@
 # NAME: Yandex
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-20 13:59:33
+# UPDATED: 2026-11-17 15:37:02
 no_resolve: true
 domain_set:
   - adfstat.yandex.ru
@@ -160,6 +160,7 @@ domain_suffix_set:
   - yastat.net
   - yastatic-net.ru
   - yastatic.net
+  - yb-payment.ru
   - yccdn.ru
   - ydb.tech
   - yndx.net

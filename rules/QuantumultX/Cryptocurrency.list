@@ -1,9 +1,9 @@
 # NAME: Cryptocurrency
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 11:07:23
+# UPDATED: 2026-11-17 15:31:18
 # HOST: 8
-# HOST-SUFFIX: 232
+# HOST-SUFFIX: 233
 
 HOST,bybit-exchange.github.io,Cryptocurrency
 HOST,bybit.ada.support,Cryptocurrency
@@ -116,6 +116,7 @@ HOST-SUFFIX,cryptomus.com,Cryptocurrency
 HOST-SUFFIX,curve.fi,Cryptocurrency
 HOST-SUFFIX,cyberx.com,Cryptocurrency
 HOST-SUFFIX,debank.com,Cryptocurrency
+HOST-SUFFIX,debot.ai,Cryptocurrency
 HOST-SUFFIX,delets.cash,Cryptocurrency
 HOST-SUFFIX,delets.online,Cryptocurrency
 HOST-SUFFIX,deribit.com,Cryptocurrency

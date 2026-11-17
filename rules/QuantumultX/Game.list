@@ -1,9 +1,9 @@
 # NAME: Game
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:23:58
+# UPDATED: 2026-11-17 19:32:07
 # HOST: 125
-# HOST-SUFFIX: 1144
+# HOST-SUFFIX: 1157
 # HOST-KEYWORD: 4
 # IP-CIDR: 12
 
@@ -208,6 +208,8 @@ HOST-SUFFIX,api-priconne-redive.cygames.jp,Game
 HOST-SUFFIX,appeeres.com,Game
 HOST-SUFFIX,arcaea.cn,Game
 HOST-SUFFIX,arcraiders.com,Game
+HOST-SUFFIX,arknights.com,Game
+HOST-SUFFIX,arknights.com.cn,Game
 HOST-SUFFIX,arma3.com,Game
 HOST-SUFFIX,armaplatform.com,Game
 HOST-SUFFIX,artstation.com,Game
@@ -337,6 +339,7 @@ HOST-SUFFIX,curseforge.com,Game
 HOST-SUFFIX,cy.com,Game
 HOST-SUFFIX,cyberpunk.net,Game
 HOST-SUFFIX,cygames.co.jp,Game
+HOST-SUFFIX,cygames.com,Game
 HOST-SUFFIX,cygames.jp,Game
 HOST-SUFFIX,daoc.net,Game
 HOST-SUFFIX,darkageofcamelot.com,Game
@@ -524,6 +527,7 @@ HOST-SUFFIX,heroesofdragonage.com,Game
 HOST-SUFFIX,heroesofthestorm.com,Game
 HOST-SUFFIX,heroesports.com,Game
 HOST-SUFFIX,herogame.com,Game
+HOST-SUFFIX,hgto.cc,Game
 HOST-SUFFIX,highmoonstudios.com,Game
 HOST-SUFFIX,historyofdota.com,Game
 HOST-SUFFIX,historyofdota.net,Game
@@ -537,6 +541,12 @@ HOST-SUFFIX,hoyoverse.com,Game
 HOST-SUFFIX,humancoexperience.com,Game
 HOST-SUFFIX,humblebundle.com,Game
 HOST-SUFFIX,hutpromos.com,Game
+HOST-SUFFIX,hycdn.cn,Game
+HOST-SUFFIX,hycdn.com,Game
+HOST-SUFFIX,hypergryph.cn,Game
+HOST-SUFFIX,hypergryph.com,Game
+HOST-SUFFIX,hypergryph.com.cn,Game
+HOST-SUFFIX,hypergryph.net,Game
 HOST-SUFFIX,hyprsense.com,Game
 HOST-SUFFIX,i3839.com,Game
 HOST-SUFFIX,ihappystudio.cn,Game
@@ -777,6 +787,7 @@ HOST-SUFFIX,nintendowifi.net,Game
 HOST-SUFFIX,nintendowii.com,Game
 HOST-SUFFIX,noxygames.com,Game
 HOST-SUFFIX,nzsiteres.com,Game
+HOST-SUFFIX,octavedge.com,Game
 HOST-SUFFIX,offworldindustries.com,Game
 HOST-SUFFIX,offworldindustries.net,Game
 HOST-SUFFIX,ol.epicgames.com,Game
@@ -972,6 +983,8 @@ HOST-SUFFIX,simcity.com,Game
 HOST-SUFFIX,skate2.com,Game
 HOST-SUFFIX,sketchfab.com,Game
 HOST-SUFFIX,skinswap.com,Game
+HOST-SUFFIX,skland.com,Game
+HOST-SUFFIX,skland.net,Game
 HOST-SUFFIX,skydweller.cn,Game
 HOST-SUFFIX,skylanders.com,Game
 HOST-SUFFIX,sl916.com,Game

@@ -1,8 +1,8 @@
 # NAME: Speedtest
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-14 07:41:57
-# HOST: 3399
+# UPDATED: 2026-11-17 15:34:01
+# HOST: 3400
 # HOST-SUFFIX: 3765
 # HOST-KEYWORD: 1
 # USER-AGENT: 1
@@ -2684,6 +2684,7 @@ HOST,speedtest2.networks.bt.com,Speedtest
 HOST,speedtest2.openfiber.it,Speedtest
 HOST,speedtest2.pa.mycci.net,Speedtest
 HOST,speedtest2.pacificinternet.com,Speedtest
+HOST,speedtest2.par2.as216190.net,Speedtest
 HOST,speedtest2.phx.1gservers.com,Speedtest
 HOST,speedtest2.plusnet.com.tr,Speedtest
 HOST,speedtest2.power-speed.at,Speedtest

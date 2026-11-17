@@ -1,9 +1,9 @@
 # NAME: GlobalGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-07 03:18:32
+# UPDATED: 2026-11-17 19:00:58
 # HOST: 97
-# HOST-SUFFIX: 787
+# HOST-SUFFIX: 786
 
 HOST,a.ppy.sh,GlobalGame
 HOST,a4e8s8k3.map2.ssl.hwcdn.net,GlobalGame
@@ -207,6 +207,7 @@ HOST-SUFFIX,cubicodyssey.game,GlobalGame
 HOST-SUFFIX,curseforge.com,GlobalGame
 HOST-SUFFIX,cyberpunk.net,GlobalGame
 HOST-SUFFIX,cygames.co.jp,GlobalGame
+HOST-SUFFIX,cygames.com,GlobalGame
 HOST-SUFFIX,cygames.jp,GlobalGame
 HOST-SUFFIX,daoc.net,GlobalGame
 HOST-SUFFIX,darkageofcamelot.com,GlobalGame
@@ -872,8 +873,6 @@ HOST-SUFFIX,xboxstudios.com,GlobalGame
 HOST-SUFFIX,xbx.lv,GlobalGame
 HOST-SUFFIX,xdsummit.com,GlobalGame
 HOST-SUFFIX,xenoblade.com,GlobalGame
-HOST-SUFFIX,xn--mts47c3w9b1qr.cn,GlobalGame
-HOST-SUFFIX,xn--mts47c3w9b1qr.net,GlobalGame
 HOST-SUFFIX,ylands.com,GlobalGame
 HOST-SUFFIX,ynoproject.net,GlobalGame
 HOST-SUFFIX,yo-star.com,GlobalGame

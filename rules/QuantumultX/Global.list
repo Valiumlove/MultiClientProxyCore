@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-14 09:06:56
-# HOST: 1914
-# HOST-SUFFIX: 22365
+# UPDATED: 2026-11-17 15:34:35
+# HOST: 1917
+# HOST-SUFFIX: 22367
 # HOST-WILDCARD: 61
 # HOST-KEYWORD: 53
 # USER-AGENT: 9
@@ -248,6 +248,7 @@ HOST,brand-sdk.kmsmep.com,Global
 HOST,brandwidgets.outtra.com,Global
 HOST,bucket.noy.asia,Global
 HOST,bucket1.notaku.so,Global
+HOST,builds.dotnet.microsoft.com,Global
 HOST,bundle.5gtb.com,Global
 HOST,bundle.9gtb.com,Global
 HOST,bundle.dyn-rev.app,Global
@@ -1215,6 +1216,7 @@ HOST,media.cleanshot.cloud,Global
 HOST,media.convertkit.com,Global
 HOST,media.currys.biz,Global
 HOST,media.daily.dev,Global
+HOST,media.datacamp.com,Global
 HOST,media.datacenterdynamics.com,Global
 HOST,media.e4le.me,Global
 HOST,media.fidoalliance.org,Global
@@ -1655,6 +1657,7 @@ HOST,static.j51.net,Global
 HOST,static.javhd.com,Global
 HOST,static.jup.ag,Global
 HOST,static.k2s.cc,Global
+HOST,static.karousell.com,Global
 HOST,static.klaviyo.com,Global
 HOST,static.licdn.com,Global
 HOST,static.lwn.net,Global
@@ -7197,6 +7200,7 @@ HOST-SUFFIX,cyberghostvpn.com,Global
 HOST-SUFFIX,cybermondaybeats4sale.com,Global
 HOST-SUFFIX,cyberpunk.net,Global
 HOST-SUFFIX,cyberx.com,Global
+HOST-SUFFIX,cygames.com,Global
 HOST-SUFFIX,cygwin.com,Global
 HOST-SUFFIX,cylink.pro,Global
 HOST-SUFFIX,cylink0122.icu,Global
@@ -18430,6 +18434,7 @@ HOST-SUFFIX,releaseinternational.org,Global
 HOST-SUFFIX,religionnews.com,Global
 HOST-SUFFIX,religioustolerance.org,Global
 HOST-SUFFIX,remirepo.net,Global
+HOST-SUFFIX,remna.dev,Global
 HOST-SUFFIX,renchead.com,Global
 HOST-SUFFIX,render.com,Global
 HOST-SUFFIX,renderingtoolkit.org,Global
