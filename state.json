@@ -209,10 +209,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Surge/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-17T07:40:40.051436+00:00",
-          "bytes": 5338507,
-          "sha256": "00672d292378200df68961096af20de225c5919d42e546dd71b53cbebbadaf6a",
-          "semantic_sha256": "75287ee1acfb9a02e9594255ba126c098ef474ae443d8074e4bb69ab62f042af"
+          "rule_updated_at": "2026-11-18T08:50:48.308988+00:00",
+          "bytes": 5348096,
+          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
+          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
         },
         "Adidas": {
           "file": "rules/Surge/Adidas.list",
@@ -237,17 +237,17 @@
         },
         "Advertising": {
           "file": "rules/Surge/Advertising.list",
-          "rule_updated_at": "2026-11-17T07:33:18.773305+00:00",
-          "bytes": 9858571,
-          "sha256": "f5395879100b9a837cf3410fe6bcf8ef93cbcb863bd9a52e5dc6aa6f2024971a",
-          "semantic_sha256": "188a23f6cc86f03d6d4b40259c6d252a92dbe0b563a4e7f4d6dd60ed82459aa6"
+          "rule_updated_at": "2026-11-18T02:31:37.082311+00:00",
+          "bytes": 9143991,
+          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
+          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
         },
         "AdvertisingLite": {
           "file": "rules/Surge/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-17T07:37:52.032002+00:00",
-          "bytes": 6303034,
-          "sha256": "e3e1dccb0b4ea3b732207c1d9c0c8fa98bf84becdcf83826999bde9f4d264247",
-          "semantic_sha256": "2babc0042507ecca2c749dd6c0d081aed22e1ff723df57ecf426c254943d7415"
+          "rule_updated_at": "2026-11-18T02:27:23.682172+00:00",
+          "bytes": 6212717,
+          "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
+          "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
         },
         "AdvertisingMiTV": {
           "file": "rules/Surge/AdvertisingMiTV.list",
@@ -3786,10 +3786,10 @@
         },
         "iTunes": {
           "file": "rules/Surge/iTunes.list",
-          "rule_updated_at": "2026-11-06T14:18:51.528385+00:00",
-          "bytes": 3496,
-          "sha256": "c6dbd9377f27aaa567544e28554e84fb9a2ac1392fd2de641b8f2d6f170548a6",
-          "semantic_sha256": "276997e8def8968528869d9e81c1412b9be3e8cae16fd3fcddd8dd72b433b829"
+          "rule_updated_at": "2026-11-18T05:59:44.572634+00:00",
+          "bytes": 3567,
+          "sha256": "5c9775408ebd5bae8f88db9f2cfe442f77f255fe55eaee092b3fce3fb78fb4b7",
+          "semantic_sha256": "e5070341fd47488df8c63ee557e5f0b94b48d52351646145dea4f98385e35da7"
         },
         "ITV": {
           "file": "rules/Surge/ITV.list",
@@ -6439,10 +6439,10 @@
         },
         "Speedtest": {
           "file": "rules/Surge/Speedtest.list",
-          "rule_updated_at": "2026-11-17T07:20:02.859944+00:00",
-          "bytes": 242097,
-          "sha256": "fdc12b81e7f7d277bcb2c075f9bc2afcb161f6278641451fd0bfb71747d5fbcc",
-          "semantic_sha256": "a58b64c58c90171d58e711c2154717179af2b65bf9f3b66efead14ee776dcb46"
+          "rule_updated_at": "2026-11-18T02:23:01.474601+00:00",
+          "bytes": 115139,
+          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
+          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
         },
         "Spiceworks": {
           "file": "rules/Surge/Spiceworks.list",
@@ -8509,10 +8509,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-17T07:41:04.271385+00:00",
-          "bytes": 6097678,
-          "sha256": "ded86620f6af962cf16fdb0ba0c74420fb7efebbfa0d24f7b874d4285e589f1e",
-          "semantic_sha256": "58706676d1730d721eef8950134d9e3635ada85140a17056010cf5ce89d83832"
+          "rule_updated_at": "2026-11-18T08:51:10.251472+00:00",
+          "bytes": 6108723,
+          "sha256": "058fda3d94695cf0e5b9e18d3e2096c53898e7b5e2b8fb33809faebd580cfed2",
+          "semantic_sha256": "a8c8621a6d3be6d7124111e911a30ed1d2ec14837af8bafec9e7551e7373ab32"
         },
         "Adidas": {
           "file": "rules/Mihomo/Adidas.yaml",
@@ -8537,17 +8537,17 @@
         },
         "Advertising": {
           "file": "rules/Mihomo/Advertising.yaml",
-          "rule_updated_at": "2026-11-17T07:34:01.982192+00:00",
-          "bytes": 11031266,
-          "sha256": "db1fd957585324f32a6d46737def5bf4010b585f80f53fd3b7fe2cbac3a6ef85",
-          "semantic_sha256": "dcb7dbc4499b98ea53968f07f6f7aad3c2a9cc8eae1a656c5ebfbeeb2a85ed75"
+          "rule_updated_at": "2026-11-18T02:33:54.395620+00:00",
+          "bytes": 10236213,
+          "sha256": "637857033c1a04ff392c9ea254b6a4cb6d83098a1ca6a9b37b0dba6a4b205ab1",
+          "semantic_sha256": "e936331337f85f4e6ce9a8e8ded4ddac0ebdf515271c555f325471fe55e3e1c9"
         },
         "AdvertisingLite": {
           "file": "rules/Mihomo/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-17T07:38:15.463726+00:00",
-          "bytes": 7063304,
-          "sha256": "84a536512c48ba2d9cff0fdd6cf84a7b0e7a4c2f97b5aacf389fd70d75a02ea7",
-          "semantic_sha256": "a271df8f342cde8cacebe1853a709438dd3644b015be54e55a88835b8c1a6453"
+          "rule_updated_at": "2026-11-18T02:28:15.463461+00:00",
+          "bytes": 6956980,
+          "sha256": "5a11aa53ba001064affe33fa4b07dbbb9ca355b2b4e2ea4c659b18e9c0083bf1",
+          "semantic_sha256": "64bb96fdf4fb120c0bb6e6de873f12b061f12b70820c331dd0292e3e23c9afc3"
         },
         "AdvertisingMiTV": {
           "file": "rules/Mihomo/AdvertisingMiTV.yaml",
@@ -12086,10 +12086,10 @@
         },
         "iTunes": {
           "file": "rules/Mihomo/iTunes.yaml",
-          "rule_updated_at": "2026-11-06T14:18:51.634027+00:00",
-          "bytes": 3923,
-          "sha256": "8f20252005306836e0257ac3b71f31fb6e4a8c6be2a813a8c462d316913ee576",
-          "semantic_sha256": "26bed25d28bbfbb1fe3d7c11b8a765e91fb651811768f1a2515ef776fa41f654"
+          "rule_updated_at": "2026-11-18T05:59:44.933579+00:00",
+          "bytes": 4002,
+          "sha256": "55693c8cf8ed288e5f164d201f4e1dd12e14dc4fad54cd9403c87c2ac3bdc71e",
+          "semantic_sha256": "d7a4970f1f4726122d5c3655c6a741f2ae3f7cb4447cd28195698eee65952f4e"
         },
         "ITV": {
           "file": "rules/Mihomo/ITV.yaml",
@@ -14739,10 +14739,10 @@
         },
         "Speedtest": {
           "file": "rules/Mihomo/Speedtest.yaml",
-          "rule_updated_at": "2026-11-17T07:20:03.431115+00:00",
-          "bytes": 270766,
-          "sha256": "1ab13dc6cbdb5381df4e4d271324a0e7e185921ed6751de5ae5c1ed66490818f",
-          "semantic_sha256": "dde7a3d8c529aed4cbeec27113e7cc737ee2973f58b45116435008eae69d1915"
+          "rule_updated_at": "2026-11-18T02:23:02.422627+00:00",
+          "bytes": 129172,
+          "sha256": "b73547cb5fc4b9936581fe2785fbb367f7b83a44ba44919c4851338ac3a2ba6e",
+          "semantic_sha256": "296fb36a4911c1d1eea84f6e386435be357a533ebb7bcaab7e736611511ff425"
         },
         "Spiceworks": {
           "file": "rules/Mihomo/Spiceworks.yaml",
@@ -16809,10 +16809,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-17T07:40:18.056606+00:00",
-          "bytes": 9513107,
-          "sha256": "36bd3785948049a68032b8e84f0b3d3518a4c0b1277bd489fa76c5c37249444c",
-          "semantic_sha256": "52221ba3b77d4bbd4dbdcab6557aaae0c2ea109f83aeff36257999e9e02a3513"
+          "rule_updated_at": "2026-11-18T08:50:28.060635+00:00",
+          "bytes": 9530704,
+          "sha256": "eeb538ec263a42c67cf3babbff443e93f2b9b13ef1f7712f208f9e820ff2d717",
+          "semantic_sha256": "49b4f5a0cadd153669d5db8d938c79a3bfe9da64423380ab3b5086aca17074fd"
         },
         "Adidas": {
           "file": "rules/QuantumultX/Adidas.list",
@@ -16837,17 +16837,17 @@
         },
         "Advertising": {
           "file": "rules/QuantumultX/Advertising.list",
-          "rule_updated_at": "2026-11-17T10:24:45.741786+00:00",
-          "bytes": 12780596,
-          "sha256": "7276e7a251d44fc372ebc14dc1d27ae97556b6fec178dca7d3b2632ac8c4ed43",
-          "semantic_sha256": "447d14e40cf98868358632028f4a235905bf5c8751e79f942670c08fd4da1bed"
+          "rule_updated_at": "2026-11-18T02:29:29.007800+00:00",
+          "bytes": 11864826,
+          "sha256": "c103ebef8d404a6bae2e389635a7e434cbe79d8741eb7f8809792ea71f578b8a",
+          "semantic_sha256": "ebda36ea30010b4bcdf5710f028d83e8d84592394e186a517b890bfd352e62ac"
         },
         "AdvertisingLite": {
           "file": "rules/QuantumultX/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-17T07:37:21.369325+00:00",
-          "bytes": 8960922,
-          "sha256": "7cff509ea377177acbefeb4e1f86b76d9a5f106ef952f6b98677bfaef1b12899",
-          "semantic_sha256": "38492a95a6ed3d0ff0e0089d23f705fad11a1d3eaa2a29bd0229aac81d88aede"
+          "rule_updated_at": "2026-11-18T02:26:25.251189+00:00",
+          "bytes": 8814445,
+          "sha256": "9fab760c0bdf4b42f1001b72b7d55344064c9ef6f547bb7cfa57074d9d7ee632",
+          "semantic_sha256": "3fd09b0ec652167f71d230837c7c4817d3d7abfb190fab15c6ef104652b62688"
         },
         "AdvertisingMiTV": {
           "file": "rules/QuantumultX/AdvertisingMiTV.list",
@@ -20386,10 +20386,10 @@
         },
         "iTunes": {
           "file": "rules/QuantumultX/iTunes.list",
-          "rule_updated_at": "2026-11-06T14:18:51.379991+00:00",
-          "bytes": 3987,
-          "sha256": "e6a46a5e42d1ea06b463fde2fcc197a57263f8ecdc0a4f08680d315db70f8cd0",
-          "semantic_sha256": "f944b0656ed64e5e6685f04f7189fada916e7ffc611a71ba02e1064510b1655f"
+          "rule_updated_at": "2026-11-18T05:59:44.231470+00:00",
+          "bytes": 4068,
+          "sha256": "cd15317d2c686ab8449d92905ab7402c5005d68efc678be85d46566566a7a6c6",
+          "semantic_sha256": "1c7bf9622b495ec276aac236515c2ca7dcadd57aa81f4d641d9c315374f67dea"
         },
         "ITV": {
           "file": "rules/QuantumultX/ITV.list",
@@ -23039,10 +23039,10 @@
         },
         "Speedtest": {
           "file": "rules/QuantumultX/Speedtest.list",
-          "rule_updated_at": "2026-11-17T07:20:02.287825+00:00",
-          "bytes": 299426,
-          "sha256": "60d4361ce646c53a19161e6fe434738c3da07230a567107defc9681935a0469d",
-          "semantic_sha256": "bcd07ebbefc31a5d6979dc206b183c0d04e1d513943e1d069e0af2cafbbf63ce"
+          "rule_updated_at": "2026-11-18T02:23:00.326375+00:00",
+          "bytes": 143223,
+          "sha256": "4c66bdf627aa651d0fcfc620f90134b3a4630774fc3b28ebfb3740a00aa56b5c",
+          "semantic_sha256": "67de3abdb69fd25b66416586935712fdb1437db6a7f475ba08da370c3a341460"
         },
         "Spiceworks": {
           "file": "rules/QuantumultX/Spiceworks.list",
@@ -25109,10 +25109,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Loon/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-17T07:40:24.301888+00:00",
-          "bytes": 5338507,
-          "sha256": "00672d292378200df68961096af20de225c5919d42e546dd71b53cbebbadaf6a",
-          "semantic_sha256": "75287ee1acfb9a02e9594255ba126c098ef474ae443d8074e4bb69ab62f042af"
+          "rule_updated_at": "2026-11-18T08:50:34.628816+00:00",
+          "bytes": 5348096,
+          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
+          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
         },
         "Adidas": {
           "file": "rules/Loon/Adidas.list",
@@ -25137,17 +25137,17 @@
         },
         "Advertising": {
           "file": "rules/Loon/Advertising.list",
-          "rule_updated_at": "2026-11-17T11:20:09.172094+00:00",
-          "bytes": 9858571,
-          "sha256": "f5395879100b9a837cf3410fe6bcf8ef93cbcb863bd9a52e5dc6aa6f2024971a",
-          "semantic_sha256": "188a23f6cc86f03d6d4b40259c6d252a92dbe0b563a4e7f4d6dd60ed82459aa6"
+          "rule_updated_at": "2026-11-18T02:30:10.610444+00:00",
+          "bytes": 9143991,
+          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
+          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
         },
         "AdvertisingLite": {
           "file": "rules/Loon/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-17T07:37:34.211184+00:00",
-          "bytes": 6303034,
-          "sha256": "e3e1dccb0b4ea3b732207c1d9c0c8fa98bf84becdcf83826999bde9f4d264247",
-          "semantic_sha256": "2babc0042507ecca2c749dd6c0d081aed22e1ff723df57ecf426c254943d7415"
+          "rule_updated_at": "2026-11-18T02:26:41.849740+00:00",
+          "bytes": 6212717,
+          "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
+          "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
         },
         "AdvertisingMiTV": {
           "file": "rules/Loon/AdvertisingMiTV.list",
@@ -28686,10 +28686,10 @@
         },
         "iTunes": {
           "file": "rules/Loon/iTunes.list",
-          "rule_updated_at": "2026-11-06T14:18:51.440319+00:00",
-          "bytes": 3496,
-          "sha256": "b26811dfecac3bdd978b7eb144c61b02ba086dddf2c6930fbcf8b79ada9b0587",
-          "semantic_sha256": "276997e8def8968528869d9e81c1412b9be3e8cae16fd3fcddd8dd72b433b829"
+          "rule_updated_at": "2026-11-18T05:59:44.359690+00:00",
+          "bytes": 3567,
+          "sha256": "5c9775408ebd5bae8f88db9f2cfe442f77f255fe55eaee092b3fce3fb78fb4b7",
+          "semantic_sha256": "e5070341fd47488df8c63ee557e5f0b94b48d52351646145dea4f98385e35da7"
         },
         "ITV": {
           "file": "rules/Loon/ITV.list",
@@ -31339,10 +31339,10 @@
         },
         "Speedtest": {
           "file": "rules/Loon/Speedtest.list",
-          "rule_updated_at": "2026-11-17T07:20:02.516907+00:00",
-          "bytes": 242097,
-          "sha256": "fdc12b81e7f7d277bcb2c075f9bc2afcb161f6278641451fd0bfb71747d5fbcc",
-          "semantic_sha256": "a58b64c58c90171d58e711c2154717179af2b65bf9f3b66efead14ee776dcb46"
+          "rule_updated_at": "2026-11-18T02:23:00.830565+00:00",
+          "bytes": 115139,
+          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
+          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
         },
         "Spiceworks": {
           "file": "rules/Loon/Spiceworks.list",
@@ -33409,10 +33409,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-17T07:40:32.519206+00:00",
-          "bytes": 5338507,
-          "sha256": "00672d292378200df68961096af20de225c5919d42e546dd71b53cbebbadaf6a",
-          "semantic_sha256": "75287ee1acfb9a02e9594255ba126c098ef474ae443d8074e4bb69ab62f042af"
+          "rule_updated_at": "2026-11-18T08:50:41.261664+00:00",
+          "bytes": 5348096,
+          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
+          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
         },
         "Adidas": {
           "file": "rules/Shadowrocket/Adidas.list",
@@ -33437,17 +33437,17 @@
         },
         "Advertising": {
           "file": "rules/Shadowrocket/Advertising.list",
-          "rule_updated_at": "2026-11-17T07:33:05.877175+00:00",
-          "bytes": 9858571,
-          "sha256": "f5395879100b9a837cf3410fe6bcf8ef93cbcb863bd9a52e5dc6aa6f2024971a",
-          "semantic_sha256": "188a23f6cc86f03d6d4b40259c6d252a92dbe0b563a4e7f4d6dd60ed82459aa6"
+          "rule_updated_at": "2026-11-18T02:30:55.868885+00:00",
+          "bytes": 9143991,
+          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
+          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
         },
         "AdvertisingLite": {
           "file": "rules/Shadowrocket/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-17T07:37:42.958656+00:00",
-          "bytes": 6303034,
-          "sha256": "e3e1dccb0b4ea3b732207c1d9c0c8fa98bf84becdcf83826999bde9f4d264247",
-          "semantic_sha256": "2babc0042507ecca2c749dd6c0d081aed22e1ff723df57ecf426c254943d7415"
+          "rule_updated_at": "2026-11-18T02:27:02.604649+00:00",
+          "bytes": 6212717,
+          "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
+          "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
         },
         "AdvertisingMiTV": {
           "file": "rules/Shadowrocket/AdvertisingMiTV.list",
@@ -36986,10 +36986,10 @@
         },
         "iTunes": {
           "file": "rules/Shadowrocket/iTunes.list",
-          "rule_updated_at": "2026-11-06T14:18:51.486386+00:00",
-          "bytes": 3496,
-          "sha256": "b26811dfecac3bdd978b7eb144c61b02ba086dddf2c6930fbcf8b79ada9b0587",
-          "semantic_sha256": "276997e8def8968528869d9e81c1412b9be3e8cae16fd3fcddd8dd72b433b829"
+          "rule_updated_at": "2026-11-18T05:59:44.471716+00:00",
+          "bytes": 3567,
+          "sha256": "5c9775408ebd5bae8f88db9f2cfe442f77f255fe55eaee092b3fce3fb78fb4b7",
+          "semantic_sha256": "e5070341fd47488df8c63ee557e5f0b94b48d52351646145dea4f98385e35da7"
         },
         "ITV": {
           "file": "rules/Shadowrocket/ITV.list",
@@ -39639,10 +39639,10 @@
         },
         "Speedtest": {
           "file": "rules/Shadowrocket/Speedtest.list",
-          "rule_updated_at": "2026-11-17T07:20:02.693930+00:00",
-          "bytes": 242097,
-          "sha256": "fdc12b81e7f7d277bcb2c075f9bc2afcb161f6278641451fd0bfb71747d5fbcc",
-          "semantic_sha256": "a58b64c58c90171d58e711c2154717179af2b65bf9f3b66efead14ee776dcb46"
+          "rule_updated_at": "2026-11-18T02:23:01.216588+00:00",
+          "bytes": 115139,
+          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
+          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
         },
         "Spiceworks": {
           "file": "rules/Shadowrocket/Spiceworks.list",
@@ -41709,10 +41709,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-17T07:41:12.536409+00:00",
-          "bytes": 6097678,
-          "sha256": "ded86620f6af962cf16fdb0ba0c74420fb7efebbfa0d24f7b874d4285e589f1e",
-          "semantic_sha256": "58706676d1730d721eef8950134d9e3635ada85140a17056010cf5ce89d83832"
+          "rule_updated_at": "2026-11-18T08:51:17.407758+00:00",
+          "bytes": 6108723,
+          "sha256": "058fda3d94695cf0e5b9e18d3e2096c53898e7b5e2b8fb33809faebd580cfed2",
+          "semantic_sha256": "a8c8621a6d3be6d7124111e911a30ed1d2ec14837af8bafec9e7551e7373ab32"
         },
         "Adidas": {
           "file": "rules/Stash/Adidas.yaml",
@@ -41737,17 +41737,17 @@
         },
         "Advertising": {
           "file": "rules/Stash/Advertising.yaml",
-          "rule_updated_at": "2026-11-17T07:34:13.453369+00:00",
-          "bytes": 11032058,
-          "sha256": "89ad66358c53ae1b8d82de0d3fd63022e147c599695b40cb6338d365a9f23128",
-          "semantic_sha256": "749bfb51fded2e30fef6ae8627ceff2c439a8aaf2c4fb6930d87f2ec001a852e"
+          "rule_updated_at": "2026-11-18T02:34:43.112408+00:00",
+          "bytes": 10236882,
+          "sha256": "59f63e1c2e5c2f2bd42ff7476d37e0d4862013e05aa2d311bb39e90db754fd69",
+          "semantic_sha256": "c01e7959f67f111722bc48c616046ef9142006acb3435a8882ed592b3c217fb4"
         },
         "AdvertisingLite": {
           "file": "rules/Stash/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-17T07:38:23.891638+00:00",
-          "bytes": 7063589,
-          "sha256": "418b29470a0d17a006b5e73f3117b8c367f3750fa828a7732de1f23c845185e1",
-          "semantic_sha256": "8bf2d06143bd3c2bfdbcafc3f0c80fc3578d8d996de26a9ad63e5833043a9052"
+          "rule_updated_at": "2026-11-18T02:28:33.321837+00:00",
+          "bytes": 6957188,
+          "sha256": "4795328f7dc44501f47a249ae04af33d0772cc6f6824271b218fe7bbee099cf4",
+          "semantic_sha256": "c519c1c39e79957961be926d5c53aa64a1e515b0fe02e8088b5bec9691daf596"
         },
         "AdvertisingMiTV": {
           "file": "rules/Stash/AdvertisingMiTV.yaml",
@@ -45286,10 +45286,10 @@
         },
         "iTunes": {
           "file": "rules/Stash/iTunes.yaml",
-          "rule_updated_at": "2026-11-06T14:18:51.660311+00:00",
-          "bytes": 3923,
-          "sha256": "8f20252005306836e0257ac3b71f31fb6e4a8c6be2a813a8c462d316913ee576",
-          "semantic_sha256": "26bed25d28bbfbb1fe3d7c11b8a765e91fb651811768f1a2515ef776fa41f654"
+          "rule_updated_at": "2026-11-18T05:59:45.045373+00:00",
+          "bytes": 4002,
+          "sha256": "55693c8cf8ed288e5f164d201f4e1dd12e14dc4fad54cd9403c87c2ac3bdc71e",
+          "semantic_sha256": "d7a4970f1f4726122d5c3655c6a741f2ae3f7cb4447cd28195698eee65952f4e"
         },
         "ITV": {
           "file": "rules/Stash/ITV.yaml",
@@ -47939,10 +47939,10 @@
         },
         "Speedtest": {
           "file": "rules/Stash/Speedtest.yaml",
-          "rule_updated_at": "2026-11-17T07:20:03.613768+00:00",
-          "bytes": 270875,
-          "sha256": "930684629f85ff9d2b107be7eff1e9e8184ecfd7ab5ae08bdc021f74014595fc",
-          "semantic_sha256": "274b0baa5d017ee431a593cf312e2cbcfd4801d9d24d64bf0b69b8fccae04fbb"
+          "rule_updated_at": "2026-11-18T02:23:02.814729+00:00",
+          "bytes": 129281,
+          "sha256": "1f94cfb1a85c703e0728a7e0bc1b044d605471a96f41a6b5228e2dea3b86cb9e",
+          "semantic_sha256": "d39beff3246996304fdbcb3f21aa3e912d2313389fdc6d34da2dbc32dee0f066"
         },
         "Spiceworks": {
           "file": "rules/Stash/Spiceworks.yaml",
@@ -50009,9 +50009,9 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/SingBox/AdGuardSDNSFilterDirect.json",
-          "rule_updated_at": "2026-11-17T07:40:47.450839+00:00",
-          "bytes": 6096695,
-          "sha256": "93c353c7daa1b3969109c00bba90db01768749ab951076100b44a00a77c86060",
+          "rule_updated_at": "2026-11-18T08:50:55.719238+00:00",
+          "bytes": 6107740,
+          "sha256": "d13ccaf982522e25ad0a8d06f37d421d8571b7a1a259cdf758ef563d49ca7dc1",
           "semantic_sha256": null
         },
         "Adidas": {
@@ -50037,16 +50037,16 @@
         },
         "Advertising": {
           "file": "rules/SingBox/Advertising.json",
-          "rule_updated_at": "2026-11-17T07:33:30.840913+00:00",
-          "bytes": 9095220,
-          "sha256": "f637595f413607ce22c0035163e6d1e9652156564e10caaa51274820147139cd",
+          "rule_updated_at": "2026-11-18T02:32:19.250503+00:00",
+          "bytes": 8440716,
+          "sha256": "7bfe6fb346300263ef895958cfe1cca745c421f413b23e0a2e84da24e3a1fa39",
           "semantic_sha256": null
         },
         "AdvertisingLite": {
           "file": "rules/SingBox/AdvertisingLite.json",
-          "rule_updated_at": "2026-11-17T07:37:58.909426+00:00",
-          "bytes": 5920013,
-          "sha256": "c00f07a37977bfd14fa2a3e5a4604cbf5e4683308b65d49352c5155d9f64c743",
+          "rule_updated_at": "2026-11-18T02:27:37.999578+00:00",
+          "bytes": 5813648,
+          "sha256": "90b36c4e9378514153f2c1ad490634bdcc0d683b34d064f809f782a56c8e2f71",
           "semantic_sha256": null
         },
         "AdvertisingMiTV": {
@@ -53579,9 +53579,9 @@
         },
         "iTunes": {
           "file": "rules/SingBox/iTunes.json",
-          "rule_updated_at": "2026-11-06T14:18:51.563295+00:00",
-          "bytes": 3491,
-          "sha256": "21fbe09541a13eaf83911d86b34fff1ffc5ab3ad00e45771cb5ba8b622dc9298",
+          "rule_updated_at": "2026-11-18T05:59:44.687831+00:00",
+          "bytes": 3570,
+          "sha256": "112fd26088331e8d95f8ff4cbdb96041801884c8491d385ae1ed6ed4021e3fec",
           "semantic_sha256": null
         },
         "ITV": {
@@ -56232,9 +56232,9 @@
         },
         "Speedtest": {
           "file": "rules/SingBox/Speedtest.json",
-          "rule_updated_at": "2026-11-17T07:20:03.067214+00:00",
-          "bytes": 244328,
-          "sha256": "12d7e67607869a43d2f82029606916a9d1f945a064905b80d38b60f64d2f026d",
+          "rule_updated_at": "2026-11-18T02:23:01.750795+00:00",
+          "bytes": 128202,
+          "sha256": "f60988e570724eae22c33b3b3ccaf1b217c3d817bd20a04a22341d3697e3420e",
           "semantic_sha256": null
         },
         "Spiceworks": {
@@ -58302,10 +58302,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-17T07:40:55.877265+00:00",
-          "bytes": 4768246,
-          "sha256": "a4601cf0d607b482e0d7498702030214c4d6221ec65a2dd40b75b3a05be485c4",
-          "semantic_sha256": "c04e62d250af7c38a56e390bc1ab2208f48611e0c914d4fef10b80115fdd3c73"
+          "rule_updated_at": "2026-11-18T08:51:03.159605+00:00",
+          "bytes": 4776743,
+          "sha256": "1007d0115828f1cc0c4e8009644e642b36accdd055e41d581b616e350995a314",
+          "semantic_sha256": "283f2cae2efdee8d12f4e5fa2aaf40f2f44b13ca05f57bab8536e59ebaf56b10"
         },
         "Adidas": {
           "file": "rules/Egern/Adidas.yaml",
@@ -58330,17 +58330,17 @@
         },
         "Advertising": {
           "file": "rules/Egern/Advertising.yaml",
-          "rule_updated_at": "2026-11-17T07:33:44.218269+00:00",
-          "bytes": 7044972,
-          "sha256": "39dbfa72cbeeeb604ede9bbe101f9e4ec9e758a4000b48b0f844f953e2517a9a",
-          "semantic_sha256": "0f3d86567bc3fac8ba431eeb24c38f98d42cd5671c6c6bdaf61c9121c2a54c5a"
+          "rule_updated_at": "2026-11-18T02:33:06.288505+00:00",
+          "bytes": 6531389,
+          "sha256": "e222806f9423461e0b664c44b4b3eb2691e9310faba5fa39fbce50b0002fa790",
+          "semantic_sha256": "501df63da65efc255c07f6100bb0facd89a9f819b14d55988482519ba4f7a820"
         },
         "AdvertisingLite": {
           "file": "rules/Egern/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-17T07:38:06.420696+00:00",
-          "bytes": 4590943,
-          "sha256": "e99866c07802b886b2b38845fb0844c62657eacb98837ad64d00421c2b995f75",
-          "semantic_sha256": "7429961858959f84f4970f5f4b03952f299359e6200eeee3d564645d9ad2b71e"
+          "rule_updated_at": "2026-11-18T02:27:58.818690+00:00",
+          "bytes": 4512648,
+          "sha256": "98a6d6d89fb1d20b7b2e60eabafce0734bf2386ed7e595c59601bacc8cfcbecb",
+          "semantic_sha256": "09daf9903e3e696a30646a359c2b1261b6b1a3d13145a00e94a6bafe8fb94b8e"
         },
         "AdvertisingMiTV": {
           "file": "rules/Egern/AdvertisingMiTV.yaml",
@@ -61879,10 +61879,10 @@
         },
         "iTunes": {
           "file": "rules/Egern/iTunes.yaml",
-          "rule_updated_at": "2026-11-06T14:18:51.610337+00:00",
-          "bytes": 2825,
-          "sha256": "fba92b169a676fecf24a7bf71aa56bff507c34bbb637e905578cd028ea447b38",
-          "semantic_sha256": "1472c3f6ac3e1043b2a77801d2b80bc58aa628af8de64051bd9031365fc3ef0d"
+          "rule_updated_at": "2026-11-18T05:59:44.816495+00:00",
+          "bytes": 2890,
+          "sha256": "7deef8f3caef92997ad8001a51f0fd0836395c3ba0ca5105a4631d40d32e7242",
+          "semantic_sha256": "11bd911a1ac3e3f49d60e8a1da4049175ddaeb390243cdf68f41cf676f46b9d6"
         },
         "ITV": {
           "file": "rules/Egern/ITV.yaml",
@@ -64532,10 +64532,10 @@
         },
         "Speedtest": {
           "file": "rules/Egern/Speedtest.yaml",
-          "rule_updated_at": "2026-11-17T09:37:02.804633+00:00",
-          "bytes": 194196,
-          "sha256": "e1e04c2d223786792c131e99983a92749e4868ff79f52266343cc8c77781e1cb",
-          "semantic_sha256": "4e8463e6bfdd3ae1ce3ab8eea47f64c3ceb933da2a225e2a771e639d3ee89d15"
+          "rule_updated_at": "2026-11-18T02:23:02.136146+00:00",
+          "bytes": 103739,
+          "sha256": "4846215b26e35a06380b3f50cdd7cb31a3c8cf83fc09557331f17e376226b5ea",
+          "semantic_sha256": "5794f586b7f0cdb18845d0ba5d19c13143b1d66cb9c2a32d9c1cb89fc3982c78"
         },
         "Spiceworks": {
           "file": "rules/Egern/Spiceworks.yaml",

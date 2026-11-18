@@ -2,7 +2,7 @@
   "client": "Stash",
   "rule_file_extension": "yaml",
   "rule_count": 1185,
-  "total_line_count": 851255,
+  "total_line_count": 827462,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 189696,
+        "DOMAIN": 190071,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 189774,
-      "rule_updated_at": "2026-11-17T07:41:12.536409+00:00",
+      "total_line_count": 190149,
+      "rule_updated_at": "2026-11-18T08:51:17.407758+00:00",
       "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -472,18 +472,18 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 17500,
-        "DOMAIN-KEYWORD": 210,
-        "DOMAIN-SUFFIX": 274350,
+        "DOMAIN": 17421,
+        "DOMAIN-KEYWORD": 208,
+        "DOMAIN-SUFFIX": 254303,
         "DOMAIN-WILDCARD": 22,
         "IP-ASN": 15,
-        "IP-CIDR": 1035,
+        "IP-CIDR": 1018,
         "IP-CIDR6": 6,
-        "URL-REGEX": 15,
+        "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 293154,
-      "rule_updated_at": "2026-11-17T07:34:13.453369+00:00",
+      "total_line_count": 273005,
+      "rule_updated_at": "2026-11-18T02:34:43.112408+00:00",
       "file": "rules/Stash/Advertising.yaml"
     },
     {
@@ -499,16 +499,16 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 26932,
+        "DOMAIN": 22906,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162631,
+        "DOMAIN-SUFFIX": 162642,
         "DOMAIN-WILDCARD": 15,
-        "IP-CIDR": 233,
+        "IP-CIDR": 230,
         "IP-CIDR6": 4,
-        "URL-REGEX": 5
+        "URL-REGEX": 2
       },
-      "total_line_count": 189984,
-      "rule_updated_at": "2026-11-17T07:38:23.891638+00:00",
+      "total_line_count": 185963,
+      "rule_updated_at": "2026-11-18T02:28:33.321837+00:00",
       "file": "rules/Stash/AdvertisingLite.yaml"
     },
     {
@@ -2670,11 +2670,11 @@
         "DOMAIN-REGEX": 4,
         "DOMAIN-SUFFIX": 6370,
         "DOMAIN-WILDCARD": 2,
-        "IP-CIDR": 3867,
+        "IP-CIDR": 3866,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10307,
+      "total_line_count": 10306,
       "rule_updated_at": "2026-11-17T07:23:59.830783+00:00",
       "file": "rules/Stash/China.yaml"
     },
@@ -2731,10 +2731,10 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12495,
+        "IP-CIDR": 12494,
         "IP-CIDR6": 5407
       },
-      "total_line_count": 22978,
+      "total_line_count": 22977,
       "rule_updated_at": "2026-11-17T07:20:11.577337+00:00",
       "file": "rules/Stash/ChinaIPs.yaml"
     },
@@ -7602,11 +7602,11 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN": 46,
+        "DOMAIN": 48,
         "DOMAIN-SUFFIX": 53
       },
-      "total_line_count": 99,
-      "rule_updated_at": "2026-11-06T14:18:51.660311+00:00",
+      "total_line_count": 101,
+      "rule_updated_at": "2026-11-18T05:59:45.045373+00:00",
       "file": "rules/Stash/iTunes.yaml"
     },
     {
@@ -12808,14 +12808,14 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 3377,
+        "DOMAIN": 3379,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-REGEX": 1,
         "DOMAIN-SUFFIX": 130,
         "USER-AGENT": 1
       },
-      "total_line_count": 3510,
-      "rule_updated_at": "2026-11-17T07:20:03.613768+00:00",
+      "total_line_count": 3512,
+      "rule_updated_at": "2026-11-18T02:23:02.814729+00:00",
       "file": "rules/Stash/Speedtest.yaml"
     },
     {

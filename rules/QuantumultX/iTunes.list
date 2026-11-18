@@ -1,8 +1,8 @@
 # NAME: iTunes
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-07 03:23:48
-# HOST: 46
+# UPDATED: 2026-11-18 13:59:47
+# HOST: 48
 # HOST-SUFFIX: 53
 
 HOST,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,iTunes
@@ -29,8 +29,10 @@ HOST,itunes-apple.com.akadns.net,iTunes
 HOST,itunes.apple.com,iTunes
 HOST,itunesconnect.apple.com,iTunes
 HOST,misc-assets.itunes.apple.com,iTunes
+HOST,musicstatus.itunes.apple.com,iTunes
 HOST,mvod.itunes.apple.com,iTunes
 HOST,myapp.itunes.apple.com,iTunes
+HOST,mzstorekit.itunes.apple.com,iTunes
 HOST,np-edge.itunes.apple.com,iTunes
 HOST,osxapps.itunes.apple.com,iTunes
 HOST,osxapps.itunes.g.aaplimg.com,iTunes
