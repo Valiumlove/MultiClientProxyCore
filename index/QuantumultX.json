@@ -1,8 +1,8 @@
 {
   "client": "QuantumultX",
   "rule_file_extension": "list",
-  "rule_count": 1185,
-  "total_line_count": 827403,
+  "rule_count": 1186,
+  "total_line_count": 827780,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "HOST": 190071,
+        "HOST": 190191,
         "HOST-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190149,
-      "rule_updated_at": "2026-11-18T08:50:28.060635+00:00",
+      "total_line_count": 190269,
+      "rule_updated_at": "2026-11-18T15:19:33.870687+00:00",
       "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -474,7 +474,7 @@
       "type_counts": {
         "HOST": 17421,
         "HOST-KEYWORD": 208,
-        "HOST-SUFFIX": 254303,
+        "HOST-SUFFIX": 254546,
         "HOST-WILDCARD": 22,
         "IP6-CIDR": 6,
         "IP-ASN": 15,
@@ -482,8 +482,8 @@
         "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 273005,
-      "rule_updated_at": "2026-11-18T02:29:29.007800+00:00",
+      "total_line_count": 273248,
+      "rule_updated_at": "2026-11-18T15:45:56.432514+00:00",
       "file": "rules/QuantumultX/Advertising.list"
     },
     {
@@ -501,14 +501,14 @@
       "type_counts": {
         "HOST": 22906,
         "HOST-KEYWORD": 164,
-        "HOST-SUFFIX": 162642,
+        "HOST-SUFFIX": 162644,
         "HOST-WILDCARD": 15,
         "IP6-CIDR": 4,
         "IP-CIDR": 230,
         "URL-REGEX": 2
       },
-      "total_line_count": 185963,
-      "rule_updated_at": "2026-11-18T02:26:25.251189+00:00",
+      "total_line_count": 185965,
+      "rule_updated_at": "2026-11-18T15:45:12.699056+00:00",
       "file": "rules/QuantumultX/AdvertisingLite.list"
     },
     {
@@ -1135,6 +1135,25 @@
       "total_line_count": 2092,
       "rule_updated_at": "2026-11-17T09:15:49.733705+00:00",
       "file": "rules/QuantumultX/Apple.list"
+    },
+    {
+      "name": "Apple APNs",
+      "chinese_name": "Apple APNs",
+      "types": [
+        "HOST-KEYWORD",
+        "HOST-SUFFIX",
+        "IP-CIDR",
+        "IP6-CIDR"
+      ],
+      "type_counts": {
+        "HOST-KEYWORD": 1,
+        "HOST-SUFFIX": 2,
+        "IP6-CIDR": 4,
+        "IP-CIDR": 5
+      },
+      "total_line_count": 12,
+      "rule_updated_at": "2026-11-18T14:20:20.987294+00:00",
+      "file": "rules/QuantumultX/Apple APNs.list"
     },
     {
       "name": "AppleCDN",
@@ -2642,14 +2661,14 @@
       "type_counts": {
         "HOST": 20,
         "HOST-KEYWORD": 10,
-        "HOST-SUFFIX": 6370,
+        "HOST-SUFFIX": 6372,
         "HOST-WILDCARD": 2,
         "IP6-CIDR": 4,
-        "IP-CIDR": 3866,
+        "IP-CIDR": 3861,
         "USER-AGENT": 30
       },
-      "total_line_count": 10302,
-      "rule_updated_at": "2026-11-17T07:22:40.898755+00:00",
+      "total_line_count": 10299,
+      "rule_updated_at": "2026-11-18T15:01:58.354477+00:00",
       "file": "rules/QuantumultX/China.list"
     },
     {
@@ -2687,10 +2706,10 @@
       ],
       "type_counts": {
         "HOST": 2,
-        "HOST-SUFFIX": 290
+        "HOST-SUFFIX": 292
       },
-      "total_line_count": 292,
-      "rule_updated_at": "2026-11-17T07:20:04.358941+00:00",
+      "total_line_count": 294,
+      "rule_updated_at": "2026-11-18T16:27:48.541289+00:00",
       "file": "rules/QuantumultX/ChinaGame.list"
     },
     {
@@ -2704,9 +2723,9 @@
       "type_counts": {
         "IP6-CIDR": 5407,
         "IP-ASN": 5076,
-        "IP-CIDR": 12494
+        "IP-CIDR": 12495
       },
-      "total_line_count": 22977,
+      "total_line_count": 22978,
       "rule_updated_at": "2026-11-17T07:20:04.178974+00:00",
       "file": "rules/QuantumultX/ChinaIPs.list"
     },

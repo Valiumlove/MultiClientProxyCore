@@ -1,8 +1,8 @@
 {
   "client": "Mihomo",
   "rule_file_extension": "yaml",
-  "rule_count": 1185,
-  "total_line_count": 827433,
+  "rule_count": 1186,
+  "total_line_count": 827810,
   "rules": [
     {
       "name": "115",
@@ -402,12 +402,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190071,
+        "DOMAIN": 190191,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190149,
-      "rule_updated_at": "2026-11-18T08:51:10.251472+00:00",
+      "total_line_count": 190269,
+      "rule_updated_at": "2026-11-18T15:20:17.558999+00:00",
       "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -468,14 +468,14 @@
       "type_counts": {
         "DOMAIN": 17421,
         "DOMAIN-KEYWORD": 208,
-        "DOMAIN-SUFFIX": 254303,
+        "DOMAIN-SUFFIX": 254546,
         "DOMAIN-WILDCARD": 22,
         "IP-ASN": 15,
         "IP-CIDR": 1018,
         "IP-CIDR6": 6
       },
-      "total_line_count": 272993,
-      "rule_updated_at": "2026-11-18T02:33:54.395620+00:00",
+      "total_line_count": 273236,
+      "rule_updated_at": "2026-11-18T15:48:04.675250+00:00",
       "file": "rules/Mihomo/Advertising.yaml"
     },
     {
@@ -492,13 +492,13 @@
       "type_counts": {
         "DOMAIN": 22906,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162642,
+        "DOMAIN-SUFFIX": 162644,
         "DOMAIN-WILDCARD": 15,
         "IP-CIDR": 230,
         "IP-CIDR6": 4
       },
-      "total_line_count": 185961,
-      "rule_updated_at": "2026-11-18T02:28:15.463461+00:00",
+      "total_line_count": 185963,
+      "rule_updated_at": "2026-11-18T15:47:00.256415+00:00",
       "file": "rules/Mihomo/AdvertisingLite.yaml"
     },
     {
@@ -1125,6 +1125,25 @@
       "total_line_count": 2096,
       "rule_updated_at": "2026-11-17T09:22:32.658474+00:00",
       "file": "rules/Mihomo/Apple.yaml"
+    },
+    {
+      "name": "Apple APNs",
+      "chinese_name": "Apple APNs",
+      "types": [
+        "DOMAIN-KEYWORD",
+        "DOMAIN-SUFFIX",
+        "IP-CIDR",
+        "IP-CIDR6"
+      ],
+      "type_counts": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 2,
+        "IP-CIDR": 5,
+        "IP-CIDR6": 4
+      },
+      "total_line_count": 12,
+      "rule_updated_at": "2026-11-18T14:20:21.745893+00:00",
+      "file": "rules/Mihomo/Apple APNs.yaml"
     },
     {
       "name": "AppleCDN",
@@ -2629,13 +2648,13 @@
       "type_counts": {
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 6370,
+        "DOMAIN-SUFFIX": 6372,
         "DOMAIN-WILDCARD": 2,
-        "IP-CIDR": 3866,
+        "IP-CIDR": 3861,
         "IP-CIDR6": 4
       },
-      "total_line_count": 10272,
-      "rule_updated_at": "2026-11-17T07:23:49.130531+00:00",
+      "total_line_count": 10269,
+      "rule_updated_at": "2026-11-18T15:03:02.165895+00:00",
       "file": "rules/Mihomo/China.yaml"
     },
     {
@@ -2673,10 +2692,10 @@
       ],
       "type_counts": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 290
+        "DOMAIN-SUFFIX": 292
       },
-      "total_line_count": 292,
-      "rule_updated_at": "2026-11-17T07:20:05.799032+00:00",
+      "total_line_count": 294,
+      "rule_updated_at": "2026-11-18T16:27:49.315263+00:00",
       "file": "rules/Mihomo/ChinaGame.yaml"
     },
     {
@@ -2689,10 +2708,10 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12494,
+        "IP-CIDR": 12495,
         "IP-CIDR6": 5407
       },
-      "total_line_count": 22977,
+      "total_line_count": 22978,
       "rule_updated_at": "2026-11-17T07:20:10.601921+00:00",
       "file": "rules/Mihomo/ChinaIPs.yaml"
     },

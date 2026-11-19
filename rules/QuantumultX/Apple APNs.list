@@ -1,0 +1,21 @@
+# NAME: Apple APNs
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-18 22:30:35
+# HOST-SUFFIX: 2
+# HOST-KEYWORD: 1
+# IP-CIDR: 5
+# IP6-CIDR: 4
+
+HOST-SUFFIX,akadns.net,Apple APNs
+HOST-SUFFIX,push.apple.com,Apple APNs
+HOST-KEYWORD,apple.com.edgekey.net,Apple APNs
+IP-CIDR,17.188.128.0/18,Apple APNs
+IP-CIDR,17.188.20.0/23,Apple APNs
+IP-CIDR,17.249.0.0/16,Apple APNs
+IP-CIDR,17.252.0.0/16,Apple APNs
+IP-CIDR,17.57.144.0/22,Apple APNs
+IP6-CIDR,2403:300:a42::/48,Apple APNs
+IP6-CIDR,2403:300:a51::/48,Apple APNs
+IP6-CIDR,2620:149:a44::/48,Apple APNs
+IP6-CIDR,2a01:b740:a42::/48,Apple APNs

@@ -1,8 +1,8 @@
 {
   "client": "Shadowrocket",
   "rule_file_extension": "list",
-  "rule_count": 1185,
-  "total_line_count": 827427,
+  "rule_count": 1186,
+  "total_line_count": 827804,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190071,
+        "DOMAIN": 190191,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190149,
-      "rule_updated_at": "2026-11-18T08:50:41.261664+00:00",
+      "total_line_count": 190269,
+      "rule_updated_at": "2026-11-18T15:19:47.403544+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -473,15 +473,15 @@
       "type_counts": {
         "DOMAIN": 17421,
         "DOMAIN-KEYWORD": 208,
-        "DOMAIN-SUFFIX": 254303,
+        "DOMAIN-SUFFIX": 254546,
         "IP-ASN": 15,
         "IP-CIDR": 1018,
         "IP-CIDR6": 6,
         "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 272983,
-      "rule_updated_at": "2026-11-18T02:30:55.868885+00:00",
+      "total_line_count": 273226,
+      "rule_updated_at": "2026-11-18T15:46:56.815811+00:00",
       "file": "rules/Shadowrocket/Advertising.list"
     },
     {
@@ -498,13 +498,13 @@
       "type_counts": {
         "DOMAIN": 22906,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162642,
+        "DOMAIN-SUFFIX": 162644,
         "IP-CIDR": 230,
         "IP-CIDR6": 4,
         "URL-REGEX": 2
       },
-      "total_line_count": 185948,
-      "rule_updated_at": "2026-11-18T02:27:02.604649+00:00",
+      "total_line_count": 185950,
+      "rule_updated_at": "2026-11-18T15:45:39.813498+00:00",
       "file": "rules/Shadowrocket/AdvertisingLite.list"
     },
     {
@@ -1137,6 +1137,25 @@
       "total_line_count": 2086,
       "rule_updated_at": "2026-11-17T09:18:09.880748+00:00",
       "file": "rules/Shadowrocket/Apple.list"
+    },
+    {
+      "name": "Apple APNs",
+      "chinese_name": "Apple APNs",
+      "types": [
+        "DOMAIN-KEYWORD",
+        "DOMAIN-SUFFIX",
+        "IP-CIDR",
+        "IP-CIDR6"
+      ],
+      "type_counts": {
+        "DOMAIN-KEYWORD": 1,
+        "DOMAIN-SUFFIX": 2,
+        "IP-CIDR": 5,
+        "IP-CIDR6": 4
+      },
+      "total_line_count": 12,
+      "rule_updated_at": "2026-11-18T14:20:21.295161+00:00",
+      "file": "rules/Shadowrocket/Apple APNs.list"
     },
     {
       "name": "AppleCDN",
@@ -2651,13 +2670,13 @@
       "type_counts": {
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 6370,
-        "IP-CIDR": 3866,
+        "DOMAIN-SUFFIX": 6372,
+        "IP-CIDR": 3861,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10300,
-      "rule_updated_at": "2026-11-17T07:23:08.494032+00:00",
+      "total_line_count": 10297,
+      "rule_updated_at": "2026-11-18T15:02:19.549164+00:00",
       "file": "rules/Shadowrocket/China.list"
     },
     {
@@ -2695,10 +2714,10 @@
       ],
       "type_counts": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 290
+        "DOMAIN-SUFFIX": 292
       },
-      "total_line_count": 292,
-      "rule_updated_at": "2026-11-17T07:20:04.922580+00:00",
+      "total_line_count": 294,
+      "rule_updated_at": "2026-11-18T16:27:48.849171+00:00",
       "file": "rules/Shadowrocket/ChinaGame.list"
     },
     {
@@ -2711,10 +2730,10 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12494,
+        "IP-CIDR": 12495,
         "IP-CIDR6": 5407
       },
-      "total_line_count": 22977,
+      "total_line_count": 22978,
       "rule_updated_at": "2026-11-17T07:20:06.344812+00:00",
       "file": "rules/Shadowrocket/ChinaIPs.list"
     },

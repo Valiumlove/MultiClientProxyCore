@@ -2,7 +2,7 @@
   "version": 1,
   "clients": {
     "Surge": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Surge/56.list",
@@ -209,10 +209,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Surge/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-18T08:50:48.308988+00:00",
-          "bytes": 5348096,
-          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
-          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
+          "rule_updated_at": "2026-11-18T15:19:54.473018+00:00",
+          "bytes": 5351256,
+          "sha256": "6db2d90491b8dfd776e2033a5c5a78485f08cc4f1c74ac6ba3ed27816ea05630",
+          "semantic_sha256": "716c42e7fcb863bbfbefa319133d9ac47ec2a7a2ba1106f4bea63dfa398097b7"
         },
         "Adidas": {
           "file": "rules/Surge/Adidas.list",
@@ -237,14 +237,14 @@
         },
         "Advertising": {
           "file": "rules/Surge/Advertising.list",
-          "rule_updated_at": "2026-11-18T02:31:37.082311+00:00",
-          "bytes": 9143991,
-          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
-          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
+          "rule_updated_at": "2026-11-18T15:47:17.250188+00:00",
+          "bytes": 9152214,
+          "sha256": "774d3938d4b402346fd1162afccf3f0f48305d370b9de625d7628ab8a2cced3d",
+          "semantic_sha256": "cdef3baca27f33f36992d4593048d78476c30f5525f0125dea60da1740eccdee"
         },
         "AdvertisingLite": {
           "file": "rules/Surge/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-18T02:27:23.682172+00:00",
+          "rule_updated_at": "2026-11-18T15:45:54.625587+00:00",
           "bytes": 6212717,
           "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
           "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
@@ -549,6 +549,13 @@
           "bytes": 203092,
           "sha256": "e648aa826421b0c4b6d657206528d6e6f933d0b63d837cfdeb9cee3206139aeb",
           "semantic_sha256": "995c3b9513a6bd2ffb77c30fe898e3823032e8f4abe5d132ae75bf7843b2bb53"
+        },
+        "Apple APNs": {
+          "file": "rules/Surge/Apple APNs.list",
+          "rule_updated_at": "2026-11-18T14:20:21.447161+00:00",
+          "bytes": 587,
+          "sha256": "8f25b8a0ae0ef87d440661b9826042d41bea8e062761c25548b5b6ea0de3868d",
+          "semantic_sha256": "60e3ec6f80f4388626b69c64448ec66bff807c41516deb8710509abf745ace92"
         },
         "AppleCDN": {
           "file": "rules/Surge/AppleCDN.list",
@@ -1315,10 +1322,10 @@
         },
         "China": {
           "file": "rules/Surge/China.list",
-          "rule_updated_at": "2026-11-17T07:23:18.590693+00:00",
-          "bytes": 306133,
-          "sha256": "0992596f563f225d3327e401ef886d9796207c321425c5fc7c53dfbc62ab5fae",
-          "semantic_sha256": "226639f7065ee1b0d756f4a4117a201d2870c3b6ee94463599deb3323eeff7e4"
+          "rule_updated_at": "2026-11-18T15:02:30.067194+00:00",
+          "bytes": 305969,
+          "sha256": "31aaae230a80afa74cc3b933b2ebe67102be76800c2f1cd5a5e189ec70e80590",
+          "semantic_sha256": "3e395707b7c49a3171989bc8c112d487d44f99bf066410676eff3875cadd2751"
         },
         "ChinaASN": {
           "file": "rules/Surge/ChinaASN.list",
@@ -1336,10 +1343,10 @@
         },
         "ChinaGame": {
           "file": "rules/Surge/ChinaGame.list",
-          "rule_updated_at": "2026-11-17T07:20:05.038327+00:00",
-          "bytes": 7971,
-          "sha256": "c0309311824f1fa5ab29c8c3e08381e5f146ba3a97c74e0c9d12d6cb0491e20b",
-          "semantic_sha256": "b412d349bce04da77f3c31f2b80477285c1cf5cc347d6e566184957e64318340"
+          "rule_updated_at": "2026-11-18T16:27:48.963177+00:00",
+          "bytes": 8016,
+          "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
+          "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Surge/ChinaIPs.list",
@@ -8302,7 +8309,7 @@
       }
     },
     "Mihomo": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Mihomo/56.yaml",
@@ -8509,10 +8516,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-18T08:51:10.251472+00:00",
-          "bytes": 6108723,
-          "sha256": "058fda3d94695cf0e5b9e18d3e2096c53898e7b5e2b8fb33809faebd580cfed2",
-          "semantic_sha256": "a8c8621a6d3be6d7124111e911a30ed1d2ec14837af8bafec9e7551e7373ab32"
+          "rule_updated_at": "2026-11-18T15:20:17.558999+00:00",
+          "bytes": 6112363,
+          "sha256": "7e94c9df841b65fb531ada9411db863f597da511990308c019bce9439a8f0f3d",
+          "semantic_sha256": "d073123e08c5ff85800606d8252c6cd8de39329734df4475532ee852cd1167e0"
         },
         "Adidas": {
           "file": "rules/Mihomo/Adidas.yaml",
@@ -8537,14 +8544,14 @@
         },
         "Advertising": {
           "file": "rules/Mihomo/Advertising.yaml",
-          "rule_updated_at": "2026-11-18T02:33:54.395620+00:00",
-          "bytes": 10236213,
-          "sha256": "637857033c1a04ff392c9ea254b6a4cb6d83098a1ca6a9b37b0dba6a4b205ab1",
-          "semantic_sha256": "e936331337f85f4e6ce9a8e8ded4ddac0ebdf515271c555f325471fe55e3e1c9"
+          "rule_updated_at": "2026-11-18T15:48:04.675250+00:00",
+          "bytes": 10245408,
+          "sha256": "1a9c4bf7d118d66f13acd9e62cbfc18779c1cea6706710071e5434fcc1c1de9f",
+          "semantic_sha256": "280a3040e12fc0a946cdab8402803ef17f43506147c437745c9579df56764fe6"
         },
         "AdvertisingLite": {
           "file": "rules/Mihomo/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-18T02:28:15.463461+00:00",
+          "rule_updated_at": "2026-11-18T15:47:00.256415+00:00",
           "bytes": 6956980,
           "sha256": "5a11aa53ba001064affe33fa4b07dbbb9ca355b2b4e2ea4c659b18e9c0083bf1",
           "semantic_sha256": "64bb96fdf4fb120c0bb6e6de873f12b061f12b70820c331dd0292e3e23c9afc3"
@@ -8849,6 +8856,13 @@
           "bytes": 227464,
           "sha256": "fd82f68c11befab427a778d48dabb9fca7a253e4e7a2ca7591cf02b540c9e41b",
           "semantic_sha256": "b23183c40868570fa6dbcd39823be8ef5c53ee6fda9a0a4ea1a817ea05af515c"
+        },
+        "Apple APNs": {
+          "file": "rules/Mihomo/Apple APNs.yaml",
+          "rule_updated_at": "2026-11-18T14:20:21.745893+00:00",
+          "bytes": 666,
+          "sha256": "37f5eb43400783b7ba447a8f3ad3169654f54ecc5a350dcdb3ff4dbf1b3f16f0",
+          "semantic_sha256": "4962a2140ecf543b0385f1068ea467c049f50d1a5f379d5a10e41a969d141cd7"
         },
         "AppleCDN": {
           "file": "rules/Mihomo/AppleCDN.yaml",
@@ -9615,10 +9629,10 @@
         },
         "China": {
           "file": "rules/Mihomo/China.yaml",
-          "rule_updated_at": "2026-11-17T07:23:49.130531+00:00",
-          "bytes": 346499,
-          "sha256": "8cfd660ae3b60e116e36281ee8be1edd8b4447ffd1de273765c0f68a11523032",
-          "semantic_sha256": "c8a6eb6b1c575c893824e2ba514e221b97fd6008e1a431453475062ce268a24b"
+          "rule_updated_at": "2026-11-18T15:03:02.165895+00:00",
+          "bytes": 346319,
+          "sha256": "355c4c7c8b3d40b2ac49e14556dd4c3d9d1488beb8408e90a606a450f8d7625f",
+          "semantic_sha256": "75399b2b4e0e7314f9ea8cc39e09abb9e35698b7d5fe0571c3224a07c76b64f0"
         },
         "ChinaASN": {
           "file": "rules/Mihomo/ChinaASN.yaml",
@@ -9636,10 +9650,10 @@
         },
         "ChinaGame": {
           "file": "rules/Mihomo/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-17T07:20:05.799032+00:00",
-          "bytes": 9170,
-          "sha256": "a9d9457c14d2b32f1528363daf13b7d77005a9841263e3f4495a88799167e765",
-          "semantic_sha256": "6a351685d343127f96d0ec16954fb71f52192a9a8417f0490bdf6c2bd1206ba3"
+          "rule_updated_at": "2026-11-18T16:27:49.315263+00:00",
+          "bytes": 9223,
+          "sha256": "7b1aef8b638c2c7e9fb8f3a19e8497d7dcbe6c1a32f214fd24cf705b7e9a417d",
+          "semantic_sha256": "5623ce12236edc8f55b1950992eeb2af3223fc6e34f85e97df9d1ad5fe359216"
         },
         "ChinaIPs": {
           "file": "rules/Mihomo/ChinaIPs.yaml",
@@ -16602,7 +16616,7 @@
       }
     },
     "QuantumultX": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/QuantumultX/56.list",
@@ -16809,10 +16823,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-18T08:50:28.060635+00:00",
-          "bytes": 9530704,
-          "sha256": "eeb538ec263a42c67cf3babbff443e93f2b9b13ef1f7712f208f9e820ff2d717",
-          "semantic_sha256": "49b4f5a0cadd153669d5db8d938c79a3bfe9da64423380ab3b5086aca17074fd"
+          "rule_updated_at": "2026-11-18T15:19:33.870687+00:00",
+          "bytes": 9536504,
+          "sha256": "ffb674f7850fa98e2cb31b5d2ef7f6c3f2eddc5d8328bab2e93672ddcc92792b",
+          "semantic_sha256": "b024dcd57f74231c3cb5282e43c451f4c38e9d88cebfaad3d73cf0933986968e"
         },
         "Adidas": {
           "file": "rules/QuantumultX/Adidas.list",
@@ -16837,14 +16851,14 @@
         },
         "Advertising": {
           "file": "rules/QuantumultX/Advertising.list",
-          "rule_updated_at": "2026-11-18T02:29:29.007800+00:00",
-          "bytes": 11864826,
-          "sha256": "c103ebef8d404a6bae2e389635a7e434cbe79d8741eb7f8809792ea71f578b8a",
-          "semantic_sha256": "ebda36ea30010b4bcdf5710f028d83e8d84592394e186a517b890bfd352e62ac"
+          "rule_updated_at": "2026-11-18T15:45:56.432514+00:00",
+          "bytes": 11875479,
+          "sha256": "ad24f4dd0d3347a03356f395aabd47f8d6f95ce4ffb019330a88a8e7b26a9ee0",
+          "semantic_sha256": "2d4d1df02b8c65cb69a3d5335d82c4dedc334d5d87c90f6bff36b9bebbd61f1b"
         },
         "AdvertisingLite": {
           "file": "rules/QuantumultX/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-18T02:26:25.251189+00:00",
+          "rule_updated_at": "2026-11-18T15:45:12.699056+00:00",
           "bytes": 8814445,
           "sha256": "9fab760c0bdf4b42f1001b72b7d55344064c9ef6f547bb7cfa57074d9d7ee632",
           "semantic_sha256": "3fd09b0ec652167f71d230837c7c4817d3d7abfb190fab15c6ef104652b62688"
@@ -17149,6 +17163,13 @@
           "bytes": 227137,
           "sha256": "fbd4716c987a15dffc28dede303a8a50ac913ce48ab62a7179bfe8954cfadd1b",
           "semantic_sha256": "8baea935bf66e0193b8ac22f8439e2820b78f44dd749cbe70f9f63fc71739392"
+        },
+        "Apple APNs": {
+          "file": "rules/QuantumultX/Apple APNs.list",
+          "rule_updated_at": "2026-11-18T14:20:20.987294+00:00",
+          "bytes": 610,
+          "sha256": "8873295e4e37b3e5fcfc5c3f5d7dbd1640731416e974d65bf13f5d6d4b4de072",
+          "semantic_sha256": "e6d03e0c58605920869499752b2c897f5cce0a1dd73203d65071e76daac56d76"
         },
         "AppleCDN": {
           "file": "rules/QuantumultX/AppleCDN.list",
@@ -17915,10 +17936,10 @@
         },
         "China": {
           "file": "rules/QuantumultX/China.list",
-          "rule_updated_at": "2026-11-17T07:22:40.898755+00:00",
-          "bytes": 312637,
-          "sha256": "92f6b2598e45e927711e31e97f3f2e32908067de5dd10176cfb4ca367eab6d12",
-          "semantic_sha256": "5914706042c8b41558056cc5e34c6d415c066a9ddab8a54a80bf0f74e591a5a5"
+          "rule_updated_at": "2026-11-18T15:01:58.354477+00:00",
+          "bytes": 312511,
+          "sha256": "8fc94639a2f222836d603cc6b2fa502984e806d9beb4367055fcbe9658d10cf1",
+          "semantic_sha256": "01898d0b49f2ca16d369f9bb620f87470bab91c1f79682a93edb2c070693ac0e"
         },
         "ChinaASN": {
           "file": "rules/QuantumultX/ChinaASN.list",
@@ -17936,10 +17957,10 @@
         },
         "ChinaGame": {
           "file": "rules/QuantumultX/ChinaGame.list",
-          "rule_updated_at": "2026-11-17T07:20:04.358941+00:00",
-          "bytes": 10303,
-          "sha256": "f32c9c9806430132db1257b76edef98e09783ef1e033ba40ec39ff00d2a7d82f",
-          "semantic_sha256": "6d572ef6f1ae82997c5133495156f9d240921ded7cde4b9b62b31bdea76a48a6"
+          "rule_updated_at": "2026-11-18T16:27:48.541289+00:00",
+          "bytes": 10364,
+          "sha256": "f29323907c3fc60303eed933be16bad9381ecd78338b797cb3290c800fe4eb81",
+          "semantic_sha256": "8c26d5ffe0c3954e82fb41589ed12ef17a575395eb5de85046147bceef0a8f99"
         },
         "ChinaIPs": {
           "file": "rules/QuantumultX/ChinaIPs.list",
@@ -24902,7 +24923,7 @@
       }
     },
     "Loon": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Loon/56.list",
@@ -25109,10 +25130,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Loon/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-18T08:50:34.628816+00:00",
-          "bytes": 5348096,
-          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
-          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
+          "rule_updated_at": "2026-11-18T15:19:40.386259+00:00",
+          "bytes": 5351256,
+          "sha256": "6db2d90491b8dfd776e2033a5c5a78485f08cc4f1c74ac6ba3ed27816ea05630",
+          "semantic_sha256": "716c42e7fcb863bbfbefa319133d9ac47ec2a7a2ba1106f4bea63dfa398097b7"
         },
         "Adidas": {
           "file": "rules/Loon/Adidas.list",
@@ -25137,14 +25158,14 @@
         },
         "Advertising": {
           "file": "rules/Loon/Advertising.list",
-          "rule_updated_at": "2026-11-18T02:30:10.610444+00:00",
-          "bytes": 9143991,
-          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
-          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
+          "rule_updated_at": "2026-11-18T15:46:24.896737+00:00",
+          "bytes": 9152214,
+          "sha256": "774d3938d4b402346fd1162afccf3f0f48305d370b9de625d7628ab8a2cced3d",
+          "semantic_sha256": "cdef3baca27f33f36992d4593048d78476c30f5525f0125dea60da1740eccdee"
         },
         "AdvertisingLite": {
           "file": "rules/Loon/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-18T02:26:41.849740+00:00",
+          "rule_updated_at": "2026-11-18T15:45:24.579065+00:00",
           "bytes": 6212717,
           "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
           "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
@@ -25449,6 +25470,13 @@
           "bytes": 203092,
           "sha256": "e648aa826421b0c4b6d657206528d6e6f933d0b63d837cfdeb9cee3206139aeb",
           "semantic_sha256": "995c3b9513a6bd2ffb77c30fe898e3823032e8f4abe5d132ae75bf7843b2bb53"
+        },
+        "Apple APNs": {
+          "file": "rules/Loon/Apple APNs.list",
+          "rule_updated_at": "2026-11-18T14:20:21.160973+00:00",
+          "bytes": 587,
+          "sha256": "8f25b8a0ae0ef87d440661b9826042d41bea8e062761c25548b5b6ea0de3868d",
+          "semantic_sha256": "60e3ec6f80f4388626b69c64448ec66bff807c41516deb8710509abf745ace92"
         },
         "AppleCDN": {
           "file": "rules/Loon/AppleCDN.list",
@@ -26215,10 +26243,10 @@
         },
         "China": {
           "file": "rules/Loon/China.list",
-          "rule_updated_at": "2026-11-17T07:22:58.593043+00:00",
-          "bytes": 306133,
-          "sha256": "0992596f563f225d3327e401ef886d9796207c321425c5fc7c53dfbc62ab5fae",
-          "semantic_sha256": "226639f7065ee1b0d756f4a4117a201d2870c3b6ee94463599deb3323eeff7e4"
+          "rule_updated_at": "2026-11-18T15:02:08.638880+00:00",
+          "bytes": 305969,
+          "sha256": "31aaae230a80afa74cc3b933b2ebe67102be76800c2f1cd5a5e189ec70e80590",
+          "semantic_sha256": "3e395707b7c49a3171989bc8c112d487d44f99bf066410676eff3875cadd2751"
         },
         "ChinaASN": {
           "file": "rules/Loon/ChinaASN.list",
@@ -26236,10 +26264,10 @@
         },
         "ChinaGame": {
           "file": "rules/Loon/ChinaGame.list",
-          "rule_updated_at": "2026-11-17T07:20:04.755035+00:00",
-          "bytes": 7971,
-          "sha256": "c0309311824f1fa5ab29c8c3e08381e5f146ba3a97c74e0c9d12d6cb0491e20b",
-          "semantic_sha256": "b412d349bce04da77f3c31f2b80477285c1cf5cc347d6e566184957e64318340"
+          "rule_updated_at": "2026-11-18T16:27:48.728414+00:00",
+          "bytes": 8016,
+          "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
+          "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Loon/ChinaIPs.list",
@@ -33202,7 +33230,7 @@
       }
     },
     "Shadowrocket": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Shadowrocket/56.list",
@@ -33409,10 +33437,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-18T08:50:41.261664+00:00",
-          "bytes": 5348096,
-          "sha256": "44085d8a9b68c9632acc41d037ac238bb01758e1847ca58b5e7a19f407b08682",
-          "semantic_sha256": "c9bab6d39c47eba77d69f39a5edd2007bd5fc2dd571e1f84b35cfdef5808c9d5"
+          "rule_updated_at": "2026-11-18T15:19:47.403544+00:00",
+          "bytes": 5351256,
+          "sha256": "6db2d90491b8dfd776e2033a5c5a78485f08cc4f1c74ac6ba3ed27816ea05630",
+          "semantic_sha256": "716c42e7fcb863bbfbefa319133d9ac47ec2a7a2ba1106f4bea63dfa398097b7"
         },
         "Adidas": {
           "file": "rules/Shadowrocket/Adidas.list",
@@ -33437,14 +33465,14 @@
         },
         "Advertising": {
           "file": "rules/Shadowrocket/Advertising.list",
-          "rule_updated_at": "2026-11-18T02:30:55.868885+00:00",
-          "bytes": 9143991,
-          "sha256": "c14e48bc793e4bb4f56115438b5ce5bf861153f497f10d8487dba43439de03b1",
-          "semantic_sha256": "3e4bc7b3990fc4e7bddb178305c3d1216e25ed05275b7053f2a464bbefa7418e"
+          "rule_updated_at": "2026-11-18T15:46:56.815811+00:00",
+          "bytes": 9152214,
+          "sha256": "774d3938d4b402346fd1162afccf3f0f48305d370b9de625d7628ab8a2cced3d",
+          "semantic_sha256": "cdef3baca27f33f36992d4593048d78476c30f5525f0125dea60da1740eccdee"
         },
         "AdvertisingLite": {
           "file": "rules/Shadowrocket/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-18T02:27:02.604649+00:00",
+          "rule_updated_at": "2026-11-18T15:45:39.813498+00:00",
           "bytes": 6212717,
           "sha256": "435f76ad382d7126fdd0d4f5b27afa2a3469566700557352502f222635145d0c",
           "semantic_sha256": "586734554fa7680036f4d933e44d857b5f4bd4cb57f5c3f74926e16df4b01dc6"
@@ -33749,6 +33777,13 @@
           "bytes": 203092,
           "sha256": "e648aa826421b0c4b6d657206528d6e6f933d0b63d837cfdeb9cee3206139aeb",
           "semantic_sha256": "995c3b9513a6bd2ffb77c30fe898e3823032e8f4abe5d132ae75bf7843b2bb53"
+        },
+        "Apple APNs": {
+          "file": "rules/Shadowrocket/Apple APNs.list",
+          "rule_updated_at": "2026-11-18T14:20:21.295161+00:00",
+          "bytes": 587,
+          "sha256": "8f25b8a0ae0ef87d440661b9826042d41bea8e062761c25548b5b6ea0de3868d",
+          "semantic_sha256": "60e3ec6f80f4388626b69c64448ec66bff807c41516deb8710509abf745ace92"
         },
         "AppleCDN": {
           "file": "rules/Shadowrocket/AppleCDN.list",
@@ -34515,10 +34550,10 @@
         },
         "China": {
           "file": "rules/Shadowrocket/China.list",
-          "rule_updated_at": "2026-11-17T07:23:08.494032+00:00",
-          "bytes": 306133,
-          "sha256": "0992596f563f225d3327e401ef886d9796207c321425c5fc7c53dfbc62ab5fae",
-          "semantic_sha256": "226639f7065ee1b0d756f4a4117a201d2870c3b6ee94463599deb3323eeff7e4"
+          "rule_updated_at": "2026-11-18T15:02:19.549164+00:00",
+          "bytes": 305969,
+          "sha256": "31aaae230a80afa74cc3b933b2ebe67102be76800c2f1cd5a5e189ec70e80590",
+          "semantic_sha256": "3e395707b7c49a3171989bc8c112d487d44f99bf066410676eff3875cadd2751"
         },
         "ChinaASN": {
           "file": "rules/Shadowrocket/ChinaASN.list",
@@ -34536,10 +34571,10 @@
         },
         "ChinaGame": {
           "file": "rules/Shadowrocket/ChinaGame.list",
-          "rule_updated_at": "2026-11-17T07:20:04.922580+00:00",
-          "bytes": 7971,
-          "sha256": "c0309311824f1fa5ab29c8c3e08381e5f146ba3a97c74e0c9d12d6cb0491e20b",
-          "semantic_sha256": "b412d349bce04da77f3c31f2b80477285c1cf5cc347d6e566184957e64318340"
+          "rule_updated_at": "2026-11-18T16:27:48.849171+00:00",
+          "bytes": 8016,
+          "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
+          "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Shadowrocket/ChinaIPs.list",
@@ -41502,7 +41537,7 @@
       }
     },
     "Stash": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Stash/56.yaml",
@@ -41709,10 +41744,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-18T08:51:17.407758+00:00",
-          "bytes": 6108723,
-          "sha256": "058fda3d94695cf0e5b9e18d3e2096c53898e7b5e2b8fb33809faebd580cfed2",
-          "semantic_sha256": "a8c8621a6d3be6d7124111e911a30ed1d2ec14837af8bafec9e7551e7373ab32"
+          "rule_updated_at": "2026-11-18T15:20:25.433804+00:00",
+          "bytes": 6112363,
+          "sha256": "7e94c9df841b65fb531ada9411db863f597da511990308c019bce9439a8f0f3d",
+          "semantic_sha256": "d073123e08c5ff85800606d8252c6cd8de39329734df4475532ee852cd1167e0"
         },
         "Adidas": {
           "file": "rules/Stash/Adidas.yaml",
@@ -41737,14 +41772,14 @@
         },
         "Advertising": {
           "file": "rules/Stash/Advertising.yaml",
-          "rule_updated_at": "2026-11-18T02:34:43.112408+00:00",
-          "bytes": 10236882,
-          "sha256": "59f63e1c2e5c2f2bd42ff7476d37e0d4862013e05aa2d311bb39e90db754fd69",
-          "semantic_sha256": "c01e7959f67f111722bc48c616046ef9142006acb3435a8882ed592b3c217fb4"
+          "rule_updated_at": "2026-11-18T15:48:19.773752+00:00",
+          "bytes": 10246077,
+          "sha256": "ba7836cd5f5d84f734170a3d644e34dce5c029004787d5db1d30d23097c5404c",
+          "semantic_sha256": "2b0509d1cd4952e43e56b5c2e918c51bc3538d203d27e5c64144c3b50ab43e07"
         },
         "AdvertisingLite": {
           "file": "rules/Stash/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-18T02:28:33.321837+00:00",
+          "rule_updated_at": "2026-11-18T15:47:18.031468+00:00",
           "bytes": 6957188,
           "sha256": "4795328f7dc44501f47a249ae04af33d0772cc6f6824271b218fe7bbee099cf4",
           "semantic_sha256": "c519c1c39e79957961be926d5c53aa64a1e515b0fe02e8088b5bec9691daf596"
@@ -42049,6 +42084,13 @@
           "bytes": 227623,
           "sha256": "879e68cc33f5d4272ed62b4e3746877394d55a3465a17b3bf35edf4259ce5b39",
           "semantic_sha256": "7335a49ebf5358da8777e2150baeeae4fb19fc43b735607abf7f80cf4940b9e3"
+        },
+        "Apple APNs": {
+          "file": "rules/Stash/Apple APNs.yaml",
+          "rule_updated_at": "2026-11-18T14:20:21.905412+00:00",
+          "bytes": 666,
+          "sha256": "37f5eb43400783b7ba447a8f3ad3169654f54ecc5a350dcdb3ff4dbf1b3f16f0",
+          "semantic_sha256": "4962a2140ecf543b0385f1068ea467c049f50d1a5f379d5a10e41a969d141cd7"
         },
         "AppleCDN": {
           "file": "rules/Stash/AppleCDN.yaml",
@@ -42815,10 +42857,10 @@
         },
         "China": {
           "file": "rules/Stash/China.yaml",
-          "rule_updated_at": "2026-11-17T07:23:59.830783+00:00",
-          "bytes": 347667,
-          "sha256": "a429aaf02978f1a8a9158339804e4234e5ce2547ca3904a077f3ddc459a69f55",
-          "semantic_sha256": "05300a3c7c69260c8f05a481a9d0ef01d634c8d7f8da1b5d1af4b87de25224c5"
+          "rule_updated_at": "2026-11-18T15:03:13.314462+00:00",
+          "bytes": 347487,
+          "sha256": "5260c05c6f90364834d6b8a9ad4e3401013a5be23b7d397fe90df68b51b88ebb",
+          "semantic_sha256": "c0db057d6473fabeed846936aed404eb261b9eac0c6ba437595d45804705ec06"
         },
         "ChinaASN": {
           "file": "rules/Stash/ChinaASN.yaml",
@@ -42836,10 +42878,10 @@
         },
         "ChinaGame": {
           "file": "rules/Stash/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-17T07:20:06.154043+00:00",
-          "bytes": 9233,
-          "sha256": "7754f531d1b6f192bd7d7a55035eb1c9d2c3b5ba6d2137673a8e3e9f8202e071",
-          "semantic_sha256": "f2f47d370fdab37e64001e12316e9f08fbc9604c3e05996fdd321d6663df266c"
+          "rule_updated_at": "2026-11-18T16:27:49.457095+00:00",
+          "bytes": 9286,
+          "sha256": "85a7a0526875cd743f5de3d2e43f9b0f4c8f15a6810117dad08d39dcfd8524d7",
+          "semantic_sha256": "2ee0fea86256ad05875bf35a7da8c341da6f144989597225809427ca17e86cf4"
         },
         "ChinaIPs": {
           "file": "rules/Stash/ChinaIPs.yaml",
@@ -49802,7 +49844,7 @@
       }
     },
     "SingBox": {
-      "rule_count": 1184,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/SingBox/56.json",
@@ -50009,9 +50051,9 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/SingBox/AdGuardSDNSFilterDirect.json",
-          "rule_updated_at": "2026-11-18T08:50:55.719238+00:00",
-          "bytes": 6107740,
-          "sha256": "d13ccaf982522e25ad0a8d06f37d421d8571b7a1a259cdf758ef563d49ca7dc1",
+          "rule_updated_at": "2026-11-18T15:20:01.645026+00:00",
+          "bytes": 6111380,
+          "sha256": "f528c755ac61cfba46c0cb411a5ab4a081d2e25808dc27fc0e61b948c30c9780",
           "semantic_sha256": null
         },
         "Adidas": {
@@ -50037,14 +50079,14 @@
         },
         "Advertising": {
           "file": "rules/SingBox/Advertising.json",
-          "rule_updated_at": "2026-11-18T02:32:19.250503+00:00",
-          "bytes": 8440716,
-          "sha256": "7bfe6fb346300263ef895958cfe1cca745c421f413b23e0a2e84da24e3a1fa39",
+          "rule_updated_at": "2026-11-18T15:47:33.670430+00:00",
+          "bytes": 8448210,
+          "sha256": "01cac9f1df4fb4c9654722ad2e45fbff64c1331ced013e0d57224dec2f75b64e",
           "semantic_sha256": null
         },
         "AdvertisingLite": {
           "file": "rules/SingBox/AdvertisingLite.json",
-          "rule_updated_at": "2026-11-18T02:27:37.999578+00:00",
+          "rule_updated_at": "2026-11-18T15:46:16.475888+00:00",
           "bytes": 5813648,
           "sha256": "90b36c4e9378514153f2c1ad490634bdcc0d683b34d064f809f782a56c8e2f71",
           "semantic_sha256": null
@@ -50348,6 +50390,13 @@
           "rule_updated_at": "2026-11-17T09:20:16.539315+00:00",
           "bytes": 187182,
           "sha256": "352c6c180df2cc2a58aae36d3d2aa963c0a3480c2425e8a937dba992d8acc32a",
+          "semantic_sha256": null
+        },
+        "Apple APNs": {
+          "file": "rules/SingBox/Apple APNs.json",
+          "rule_updated_at": "2026-11-18T14:28:31.230727+00:00",
+          "bytes": 469,
+          "sha256": "874aa6b4a25a44d75c3425b1c72d5f603be38e504158bfa0b313d65b524a184e",
           "semantic_sha256": null
         },
         "AppleCDN": {
@@ -51115,9 +51164,9 @@
         },
         "China": {
           "file": "rules/SingBox/China.json",
-          "rule_updated_at": "2026-11-17T07:23:28.820324+00:00",
-          "bytes": 255235,
-          "sha256": "b1bd46ace1c9e1be3bd4968725d5725338f64f97a7b0eaf707f08bff9936e1e9",
+          "rule_updated_at": "2026-11-18T15:02:40.661475+00:00",
+          "bytes": 255113,
+          "sha256": "9f23a0856056d5c3796ba54feac2c9fce8f8101375c3beb6b5027da073817bca",
           "semantic_sha256": null
         },
         "ChinaBroadnet": {
@@ -51129,9 +51178,9 @@
         },
         "ChinaGame": {
           "file": "rules/SingBox/ChinaGame.json",
-          "rule_updated_at": "2026-11-17T07:20:05.316345+00:00",
-          "bytes": 7076,
-          "sha256": "5391ef0ddd76122079747fc388178ea233f0721a10e8e16ec9aab73bf12a02c6",
+          "rule_updated_at": "2026-11-18T16:27:49.083443+00:00",
+          "bytes": 7115,
+          "sha256": "6ad7ad44e01a2e7a2d376d5ff25787f381aed7bad3289ca73da10986e63d288b",
           "semantic_sha256": null
         },
         "ChinaIPs": {
@@ -58095,7 +58144,7 @@
       }
     },
     "Egern": {
-      "rule_count": 1185,
+      "rule_count": 1186,
       "rules": {
         "56": {
           "file": "rules/Egern/56.yaml",
@@ -58302,10 +58351,10 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-18T08:51:03.159605+00:00",
-          "bytes": 4776743,
-          "sha256": "1007d0115828f1cc0c4e8009644e642b36accdd055e41d581b616e350995a314",
-          "semantic_sha256": "283f2cae2efdee8d12f4e5fa2aaf40f2f44b13ca05f57bab8536e59ebaf56b10"
+          "rule_updated_at": "2026-11-18T15:20:09.697253+00:00",
+          "bytes": 4779543,
+          "sha256": "7861611604920010fde8cc7678d0998e6dbdb6638944aaa3029974c656632ce8",
+          "semantic_sha256": "63ae69a1d9e670b2878c6ae85b8941796f24def7235ab458c3d1eb2285c1c202"
         },
         "Adidas": {
           "file": "rules/Egern/Adidas.yaml",
@@ -58330,17 +58379,17 @@
         },
         "Advertising": {
           "file": "rules/Egern/Advertising.yaml",
-          "rule_updated_at": "2026-11-18T02:33:06.288505+00:00",
-          "bytes": 6531389,
-          "sha256": "e222806f9423461e0b664c44b4b3eb2691e9310faba5fa39fbce50b0002fa790",
-          "semantic_sha256": "501df63da65efc255c07f6100bb0facd89a9f819b14d55988482519ba4f7a820"
+          "rule_updated_at": "2026-11-18T15:47:50.119989+00:00",
+          "bytes": 6537182,
+          "sha256": "ea666f9993321c3cb4bcc8819c6bd3b3d6ee50e4527f0cec6b8e928720b84e74",
+          "semantic_sha256": "311603ea5bccaab6c60d8c23d2ec6ff2d2fdefe52fc3d678388a2a710d91e076"
         },
         "AdvertisingLite": {
           "file": "rules/Egern/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-18T02:27:58.818690+00:00",
-          "bytes": 4512648,
-          "sha256": "98a6d6d89fb1d20b7b2e60eabafce0734bf2386ed7e595c59601bacc8cfcbecb",
-          "semantic_sha256": "09daf9903e3e696a30646a359c2b1261b6b1a3d13145a00e94a6bafe8fb94b8e"
+          "rule_updated_at": "2026-11-18T15:46:34.587895+00:00",
+          "bytes": 4512750,
+          "sha256": "10ee118cb31c52e38c03dd5e7aeb9bb32d875988d14076241e4855b24d3bfb0d",
+          "semantic_sha256": "8152309a043441996d6e97d8eb00d6220c8c799b8e5b3a893573069a04574954"
         },
         "AdvertisingMiTV": {
           "file": "rules/Egern/AdvertisingMiTV.yaml",
@@ -58642,6 +58691,13 @@
           "bytes": 145549,
           "sha256": "0ff2f1e37a49fbeb691be49ffe76bbe474c7564a6e513749a893ca28cb6c1b7e",
           "semantic_sha256": "ee22b7e244e6c2f31c12bf7731abfabff2bb8cd06ce3a34784008cf0fc0a4e1c"
+        },
+        "Apple APNs": {
+          "file": "rules/Egern/Apple APNs.yaml",
+          "rule_updated_at": "2026-11-18T14:20:21.587388+00:00",
+          "bytes": 441,
+          "sha256": "4536dd860c2813a050be39a3ffc56ec0aed203fb0775c2611d86ebae844c22f4",
+          "semantic_sha256": "ac135475e94bfe00af603d9b8a8dfda1fc5b2dd1825e64a7cb1a053a96b00e08"
         },
         "AppleCDN": {
           "file": "rules/Egern/AppleCDN.yaml",
@@ -59408,10 +59464,10 @@
         },
         "China": {
           "file": "rules/Egern/China.yaml",
-          "rule_updated_at": "2026-11-17T07:23:38.818968+00:00",
-          "bytes": 184284,
-          "sha256": "78459de2860ccd6d2d7317abe2f0ee755b9e54a430908b8b85f1b8eda9e9d8e4",
-          "semantic_sha256": "066562b6b8a5cca29f48976ab9506495ce274e4b188c3f3e2584ca96570ec675"
+          "rule_updated_at": "2026-11-18T15:02:50.943602+00:00",
+          "bytes": 184190,
+          "sha256": "cf70426b2a86abf837aff53a21af8d106ee814db64969ba91da691ce270846f6",
+          "semantic_sha256": "1d1972f085a20f34226f66a37b14664e30935b9360ab2b593f731b6a4b3ade37"
         },
         "ChinaASN": {
           "file": "rules/Egern/ChinaASN.yaml",
@@ -59429,10 +59485,10 @@
         },
         "ChinaGame": {
           "file": "rules/Egern/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-17T09:13:25.665930+00:00",
-          "bytes": 5116,
-          "sha256": "7b1fefd834f4ce6e12694480f792691d47bd5f5b5c400ae421e9791c4aadb5ef",
-          "semantic_sha256": "1c04969e01eab1ed6f73e76f70fa2acdaedc53ca9b7b0dd105aa3832f3cb3069"
+          "rule_updated_at": "2026-11-18T16:27:49.211117+00:00",
+          "bytes": 5141,
+          "sha256": "ddd1db5b5b7f30309989f07bf4c765bc349cca679adb4cfa8bf34248e0dbc034",
+          "semantic_sha256": "bbd5ed7fa361e682c9fb9225f9ee724d491fde86e5416d04f13068bf9da9e8d4"
         },
         "ChinaIPs": {
           "file": "rules/Egern/ChinaIPs.yaml",

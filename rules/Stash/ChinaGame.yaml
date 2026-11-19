@@ -1,10 +1,10 @@
 # NAME: ChinaGame
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-17 18:08:21
+# UPDATED: 2026-11-19 00:27:52
 # BEHAVIOR: classical
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 290
+# DOMAIN-SUFFIX: 292
 # DOMAIN-REGEX: 1
 
 payload:
@@ -13,6 +13,8 @@ payload:
 - 'DOMAIN-SUFFIX,17173.com'
 - 'DOMAIN-SUFFIX,17173cdn.com'
 - 'DOMAIN-SUFFIX,17roco.com'
+- 'DOMAIN-SUFFIX,1y.com'
+- 'DOMAIN-SUFFIX,1ycdn.com'
 - 'DOMAIN-SUFFIX,3304399.com'
 - 'DOMAIN-SUFFIX,3304399.net'
 - 'DOMAIN-SUFFIX,37.com'

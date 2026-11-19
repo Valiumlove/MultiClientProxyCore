@@ -1,8 +1,8 @@
 {
   "client": "SingBox",
   "rule_file_extension": "json",
-  "rule_count": 1184,
-  "total_line_count": 817112,
+  "rule_count": 1185,
+  "total_line_count": 817489,
   "rules": [
     {
       "name": "115",
@@ -400,12 +400,12 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "domain": 190071,
+        "domain": 190191,
         "domain_suffix": 4,
         "ip_cidr": 74
       },
-      "total_line_count": 190149,
-      "rule_updated_at": "2026-11-18T08:50:55.719238+00:00",
+      "total_line_count": 190269,
+      "rule_updated_at": "2026-11-18T15:20:01.645026+00:00",
       "file": "rules/SingBox/AdGuardSDNSFilterDirect.json"
     },
     {
@@ -463,11 +463,11 @@
       "type_counts": {
         "domain": 17421,
         "domain_keyword": 208,
-        "domain_suffix": 254303,
+        "domain_suffix": 254546,
         "ip_cidr": 1024
       },
-      "total_line_count": 272956,
-      "rule_updated_at": "2026-11-18T02:32:19.250503+00:00",
+      "total_line_count": 273199,
+      "rule_updated_at": "2026-11-18T15:47:33.670430+00:00",
       "file": "rules/SingBox/Advertising.json"
     },
     {
@@ -482,11 +482,11 @@
       "type_counts": {
         "domain": 22906,
         "domain_keyword": 164,
-        "domain_suffix": 162642,
+        "domain_suffix": 162644,
         "ip_cidr": 234
       },
-      "total_line_count": 185946,
-      "rule_updated_at": "2026-11-18T02:27:37.999578+00:00",
+      "total_line_count": 185948,
+      "rule_updated_at": "2026-11-18T15:46:16.475888+00:00",
       "file": "rules/SingBox/AdvertisingLite.json"
     },
     {
@@ -1097,6 +1097,23 @@
       "total_line_count": 2081,
       "rule_updated_at": "2026-11-17T09:20:16.539315+00:00",
       "file": "rules/SingBox/Apple.json"
+    },
+    {
+      "name": "Apple APNs",
+      "chinese_name": "Apple APNs",
+      "types": [
+        "domain_keyword",
+        "domain_suffix",
+        "ip_cidr"
+      ],
+      "type_counts": {
+        "domain_keyword": 1,
+        "domain_suffix": 2,
+        "ip_cidr": 9
+      },
+      "total_line_count": 12,
+      "rule_updated_at": "2026-11-18T14:28:31.230727+00:00",
+      "file": "rules/SingBox/Apple APNs.json"
     },
     {
       "name": "AppleCDN",
@@ -2597,11 +2614,11 @@
       "type_counts": {
         "domain": 20,
         "domain_keyword": 10,
-        "domain_suffix": 6370,
-        "ip_cidr": 3870
+        "domain_suffix": 6372,
+        "ip_cidr": 3865
       },
-      "total_line_count": 10270,
-      "rule_updated_at": "2026-11-17T07:23:28.820324+00:00",
+      "total_line_count": 10267,
+      "rule_updated_at": "2026-11-18T15:02:40.661475+00:00",
       "file": "rules/SingBox/China.json"
     },
     {
@@ -2626,10 +2643,10 @@
       ],
       "type_counts": {
         "domain": 2,
-        "domain_suffix": 290
+        "domain_suffix": 292
       },
-      "total_line_count": 292,
-      "rule_updated_at": "2026-11-17T07:20:05.316345+00:00",
+      "total_line_count": 294,
+      "rule_updated_at": "2026-11-18T16:27:49.083443+00:00",
       "file": "rules/SingBox/ChinaGame.json"
     },
     {
@@ -2639,9 +2656,9 @@
         "ip_cidr"
       ],
       "type_counts": {
-        "ip_cidr": 17901
+        "ip_cidr": 17902
       },
-      "total_line_count": 17901,
+      "total_line_count": 17902,
       "rule_updated_at": "2026-11-17T07:20:08.635224+00:00",
       "file": "rules/SingBox/ChinaIPs.json"
     },
