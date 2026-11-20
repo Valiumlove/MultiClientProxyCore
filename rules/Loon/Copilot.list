@@ -1,11 +1,11 @@
 # NAME: Copilot
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-12 19:47:47
+# UPDATED: 2026-11-20 17:37:06
 # DOMAIN: 71
-# DOMAIN-SUFFIX: 305
+# DOMAIN-SUFFIX: 306
 # DOMAIN-KEYWORD: 5
-# IP-CIDR: 4
+# IP-CIDR: 1
 # IP-CIDR6: 2
 # IP-ASN: 3
 # PROCESS-NAME: 14
@@ -192,6 +192,7 @@ DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,eigent.ai
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabsusercontent.com
 DOMAIN-SUFFIX,factory.ai
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,firefly.adobe.com
@@ -392,9 +393,6 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,sift
 IP-CIDR,160.79.104.0/21,no-resolve
-IP-CIDR,199.47.142.0/23,no-resolve
-IP-CIDR,24.199.123.28/32,no-resolve
-IP-CIDR,64.23.132.171/32,no-resolve
 IP-CIDR6,2604:f20::/32,no-resolve
 IP-CIDR6,2607:6bc0::/32,no-resolve
 IP-ASN,14061,no-resolve

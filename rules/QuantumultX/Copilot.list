@@ -1,11 +1,11 @@
 # NAME: Copilot
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-09 11:05:50
+# UPDATED: 2026-11-20 17:37:05
 # HOST: 71
-# HOST-SUFFIX: 305
+# HOST-SUFFIX: 306
 # HOST-KEYWORD: 5
-# IP-CIDR: 4
+# IP-CIDR: 1
 # IP6-CIDR: 2
 # IP-ASN: 3
 
@@ -191,6 +191,7 @@ HOST-SUFFIX,edgeservices.bing.com,Copilot
 HOST-SUFFIX,eigent.ai,Copilot
 HOST-SUFFIX,elevenlabs.com,Copilot
 HOST-SUFFIX,elevenlabs.io,Copilot
+HOST-SUFFIX,elevenlabsusercontent.com,Copilot
 HOST-SUFFIX,factory.ai,Copilot
 HOST-SUFFIX,featuregates.org,Copilot
 HOST-SUFFIX,firefly.adobe.com,Copilot
@@ -391,9 +392,6 @@ HOST-KEYWORD,openai,Copilot
 HOST-KEYWORD,sentry,Copilot
 HOST-KEYWORD,sift,Copilot
 IP-CIDR,160.79.104.0/21,Copilot
-IP-CIDR,199.47.142.0/23,Copilot
-IP-CIDR,24.199.123.28/32,Copilot
-IP-CIDR,64.23.132.171/32,Copilot
 IP6-CIDR,2604:f20::/32,Copilot
 IP6-CIDR,2607:6bc0::/32,Copilot
 IP-ASN,14061,Copilot

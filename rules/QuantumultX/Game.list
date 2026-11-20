@@ -1,9 +1,9 @@
 # NAME: Game
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-17 19:32:07
+# UPDATED: 2026-11-20 17:52:22
 # HOST: 125
-# HOST-SUFFIX: 1157
+# HOST-SUFFIX: 1159
 # HOST-KEYWORD: 4
 # IP-CIDR: 12
 
@@ -136,6 +136,8 @@ HOST-SUFFIX,100classicbooks.com,Game
 HOST-SUFFIX,17173.com,Game
 HOST-SUFFIX,17173cdn.com,Game
 HOST-SUFFIX,17roco.com,Game
+HOST-SUFFIX,1y.com,Game
+HOST-SUFFIX,1ycdn.com,Game
 HOST-SUFFIX,2k.com,Game
 HOST-SUFFIX,2kcoretech.online,Game
 HOST-SUFFIX,2kct.onl,Game

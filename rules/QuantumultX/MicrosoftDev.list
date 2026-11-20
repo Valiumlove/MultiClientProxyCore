@@ -1,15 +1,17 @@
 # NAME: MicrosoftDev
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 11:24:28
-# HOST: 18
+# UPDATED: 2026-11-20 17:55:49
+# HOST: 22
 # HOST-SUFFIX: 58
 
 HOST,az764295.vo.msecnd.net,MicrosoftDev
 HOST,bingsettingssearch.trafficmanager.net,MicrosoftDev
+HOST,builds.dotnet.microsoft.com,MicrosoftDev
 HOST,dc.services.visualstudio.com,MicrosoftDev
 HOST,default.exp-tas.com,MicrosoftDev
 HOST,developer.microsoft.com,MicrosoftDev
+HOST,dotnetcli.trafficmanager.net,MicrosoftDev
 HOST,download.visualstudio.microsoft.com,MicrosoftDev
 HOST,dtlgalleryint.cloudapp.net,MicrosoftDev
 HOST,packages.microsoft.com,MicrosoftDev
@@ -18,9 +20,11 @@ HOST,psg-int-centralus.cloudapp.net,MicrosoftDev
 HOST,psg-int-eastus.cloudapp.net,MicrosoftDev
 HOST,rink.hockeyapp.net,MicrosoftDev
 HOST,rt.services.visualstudio.com,MicrosoftDev
+HOST,sundry-star-net-geo.trafficmanager.net,MicrosoftDev
 HOST,vscode-sync-insiders.trafficmanager.net,MicrosoftDev
 HOST,vscode-sync.trafficmanager.net,MicrosoftDev
 HOST,vscode.blob.core.windows.net,MicrosoftDev
+HOST,vscode.download.prss.microsoft.com,MicrosoftDev
 HOST,vscode.search.windows.net,MicrosoftDev
 HOST,vsmarketplacebadge.apphb.com,MicrosoftDev
 HOST-SUFFIX,adaptivecards.io,MicrosoftDev
