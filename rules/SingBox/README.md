@@ -4,7 +4,7 @@
 
 - 原始地址前缀：`https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/`
 - 国内镜像（jsDelivr）：`https://cdn.jsdelivr.net/gh/Valiumlove/MultiClientProxyCore@main/rules/SingBox/`
-- 规则数：**1185** · 总行数：**818833**
+- 规则数：**1185** · 总行数：**819132**
 
 ## 常用规则（可直接复制）
 
@@ -153,12 +153,12 @@
 | Actalis | Actalis证书 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Actalis.json) |
 | AdGuard | AdGuard 广告拦截与隐私保护 | 19 | 2026-08-27 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuard.json) |
 | AdGuardSDNSFilter | AdGuard DNS Filter | 188 | 2026-11-12 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilter.json) |
-| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 190891 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
+| AdGuardSDNSFilterDirect | AdGuardS DNS Filter Direct | 191007 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdGuardSDNSFilterDirect.json) |
 | Adidas | 阿迪达斯 | 90 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adidas.json) |
 | Adobe | Adobe | 277 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Adobe.json) |
 | AdobeActivation | Adobe激活验证 | 134 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdobeActivation.json) |
-| Advertising | 去广告 | 273800 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
-| AdvertisingLite | 去广告精简版 | 185994 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
+| Advertising | 去广告 | 273894 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Advertising.json) |
+| AdvertisingLite | 去广告精简版 | 186087 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingLite.json) |
 | AdvertisingMiTV | 小米电视广告 | 1775 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/AdvertisingMiTV.json) |
 | Aerogard | Aerogard驱蚊 | 3 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Aerogard.json) |
 | Agora | 声网 | 5 | 2026-10-29 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Agora.json) |
@@ -318,11 +318,11 @@
 | ChangYou | 畅游 | 7 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChangYou.json) |
 | Chegg | Chegg学习平台 | 2 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/Chegg.json) |
 | ChengTongWangPan | 城通网盘 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChengTongWangPan.json) |
-| China | 中国 | 10297 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/China.json) |
+| China | 中国 | 10295 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/China.json) |
 | ChinaBroadnet | 中国广电 | 9 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaBroadnet.json) |
 | ChinaGame | 中国游戏 | 294 | 2026-11-18 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaGame.json) |
 | ChinaIPTV | IPTV中国大陆地区 | 2297 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPTV.json) |
-| ChinaIPs | 中国IP | 17930 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
+| ChinaIPs | 中国IP | 17928 | 2026-11-20 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaIPs.json) |
 | ChinaMedia | 中国媒体 | 345 | 2026-07-31 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMedia.json) |
 | ChinaMobile | 中国移动 | 56 | 2026-11-06 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaMobile.json) |
 | ChinaNews | 中国新闻网 | 4 | 2026-07-26 | [raw](https://raw.githubusercontent.com/Valiumlove/MultiClientProxyCore/main/rules/SingBox/ChinaNews.json) |

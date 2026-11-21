@@ -2,7 +2,7 @@
   "client": "Loon",
   "rule_file_extension": "list",
   "rule_count": 1186,
-  "total_line_count": 829148,
+  "total_line_count": 829447,
   "rules": [
     {
       "name": "115",
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190813,
+        "DOMAIN": 190929,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190891,
-      "rule_updated_at": "2026-11-20T09:14:42.163423+00:00",
+      "total_line_count": 191007,
+      "rule_updated_at": "2026-11-20T15:28:52.013506+00:00",
       "file": "rules/Loon/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -473,15 +473,15 @@
       "type_counts": {
         "DOMAIN": 17421,
         "DOMAIN-KEYWORD": 208,
-        "DOMAIN-SUFFIX": 255140,
+        "DOMAIN-SUFFIX": 255234,
         "IP-ASN": 15,
         "IP-CIDR": 1025,
         "IP-CIDR6": 6,
         "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 273827,
-      "rule_updated_at": "2026-11-20T09:26:17.475870+00:00",
+      "total_line_count": 273921,
+      "rule_updated_at": "2026-11-20T15:17:22.712761+00:00",
       "file": "rules/Loon/Advertising.list"
     },
     {
@@ -498,13 +498,13 @@
       "type_counts": {
         "DOMAIN": 22906,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162690,
+        "DOMAIN-SUFFIX": 162783,
         "IP-CIDR": 230,
         "IP-CIDR6": 4,
         "URL-REGEX": 2
       },
-      "total_line_count": 185996,
-      "rule_updated_at": "2026-11-20T09:35:00.668771+00:00",
+      "total_line_count": 186089,
+      "rule_updated_at": "2026-11-20T15:15:44.593524+00:00",
       "file": "rules/Loon/AdvertisingLite.list"
     },
     {
@@ -2671,12 +2671,12 @@
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
         "DOMAIN-SUFFIX": 6390,
-        "IP-CIDR": 3873,
+        "IP-CIDR": 3871,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10327,
-      "rule_updated_at": "2026-11-20T09:19:22.315872+00:00",
+      "total_line_count": 10325,
+      "rule_updated_at": "2026-11-20T15:57:11.412373+00:00",
       "file": "rules/Loon/China.list"
     },
     {
@@ -2730,11 +2730,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12502,
+        "IP-CIDR": 12500,
         "IP-CIDR6": 5428
       },
-      "total_line_count": 23006,
-      "rule_updated_at": "2026-11-20T09:12:55.239821+00:00",
+      "total_line_count": 23004,
+      "rule_updated_at": "2026-11-20T15:46:54.721906+00:00",
       "file": "rules/Loon/ChinaIPs.list"
     },
     {

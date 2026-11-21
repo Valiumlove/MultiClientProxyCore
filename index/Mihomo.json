@@ -2,7 +2,7 @@
   "client": "Mihomo",
   "rule_file_extension": "yaml",
   "rule_count": 1186,
-  "total_line_count": 829154,
+  "total_line_count": 829453,
   "rules": [
     {
       "name": "115",
@@ -402,12 +402,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190813,
+        "DOMAIN": 190929,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 190891,
-      "rule_updated_at": "2026-11-20T09:20:32.473835+00:00",
+      "total_line_count": 191007,
+      "rule_updated_at": "2026-11-20T15:29:28.559954+00:00",
       "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml"
     },
     {
@@ -468,14 +468,14 @@
       "type_counts": {
         "DOMAIN": 17421,
         "DOMAIN-KEYWORD": 208,
-        "DOMAIN-SUFFIX": 255140,
+        "DOMAIN-SUFFIX": 255234,
         "DOMAIN-WILDCARD": 22,
         "IP-ASN": 15,
         "IP-CIDR": 1025,
         "IP-CIDR6": 6
       },
-      "total_line_count": 273837,
-      "rule_updated_at": "2026-11-20T09:32:39.185819+00:00",
+      "total_line_count": 273931,
+      "rule_updated_at": "2026-11-20T15:20:53.717788+00:00",
       "file": "rules/Mihomo/Advertising.yaml"
     },
     {
@@ -492,13 +492,13 @@
       "type_counts": {
         "DOMAIN": 22906,
         "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162690,
+        "DOMAIN-SUFFIX": 162783,
         "DOMAIN-WILDCARD": 15,
         "IP-CIDR": 230,
         "IP-CIDR6": 4
       },
-      "total_line_count": 186009,
-      "rule_updated_at": "2026-11-20T09:36:01.262495+00:00",
+      "total_line_count": 186102,
+      "rule_updated_at": "2026-11-20T15:16:30.419266+00:00",
       "file": "rules/Mihomo/AdvertisingLite.yaml"
     },
     {
@@ -2650,11 +2650,11 @@
         "DOMAIN-KEYWORD": 10,
         "DOMAIN-SUFFIX": 6390,
         "DOMAIN-WILDCARD": 2,
-        "IP-CIDR": 3873,
+        "IP-CIDR": 3871,
         "IP-CIDR6": 4
       },
-      "total_line_count": 10299,
-      "rule_updated_at": "2026-11-20T09:25:36.537847+00:00",
+      "total_line_count": 10297,
+      "rule_updated_at": "2026-11-20T15:59:59.684526+00:00",
       "file": "rules/Mihomo/China.yaml"
     },
     {
@@ -2708,11 +2708,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12502,
+        "IP-CIDR": 12500,
         "IP-CIDR6": 5428
       },
-      "total_line_count": 23006,
-      "rule_updated_at": "2026-11-20T09:15:32.476580+00:00",
+      "total_line_count": 23004,
+      "rule_updated_at": "2026-11-20T15:46:58.136077+00:00",
       "file": "rules/Mihomo/ChinaIPs.yaml"
     },
     {
