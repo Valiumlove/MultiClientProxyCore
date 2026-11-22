@@ -1,9 +1,9 @@
 # NAME: Cisco
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:14:25
+# UPDATED: 2026-11-17 18:15:36
 # HOST: 2
-# HOST-SUFFIX: 121
+# HOST-SUFFIX: 120
 
 HOST,cisco.evergage.com,Cisco
 HOST,ciscolivehls-i.akamaihd.net,Cisco
@@ -20,7 +20,6 @@ HOST-SUFFIX,cciernslabs.com,Cisco
 HOST-SUFFIX,cciesecuritylabs.com,Cisco
 HOST-SUFFIX,ccievoicelabs.com,Cisco
 HOST-SUFFIX,ccna5.net,Cisco
-HOST-SUFFIX,cisco,Cisco
 HOST-SUFFIX,cisco-returns.com,Cisco
 HOST-SUFFIX,cisco-warrantyfinder.com,Cisco
 HOST-SUFFIX,cisco.cn,Cisco

@@ -1,9 +1,9 @@
 # NAME: Scholar
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:22:15
+# UPDATED: 2026-11-17 21:12:17
 # HOST: 76
-# HOST-SUFFIX: 245
+# HOST-SUFFIX: 244
 
 HOST,scholar.google.ae,Scholar
 HOST,scholar.google.at,Scholar
@@ -219,7 +219,6 @@ HOST-SUFFIX,mathworks.nl,Scholar
 HOST-SUFFIX,mathworks.se,Scholar
 HOST-SUFFIX,matlab.com,Scholar
 HOST-SUFFIX,mdpi.com,Scholar
-HOST-SUFFIX,mit,Scholar
 HOST-SUFFIX,mit.edu,Scholar
 HOST-SUFFIX,mit.net,Scholar
 HOST-SUFFIX,mitpressjournals.org,Scholar

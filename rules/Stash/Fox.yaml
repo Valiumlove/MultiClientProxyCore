@@ -1,10 +1,10 @@
 # NAME: Fox
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:04:02
+# UPDATED: 2026-11-17 18:45:39
 # BEHAVIOR: classical
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 260
+# DOMAIN-SUFFIX: 259
 # USER-AGENT: 1
 
 payload:
@@ -17,7 +17,6 @@ payload:
 - 'DOMAIN-SUFFIX,coronavirusnow.com'
 - 'DOMAIN-SUFFIX,d3cv4a9a9wh0bt.cloudfront.net'
 - 'DOMAIN-SUFFIX,dashasiafox.akamaized.net'
-- 'DOMAIN-SUFFIX,fox'
 - 'DOMAIN-SUFFIX,fox-corporation.com'
 - 'DOMAIN-SUFFIX,fox-news.com'
 - 'DOMAIN-SUFFIX,fox.com'

@@ -1,9 +1,9 @@
 # NAME: GlobalScholar
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:23:30
+# UPDATED: 2026-11-17 19:02:52
 # HOST: 76
-# HOST-SUFFIX: 245
+# HOST-SUFFIX: 244
 
 HOST,scholar.google.ae,GlobalScholar
 HOST,scholar.google.at,GlobalScholar
@@ -219,7 +219,6 @@ HOST-SUFFIX,mathworks.nl,GlobalScholar
 HOST-SUFFIX,mathworks.se,GlobalScholar
 HOST-SUFFIX,matlab.com,GlobalScholar
 HOST-SUFFIX,mdpi.com,GlobalScholar
-HOST-SUFFIX,mit,GlobalScholar
 HOST-SUFFIX,mit.edu,GlobalScholar
 HOST-SUFFIX,mit.net,GlobalScholar
 HOST-SUFFIX,mitpressjournals.org,GlobalScholar

@@ -1,9 +1,9 @@
 # NAME: Alibaba
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:21:56
+# UPDATED: 2026-11-17 17:42:58
 # HOST: 5
-# HOST-SUFFIX: 1473
+# HOST-SUFFIX: 1470
 # IP-CIDR: 139
 # IP6-CIDR: 9
 
@@ -73,7 +73,6 @@ HOST-SUFFIX,aliapp-inc.com,Alibaba
 HOST-SUFFIX,aliapp.com,Alibaba
 HOST-SUFFIX,aliapp.org,Alibaba
 HOST-SUFFIX,aliappcdn.com,Alibaba
-HOST-SUFFIX,alibaba,Alibaba
 HOST-SUFFIX,alibaba-inc.com,Alibaba
 HOST-SUFFIX,alibaba.cn,Alibaba
 HOST-SUFFIX,alibaba.com,Alibaba
@@ -1299,7 +1298,6 @@ HOST-SUFFIX,tangping.com,Alibaba
 HOST-SUFFIX,tangping.com.cn,Alibaba
 HOST-SUFFIX,tanx.com,Alibaba
 HOST-SUFFIX,tao123.com,Alibaba
-HOST-SUFFIX,taobao,Alibaba
 HOST-SUFFIX,taobao.cn,Alibaba
 HOST-SUFFIX,taobao.com,Alibaba
 HOST-SUFFIX,taobao.net,Alibaba
@@ -1338,7 +1336,6 @@ HOST-SUFFIX,tianchi.com,Alibaba
 HOST-SUFFIX,tianmao.cn,Alibaba
 HOST-SUFFIX,tianmao.com,Alibaba
 HOST-SUFFIX,titianshanfz.com,Alibaba
-HOST-SUFFIX,tmall,Alibaba
 HOST-SUFFIX,tmall.com,Alibaba
 HOST-SUFFIX,tmall.hk,Alibaba
 HOST-SUFFIX,tmall.ru,Alibaba

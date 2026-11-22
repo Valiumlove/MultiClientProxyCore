@@ -1,9 +1,9 @@
 # NAME: Amazon
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-29 11:04:23
+# UPDATED: 2026-11-17 18:02:54
 # HOST: 21
-# HOST-SUFFIX: 249
+# HOST-SUFFIX: 241
 # HOST-WILDCARD: 5
 # HOST-KEYWORD: 1
 # USER-AGENT: 2
@@ -54,7 +54,6 @@ HOST-SUFFIX,alexa.com,Amazon
 HOST-SUFFIX,alexafund.cn,Amazon
 HOST-SUFFIX,alexafund.com.cn,Amazon
 HOST-SUFFIX,amaaozn.com,Amazon
-HOST-SUFFIX,amazon,Amazon
 HOST-SUFFIX,amazon-adsystem.com,Amazon
 HOST-SUFFIX,amazon-fashions.com,Amazon
 HOST-SUFFIX,amazon-jp-recruiting.com,Amazon
@@ -168,7 +167,6 @@ HOST-SUFFIX,associates-amazon.com,Amazon
 HOST-SUFFIX,atv-ps.amazon.com,Amazon
 HOST-SUFFIX,audible.com,Amazon
 HOST-SUFFIX,avodmp4s3ww-a.akamaihd.net,Amazon
-HOST-SUFFIX,aws,Amazon
 HOST-SUFFIX,aws-border.cn,Amazon
 HOST-SUFFIX,aws-icp-domain-manager.cn,Amazon
 HOST-SUFFIX,aws-iot-hackathon.com,Amazon
@@ -215,10 +213,8 @@ HOST-SUFFIX,gdansk-amazon.com,Amazon
 HOST-SUFFIX,images-amazon.com,Amazon
 HOST-SUFFIX,images-cn-8.ssl-images-amazon.com,Amazon
 HOST-SUFFIX,images-cn.ssl-images-amazon.com,Amazon
-HOST-SUFFIX,imdb,Amazon
 HOST-SUFFIX,imdb.com,Amazon
 HOST-SUFFIX,imdb.to,Amazon
-HOST-SUFFIX,kindle,Amazon
 HOST-SUFFIX,kindle.cn,Amazon
 HOST-SUFFIX,kindle.co.jp,Amazon
 HOST-SUFFIX,kindle.co.uk,Amazon
@@ -272,13 +268,9 @@ HOST-SUFFIX,wholefoodsmarket.co.uk,Amazon
 HOST-SUFFIX,wholefoodsmarket.com,Amazon
 HOST-SUFFIX,wholekidsfoundation.org,Amazon
 HOST-SUFFIX,wholeplanetfoundation.org,Amazon
-HOST-SUFFIX,xn--cckwcxetd,Amazon
-HOST-SUFFIX,xn--jlq480n2rg,Amazon
-HOST-SUFFIX,yamaxun,Amazon
 HOST-SUFFIX,yamaxun.cn,Amazon
 HOST-SUFFIX,yamaxun.com,Amazon
 HOST-SUFFIX,z.cn,Amazon
-HOST-SUFFIX,zappos,Amazon
 HOST-WILDCARD,aboutamazon*,Amazon
 HOST-WILDCARD,amazon.*,Amazon
 HOST-WILDCARD,amazonaws.*,Amazon

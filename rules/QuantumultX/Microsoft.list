@@ -1,9 +1,9 @@
 # NAME: Microsoft
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-17 15:30:37
+# UPDATED: 2026-11-17 20:34:06
 # HOST: 124
-# HOST-SUFFIX: 790
+# HOST-SUFFIX: 784
 # HOST-WILDCARD: 1
 # HOST-KEYWORD: 4
 # USER-AGENT: 3
@@ -187,7 +187,6 @@ HOST-SUFFIX,azcrmc.cn,Microsoft
 HOST-SUFFIX,azk8s.cn,Microsoft
 HOST-SUFFIX,aznbcontent.cn,Microsoft
 HOST-SUFFIX,aztask.cn,Microsoft
-HOST-SUFFIX,azure,Microsoft
 HOST-SUFFIX,azure-api.cn,Microsoft
 HOST-SUFFIX,azure-api.net,Microsoft
 HOST-SUFFIX,azure-apihub.cn,Microsoft
@@ -272,7 +271,6 @@ HOST-SUFFIX,biing.com,Microsoft
 HOST-SUFFIX,binads.com,Microsoft
 HOST-SUFFIX,binb.com,Microsoft
 HOST-SUFFIX,binf.com,Microsoft
-HOST-SUFFIX,bing,Microsoft
 HOST-SUFFIX,bing.com,Microsoft
 HOST-SUFFIX,bing.com.cn,Microsoft
 HOST-SUFFIX,bing.net,Microsoft
@@ -423,7 +421,6 @@ HOST-SUFFIX,here.net,Microsoft
 HOST-SUFFIX,heremaps.cn,Microsoft
 HOST-SUFFIX,hockeyapp.net,Microsoft
 HOST-SUFFIX,hololens.com,Microsoft
-HOST-SUFFIX,hotmail,Microsoft
 HOST-SUFFIX,hotmail.co,Microsoft
 HOST-SUFFIX,hotmail.com,Microsoft
 HOST-SUFFIX,hotmail.eu,Microsoft
@@ -481,7 +478,6 @@ HOST-SUFFIX,mepn.com,Microsoft
 HOST-SUFFIX,mesh.com,Microsoft
 HOST-SUFFIX,mgmt-azure-api.cn,Microsoft
 HOST-SUFFIX,microbit.org,Microsoft
-HOST-SUFFIX,microsoft,Microsoft
 HOST-SUFFIX,microsoft-falcon.io,Microsoft
 HOST-SUFFIX,microsoft-give.com,Microsoft
 HOST-SUFFIX,microsoft-int.com,Microsoft
@@ -711,7 +707,6 @@ HOST-SUFFIX,o365weve.com,Microsoft
 HOST-SUFFIX,oaspapps.com,Microsoft
 HOST-SUFFIX,oaspapps.com.akadns.net,Microsoft
 HOST-SUFFIX,octocaptcha.com,Microsoft
-HOST-SUFFIX,office,Microsoft
 HOST-SUFFIX,office.com,Microsoft
 HOST-SUFFIX,office.net,Microsoft
 HOST-SUFFIX,office365-net.cn,Microsoft
@@ -799,7 +794,6 @@ HOST-SUFFIX,sharepoint.com,Microsoft
 HOST-SUFFIX,sharepointonline.com,Microsoft
 HOST-SUFFIX,signalr.net,Microsoft
 HOST-SUFFIX,skydrive.wns.windows.com,Microsoft
-HOST-SUFFIX,skype,Microsoft
 HOST-SUFFIX,skype-edf.akadns.net,Microsoft
 HOST-SUFFIX,skype.com,Microsoft
 HOST-SUFFIX,skype.net,Microsoft

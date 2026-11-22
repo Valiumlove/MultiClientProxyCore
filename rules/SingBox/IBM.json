@@ -8,7 +8,6 @@
         "bluemix.net",
         "consul.io",
         "hashicorp.com",
-        "ibm",
         "ibm.com",
         "ibm.eu",
         "ibm.net",
@@ -21,9 +20,7 @@
         "terraform.io",
         "vagrantcloud.com",
         "vagrantup.com",
-        "vaultproject.io",
-        "weather",
-        "weatherchannel"
+        "vaultproject.io"
       ]
     }
   ]

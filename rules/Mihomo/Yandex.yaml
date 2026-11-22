@@ -1,10 +1,10 @@
 # NAME: Yandex
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-17 15:33:11
+# UPDATED: 2026-11-19 00:31:09
 # BEHAVIOR: classical
 # DOMAIN: 18
-# DOMAIN-SUFFIX: 141
+# DOMAIN-SUFFIX: 139
 # IP-CIDR: 41
 # IP-CIDR6: 16
 
@@ -90,7 +90,6 @@ payload:
 - 'DOMAIN-SUFFIX,ya.ru'
 - 'DOMAIN-SUFFIX,yadi.sk'
 - 'DOMAIN-SUFFIX,yads.tech'
-- 'DOMAIN-SUFFIX,yandex'
 - 'DOMAIN-SUFFIX,yandex-ad.cn'
 - 'DOMAIN-SUFFIX,yandex-bank.net'
 - 'DOMAIN-SUFFIX,yandex-metrica.ru'
@@ -146,7 +145,6 @@ payload:
 - 'DOMAIN-SUFFIX,yandexlyceum.ru'
 - 'DOMAIN-SUFFIX,yandexmetrica.com'
 - 'DOMAIN-SUFFIX,yandexwebcache.net'
-- 'DOMAIN-SUFFIX,yandexwebcache.org'
 - 'DOMAIN-SUFFIX,yango-ads.com'
 - 'DOMAIN-SUFFIX,yango-b2b.com'
 - 'DOMAIN-SUFFIX,yango-team.com'
