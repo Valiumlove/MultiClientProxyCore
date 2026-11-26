@@ -1,8 +1,8 @@
 # NAME: BaiShanYunKeJi
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:17:40
-# HOST-SUFFIX: 59
+# UPDATED: 2026-11-26 15:40:05
+# HOST-SUFFIX: 61
 
 HOST-SUFFIX,5gcdnx.com,BaiShanYunKeJi
 HOST-SUFFIX,baicdnx.com,BaiShanYunKeJi
@@ -55,6 +55,7 @@ HOST-SUFFIX,edgefn.net,BaiShanYunKeJi
 HOST-SUFFIX,fnedge.net,BaiShanYunKeJi
 HOST-SUFFIX,ldgslb.com,BaiShanYunKeJi
 HOST-SUFFIX,qingcdn.com,BaiShanYunKeJi
+HOST-SUFFIX,saxyit.com,BaiShanYunKeJi
 HOST-SUFFIX,saxysec.com,BaiShanYunKeJi
 HOST-SUFFIX,scdncloud.com,BaiShanYunKeJi
 HOST-SUFFIX,scdntop.com,BaiShanYunKeJi
@@ -62,4 +63,5 @@ HOST-SUFFIX,solocdn.cn,BaiShanYunKeJi
 HOST-SUFFIX,trpcdn.com,BaiShanYunKeJi
 HOST-SUFFIX,trpcdn.net,BaiShanYunKeJi
 HOST-SUFFIX,whitecdnx.com,BaiShanYunKeJi
+HOST-SUFFIX,yundun.com,BaiShanYunKeJi
 HOST-SUFFIX,zzcdnx.com,BaiShanYunKeJi

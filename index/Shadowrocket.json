@@ -1,8 +1,8 @@
 {
   "client": "Shadowrocket",
   "rule_file_extension": "list",
-  "rule_count": 1186,
-  "total_line_count": 829447,
+  "rule_count": 1185,
+  "total_line_count": 841885,
   "rules": [
     {
       "name": "115",
@@ -186,10 +186,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 70
+        "DOMAIN-SUFFIX": 75
       },
-      "total_line_count": 70,
-      "rule_updated_at": "2026-08-17T02:15:00.860829+00:00",
+      "total_line_count": 75,
+      "rule_updated_at": "2026-11-26T03:28:29.891214+00:00",
       "file": "rules/Shadowrocket/58TongCheng.list"
     },
     {
@@ -390,10 +390,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN": 184,
+        "DOMAIN": 183,
         "DOMAIN-SUFFIX": 4
       },
-      "total_line_count": 188,
+      "total_line_count": 187,
       "rule_updated_at": "2026-11-09T03:01:50.722023+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilter.list"
     },
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "DOMAIN": 190929,
+        "DOMAIN": 194077,
         "DOMAIN-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 191007,
-      "rule_updated_at": "2026-11-20T15:28:58.578349+00:00",
+      "total_line_count": 194155,
+      "rule_updated_at": "2026-11-26T09:45:18.444878+00:00",
       "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -471,17 +471,17 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 17421,
+        "DOMAIN": 17208,
         "DOMAIN-KEYWORD": 208,
-        "DOMAIN-SUFFIX": 255234,
+        "DOMAIN-SUFFIX": 262036,
         "IP-ASN": 15,
-        "IP-CIDR": 1025,
+        "IP-CIDR": 1018,
         "IP-CIDR6": 6,
         "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 273921,
-      "rule_updated_at": "2026-11-20T15:17:50.329792+00:00",
+      "total_line_count": 280503,
+      "rule_updated_at": "2026-11-26T07:36:08.547787+00:00",
       "file": "rules/Shadowrocket/Advertising.list"
     },
     {
@@ -496,15 +496,15 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "DOMAIN": 22906,
-        "DOMAIN-KEYWORD": 164,
-        "DOMAIN-SUFFIX": 162783,
+        "DOMAIN": 22855,
+        "DOMAIN-KEYWORD": 163,
+        "DOMAIN-SUFFIX": 165290,
         "IP-CIDR": 230,
         "IP-CIDR6": 4,
         "URL-REGEX": 2
       },
-      "total_line_count": 186089,
-      "rule_updated_at": "2026-11-20T15:15:51.818058+00:00",
+      "total_line_count": 188544,
+      "rule_updated_at": "2026-11-26T05:04:30.810278+00:00",
       "file": "rules/Shadowrocket/AdvertisingLite.list"
     },
     {
@@ -677,13 +677,13 @@
       ],
       "type_counts": {
         "DOMAIN": 5,
-        "DOMAIN-SUFFIX": 1470,
+        "DOMAIN-SUFFIX": 1471,
         "IP-CIDR": 139,
         "IP-CIDR6": 9,
         "PROCESS-NAME": 1
       },
-      "total_line_count": 1624,
-      "rule_updated_at": "2026-11-04T15:55:14.253530+00:00",
+      "total_line_count": 1625,
+      "rule_updated_at": "2026-11-26T03:21:05.456952+00:00",
       "file": "rules/Shadowrocket/Alibaba.list"
     },
     {
@@ -721,10 +721,10 @@
       ],
       "type_counts": {
         "DOMAIN": 4,
-        "DOMAIN-SUFFIX": 96
+        "DOMAIN-SUFFIX": 97
       },
-      "total_line_count": 100,
-      "rule_updated_at": "2026-08-10T09:19:13.545062+00:00",
+      "total_line_count": 101,
+      "rule_updated_at": "2026-11-26T03:10:53.241397+00:00",
       "file": "rules/Shadowrocket/Aliyun.list"
     },
     {
@@ -777,10 +777,10 @@
       ],
       "type_counts": {
         "DOMAIN": 239,
-        "DOMAIN-SUFFIX": 894
+        "DOMAIN-SUFFIX": 895
       },
-      "total_line_count": 1133,
-      "rule_updated_at": "2026-10-29T02:37:32.481964+00:00",
+      "total_line_count": 1134,
+      "rule_updated_at": "2026-11-26T03:26:10.192683+00:00",
       "file": "rules/Shadowrocket/Alphabet.list"
     },
     {
@@ -1128,13 +1128,13 @@
       "type_counts": {
         "DOMAIN": 283,
         "DOMAIN-KEYWORD": 5,
-        "DOMAIN-SUFFIX": 1771,
+        "DOMAIN-SUFFIX": 1642,
         "IP-CIDR": 10,
         "IP-CIDR6": 3,
         "PROCESS-NAME": 9,
         "USER-AGENT": 5
       },
-      "total_line_count": 2086,
+      "total_line_count": 1957,
       "rule_updated_at": "2026-11-17T09:18:09.880748+00:00",
       "file": "rules/Shadowrocket/Apple.list"
     },
@@ -1691,10 +1691,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 59
+        "DOMAIN-SUFFIX": 61
       },
-      "total_line_count": 59,
-      "rule_updated_at": "2026-07-26T06:57:23.263411+00:00",
+      "total_line_count": 61,
+      "rule_updated_at": "2026-11-26T03:26:51.450705+00:00",
       "file": "rules/Shadowrocket/BaiShanYunKeJi.list"
     },
     {
@@ -2624,10 +2624,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 7
+        "DOMAIN-SUFFIX": 9
       },
-      "total_line_count": 7,
-      "rule_updated_at": "2026-07-26T08:31:41.114720+00:00",
+      "total_line_count": 9,
+      "rule_updated_at": "2026-11-26T03:24:37.690425+00:00",
       "file": "rules/Shadowrocket/ChangYou.list"
     },
     {
@@ -2670,13 +2670,13 @@
       "type_counts": {
         "DOMAIN": 20,
         "DOMAIN-KEYWORD": 10,
-        "DOMAIN-SUFFIX": 6390,
-        "IP-CIDR": 3871,
+        "DOMAIN-SUFFIX": 6398,
+        "IP-CIDR": 3850,
         "IP-CIDR6": 4,
         "USER-AGENT": 30
       },
-      "total_line_count": 10325,
-      "rule_updated_at": "2026-11-20T15:57:42.328236+00:00",
+      "total_line_count": 10312,
+      "rule_updated_at": "2026-11-26T03:30:51.596287+00:00",
       "file": "rules/Shadowrocket/China.list"
     },
     {
@@ -2714,10 +2714,10 @@
       ],
       "type_counts": {
         "DOMAIN": 2,
-        "DOMAIN-SUFFIX": 292
+        "DOMAIN-SUFFIX": 296
       },
-      "total_line_count": 294,
-      "rule_updated_at": "2026-11-18T16:27:48.849171+00:00",
+      "total_line_count": 298,
+      "rule_updated_at": "2026-11-26T03:47:41.905296+00:00",
       "file": "rules/Shadowrocket/ChinaGame.list"
     },
     {
@@ -2730,11 +2730,11 @@
       ],
       "type_counts": {
         "IP-ASN": 5076,
-        "IP-CIDR": 12500,
+        "IP-CIDR": 12493,
         "IP-CIDR6": 5428
       },
-      "total_line_count": 23004,
-      "rule_updated_at": "2026-11-20T15:46:55.304183+00:00",
+      "total_line_count": 22997,
+      "rule_updated_at": "2026-11-26T09:58:00.675091+00:00",
       "file": "rules/Shadowrocket/ChinaIPs.list"
     },
     {
@@ -3436,14 +3436,14 @@
       "type_counts": {
         "DOMAIN": 71,
         "DOMAIN-KEYWORD": 5,
-        "DOMAIN-SUFFIX": 306,
+        "DOMAIN-SUFFIX": 307,
         "IP-ASN": 3,
         "IP-CIDR": 1,
         "IP-CIDR6": 2,
         "PROCESS-NAME": 14
       },
-      "total_line_count": 402,
-      "rule_updated_at": "2026-11-20T09:05:58.503497+00:00",
+      "total_line_count": 403,
+      "rule_updated_at": "2026-11-26T03:10:53.307513+00:00",
       "file": "rules/Shadowrocket/Copilot.list"
     },
     {
@@ -3667,10 +3667,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 5
+        "DOMAIN-SUFFIX": 6
       },
-      "total_line_count": 5,
-      "rule_updated_at": "2026-07-26T08:36:25.643018+00:00",
+      "total_line_count": 6,
+      "rule_updated_at": "2026-11-26T03:23:51.497052+00:00",
       "file": "rules/Shadowrocket/Cygames.list"
     },
     {
@@ -3803,10 +3803,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 2
+        "DOMAIN-SUFFIX": 3
       },
-      "total_line_count": 2,
-      "rule_updated_at": "2026-07-26T08:31:45.991115+00:00",
+      "total_line_count": 3,
+      "rule_updated_at": "2026-11-26T03:28:20.955234+00:00",
       "file": "rules/Shadowrocket/Debian.list"
     },
     {
@@ -3928,10 +3928,10 @@
       ],
       "type_counts": {
         "DOMAIN": 96,
-        "DOMAIN-SUFFIX": 647
+        "DOMAIN-SUFFIX": 656
       },
-      "total_line_count": 743,
-      "rule_updated_at": "2026-11-17T07:20:03.985967+00:00",
+      "total_line_count": 752,
+      "rule_updated_at": "2026-11-26T03:12:46.234361+00:00",
       "file": "rules/Shadowrocket/Developer.list"
     },
     {
@@ -4644,10 +4644,10 @@
       ],
       "type_counts": {
         "DOMAIN": 39,
-        "DOMAIN-SUFFIX": 1291
+        "DOMAIN-SUFFIX": 1292
       },
-      "total_line_count": 1330,
-      "rule_updated_at": "2026-10-29T02:37:31.613367+00:00",
+      "total_line_count": 1331,
+      "rule_updated_at": "2026-11-26T03:20:25.502607+00:00",
       "file": "rules/Shadowrocket/ECommerce.list"
     },
     {
@@ -5097,10 +5097,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 7
+        "DOMAIN-SUFFIX": 9
       },
-      "total_line_count": 7,
-      "rule_updated_at": "2026-07-26T08:21:15.489600+00:00",
+      "total_line_count": 9,
+      "rule_updated_at": "2026-11-26T03:23:52.777054+00:00",
       "file": "rules/Shadowrocket/Fastly.list"
     },
     {
@@ -5591,11 +5591,11 @@
       "type_counts": {
         "DOMAIN": 125,
         "DOMAIN-KEYWORD": 4,
-        "DOMAIN-SUFFIX": 1159,
+        "DOMAIN-SUFFIX": 1163,
         "IP-CIDR": 12
       },
-      "total_line_count": 1300,
-      "rule_updated_at": "2026-11-20T09:06:13.722821+00:00",
+      "total_line_count": 1304,
+      "rule_updated_at": "2026-11-26T03:25:14.180926+00:00",
       "file": "rules/Shadowrocket/Game.list"
     },
     {
@@ -5745,10 +5745,10 @@
       "type_counts": {
         "DOMAIN": 17,
         "DOMAIN-KEYWORD": 3,
-        "DOMAIN-SUFFIX": 34
+        "DOMAIN-SUFFIX": 35
       },
-      "total_line_count": 54,
-      "rule_updated_at": "2026-10-29T02:37:36.651435+00:00",
+      "total_line_count": 55,
+      "rule_updated_at": "2026-11-26T03:28:27.903038+00:00",
       "file": "rules/Shadowrocket/Gemini.list"
     },
     {
@@ -5889,16 +5889,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 1918,
-        "DOMAIN-KEYWORD": 53,
-        "DOMAIN-SUFFIX": 22368,
+        "DOMAIN": 1917,
+        "DOMAIN-KEYWORD": 57,
+        "DOMAIN-SUFFIX": 22245,
         "IP-CIDR": 80,
         "IP-CIDR6": 4,
         "PROCESS-NAME": 8,
         "USER-AGENT": 9
       },
-      "total_line_count": 24440,
-      "rule_updated_at": "2026-11-20T09:10:26.366001+00:00",
+      "total_line_count": 24320,
+      "rule_updated_at": "2026-11-26T03:17:17.044300+00:00",
       "file": "rules/Shadowrocket/Global.list"
     },
     {
@@ -5917,15 +5917,15 @@
       "type_counts": {
         "DOMAIN": 73,
         "DOMAIN-KEYWORD": 11,
-        "DOMAIN-SUFFIX": 347,
+        "DOMAIN-SUFFIX": 348,
         "IP-ASN": 3,
         "IP-CIDR": 1,
         "IP-CIDR6": 2,
         "PROCESS-NAME": 14,
         "URL-REGEX": 1
       },
-      "total_line_count": 452,
-      "rule_updated_at": "2026-11-20T09:02:33.037970+00:00",
+      "total_line_count": 453,
+      "rule_updated_at": "2026-11-26T03:12:06.129122+00:00",
       "file": "rules/Shadowrocket/GlobalAI.list"
     },
     {
@@ -5935,10 +5935,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 195
+        "DOMAIN-SUFFIX": 197
       },
-      "total_line_count": 195,
-      "rule_updated_at": "2026-08-08T02:57:23.496270+00:00",
+      "total_line_count": 197,
+      "rule_updated_at": "2026-11-26T03:21:55.962554+00:00",
       "file": "rules/Shadowrocket/GlobalCDN.list"
     },
     {
@@ -6002,16 +6002,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 88,
-        "DOMAIN-KEYWORD": 27,
-        "DOMAIN-SUFFIX": 1114,
+        "DOMAIN": 76,
+        "DOMAIN-KEYWORD": 25,
+        "DOMAIN-SUFFIX": 1084,
         "IP-CIDR": 266,
         "IP-CIDR6": 200,
         "PROCESS-NAME": 3,
         "URL-REGEX": 1,
         "USER-AGENT": 19
       },
-      "total_line_count": 1718,
+      "total_line_count": 1674,
       "rule_updated_at": "2026-11-06T07:11:20.721003+00:00",
       "file": "rules/Shadowrocket/GlobalMedia.list"
     },
@@ -6168,12 +6168,12 @@
       "type_counts": {
         "DOMAIN": 241,
         "DOMAIN-KEYWORD": 6,
-        "DOMAIN-SUFFIX": 893,
+        "DOMAIN-SUFFIX": 894,
         "IP-CIDR": 2,
         "PROCESS-NAME": 4
       },
-      "total_line_count": 1146,
-      "rule_updated_at": "2026-10-29T03:07:13.553805+00:00",
+      "total_line_count": 1147,
+      "rule_updated_at": "2026-11-26T03:23:00.545373+00:00",
       "file": "rules/Shadowrocket/Google.list"
     },
     {
@@ -6185,10 +6185,10 @@
       ],
       "type_counts": {
         "DOMAIN": 16,
-        "DOMAIN-SUFFIX": 33
+        "DOMAIN-SUFFIX": 34
       },
-      "total_line_count": 49,
-      "rule_updated_at": "2026-10-29T02:37:20.538889+00:00",
+      "total_line_count": 50,
+      "rule_updated_at": "2026-11-26T03:12:09.955796+00:00",
       "file": "rules/Shadowrocket/GoogleDeepMind.list"
     },
     {
@@ -8402,10 +8402,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 60
+        "DOMAIN-SUFFIX": 63
       },
-      "total_line_count": 60,
-      "rule_updated_at": "2026-07-26T06:26:49.550780+00:00",
+      "total_line_count": 63,
+      "rule_updated_at": "2026-11-26T03:21:10.677226+00:00",
       "file": "rules/Shadowrocket/Lenovo.list"
     },
     {
@@ -9484,19 +9484,6 @@
       "file": "rules/Shadowrocket/Monotype.list"
     },
     {
-      "name": "MOOMusic",
-      "chinese_name": "MOO音乐",
-      "types": [
-        "USER-AGENT"
-      ],
-      "type_counts": {
-        "USER-AGENT": 1
-      },
-      "total_line_count": 1,
-      "rule_updated_at": "2026-07-26T07:16:20.542431+00:00",
-      "file": "rules/Shadowrocket/MOOMusic.list"
-    },
-    {
       "name": "Moonvy",
       "chinese_name": "Moonvy视频",
       "types": [
@@ -9813,10 +9800,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 17
+        "DOMAIN-SUFFIX": 33
       },
-      "total_line_count": 17,
-      "rule_updated_at": "2026-07-26T10:38:05.395596+00:00",
+      "total_line_count": 33,
+      "rule_updated_at": "2026-11-26T03:26:06.158630+00:00",
       "file": "rules/Shadowrocket/NBCUniversal.list"
     },
     {
@@ -10805,10 +10792,10 @@
       ],
       "type_counts": {
         "DOMAIN": 4,
-        "DOMAIN-SUFFIX": 27
+        "DOMAIN-SUFFIX": 29
       },
-      "total_line_count": 31,
-      "rule_updated_at": "2026-07-26T06:53:02.418813+00:00",
+      "total_line_count": 33,
+      "rule_updated_at": "2026-11-26T03:26:39.280989+00:00",
       "file": "rules/Shadowrocket/PCCW.list"
     },
     {
@@ -10956,10 +10943,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 27
+        "DOMAIN-SUFFIX": 38
       },
-      "total_line_count": 27,
-      "rule_updated_at": "2026-07-26T06:27:37.021262+00:00",
+      "total_line_count": 38,
+      "rule_updated_at": "2026-11-26T03:24:13.022714+00:00",
       "file": "rules/Shadowrocket/PingAn.list"
     },
     {
@@ -11212,11 +11199,11 @@
       "type_counts": {
         "DOMAIN": 12,
         "DOMAIN-KEYWORD": 2,
-        "DOMAIN-SUFFIX": 39864,
+        "DOMAIN-SUFFIX": 40346,
         "IP-CIDR": 9
       },
-      "total_line_count": 39887,
-      "rule_updated_at": "2026-11-06T07:11:25.781045+00:00",
+      "total_line_count": 40369,
+      "rule_updated_at": "2026-11-26T03:28:43.766968+00:00",
       "file": "rules/Shadowrocket/Privacy.list"
     },
     {
@@ -12631,10 +12618,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 81
+        "DOMAIN-SUFFIX": 83
       },
-      "total_line_count": 81,
-      "rule_updated_at": "2026-07-26T06:28:06.309606+00:00",
+      "total_line_count": 83,
+      "rule_updated_at": "2026-11-26T03:25:30.554558+00:00",
       "file": "rules/Shadowrocket/Sohu.list"
     },
     {
@@ -12768,13 +12755,13 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "DOMAIN": 3383,
+        "DOMAIN": 3394,
         "DOMAIN-KEYWORD": 1,
         "DOMAIN-SUFFIX": 130,
         "USER-AGENT": 1
       },
-      "total_line_count": 3515,
-      "rule_updated_at": "2026-11-20T09:02:30.731055+00:00",
+      "total_line_count": 3526,
+      "rule_updated_at": "2026-11-26T03:48:08.567768+00:00",
       "file": "rules/Shadowrocket/Speedtest.list"
     },
     {
@@ -14420,10 +14407,10 @@
         "DOMAIN-SUFFIX"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 24
+        "DOMAIN-SUFFIX": 25
       },
-      "total_line_count": 24,
-      "rule_updated_at": "2026-07-26T06:57:11.499627+00:00",
+      "total_line_count": 25,
+      "rule_updated_at": "2026-11-26T03:22:15.031053+00:00",
       "file": "rules/Shadowrocket/Unity.list"
     },
     {
@@ -15600,11 +15587,11 @@
         "PROCESS-NAME"
       ],
       "type_counts": {
-        "DOMAIN-SUFFIX": 181,
+        "DOMAIN-SUFFIX": 180,
         "IP-CIDR": 15,
         "PROCESS-NAME": 2
       },
-      "total_line_count": 198,
+      "total_line_count": 197,
       "rule_updated_at": "2026-10-09T15:59:10.241741+00:00",
       "file": "rules/Shadowrocket/XiaoMi.list"
     },

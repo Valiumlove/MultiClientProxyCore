@@ -2,7 +2,7 @@
   "version": 1,
   "clients": {
     "Surge": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/Surge/56.list",
@@ -97,7 +97,7 @@
         },
         "58TongCheng": {
           "file": "rules/Surge/58TongCheng.list",
-          "rule_updated_at": "2026-08-17T02:15:02.420754+00:00",
+          "rule_updated_at": "2026-11-26T03:28:30.145151+00:00",
           "bytes": 1994,
           "sha256": "2ea4220ef26ab787e9cf70a935f49bdcaa692ae1a6b89c720080ff6d522cbe8e",
           "semantic_sha256": "6748d2356a3df4bdc61c1b98dfa35bbcddd2d6256960e555d92da5c0d25a0a1e"
@@ -209,7 +209,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Surge/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-20T15:29:06.133570+00:00",
+          "rule_updated_at": "2026-11-26T09:50:16.193504+00:00",
           "bytes": 5370928,
           "sha256": "bb9343809fe317bad773dd7705f9f701d01802ee8be2aee2c24474847196838e",
           "semantic_sha256": "ddf3da42f13917040a0b6e75f84922dd002a1a880eb0de612c6438fc47d684ee"
@@ -237,14 +237,14 @@
         },
         "Advertising": {
           "file": "rules/Surge/Advertising.list",
-          "rule_updated_at": "2026-11-20T15:18:43.047011+00:00",
+          "rule_updated_at": "2026-11-26T07:48:30.733064+00:00",
           "bytes": 9174954,
           "sha256": "207a1cbd27c7edfbedc291e01a628a42fa53cb4577eab53bdffc015b17531222",
           "semantic_sha256": "742c9d31776450ebb74d82077f0570af8d8030792bfb8cb4b2a5b1cbc63b8372"
         },
         "AdvertisingLite": {
           "file": "rules/Surge/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-20T15:16:00.769408+00:00",
+          "rule_updated_at": "2026-11-26T05:06:00.324955+00:00",
           "bytes": 6215823,
           "sha256": "c6e5eccef6b1ba0ff07b0bff0007ae55a041206bcdd17cb4f271988338c5688c",
           "semantic_sha256": "48fb0f380f0eecba2b69afa4529b579fd2e081efdaddd42a41d03d4e8dd2d4ba"
@@ -335,10 +335,10 @@
         },
         "Alibaba": {
           "file": "rules/Surge/Alibaba.list",
-          "rule_updated_at": "2026-11-04T15:55:14.293740+00:00",
-          "bytes": 47630,
-          "sha256": "503dcc24e6c5974fc962ae8048a5e9cc7ee2430c15c4b881182843a7fda689e0",
-          "semantic_sha256": "cc4e2ca96e83b753d8e294c02ddb7aaed01541afc13db8f31f6929ab8e899ceb"
+          "rule_updated_at": "2026-11-26T03:21:05.653313+00:00",
+          "bytes": 47666,
+          "sha256": "0df575b927eb95158637a263c4cb14d7b52c66f06470072bfe6c6f3659af24d7",
+          "semantic_sha256": "76fbb38159bda1690465c4dfb1781a6dff8a2e3f5ff0b29a403d7baae61252a6"
         },
         "AliGames": {
           "file": "rules/Surge/AliGames.list",
@@ -356,10 +356,10 @@
         },
         "Aliyun": {
           "file": "rules/Surge/Aliyun.list",
-          "rule_updated_at": "2026-08-10T09:19:13.570821+00:00",
-          "bytes": 3558,
-          "sha256": "1dc96965f45ee4e7c26e49c117618b9957deee151e9fd9f1c75926c4e3166108",
-          "semantic_sha256": "4b1a4ef46cd4061e3f34bbe24cbdabe981dcc6f5f649865228699441cd0f1f36"
+          "rule_updated_at": "2026-11-26T03:10:53.449796+00:00",
+          "bytes": 3594,
+          "sha256": "46ab74242c83cba4e4474c71c45f8c5c87e97440afad2421d9e8784d52110f1e",
+          "semantic_sha256": "fe89ce29fd63a2c52dd7a26d3944af5f5b97b6c65e2b94bf9bccdbaf45c52ef1"
         },
         "AliyunDrive": {
           "file": "rules/Surge/AliyunDrive.list",
@@ -384,10 +384,10 @@
         },
         "Alphabet": {
           "file": "rules/Surge/Alphabet.list",
-          "rule_updated_at": "2026-10-29T02:37:32.517004+00:00",
-          "bytes": 32202,
-          "sha256": "2d8f99f7bef606b166d7612486eaf116e842be3256efc8de4655d9ef525a0fe2",
-          "semantic_sha256": "d99e85815dfd018ea29ad386e29e0596ad9b92f016cf3881772fd7a579b49f13"
+          "rule_updated_at": "2026-11-26T03:26:12.054888+00:00",
+          "bytes": 32225,
+          "sha256": "9d11f55a033b8a962b4a8b9bad0ed1bb20b78be216f1cb517b4f02586713e59b",
+          "semantic_sha256": "5424654a6edc33d222f4e73e8acbb0ff5da79b340cddbe02ecda0c446118a3f0"
         },
         "Amazon": {
           "file": "rules/Surge/Amazon.list",
@@ -818,10 +818,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Surge/BaiShanYunKeJi.list",
-          "rule_updated_at": "2026-07-26T06:57:24.700763+00:00",
-          "bytes": 1742,
-          "sha256": "cfdb76485d2506532ae890486d4e24d268f0b6cace8fa6f14b0335f7573811a8",
-          "semantic_sha256": "ac40cf64960c86d0159536fa7530393edd7abf7b3caee16b68898af83f491f75"
+          "rule_updated_at": "2026-11-26T03:26:52.929500+00:00",
+          "bytes": 1792,
+          "sha256": "2986c07cd38f205cb501837441a86b5c33c8e3b13775085c813517e0525fc4be",
+          "semantic_sha256": "5b481f19aaa67940411456b358e3670fe9bba96fcc7db9dfedcc25736b3a3a08"
         },
         "Bandcamp": {
           "file": "rules/Surge/Bandcamp.list",
@@ -1301,7 +1301,7 @@
         },
         "ChangYou": {
           "file": "rules/Surge/ChangYou.list",
-          "rule_updated_at": "2026-07-26T08:31:41.345512+00:00",
+          "rule_updated_at": "2026-11-26T03:24:37.818018+00:00",
           "bytes": 302,
           "sha256": "15e5cb3ab48fc2c3eb7581636b3e04db8349b31090d6ea534381ffe99bd62ee0",
           "semantic_sha256": "2ff3ba709188e05903cf6de84cbce6ec109ada2350fd0b93ddfecfa0eb0c4765"
@@ -1322,10 +1322,10 @@
         },
         "China": {
           "file": "rules/Surge/China.list",
-          "rule_updated_at": "2026-11-20T15:58:05.574130+00:00",
-          "bytes": 306812,
-          "sha256": "355a0ef8883b29ca3430716243d7ef42771e273d250bec3314c6e9227bbd4c32",
-          "semantic_sha256": "19f1ae54bab2912790ef3fd6694d6ba853996c94219e79159fdcec300bd1bb9e"
+          "rule_updated_at": "2026-11-26T03:31:24.766171+00:00",
+          "bytes": 306311,
+          "sha256": "c20a8b696baf0e372fbcf63e0e62e3ffbc4df55fe206a832a9a51f1b49681b4a",
+          "semantic_sha256": "8d0973ba6f0f92207bf33f641e6edfb0e808def1e5ac731600855101ffce35a4"
         },
         "ChinaASN": {
           "file": "rules/Surge/ChinaASN.list",
@@ -1343,17 +1343,17 @@
         },
         "ChinaGame": {
           "file": "rules/Surge/ChinaGame.list",
-          "rule_updated_at": "2026-11-18T16:27:48.963177+00:00",
+          "rule_updated_at": "2026-11-26T03:47:42.083429+00:00",
           "bytes": 8016,
           "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
           "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Surge/ChinaIPs.list",
-          "rule_updated_at": "2026-11-20T15:46:55.882780+00:00",
-          "bytes": 771489,
-          "sha256": "5754fd4ef19f0d3a552e9bffe7bb12369d782fafbbd2ef494162114e23dad673",
-          "semantic_sha256": "ce24b3984041c64ba7f7d994203bc103cef231a1212d76468ae9072db032e176"
+          "rule_updated_at": "2026-11-26T09:58:46.842940+00:00",
+          "bytes": 771249,
+          "sha256": "61df61ccbac45a7172b9c1d67d739812fbf4d88773ad0d9c0d84b3c1157821f1",
+          "semantic_sha256": "279cff24eb2a30790c0d04175d385e9729850e63790ed383362c49d72a2ab1f2"
         },
         "ChinaIPTV": {
           "file": "rules/Surge/ChinaIPTV.list",
@@ -1707,10 +1707,10 @@
         },
         "Copilot": {
           "file": "rules/Surge/Copilot.list",
-          "rule_updated_at": "2026-11-20T09:06:00.795454+00:00",
-          "bytes": 12130,
-          "sha256": "0a011b3406c965128685eabbd2adeceda4a8971109335d7a85b11b483673c8ad",
-          "semantic_sha256": "4af76730b78c8109809da2d52cd0aefb13f9b7b5eb00e57d2c43479544f1daf2"
+          "rule_updated_at": "2026-11-26T03:11:02.465913+00:00",
+          "bytes": 12153,
+          "sha256": "0d6fd3e9761da5ec56c3fc113376667d827d3ec90555a35d1999ad73169abdfa",
+          "semantic_sha256": "f5e3e1c3eb156468703814e7199ace6e0e5a39f2bced30968c264de057d823d3"
         },
         "CopyManga": {
           "file": "rules/Surge/CopyManga.list",
@@ -1826,7 +1826,7 @@
         },
         "Cygames": {
           "file": "rules/Surge/Cygames.list",
-          "rule_updated_at": "2026-07-26T08:36:25.691388+00:00",
+          "rule_updated_at": "2026-11-26T03:23:51.615218+00:00",
           "bytes": 286,
           "sha256": "9b4bed63045cdd0f192b0509add4d2de38b715c0eed1c6c084f7bf5eb9fd35ab",
           "semantic_sha256": "48404d6f428f3b7fc6a6c8f2b51c7718a28d6d2a2a0723f052fa56239cfbd452"
@@ -1896,10 +1896,10 @@
         },
         "Debian": {
           "file": "rules/Surge/Debian.list",
-          "rule_updated_at": "2026-07-26T08:31:46.019644+00:00",
-          "bytes": 173,
-          "sha256": "14b25d2bc4fb2b36af0d4154a0bbb1345e3dc5c23141eab947785e771f6f890f",
-          "semantic_sha256": "9202b1ceb9ace45ba956a4b10ee28ae7d774f32125b0b0ba23400c1fbd17ea23"
+          "rule_updated_at": "2026-11-26T03:28:21.095362+00:00",
+          "bytes": 212,
+          "sha256": "65c2765a32074d5c8a4b9dbc3b1d9815525d681f575bcd42fc068a37ecd97259",
+          "semantic_sha256": "ecaa6522be64a1bb0593b0fcd23770fb11a56b3ebec525ddd32d70711ac428b6"
         },
         "Dedao": {
           "file": "rules/Surge/Dedao.list",
@@ -1959,7 +1959,7 @@
         },
         "Developer": {
           "file": "rules/Surge/Developer.list",
-          "rule_updated_at": "2026-11-17T07:20:04.061117+00:00",
+          "rule_updated_at": "2026-11-26T03:12:52.280597+00:00",
           "bytes": 22585,
           "sha256": "33abede418be687baf437cd93241a9a552608948b88327090ba998ff5fb275d0",
           "semantic_sha256": "a9923da142a26464daaf34563ee02194f0602ebf546f6d2eacde23e948757c76"
@@ -2323,10 +2323,10 @@
         },
         "ECommerce": {
           "file": "rules/Surge/ECommerce.list",
-          "rule_updated_at": "2026-10-29T02:37:31.645013+00:00",
-          "bytes": 37304,
-          "sha256": "cdae6285084f2dbc0b4bdccd8ad625d0240d96d05c4a81656229048e5c5bcb37",
-          "semantic_sha256": "dff95645ad9a23e9dfa4c7a2464c0b9b901fe524a774337f2cfac1f4c6ef0154"
+          "rule_updated_at": "2026-11-26T03:20:42.528969+00:00",
+          "bytes": 37327,
+          "sha256": "f26d30e19049720376d627a9772907fc07bc4e28c02110c97af46274c8a6a752",
+          "semantic_sha256": "2188ce079712bd73f899cbd68e3c024e226e30c20b38d5636a2cb8c11d355612"
         },
         "Economist": {
           "file": "rules/Surge/Economist.list",
@@ -2554,10 +2554,10 @@
         },
         "Fastly": {
           "file": "rules/Surge/Fastly.list",
-          "rule_updated_at": "2026-07-26T08:21:15.654239+00:00",
-          "bytes": 318,
-          "sha256": "7d82e1f2ff776368634d4425085880b114b788b4aef14af6326c9b4a0e12fa4d",
-          "semantic_sha256": "f14b8aa03871fa5a29e3badc8680e2dd21fc6fe987883ddac1a3f1cddf8ededc"
+          "rule_updated_at": "2026-11-26T03:23:52.897143+00:00",
+          "bytes": 380,
+          "sha256": "59545958065d2222b8ae46bc4cb2fb585c6eac2ef65f0063bd2fd508a125ff4a",
+          "semantic_sha256": "08f7d5e0fc40b212e1fd68e29ef9566be978ae4f4de4d2fb8423ea9fe13b2ae5"
         },
         "FastStone": {
           "file": "rules/Surge/FastStone.list",
@@ -2813,10 +2813,10 @@
         },
         "Game": {
           "file": "rules/Surge/Game.list",
-          "rule_updated_at": "2026-11-20T09:06:17.462121+00:00",
-          "bytes": 39263,
-          "sha256": "eed66ae10c600d7a0b8cadd80e8023a0e25aeda568c780b2a9c0dc5bbfd53005",
-          "semantic_sha256": "730a7319c5e73baabaa658ecd175078a9c4f99630229aa26f1c1c0f74fc197ce"
+          "rule_updated_at": "2026-11-26T03:25:26.869912+00:00",
+          "bytes": 39390,
+          "sha256": "aa86db33f191baf356b890efe694daaefc693357067b55ab8df10498890489c9",
+          "semantic_sha256": "df2acd96b8b2cc02c066e0925e50e82d7a4da4817617607924d1efeed3fb3a9d"
         },
         "GameDownload": {
           "file": "rules/Surge/GameDownload.list",
@@ -2890,7 +2890,7 @@
         },
         "Gemini": {
           "file": "rules/Surge/Gemini.list",
-          "rule_updated_at": "2026-10-29T02:37:36.721481+00:00",
+          "rule_updated_at": "2026-11-26T03:28:28.133183+00:00",
           "bytes": 2050,
           "sha256": "536ae5fea947aa93cbb2a7ebe172b2c7a4cf9618131bc090371e509e4491058c",
           "semantic_sha256": "f4a420c6679b0e65213a2873b3dcaac13acd6445350db0e5c54acd4b00dd839c"
@@ -2960,24 +2960,24 @@
         },
         "Global": {
           "file": "rules/Surge/Global.list",
-          "rule_updated_at": "2026-11-20T09:13:36.264965+00:00",
-          "bytes": 696511,
-          "sha256": "3e3ae1add81a5946e9beff395db596f927be7450035e3514705dcf325a68cfe7",
-          "semantic_sha256": "18ba25705ffbdc11f38deccb40e23ff46c1a00080520a3e6662aa3ef51aa76c3"
+          "rule_updated_at": "2026-11-26T03:19:15.134957+00:00",
+          "bytes": 693025,
+          "sha256": "e5d6d84dad55553c70c3ababd6d38543350ef051db6e6568fa799897ee84f153",
+          "semantic_sha256": "d3a5e34118463493e849581842bfeaaffd8e7dd2addd3e8c91a5912618d56829"
         },
         "GlobalAI": {
           "file": "rules/Surge/GlobalAI.list",
-          "rule_updated_at": "2026-11-20T09:02:33.688941+00:00",
-          "bytes": 13752,
-          "sha256": "7d59feba30377643dab89b50a7def953eacf790ad02d107b237ee09e09f5d030",
-          "semantic_sha256": "01abc50bddcef0b13a26c5c120053a041b802056bad5cd44567d6db6b1b2fc85"
+          "rule_updated_at": "2026-11-26T03:12:09.994620+00:00",
+          "bytes": 13775,
+          "sha256": "93ff24942caa6bdd5a7f79ba30bc650a7e4c877fd7715857dedfa9629940e94b",
+          "semantic_sha256": "dc27792549502254088a74d45d9067dc8d1e77ba02ddf2dc8c56926b598a8fbc"
         },
         "GlobalCDN": {
           "file": "rules/Surge/GlobalCDN.list",
-          "rule_updated_at": "2026-08-08T02:57:24.613142+00:00",
-          "bytes": 5908,
-          "sha256": "5d7a6107ee743aa0a55b1a513b4f2331a2d18233082a12e8dc6e1b5f9ae6a73a",
-          "semantic_sha256": "d2927f053fd8ef2dc663f5e6bcc689e63c1289ac0745b6065d36b0438448fa2d"
+          "rule_updated_at": "2026-11-26T03:22:10.108691+00:00",
+          "bytes": 5970,
+          "sha256": "bd9ec27ac96f4fd1923d4c27b6b0145272d68ad8c65ed87ab05f3e7b651c2d16",
+          "semantic_sha256": "233a658e4c8071f0e7e3d130ed4a433aefebc408a33a4acf8d71eae384be1509"
         },
         "GlobalCloud": {
           "file": "rules/Surge/GlobalCloud.list",
@@ -3079,17 +3079,17 @@
         },
         "Google": {
           "file": "rules/Surge/Google.list",
-          "rule_updated_at": "2026-10-29T03:07:13.755900+00:00",
+          "rule_updated_at": "2026-11-26T03:23:02.674281+00:00",
           "bytes": 34033,
           "sha256": "c35e5e6d972a70d2dbf782f58b2c033ae215d120c04990cbbbcba878446319b1",
           "semantic_sha256": "ceb27d213badaa1f99cc5a1c0aa96fe5ff0bfc83c5adb4105dbb5c4261f163c9"
         },
         "GoogleDeepMind": {
           "file": "rules/Surge/GoogleDeepMind.list",
-          "rule_updated_at": "2026-10-29T02:37:20.560820+00:00",
-          "bytes": 1891,
-          "sha256": "d8de5315c07d3a4abdd61e8a95882d8a6380aa01c5a68783b41754969d120422",
-          "semantic_sha256": "78f8c446a9646b6145986fdfc132292f6c1166854e4da052de8da02e7cca80a5"
+          "rule_updated_at": "2026-11-26T03:12:12.211800+00:00",
+          "bytes": 1914,
+          "sha256": "f12122afc01c8c620ebc75f15231b845d75574a16e3f506fb7e560542d4c0c23",
+          "semantic_sha256": "ff8fd03f2a5b02a01823a3e729a27a2a89cdc9526ec93c3e2eb5eedf3c296ad0"
         },
         "GoogleEarth": {
           "file": "rules/Surge/GoogleEarth.list",
@@ -4213,10 +4213,10 @@
         },
         "Lenovo": {
           "file": "rules/Surge/Lenovo.list",
-          "rule_updated_at": "2026-07-26T06:26:50.991485+00:00",
-          "bytes": 1824,
-          "sha256": "3e1162d1c0bbb782ebeeeed7af473937f3c2d0d900373eaf851d95b9ca5178c9",
-          "semantic_sha256": "a5505b2f1ef50668c215ed507935f0fd0d6ca2dd8c163fe8972c755f2e0bc4fd"
+          "rule_updated_at": "2026-11-26T03:21:10.827557+00:00",
+          "bytes": 1919,
+          "sha256": "1bf598d9d148102d52920d82da7a3ad14656698f6b6a9f95b6f1ef0df776589c",
+          "semantic_sha256": "c460dd9cc7555891c10d1cf12cd4e6d183297163bf5fc327dfa713423f5b0a95"
         },
         "LetsEncrypt": {
           "file": "rules/Surge/LetsEncrypt.list",
@@ -4771,13 +4771,6 @@
           "sha256": "a8789c09dd60ea03c3841e3d3efa44e0282138cab30f44cc20f2aafd03fdc990",
           "semantic_sha256": "b332f717e03ddd6ffdb6e9a32c24387b38fbe198c418de4e9fef58ce09d7d553"
         },
-        "MOOMusic": {
-          "file": "rules/Surge/MOOMusic.list",
-          "rule_updated_at": "2026-07-26T07:16:20.564489+00:00",
-          "bytes": 153,
-          "sha256": "f113e1de7ca144fc49654d12ce88c5dfec16fdbeb542023958932ef3963cb41c",
-          "semantic_sha256": "5cc124fcc9d01cb48ca09cf0da08f615f5204ac01d29e6bac6a24401b6f8d76a"
-        },
         "Moonvy": {
           "file": "rules/Surge/Moonvy.list",
           "rule_updated_at": "2026-07-26T10:37:47.856941+00:00",
@@ -4934,7 +4927,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Surge/NBCUniversal.list",
-          "rule_updated_at": "2026-07-26T10:38:05.429380+00:00",
+          "rule_updated_at": "2026-11-26T03:26:06.458930+00:00",
           "bytes": 634,
           "sha256": "4d927fbe606d163e1d7c3ce1214ac7615b9b02f48042fe717d78cd1ddedd26d5",
           "semantic_sha256": "fb6933feb30e33bc0d3ef33f280e290131bff8aac82ff906bb0f2de67c447348"
@@ -5424,10 +5417,10 @@
         },
         "PCCW": {
           "file": "rules/Surge/PCCW.list",
-          "rule_updated_at": "2026-07-26T06:53:03.673448+00:00",
-          "bytes": 1003,
-          "sha256": "e8c90a18bcebd05bc61588b51dbcbd2763863bef2c35656e504bcf8da3d70678",
-          "semantic_sha256": "c5baf0ad709fc0055bb9ffe3ff7d1e1ae36137e1e659bb5f3bde8bac3b77c1ab"
+          "rule_updated_at": "2026-11-26T03:26:40.301012+00:00",
+          "bytes": 1040,
+          "sha256": "aabce308209aba9da4e10549345605f1440c0a79a09df05c8531a63f16d95b79",
+          "semantic_sha256": "709597be56746681682a6fb9e01477dcd4c270794a240c9b8390812c662f5dfe"
         },
         "PChomeTW": {
           "file": "rules/Surge/PChomeTW.list",
@@ -5501,10 +5494,10 @@
         },
         "PingAn": {
           "file": "rules/Surge/PingAn.list",
-          "rule_updated_at": "2026-07-26T06:27:38.296398+00:00",
-          "bytes": 860,
-          "sha256": "8bf22d05328d317d15b49ed5cc57b76dbc46443a262e55decb2ef6bf94e6c9a8",
-          "semantic_sha256": "8039d902138b672105bb0a2b1ec563f55f7e1ec8019a5fc6a669b5c5348be413"
+          "rule_updated_at": "2026-11-26T03:24:30.679859+00:00",
+          "bytes": 1143,
+          "sha256": "6be1da42e610571138fd21168e6985d12540c869a477bb97da6cbe9b5dd23993",
+          "semantic_sha256": "5d6a8a3ee968e93bca157d8df6c7a32a5322017999aa888b360e308e06452880"
         },
         "Pinterest": {
           "file": "rules/Surge/Pinterest.list",
@@ -5634,10 +5627,10 @@
         },
         "Privacy": {
           "file": "rules/Surge/Privacy.list",
-          "rule_updated_at": "2026-11-06T07:11:28.399809+00:00",
-          "bytes": 1444006,
-          "sha256": "3681d6b26ea139c03e5ce2f42a7a964e070bc2ad937d5d7a0096f24758c58fba",
-          "semantic_sha256": "2ff44198aedf943fcf5f483807704d302fb5429e1e701a0cb8656fdd1225df63"
+          "rule_updated_at": "2026-11-26T03:28:47.358755+00:00",
+          "bytes": 1460427,
+          "sha256": "37da9524769e01b31e47fa36a0603ff80270abf5716101c01f8ac114106c0774",
+          "semantic_sha256": "0435724938e33d03bbf49111e03d6b64562865bdd82920d7175fa96c71ddb1ee"
         },
         "PrivateTracker": {
           "file": "rules/Surge/PrivateTracker.list",
@@ -6376,10 +6369,10 @@
         },
         "Sohu": {
           "file": "rules/Surge/Sohu.list",
-          "rule_updated_at": "2026-07-26T06:28:08.118481+00:00",
-          "bytes": 2203,
-          "sha256": "02e6cebbd9aba9dfa1e89e4785ac247370827fa2718d0c2e489cdd5e51e4d1a1",
-          "semantic_sha256": "3f6040e68f27707aad33a010db2e6ef950e03b4e8dd3b640ab2d5cef2ad5830e"
+          "rule_updated_at": "2026-11-26T03:25:45.845961+00:00",
+          "bytes": 2248,
+          "sha256": "d8241e77a5ef80ed02a653128e4aa1408a71de2830a415c66608dc3846e268cd",
+          "semantic_sha256": "4e1d1707d1882b4790de1cb3c3ea05e45dcfa8d0be34c9618f4125774f504edf"
         },
         "Sony": {
           "file": "rules/Surge/Sony.list",
@@ -6446,10 +6439,10 @@
         },
         "Speedtest": {
           "file": "rules/Surge/Speedtest.list",
-          "rule_updated_at": "2026-11-20T09:02:31.041172+00:00",
-          "bytes": 115139,
-          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
-          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
+          "rule_updated_at": "2026-11-26T03:48:08.960971+00:00",
+          "bytes": 115629,
+          "sha256": "8f985eda109e70d753fac451b3a5cfa404bcce3c7794d2d39a49013c8f5b2191",
+          "semantic_sha256": "227e5a6f0a305493d1993514391257f53d4d34dacdc02ef1d7851a49d73375ea"
         },
         "Spiceworks": {
           "file": "rules/Surge/Spiceworks.list",
@@ -7279,7 +7272,7 @@
         },
         "Unity": {
           "file": "rules/Surge/Unity.list",
-          "rule_updated_at": "2026-07-26T06:57:12.748451+00:00",
+          "rule_updated_at": "2026-11-26T03:22:32.709150+00:00",
           "bytes": 917,
           "sha256": "7d9b841676eb1792e3e59c7983484fc6fab286465cc6ea0c2aa6201ce642ef6a",
           "semantic_sha256": "13aea43bbd09347bf8793fbbd1685f72a1a33d7390a6784fee88e27bf960ef67"
@@ -8404,7 +8397,7 @@
         },
         "58TongCheng": {
           "file": "rules/Mihomo/58TongCheng.yaml",
-          "rule_updated_at": "2026-08-17T02:15:07.548950+00:00",
+          "rule_updated_at": "2026-11-26T03:28:30.919141+00:00",
           "bytes": 2305,
           "sha256": "8ea975df1dd5f276ab44cda72ace0b226a3235386209b172783f3ed6d5a8e370",
           "semantic_sha256": "f52771a1259102f31f7db9867b50988ae91369f6bb9291a3f693bfa89a25f112"
@@ -8516,7 +8509,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Mihomo/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-20T15:29:28.559954+00:00",
+          "rule_updated_at": "2026-11-26T10:01:54.555522+00:00",
           "bytes": 6134987,
           "sha256": "e90e92c14a26a809c70e6ea3e870458ecc4fc36ae36980835c63671b27da2eb8",
           "semantic_sha256": "8c3d0d446f8a9f9a40a103123745928112bdb8ca3adcf08957c5cf0601441474"
@@ -8544,14 +8537,14 @@
         },
         "Advertising": {
           "file": "rules/Mihomo/Advertising.yaml",
-          "rule_updated_at": "2026-11-20T15:20:53.717788+00:00",
+          "rule_updated_at": "2026-11-26T07:49:33.129035+00:00",
           "bytes": 10270928,
           "sha256": "47a49050977a0aacbcf124609d5c821453bc20a82f9f66a06145bf4e57a795d8",
           "semantic_sha256": "99ae401b16fc978de0cd4c3da5842c1611b1890735704a8481cdbe947d4beec5"
         },
         "AdvertisingLite": {
           "file": "rules/Mihomo/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-20T15:16:30.419266+00:00",
+          "rule_updated_at": "2026-11-26T05:10:26.146514+00:00",
           "bytes": 6960650,
           "sha256": "319edf2b25106be246814c79bd1d1ddf6dc62854e262e7bbd8f7433a8bf08f00",
           "semantic_sha256": "4bce6c22218759f17cf9dc8390795d22415a6c6b97ed379cc147d1f2cf0795ff"
@@ -8642,10 +8635,10 @@
         },
         "Alibaba": {
           "file": "rules/Mihomo/Alibaba.yaml",
-          "rule_updated_at": "2026-11-04T15:55:14.383796+00:00",
-          "bytes": 54157,
-          "sha256": "70b2d2dc390d5e650859dd20055f1d2ee340bfcaedf774569b9d9fed23adfa4e",
-          "semantic_sha256": "48e104838df0dbdf61fd2c9a08aa69cd122973cb33ffe676596b1d4170e79582"
+          "rule_updated_at": "2026-11-26T03:21:06.751997+00:00",
+          "bytes": 54197,
+          "sha256": "66a7c176e374e611d88bbadc5c95953cec07f056bb7dc2f75f42955ad56bd5e9",
+          "semantic_sha256": "4d21415764a6f1b2e90ea60c0639102c541f3f24c1210f6d6ca5483daf68f7df"
         },
         "AliGames": {
           "file": "rules/Mihomo/AliGames.yaml",
@@ -8663,10 +8656,10 @@
         },
         "Aliyun": {
           "file": "rules/Mihomo/Aliyun.yaml",
-          "rule_updated_at": "2026-08-10T09:19:13.682176+00:00",
-          "bytes": 3989,
-          "sha256": "8c2c88f1359f7b5bd30e45078c9a819a86eeb70c8a3297566753d88dc74f420b",
-          "semantic_sha256": "fd2c3afd27fc6f6b9bdcad8e22a86773e4e85da1c17e03a91755bd3fe1cd95d4"
+          "rule_updated_at": "2026-11-26T03:11:18.530382+00:00",
+          "bytes": 4029,
+          "sha256": "8a7a23107ae95283ce20e7f561877f723200976f9efaa5452ba2802737869a08",
+          "semantic_sha256": "8666888022ff64ff7ec03c88202c41ed6bfcf004ee6b59930456637814679ac9"
         },
         "AliyunDrive": {
           "file": "rules/Mihomo/AliyunDrive.yaml",
@@ -8691,10 +8684,10 @@
         },
         "Alphabet": {
           "file": "rules/Mihomo/Alphabet.yaml",
-          "rule_updated_at": "2026-10-29T02:37:32.609518+00:00",
-          "bytes": 36765,
-          "sha256": "0eff65f8c7261263bf2989d5f2a06f16793c0616aa9ea6574e78b48b80221200",
-          "semantic_sha256": "1fbd9784ac24be51dde7a93e4695d660abaec5c2556942f89c7d9900eebff8df"
+          "rule_updated_at": "2026-11-26T03:26:20.294649+00:00",
+          "bytes": 36792,
+          "sha256": "b0086712b892702465f819fc0eec4a30b23b171a1584026b9d8b914a87b1e41f",
+          "semantic_sha256": "574d08ac2891bfc426a0fc7d13f311b8dcfa088f155396fbb32a025e62a15dac"
         },
         "Amazon": {
           "file": "rules/Mihomo/Amazon.yaml",
@@ -9125,10 +9118,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Mihomo/BaiShanYunKeJi.yaml",
-          "rule_updated_at": "2026-07-26T06:57:29.040416+00:00",
-          "bytes": 2009,
-          "sha256": "a1109c4c9d5134796d2a16f0d13cfe2f6ce015ec58c55f93a8cde989bfda0203",
-          "semantic_sha256": "72ebb0f5d6fd69b4a887e8880a435b180daaed9484b6192160445bd62a83cf3f"
+          "rule_updated_at": "2026-11-26T03:27:06.689448+00:00",
+          "bytes": 2067,
+          "sha256": "c976f54917c743fffd0889f4f7b56661d2626ee34e14872f851a26ba79d7fef1",
+          "semantic_sha256": "82afff090b2e7d2781df3f769cca2b4e3d53c27eaeb2bf561b436050b086b9f6"
         },
         "Bandcamp": {
           "file": "rules/Mihomo/Bandcamp.yaml",
@@ -9608,7 +9601,7 @@
         },
         "ChangYou": {
           "file": "rules/Mihomo/ChangYou.yaml",
-          "rule_updated_at": "2026-07-26T08:31:41.834697+00:00",
+          "rule_updated_at": "2026-11-26T03:24:44.376189+00:00",
           "bytes": 361,
           "sha256": "038cd9502a1a1395edd676b9a2cea67532cd508c710e0306d968b31352f5602c",
           "semantic_sha256": "3984b9a77387d72e754ad31082bbbe56c755a2206b118912c892adff6d79268b"
@@ -9629,10 +9622,10 @@
         },
         "China": {
           "file": "rules/Mihomo/China.yaml",
-          "rule_updated_at": "2026-11-20T15:59:59.684526+00:00",
-          "bytes": 347274,
-          "sha256": "c2e2ee1ca3074a6f14d09f0f3065bd44d1b5cd19048f78ae26cc07f7654e945d",
-          "semantic_sha256": "472154b4bd56680e56626c41a53e7937f596a0fc3fa14d2f3d7884ee5712ce6f"
+          "rule_updated_at": "2026-11-26T03:32:28.112650+00:00",
+          "bytes": 346721,
+          "sha256": "d964c6489ad866dafc84025a1349f472a318e4503625d687fe2667435f6b07d3",
+          "semantic_sha256": "d8f824a82f7df23995ba12cd0babd5c1dd761e32fdbbd9c354254cbb6da265c7"
         },
         "ChinaASN": {
           "file": "rules/Mihomo/ChinaASN.yaml",
@@ -9650,17 +9643,17 @@
         },
         "ChinaGame": {
           "file": "rules/Mihomo/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-18T16:27:49.315263+00:00",
+          "rule_updated_at": "2026-11-26T03:47:42.731723+00:00",
           "bytes": 9223,
           "sha256": "7b1aef8b638c2c7e9fb8f3a19e8497d7dcbe6c1a32f214fd24cf705b7e9a417d",
           "semantic_sha256": "5623ce12236edc8f55b1950992eeb2af3223fc6e34f85e97df9d1ad5fe359216"
         },
         "ChinaIPs": {
           "file": "rules/Mihomo/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-20T15:46:58.136077+00:00",
-          "bytes": 863536,
-          "sha256": "8d5318a23b6438ec535e8179d995443e7ddcd466b3d4b2941e5bc0da4ac656b5",
-          "semantic_sha256": "aba1d92e1706eec69ce08cbce553d842a376bcec9eb16b0ebecd334ed30cb32e"
+          "rule_updated_at": "2026-11-26T09:58:49.596414+00:00",
+          "bytes": 863268,
+          "sha256": "91a75c1d6995dc19bf12b5ad5025ddbe51909e190af0aa118af8627cc4054199",
+          "semantic_sha256": "b18e7c9eb8bfb11bc94b17a318608e28873e0ec5619ea5fb8f41bb8d5eee5353"
         },
         "ChinaIPTV": {
           "file": "rules/Mihomo/ChinaIPTV.yaml",
@@ -10014,10 +10007,10 @@
         },
         "Copilot": {
           "file": "rules/Mihomo/Copilot.yaml",
-          "rule_updated_at": "2026-11-20T09:06:03.451639+00:00",
-          "bytes": 14033,
-          "sha256": "cbae67dd0790eaa63aec167992c9f6367d805eb4223622268d07969e644d1d1a",
-          "semantic_sha256": "7eda373aa18e9733e95d01f7d2133496607217e79be81b58de714e48fe4ebad1"
+          "rule_updated_at": "2026-11-26T03:11:23.864380+00:00",
+          "bytes": 14060,
+          "sha256": "0d7f70ddfd6650520e58b725d08c526370326a08a02f2d2e84a2085011f10cf0",
+          "semantic_sha256": "a61cd5bfc6c2464f4ec47a42f5885dc86485a1dc1a367a9b48cfc29170e4b4be"
         },
         "CopyManga": {
           "file": "rules/Mihomo/CopyManga.yaml",
@@ -10133,7 +10126,7 @@
         },
         "Cygames": {
           "file": "rules/Mihomo/Cygames.yaml",
-          "rule_updated_at": "2026-07-26T08:36:25.824394+00:00",
+          "rule_updated_at": "2026-11-26T03:23:51.967090+00:00",
           "bytes": 337,
           "sha256": "ce01fdbea3601dbc45ad334b0b8dd2d154e110cfaa10b35d97142040f5082011",
           "semantic_sha256": "06d6e4f00960ce7b62a0c54c1d6bfe8187bfd5fd16b899d93057b7a4e9f3db20"
@@ -10203,10 +10196,10 @@
         },
         "Debian": {
           "file": "rules/Mihomo/Debian.yaml",
-          "rule_updated_at": "2026-07-26T08:31:46.106523+00:00",
-          "bytes": 212,
-          "sha256": "8c1a2013e2d0a10b1b5e8f678522bfcc2da1674f7233f1476cee1b6edaf01b04",
-          "semantic_sha256": "af20247b6ea7b89226dc53ec67cc53a06cf538f053c6cfc17857e84a874c1d79"
+          "rule_updated_at": "2026-11-26T03:28:23.988389+00:00",
+          "bytes": 255,
+          "sha256": "da0b447c43db92f009673991125d1b365c658426ed1e445887ac8634adfcf6e7",
+          "semantic_sha256": "a8b563850b216708c5e41b888ef516d5f71694faf819615c888e420f0e16eb62"
         },
         "Dedao": {
           "file": "rules/Mihomo/Dedao.yaml",
@@ -10266,7 +10259,7 @@
         },
         "Developer": {
           "file": "rules/Mihomo/Developer.yaml",
-          "rule_updated_at": "2026-11-17T07:20:04.933936+00:00",
+          "rule_updated_at": "2026-11-26T03:13:19.356379+00:00",
           "bytes": 25588,
           "sha256": "533b15cec2d5ea3b1752dccb4b2682500c924889dd8012993af90eca4d2e8a24",
           "semantic_sha256": "f6ab21734754b1a3b348ae506c2697246f9b10759019518b6adf163eef12a816"
@@ -10630,10 +10623,10 @@
         },
         "ECommerce": {
           "file": "rules/Mihomo/ECommerce.yaml",
-          "rule_updated_at": "2026-10-29T02:37:31.731399+00:00",
-          "bytes": 42655,
-          "sha256": "bc931f8e94f66e4806779264c1b093f01c4d52d8b556a423fb179839d53b5f24",
-          "semantic_sha256": "7fec9ab5e17d4ace86554ccd065d6d294df07b021843fd9ed848e93693f20f49"
+          "rule_updated_at": "2026-11-26T03:20:43.082874+00:00",
+          "bytes": 42682,
+          "sha256": "87af3a2a0a23d87e948b29d6027a9eb8db33288e5fd1b519a10d44b41aeeebc1",
+          "semantic_sha256": "55f57a52ed6f2a54444adc7757135d3d19a6b5c57d0feb7b2fb1a6cfc71fd2bb"
         },
         "Economist": {
           "file": "rules/Mihomo/Economist.yaml",
@@ -10861,10 +10854,10 @@
         },
         "Fastly": {
           "file": "rules/Mihomo/Fastly.yaml",
-          "rule_updated_at": "2026-07-26T08:21:16.198695+00:00",
-          "bytes": 377,
-          "sha256": "08aa4bab3b8bc2177d3aaa165ed68857a07b33b27eb1b24ce8acf1675565285e",
-          "semantic_sha256": "f5e006fa1ca59f933a041595b8c327a9f7e2f7bc01e2c4096222261d7ad8d2ce"
+          "rule_updated_at": "2026-11-26T03:23:54.536178+00:00",
+          "bytes": 447,
+          "sha256": "9e427d4c17d41ba63f547a3a46af652f26b558adc24267f59a167135504afdfa",
+          "semantic_sha256": "5ff38ff55d01665424c5de732ca8537ebf958e2e270c1c86545519f88b518a11"
         },
         "FastStone": {
           "file": "rules/Mihomo/FastStone.yaml",
@@ -11120,10 +11113,10 @@
         },
         "Game": {
           "file": "rules/Mihomo/Game.yaml",
-          "rule_updated_at": "2026-11-20T09:06:40.441430+00:00",
-          "bytes": 44494,
-          "sha256": "d6f7772efeda27834e5be660d17f90fa24321d7a6cfbd4011215697679727655",
-          "semantic_sha256": "39686f77a95d84b25572d74a22324e57435943196d316822b35dd72cdc309683"
+          "rule_updated_at": "2026-11-26T03:25:27.401318+00:00",
+          "bytes": 44637,
+          "sha256": "70061def093ac5bd79ef0c22ec444b54db9a1090054329e80a1dc1bb0b692ec9",
+          "semantic_sha256": "fb430e4047f24a42eed03aa71c3645b3d0e13a0b419eb2eac3e9d96311cf036c"
         },
         "GameDownload": {
           "file": "rules/Mihomo/GameDownload.yaml",
@@ -11197,7 +11190,7 @@
         },
         "Gemini": {
           "file": "rules/Mihomo/Gemini.yaml",
-          "rule_updated_at": "2026-10-29T02:37:36.917332+00:00",
+          "rule_updated_at": "2026-11-26T03:28:28.545286+00:00",
           "bytes": 2297,
           "sha256": "3ed4396200f7be910c3ee48fda3e1c26c630e10d3db64b19b3b12c215cf265ae",
           "semantic_sha256": "463c8366a93c9bf4ad4003ac8a0b655b5be4bccab58a971149d73e955cb2f550"
@@ -11267,24 +11260,24 @@
         },
         "Global": {
           "file": "rules/Mihomo/Global.yaml",
-          "rule_updated_at": "2026-11-20T09:23:21.987050+00:00",
-          "bytes": 796553,
-          "sha256": "9c4a9a8767d610aafbd865b0a038a853363477b4801b19007795fa2e2e8f67cd",
-          "semantic_sha256": "baeee3132d2802a8a1a26af342b8bf893079a73ce93a0fe4073560aaff4a61b8"
+          "rule_updated_at": "2026-11-26T03:24:30.702423+00:00",
+          "bytes": 792587,
+          "sha256": "69cee8e6bc2b5a8f7056cd660757f31dac3b72602d304694e58a6afbdd764d3b",
+          "semantic_sha256": "fbdad3aed819af261c163a20b4e73bb0d09f2ea27832ede0b6110191220f3d2b"
         },
         "GlobalAI": {
           "file": "rules/Mihomo/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-20T09:02:34.887427+00:00",
-          "bytes": 15726,
-          "sha256": "5fe118f620b07c775d51bf55c67123cec80bf60e448cc11b61c58d78eb1d1ca1",
-          "semantic_sha256": "03f1662b36162d159560f2b9f2c365e36b88793c448ca134600181e2f7632854"
+          "rule_updated_at": "2026-11-26T03:12:32.824398+00:00",
+          "bytes": 15753,
+          "sha256": "9c5c3dc5152124bcd148a5db206b3939a0487d0416f0945d691dbf8d5da25276",
+          "semantic_sha256": "3b5ef83668390b76bee908c2eb9eb40f3c7d5f313723913be4378f21f8734ec7"
         },
         "GlobalCDN": {
           "file": "rules/Mihomo/GlobalCDN.yaml",
-          "rule_updated_at": "2026-08-08T02:57:27.993167+00:00",
-          "bytes": 6719,
-          "sha256": "f54cdb8ea5ae8e6a8657070d6d449c2ec163888403e939870f5e9a063295dc25",
-          "semantic_sha256": "b4e2f12e8a279cd138f6eec4e4c67e91975df25d2201b5c6f554cd4f481cfce4"
+          "rule_updated_at": "2026-11-26T03:22:10.577447+00:00",
+          "bytes": 6789,
+          "sha256": "a6389b7e436b5214ee5f3bfb7c40393aa7e83ae6a94779d7047eca7b25b0bf8a",
+          "semantic_sha256": "ccd119dac510c50c6f7432b949c6361a4ecbeeda08147b9d72d78672145b3e4c"
         },
         "GlobalCloud": {
           "file": "rules/Mihomo/GlobalCloud.yaml",
@@ -11386,17 +11379,17 @@
         },
         "Google": {
           "file": "rules/Mihomo/Google.yaml",
-          "rule_updated_at": "2026-10-29T03:07:14.246092+00:00",
+          "rule_updated_at": "2026-11-26T03:23:09.077954+00:00",
           "bytes": 38683,
           "sha256": "48b5f7c47f70083b0eb08ae074e8f36380332763c7dd086113412ba894b24cc2",
           "semantic_sha256": "c132d0eca745d19e04c7373ed94852b0a414951d0a5ad5e88d5fc247e999b1ee"
         },
         "GoogleDeepMind": {
           "file": "rules/Mihomo/GoogleDeepMind.yaml",
-          "rule_updated_at": "2026-10-29T02:37:20.634860+00:00",
-          "bytes": 2118,
-          "sha256": "5dbde6ed0d2567f6c8ed9748050f3d12fc8aeaf738dc79088292f7b3a5fcce5b",
-          "semantic_sha256": "e371b7669623dc07393ae2481139b0def98dbf074f1060c6a0e51db44d964609"
+          "rule_updated_at": "2026-11-26T03:12:33.239610+00:00",
+          "bytes": 2145,
+          "sha256": "87323a758eede030e0508287b06789edec04972301a7ac4ea7f1164125277b4b",
+          "semantic_sha256": "60d980f5d7166cb631f6f33ef99c4b5d65514f33af697d7d8b12fdf6e239b47d"
         },
         "GoogleEarth": {
           "file": "rules/Mihomo/GoogleEarth.yaml",
@@ -12520,10 +12513,10 @@
         },
         "Lenovo": {
           "file": "rules/Mihomo/Lenovo.yaml",
-          "rule_updated_at": "2026-07-26T06:26:55.560632+00:00",
-          "bytes": 2095,
-          "sha256": "a195a7dddd9a593edc3cd5859ec875eb2a1d7a470d43d98439a1329c1d7d3c97",
-          "semantic_sha256": "053c1cd77fe6e7fe58d5c16cb75b52c5b8249bbc1c7a97dea2a48f91cfff6674"
+          "rule_updated_at": "2026-11-26T03:21:11.304546+00:00",
+          "bytes": 2202,
+          "sha256": "eaeb7cae6fd4b9702905b76ea2b4ff769901cccf5b0f16c7248e66bf1c2a9954",
+          "semantic_sha256": "f515f4da0003a5d08e1d25ad9d9ab619e6182d1739df733111aedacf5f105896"
         },
         "LetsEncrypt": {
           "file": "rules/Mihomo/LetsEncrypt.yaml",
@@ -13234,7 +13227,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Mihomo/NBCUniversal.yaml",
-          "rule_updated_at": "2026-07-26T10:38:05.553127+00:00",
+          "rule_updated_at": "2026-11-26T03:26:08.259719+00:00",
           "bytes": 733,
           "sha256": "efccad26e4c6c5067fe6f484456eb36286bc8b3b77d472761ae619358568cf88",
           "semantic_sha256": "ae13251522d2566f7e8c5b7d64d6750acbd0784e0dc5783e028b261b1503895a"
@@ -13724,10 +13717,10 @@
         },
         "PCCW": {
           "file": "rules/Mihomo/PCCW.yaml",
-          "rule_updated_at": "2026-07-26T06:53:07.381972+00:00",
-          "bytes": 1158,
-          "sha256": "80705474d978a260e4a98959bb43dbe7fe6bddb18b952287ee264a52518c6a73",
-          "semantic_sha256": "d7d781a53e3cb5dbf5c329c49a89ca83214bf3f40c208d4fc0eebfd0f70d0644"
+          "rule_updated_at": "2026-11-26T03:26:50.321250+00:00",
+          "bytes": 1203,
+          "sha256": "df7f3beae9220e74c9f81a5756ccbf4acacae3c4a797c83b604e83f196302dbf",
+          "semantic_sha256": "c2597227a415dd4b810710ef612e84b18d1cbbf6e3a730c235738cde305821b7"
         },
         "PChomeTW": {
           "file": "rules/Mihomo/PChomeTW.yaml",
@@ -13801,10 +13794,10 @@
         },
         "PingAn": {
           "file": "rules/Mihomo/PingAn.yaml",
-          "rule_updated_at": "2026-07-26T06:27:42.076174+00:00",
-          "bytes": 999,
-          "sha256": "0a1652c3cd35ee9aaa6661c3cbada351147b8630680893c15ba328c8a727b96e",
-          "semantic_sha256": "a0c8bfcf86f393d2b44c2716e82d9608b9cbaf13bdfe4d6fb9211713d30981a4"
+          "rule_updated_at": "2026-11-26T03:24:34.399298+00:00",
+          "bytes": 1326,
+          "sha256": "1d2b1d8b23f5d28832733c5b23d8b93b3fd9c13e67a2925de6c491d147fa3b71",
+          "semantic_sha256": "5b8783959f337b3cc558df08188ec800b1af4b0ad77234fc9e6b6001e1c5402b"
         },
         "Pinterest": {
           "file": "rules/Mihomo/Pinterest.yaml",
@@ -13934,10 +13927,10 @@
         },
         "Privacy": {
           "file": "rules/Mihomo/Privacy.yaml",
-          "rule_updated_at": "2026-11-06T07:11:33.258313+00:00",
-          "bytes": 1603926,
-          "sha256": "7e314c9de43ab75e9438cd5c249f80561869ec02d43efe464fd5b7b5d6ac058d",
-          "semantic_sha256": "60ec40c6468a02ae1f237d3f074a5965f789507fbd6cb71f9a36eccd6d41cb7e"
+          "rule_updated_at": "2026-11-26T03:29:06.796875+00:00",
+          "bytes": 1622275,
+          "sha256": "7502ed1c05e650062e2badea257f4bf695dfcbe63fcb9b39ada608c20f45c4b5",
+          "semantic_sha256": "bb0e2cfe7a6560e9f598a0e7e520c004b35a688c325a69583c92d13f666ca444"
         },
         "PrivateTracker": {
           "file": "rules/Mihomo/PrivateTracker.yaml",
@@ -14683,10 +14676,10 @@
         },
         "Sohu": {
           "file": "rules/Mihomo/Sohu.yaml",
-          "rule_updated_at": "2026-07-26T06:28:13.419752+00:00",
-          "bytes": 2558,
-          "sha256": "f6c9c4d4781a14b5f66927881eeaa359b8a8393d1e620f414034a0149a8dd923",
-          "semantic_sha256": "7243513338a26229ce274399db5b504427ddbed65e5334d957c1284174437e20"
+          "rule_updated_at": "2026-11-26T03:25:46.211797+00:00",
+          "bytes": 2611,
+          "sha256": "f164381b4f386683801b4991a37d6747cbf21532708b7cd5762fb198604f51cb",
+          "semantic_sha256": "077982efc57c90ab45bb89819951e58bc51583d04d12f46bcf1b3cc34ef2a73e"
         },
         "Sony": {
           "file": "rules/Mihomo/Sony.yaml",
@@ -14753,10 +14746,10 @@
         },
         "Speedtest": {
           "file": "rules/Mihomo/Speedtest.yaml",
-          "rule_updated_at": "2026-11-20T09:02:32.141838+00:00",
-          "bytes": 129172,
-          "sha256": "b73547cb5fc4b9936581fe2785fbb367f7b83a44ba44919c4851338ac3a2ba6e",
-          "semantic_sha256": "296fb36a4911c1d1eea84f6e386435be357a533ebb7bcaab7e736611511ff425"
+          "rule_updated_at": "2026-11-26T03:48:09.757971+00:00",
+          "bytes": 129722,
+          "sha256": "6ee2360a84b8d1c073999df33e2d63afaf7272becc564deaf2b1c791a357d8d0",
+          "semantic_sha256": "70fc1f34a4905f33711339b44b00b7cb4067bf91f21fc5d15532f1f9b391c9ad"
         },
         "Spiceworks": {
           "file": "rules/Mihomo/Spiceworks.yaml",
@@ -15586,7 +15579,7 @@
         },
         "Unity": {
           "file": "rules/Mihomo/Unity.yaml",
-          "rule_updated_at": "2026-07-26T06:57:16.507878+00:00",
+          "rule_updated_at": "2026-11-26T03:22:33.119222+00:00",
           "bytes": 1044,
           "sha256": "cd03b6789e01a63ab4e5a47a2ba349dc1a008fc65f02e68c0320dd559b62cb8d",
           "semantic_sha256": "01bf0c2a7d0776998257db07a4e43daa48ceecfc001fbee71914ef1d1ee7a16f"
@@ -16616,7 +16609,7 @@
       }
     },
     "QuantumultX": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/QuantumultX/56.list",
@@ -16711,7 +16704,7 @@
         },
         "58TongCheng": {
           "file": "rules/QuantumultX/58TongCheng.list",
-          "rule_updated_at": "2026-08-17T02:14:57.072660+00:00",
+          "rule_updated_at": "2026-11-26T03:28:29.551748+00:00",
           "bytes": 2692,
           "sha256": "2efbce46a208368bf5a8a7a3c5a114b9a8ae115c6b5f34b311198604357f6137",
           "semantic_sha256": "c80c477e9f033890cfa17b0d91261b350811bfdd4fba0ba74a3e539ef9607397"
@@ -16823,7 +16816,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-20T15:28:44.040925+00:00",
+          "rule_updated_at": "2026-11-26T09:37:35.770974+00:00",
           "bytes": 9572412,
           "sha256": "9b6e0d521431518e09378241193139b9fa1193f9d711894f6461e4f8b29ea480",
           "semantic_sha256": "773a4eabea84cf3d8fe7b0626cc6432983a458ca0d4cd804af8730467fc6b1df"
@@ -16851,14 +16844,14 @@
         },
         "Advertising": {
           "file": "rules/QuantumultX/Advertising.list",
-          "rule_updated_at": "2026-11-20T15:16:58.793660+00:00",
+          "rule_updated_at": "2026-11-26T05:19:30.078303+00:00",
           "bytes": 11905106,
           "sha256": "1a767e485b80429e99ebcff588b0a2132e73e022520a1691c8eac6775faf7f4e",
           "semantic_sha256": "59aad6305f07b0a282b69c95a2575cf35c4d028b3ca9021277dc0d865cd39181"
         },
         "AdvertisingLite": {
           "file": "rules/QuantumultX/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-20T15:15:38.031966+00:00",
+          "rule_updated_at": "2026-11-26T05:01:35.162547+00:00",
           "bytes": 8819525,
           "sha256": "8f3185d490fa67c691df9fd6f732e6cc6651711cbefcea6a23940bc3e39ba18a",
           "semantic_sha256": "f675ada48df7272f14e00c6b3805130a7070fcab2c61b3bbbba160fe03532d5b"
@@ -16949,10 +16942,10 @@
         },
         "Alibaba": {
           "file": "rules/QuantumultX/Alibaba.list",
-          "rule_updated_at": "2026-11-04T15:55:14.187780+00:00",
-          "bytes": 55983,
-          "sha256": "c7120cb0f431e9ad1b106182767acfddb02d10083da114208d2fb2182fde7271",
-          "semantic_sha256": "fbc8976656299e04fa8fff1c549ba8867f63091fc238549b382d404184bf6f7f"
+          "rule_updated_at": "2026-11-26T03:20:45.284992+00:00",
+          "bytes": 56025,
+          "sha256": "0624ecc3cfd3d43fa2cde39747a3ea0f81d80cdbddee156e711424c2a42bc0ae",
+          "semantic_sha256": "6b5f9f2ec0be5d9d5ee9b4cef4c5b9c7851abb7087b6cf5c7da4cfbb688c4223"
         },
         "AliGames": {
           "file": "rules/QuantumultX/AliGames.list",
@@ -16970,10 +16963,10 @@
         },
         "Aliyun": {
           "file": "rules/QuantumultX/Aliyun.list",
-          "rule_updated_at": "2026-08-10T09:19:13.464580+00:00",
-          "bytes": 4054,
-          "sha256": "eea831218cb1038ae9378d9ac17dd9aacd31bf6195fd46a8c35b2836023b9f84",
-          "semantic_sha256": "cb544614a704710f2dddb2bd662fb4776670ecb11e757ff3343c2aaddfbf9abc"
+          "rule_updated_at": "2026-11-26T03:10:50.138460+00:00",
+          "bytes": 4095,
+          "sha256": "281b602b1c9252cd1c8d64e155b05365e83d461675cb05a57b48469fb22d5ac3",
+          "semantic_sha256": "bed276e1a63c551511455e0d70d88d80c32a3bc4bd15761a08fa383612fc9fcf"
         },
         "AliyunDrive": {
           "file": "rules/QuantumultX/AliyunDrive.list",
@@ -16998,10 +16991,10 @@
         },
         "Alphabet": {
           "file": "rules/QuantumultX/Alphabet.list",
-          "rule_updated_at": "2026-10-29T02:37:32.385614+00:00",
-          "bytes": 40129,
-          "sha256": "4695d4eda8beda4550e6a71913905186151c0d4b52b118497243d9c98f388fbd",
-          "semantic_sha256": "b89afcdb33a6bb51ccbd3cd4665c9c18031de6eecce9edc213bf7070bdfe3859"
+          "rule_updated_at": "2026-11-26T03:26:09.796106+00:00",
+          "bytes": 40159,
+          "sha256": "d015f35ef6aff36eb5912eb4b86e30a8c0bc419be89b0dafe8bed47d83f2c88c",
+          "semantic_sha256": "f61b84eac2c56c37e7233df5cf241ba811c6c8edd69ecb3ad682c27388c70550"
         },
         "Amazon": {
           "file": "rules/QuantumultX/Amazon.list",
@@ -17432,10 +17425,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/QuantumultX/BaiShanYunKeJi.list",
-          "rule_updated_at": "2026-07-26T06:57:20.355427+00:00",
-          "bytes": 2507,
-          "sha256": "bdd4104a2bc66dd4128c62cc3914b584917f0aa0c3b9197089e369c00e48e0ab",
-          "semantic_sha256": "218c25d94fd519c030d5f5765d7b446bfbc78747c64076d7f6438a29b36d9b4e"
+          "rule_updated_at": "2026-11-26T03:26:51.083485+00:00",
+          "bytes": 2583,
+          "sha256": "ebf2ee6c3351d60001db2e5aef66154649904a394955df7fe8a3e01aa4d6b676",
+          "semantic_sha256": "f6dd2f6e852cc34b3db1a5a310015079c1b429666fc7b489c0d50923ee2926ab"
         },
         "Bandcamp": {
           "file": "rules/QuantumultX/Bandcamp.list",
@@ -17915,7 +17908,7 @@
         },
         "ChangYou": {
           "file": "rules/QuantumultX/ChangYou.list",
-          "rule_updated_at": "2026-07-26T08:31:40.589678+00:00",
+          "rule_updated_at": "2026-11-26T03:24:37.444007+00:00",
           "bytes": 349,
           "sha256": "80dcd15cebd0577ef0298144a916921fe188e4753d8405a7a8096b21de8e473b",
           "semantic_sha256": "01d6076276eca2465faf3de3e803eeeadd487e6247515085019f548d9e67ba54"
@@ -17936,10 +17929,10 @@
         },
         "China": {
           "file": "rules/QuantumultX/China.list",
-          "rule_updated_at": "2026-11-20T15:56:33.885640+00:00",
-          "bytes": 313376,
-          "sha256": "9f17e95973c87b9cc282471d6bb06619f8bde6a98165f6daf0b50fa8a2efae25",
-          "semantic_sha256": "cb38d329f0a28a28c82d1362864f04986a5f0fd13b724f814c084d52a443952a"
+          "rule_updated_at": "2026-11-26T03:29:55.913420+00:00",
+          "bytes": 313012,
+          "sha256": "4f6167a30bd5e85f8bf93efc203f0926b2c942cc92dfa8f122411b250026d395",
+          "semantic_sha256": "dd210e89ad4351dc5037835123f426ec78067a7f51d859c4132fc102c96f249c"
         },
         "ChinaASN": {
           "file": "rules/QuantumultX/ChinaASN.list",
@@ -17957,17 +17950,17 @@
         },
         "ChinaGame": {
           "file": "rules/QuantumultX/ChinaGame.list",
-          "rule_updated_at": "2026-11-18T16:27:48.541289+00:00",
+          "rule_updated_at": "2026-11-26T03:47:41.529565+00:00",
           "bytes": 10364,
           "sha256": "f29323907c3fc60303eed933be16bad9381ecd78338b797cb3290c800fe4eb81",
           "semantic_sha256": "8c26d5ffe0c3954e82fb41589ed12ef17a575395eb5de85046147bceef0a8f99"
         },
         "ChinaIPs": {
           "file": "rules/QuantumultX/ChinaIPs.list",
-          "rule_updated_at": "2026-11-20T15:46:54.016052+00:00",
-          "bytes": 725481,
-          "sha256": "d690065fc695f03061aa8331acfe817d41e7fd4d5a7df4e1deced72d16a4fc7d",
-          "semantic_sha256": "fad22cc08facb79e594c274d238ec701c27f0f8b4d9348132abc6bcc55a04549"
+          "rule_updated_at": "2026-11-26T09:56:34.171354+00:00",
+          "bytes": 725255,
+          "sha256": "11fb4abc2715478db7502d381cf2ad50aaebcd32f1da202687550abfaef56913",
+          "semantic_sha256": "693dbfeb6a940dcaa7f9e07c6ea2189177df28c073e2805fe8d40c9aa6adbe2f"
         },
         "ChinaIPTV": {
           "file": "rules/QuantumultX/ChinaIPTV.list",
@@ -18321,10 +18314,10 @@
         },
         "Copilot": {
           "file": "rules/QuantumultX/Copilot.list",
-          "rule_updated_at": "2026-11-20T09:05:56.223802+00:00",
-          "bytes": 14083,
-          "sha256": "a9a84a15c8f18e8fa77ba51edfcf5b242ef39671057252d05ad044cf3e57e57b",
-          "semantic_sha256": "a51830260e793ff8d1c87762d713aa07beb0d82eba10eb8dc5b2d0a54bc1842d"
+          "rule_updated_at": "2026-11-26T03:10:51.459955+00:00",
+          "bytes": 14112,
+          "sha256": "68b1da20d649adced57a6518f5f9eb4a93418be4a5987bf045195a2f79778cd3",
+          "semantic_sha256": "9e3e6f63831c3415adad1e39c7bf9122d215127c363f02e21ecfa41b0b209364"
         },
         "CopyManga": {
           "file": "rules/QuantumultX/CopyManga.list",
@@ -18440,7 +18433,7 @@
         },
         "Cygames": {
           "file": "rules/QuantumultX/Cygames.list",
-          "rule_updated_at": "2026-07-26T08:36:25.551645+00:00",
+          "rule_updated_at": "2026-11-26T03:23:40.673030+00:00",
           "bytes": 314,
           "sha256": "5b8c293c70903b356483a254e0f40d43703c930ee4c55d183a7f736a19ee77c4",
           "semantic_sha256": "a1e9322cf42d0f6fb68114b92ca27edb770cb87f8d678dddc6e9cf58dd3becd3"
@@ -18510,10 +18503,10 @@
         },
         "Debian": {
           "file": "rules/QuantumultX/Debian.list",
-          "rule_updated_at": "2026-07-26T08:31:45.934272+00:00",
-          "bytes": 181,
-          "sha256": "9c83ad127e240cf97a3c68df571f0f90cb57e53714e5e9eba181db021b2f50f3",
-          "semantic_sha256": "be55e3e4f38d816df0990d1a0eee616f5be1f08882f0ce88caa8b5313e195a19"
+          "rule_updated_at": "2026-11-26T03:28:20.719209+00:00",
+          "bytes": 225,
+          "sha256": "b64647aef632aa675a38c509a34c601790a621432c7742e8ae9e658f499c33d8",
+          "semantic_sha256": "929efc092dbd6c4c56704f242266d0540683bca2ff1f69bfdb3a3c8fc4ad60ac"
         },
         "Dedao": {
           "file": "rules/QuantumultX/Dedao.list",
@@ -18573,7 +18566,7 @@
         },
         "Developer": {
           "file": "rules/QuantumultX/Developer.list",
-          "rule_updated_at": "2026-11-17T07:20:03.814941+00:00",
+          "rule_updated_at": "2026-11-26T03:12:44.748213+00:00",
           "bytes": 28525,
           "sha256": "c778ac44b8a5967cb8bbc484f00b230cfeaf80569b38ed95bb232e1b68329ff3",
           "semantic_sha256": "46d1032543cfac81c489a26987f45e0cdf9f6bdc936f0db839f3310c63048973"
@@ -18937,10 +18930,10 @@
         },
         "ECommerce": {
           "file": "rules/QuantumultX/ECommerce.list",
-          "rule_updated_at": "2026-10-29T02:37:31.537574+00:00",
-          "bytes": 47940,
-          "sha256": "5b891c0a8d191fa2049a6426384f259158ef82cd75b3394f377f2869e599f55e",
-          "semantic_sha256": "72f2cb8ce300eeef9098321627dabbb19eeb7e5c88718ea106e00fc1c8944661"
+          "rule_updated_at": "2026-11-26T03:20:21.860824+00:00",
+          "bytes": 47971,
+          "sha256": "4297199e9ba8bb7ef0ae41596217c5e2fa7a5ce616dc9a9025a8712496c109d0",
+          "semantic_sha256": "21a607c416c6ac11852ec0a30f0684e8656b4aa4a7c248a310dd1fed6ef29139"
         },
         "Economist": {
           "file": "rules/QuantumultX/Economist.list",
@@ -19168,10 +19161,10 @@
         },
         "Fastly": {
           "file": "rules/QuantumultX/Fastly.list",
-          "rule_updated_at": "2026-07-26T08:21:15.134894+00:00",
-          "bytes": 351,
-          "sha256": "46fa94401a9a21ed3bbd3fa29681cc385f0e2ecb3645980b9f1b3f06036c30d2",
-          "semantic_sha256": "8a637fe6ad660dc1249c9583528d28bc1d5340150bc099bf794d67f4627e0f34"
+          "rule_updated_at": "2026-11-26T03:23:52.563539+00:00",
+          "bytes": 423,
+          "sha256": "0b5d7bcfb271bf9197caed3262c10b05ee9b78f84407d3959cfd1fdea97afd8f",
+          "semantic_sha256": "276b52529728e2b4c7fea52c0ec998e3d96da1174716f6acbe79d5abd21e0e8a"
         },
         "FastStone": {
           "file": "rules/QuantumultX/FastStone.list",
@@ -19427,10 +19420,10 @@
         },
         "Game": {
           "file": "rules/QuantumultX/Game.list",
-          "rule_updated_at": "2026-11-20T09:06:04.734630+00:00",
-          "bytes": 43049,
-          "sha256": "53d2afc4d82c9b4a2a9a692f40eb3b3fa6175ff23a298045778c13868d3f64c0",
-          "semantic_sha256": "2628e7e343f772a33dc583f2838ebdc27f0b4a403bf003f2c63b9b1f43983709"
+          "rule_updated_at": "2026-11-26T03:25:01.114582+00:00",
+          "bytes": 43188,
+          "sha256": "7a9a9551760e8afb581d5b6b9c15ed0fdea789def5d8776c8a50afaaa78ae8c3",
+          "semantic_sha256": "fe2d31a1cb506b219b773fa6aaa482ddf44985f8f8ed5a606b0a1d5f800d7e6c"
         },
         "GameDownload": {
           "file": "rules/QuantumultX/GameDownload.list",
@@ -19504,7 +19497,7 @@
         },
         "Gemini": {
           "file": "rules/QuantumultX/Gemini.list",
-          "rule_updated_at": "2026-10-29T02:37:36.480907+00:00",
+          "rule_updated_at": "2026-11-26T03:28:26.898527+00:00",
           "bytes": 2314,
           "sha256": "6fb6444a897cefdd9d95f59b2ca7e5c3afb16b6f41af12fef9502c4e3763548a",
           "semantic_sha256": "2160f9aa1cbdffe6b60f5b96298bd176d5b6854775cc3966bdd6fa89f6ccf01d"
@@ -19574,24 +19567,24 @@
         },
         "Global": {
           "file": "rules/QuantumultX/Global.list",
-          "rule_updated_at": "2026-11-20T09:06:40.252109+00:00",
-          "bytes": 820258,
-          "sha256": "d4986f5962a8e04b30de098d0281ea08e1163d2d8735148710876652d9210ea3",
-          "semantic_sha256": "43eda02fc908fae222f39e9d9eb2ed085241ea25ff92d8e3f617efb2eb624d84"
+          "rule_updated_at": "2026-11-26T03:12:30.596441+00:00",
+          "bytes": 816172,
+          "sha256": "3ce4a92a945b8551e9977c1b44215629f0ebb1089d559066b1eccfc669a919dd",
+          "semantic_sha256": "afc7901a2f3339fae87548e060b20b68ec8dbe2be231bee1b4238b40c0bdfa17"
         },
         "GlobalAI": {
           "file": "rules/QuantumultX/GlobalAI.list",
-          "rule_updated_at": "2026-11-20T09:02:32.101221+00:00",
-          "bytes": 16284,
-          "sha256": "a3e093ec43561ee7820d4dc12c30b12c543ed626ec9adf22a7b207570ce7dbba",
-          "semantic_sha256": "4955953f591e4f90707a90341e4ab27fbf3bde5334228c80a7ef4505ef484a46"
+          "rule_updated_at": "2026-11-26T03:11:42.109714+00:00",
+          "bytes": 16314,
+          "sha256": "624731e293953e2138e4f7f669f8180d34506d7e2d43554042049c27ba185e58",
+          "semantic_sha256": "7e85474b74430edaa2cbe298cd69ccacccbd3e1e3f3f8af97a3d30b3ccbff9c3"
         },
         "GlobalCDN": {
           "file": "rules/QuantumultX/GlobalCDN.list",
-          "rule_updated_at": "2026-08-08T02:57:21.024852+00:00",
-          "bytes": 7466,
-          "sha256": "4af8d3b4801fd5e30fb467d9d99216edfd3dad001babb996809ff3396135ea37",
-          "semantic_sha256": "ffa238a6dc4de9a29f0b698ecf8c9def69d47d79f23806ccfd0fed54c687dfbd"
+          "rule_updated_at": "2026-11-26T03:21:40.740869+00:00",
+          "bytes": 7544,
+          "sha256": "ffddaa39cc6cd7af7fcaba59a403c3c286281442d9f17aad165eebbc249aa256",
+          "semantic_sha256": "5c2e4057b30c28c891920a0d8065c76f8167aec11f242e062c0a30c23237d095"
         },
         "GlobalCloud": {
           "file": "rules/QuantumultX/GlobalCloud.list",
@@ -19693,17 +19686,17 @@
         },
         "Google": {
           "file": "rules/QuantumultX/Google.list",
-          "rule_updated_at": "2026-10-29T03:07:13.217974+00:00",
+          "rule_updated_at": "2026-11-26T03:22:37.081417+00:00",
           "bytes": 39553,
           "sha256": "34223463ba70cc84f852f452b2405e8fb27c114b2f0ac6d95e70a52ee5eadb03",
           "semantic_sha256": "a9f4716137c53a312e3fa89beacac3fe021139643b92058ba8d8da0cb4002d7a"
         },
         "GoogleDeepMind": {
           "file": "rules/QuantumultX/GoogleDeepMind.list",
-          "rule_updated_at": "2026-10-29T02:37:20.474806+00:00",
-          "bytes": 2524,
-          "sha256": "f9e6343012a0636ded1bc56a41b87f84810cc4b289d80ad1810ff98f94571910",
-          "semantic_sha256": "a0faa235f7b0031d7bbc72acc5e1a93265e037efad8bc753691179032fcb9c43"
+          "rule_updated_at": "2026-11-26T03:11:46.142743+00:00",
+          "bytes": 2560,
+          "sha256": "4d6e567c1d3f7636c65d1b29a616e9935fdc569dcc0a489eda881e08c05b8c75",
+          "semantic_sha256": "56511502394f11db8775ace05da89e84067172f47aea9b147a35bbf43730e062"
         },
         "GoogleEarth": {
           "file": "rules/QuantumultX/GoogleEarth.list",
@@ -20827,10 +20820,10 @@
         },
         "Lenovo": {
           "file": "rules/QuantumultX/Lenovo.list",
-          "rule_updated_at": "2026-07-26T06:26:46.620375+00:00",
-          "bytes": 2122,
-          "sha256": "7e19583d499f985fb0516986e0baead4c5f0f3113ee8edf7d7c7d9c7d5f39be5",
-          "semantic_sha256": "9946e8a65125799b128735f3e97db2ed529e03d5e76590a028a7fefa152e5978"
+          "rule_updated_at": "2026-11-26T03:21:10.427969+00:00",
+          "bytes": 2232,
+          "sha256": "a2b367f9cedc95b64b199a50df4501538019bac58cd6945f39e2bee505500394",
+          "semantic_sha256": "42ed31662bc00ced40c31a475aed001d97d593b39b1a5912bdd5bd77e3b19df1"
         },
         "LetsEncrypt": {
           "file": "rules/QuantumultX/LetsEncrypt.list",
@@ -21385,13 +21378,6 @@
           "sha256": "6f30bef564d230a691144c7bf330e13e2117f3f37312549c6486e3188d63fbd7",
           "semantic_sha256": "79636b18084ba8e15376cd1b5e70dd334f1ec203233a309c2a57df584c3fc38d"
         },
-        "MOOMusic": {
-          "file": "rules/QuantumultX/MOOMusic.list",
-          "rule_updated_at": "2026-07-26T07:16:20.234574+00:00",
-          "bytes": 162,
-          "sha256": "c8a48d5bec00d02a582c4d372e59ab1414b5723d49e1dfbd5684c748a7674309",
-          "semantic_sha256": "8309095dde7fba0e6a2eb1b16847a04cdbbd925aee860abf55c821134dfbf345"
-        },
         "Moonvy": {
           "file": "rules/QuantumultX/Moonvy.list",
           "rule_updated_at": "2026-07-26T10:37:47.678914+00:00",
@@ -21548,7 +21534,7 @@
         },
         "NBCUniversal": {
           "file": "rules/QuantumultX/NBCUniversal.list",
-          "rule_updated_at": "2026-07-26T10:38:05.323665+00:00",
+          "rule_updated_at": "2026-11-26T03:25:49.888356+00:00",
           "bytes": 819,
           "sha256": "933084564176322c79f49acd5267ed6186acb4a060ec1c070ec5624aa595cec3",
           "semantic_sha256": "39e6729843f4162c595952e0818df5b0c6427e2eb1dbbc8bdffc4b2576efa79e"
@@ -22038,10 +22024,10 @@
         },
         "PCCW": {
           "file": "rules/QuantumultX/PCCW.list",
-          "rule_updated_at": "2026-07-26T06:52:59.977333+00:00",
-          "bytes": 1092,
-          "sha256": "7cf83bf3ec248a332429d746ad84c94c13a0cee5f3a77cf0c90266d6a3ecefcd",
-          "semantic_sha256": "c40ea84093efefd4c4bacaec7d79266ded99975016a2a07551b9dd4ef872e492"
+          "rule_updated_at": "2026-11-26T03:26:38.980785+00:00",
+          "bytes": 1135,
+          "sha256": "4dc2965e72de16b6741e628d62d14755b049e02cc64a6a857c39be01e1a5b6ec",
+          "semantic_sha256": "5072db855e40be2afaddd3d5e64108cab477a7d1c86bdbb184e3b1704ddc801e"
         },
         "PChomeTW": {
           "file": "rules/QuantumultX/PChomeTW.list",
@@ -22115,10 +22101,10 @@
         },
         "PingAn": {
           "file": "rules/QuantumultX/PingAn.list",
-          "rule_updated_at": "2026-07-26T06:27:34.522011+00:00",
-          "bytes": 993,
-          "sha256": "4ea3ec7834a310f74ced1afc9a6b516d62f3a67b16b2efb14d2678f4bfe18eef",
-          "semantic_sha256": "f2afe54b9c838ebd84d23481c5e91eb3533019ecd1a35af5ff24bfdf4a3929d0"
+          "rule_updated_at": "2026-11-26T03:24:10.321539+00:00",
+          "bytes": 1331,
+          "sha256": "6732dbffd6219c5a7addf470ee1be7826c45b81e362c62ce16d3ef0e13e1c589",
+          "semantic_sha256": "b8ea55813cabb3f151bc51dfb1c48d30c814404cf11d87702a7cb55ceb0e0e0e"
         },
         "Pinterest": {
           "file": "rules/QuantumultX/Pinterest.list",
@@ -22248,10 +22234,10 @@
         },
         "Privacy": {
           "file": "rules/QuantumultX/Privacy.list",
-          "rule_updated_at": "2026-11-06T07:11:22.489239+00:00",
-          "bytes": 1683596,
-          "sha256": "aeebe02bac27e793f58f08dc481ddd07b49fb722cb70e2ff94750f23c859ba15",
-          "semantic_sha256": "f2cf905b266f348d45991e625efdd7385a187e35b9a313f3acb0fc6a3dc0e5d0"
+          "rule_updated_at": "2026-11-26T03:28:37.190533+00:00",
+          "bytes": 1702909,
+          "sha256": "82e32093af8243c04bedf423e4a7dddf8edc8a10944bc3c6f57b8391b520d40e",
+          "semantic_sha256": "47e6af2effe2b2dc00877724802e8b37d86b72d5a3f5161ec8fe594b7fe07b08"
         },
         "PrivateTracker": {
           "file": "rules/QuantumultX/PrivateTracker.list",
@@ -22990,10 +22976,10 @@
         },
         "Sohu": {
           "file": "rules/QuantumultX/Sohu.list",
-          "rule_updated_at": "2026-07-26T06:28:02.847586+00:00",
-          "bytes": 2444,
-          "sha256": "9dbaffed837ed0c8625cee43ca47f8e00011053c25d4dcca78b17f3104dc3525",
-          "semantic_sha256": "aa8768ee16bfe23b4484d1e06314a304a54c79367367ce1dee6e2f5515b142ee"
+          "rule_updated_at": "2026-11-26T03:25:28.325971+00:00",
+          "bytes": 2495,
+          "sha256": "a54bb18b0115cb50152b692fe0698719b0cdde3d27d11620fe3a03ecad240896",
+          "semantic_sha256": "0be7f84266d0058a8b863b59f82529a0e7d4236ee9da30aa13a0fb7d92ad9062"
         },
         "Sony": {
           "file": "rules/QuantumultX/Sony.list",
@@ -23060,10 +23046,10 @@
         },
         "Speedtest": {
           "file": "rules/QuantumultX/Speedtest.list",
-          "rule_updated_at": "2026-11-20T09:02:29.931129+00:00",
-          "bytes": 143223,
-          "sha256": "4c66bdf627aa651d0fcfc620f90134b3a4630774fc3b28ebfb3740a00aa56b5c",
-          "semantic_sha256": "67de3abdb69fd25b66416586935712fdb1437db6a7f475ba08da370c3a341460"
+          "rule_updated_at": "2026-11-26T03:48:07.613857+00:00",
+          "bytes": 143833,
+          "sha256": "1c3314d83201f99add8e98dec588bd37e403d2420f755a3c5e395bd7e9958d32",
+          "semantic_sha256": "02a913dd22c1924b02e453bd6c710a314277ed3ca06e394ee112b42f5ba13a87"
         },
         "Spiceworks": {
           "file": "rules/QuantumultX/Spiceworks.list",
@@ -23893,7 +23879,7 @@
         },
         "Unity": {
           "file": "rules/QuantumultX/Unity.list",
-          "rule_updated_at": "2026-07-26T06:57:09.031713+00:00",
+          "rule_updated_at": "2026-11-26T03:22:11.388370+00:00",
           "bytes": 1011,
           "sha256": "f77c4dbcc877c89e99da93c2ac68ac603639c0fce45b4302d20ab3dc77422563",
           "semantic_sha256": "31c088b3a465b1a438085486386ea757b5ed108649304a81d4c19b5eabcb5230"
@@ -24923,7 +24909,7 @@
       }
     },
     "Loon": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/Loon/56.list",
@@ -25018,7 +25004,7 @@
         },
         "58TongCheng": {
           "file": "rules/Loon/58TongCheng.list",
-          "rule_updated_at": "2026-08-17T02:14:59.324819+00:00",
+          "rule_updated_at": "2026-11-26T03:28:29.699113+00:00",
           "bytes": 1994,
           "sha256": "f4f078cd9f0cc618d1876b266c7950932002db6d7816b667f36f0622051eff7f",
           "semantic_sha256": "6748d2356a3df4bdc61c1b98dfa35bbcddd2d6256960e555d92da5c0d25a0a1e"
@@ -25130,7 +25116,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Loon/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-20T15:28:52.013506+00:00",
+          "rule_updated_at": "2026-11-26T09:40:31.261329+00:00",
           "bytes": 5370928,
           "sha256": "bb9343809fe317bad773dd7705f9f701d01802ee8be2aee2c24474847196838e",
           "semantic_sha256": "ddf3da42f13917040a0b6e75f84922dd002a1a880eb0de612c6438fc47d684ee"
@@ -25158,14 +25144,14 @@
         },
         "Advertising": {
           "file": "rules/Loon/Advertising.list",
-          "rule_updated_at": "2026-11-20T15:17:22.712761+00:00",
+          "rule_updated_at": "2026-11-26T06:24:50.220243+00:00",
           "bytes": 9174954,
           "sha256": "207a1cbd27c7edfbedc291e01a628a42fa53cb4577eab53bdffc015b17531222",
           "semantic_sha256": "742c9d31776450ebb74d82077f0570af8d8030792bfb8cb4b2a5b1cbc63b8372"
         },
         "AdvertisingLite": {
           "file": "rules/Loon/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-20T15:15:44.593524+00:00",
+          "rule_updated_at": "2026-11-26T05:03:02.029171+00:00",
           "bytes": 6215823,
           "sha256": "c6e5eccef6b1ba0ff07b0bff0007ae55a041206bcdd17cb4f271988338c5688c",
           "semantic_sha256": "48fb0f380f0eecba2b69afa4529b579fd2e081efdaddd42a41d03d4e8dd2d4ba"
@@ -25256,10 +25242,10 @@
         },
         "Alibaba": {
           "file": "rules/Loon/Alibaba.list",
-          "rule_updated_at": "2026-11-06T13:56:49.285076+00:00",
-          "bytes": 47630,
-          "sha256": "503dcc24e6c5974fc962ae8048a5e9cc7ee2430c15c4b881182843a7fda689e0",
-          "semantic_sha256": "cc4e2ca96e83b753d8e294c02ddb7aaed01541afc13db8f31f6929ab8e899ceb"
+          "rule_updated_at": "2026-11-26T03:20:46.818646+00:00",
+          "bytes": 47666,
+          "sha256": "0df575b927eb95158637a263c4cb14d7b52c66f06470072bfe6c6f3659af24d7",
+          "semantic_sha256": "76fbb38159bda1690465c4dfb1781a6dff8a2e3f5ff0b29a403d7baae61252a6"
         },
         "AliGames": {
           "file": "rules/Loon/AliGames.list",
@@ -25277,10 +25263,10 @@
         },
         "Aliyun": {
           "file": "rules/Loon/Aliyun.list",
-          "rule_updated_at": "2026-08-10T09:19:13.504813+00:00",
-          "bytes": 3558,
-          "sha256": "c8b188b1a63314f86867e74bc790fa7430dae83e392ee5f575295a718f2a5e7c",
-          "semantic_sha256": "4b1a4ef46cd4061e3f34bbe24cbdabe981dcc6f5f649865228699441cd0f1f36"
+          "rule_updated_at": "2026-11-26T03:10:53.048757+00:00",
+          "bytes": 3594,
+          "sha256": "46ab74242c83cba4e4474c71c45f8c5c87e97440afad2421d9e8784d52110f1e",
+          "semantic_sha256": "fe89ce29fd63a2c52dd7a26d3944af5f5b97b6c65e2b94bf9bccdbaf45c52ef1"
         },
         "AliyunDrive": {
           "file": "rules/Loon/AliyunDrive.list",
@@ -25305,10 +25291,10 @@
         },
         "Alphabet": {
           "file": "rules/Loon/Alphabet.list",
-          "rule_updated_at": "2026-10-29T02:37:32.427198+00:00",
-          "bytes": 32202,
-          "sha256": "00656c79b3817ce7272221b76c8eb242dba85d8cdc2cb6e570aab23d74a5d527",
-          "semantic_sha256": "d99e85815dfd018ea29ad386e29e0596ad9b92f016cf3881772fd7a579b49f13"
+          "rule_updated_at": "2026-11-26T03:26:09.998019+00:00",
+          "bytes": 32225,
+          "sha256": "9d11f55a033b8a962b4a8b9bad0ed1bb20b78be216f1cb517b4f02586713e59b",
+          "semantic_sha256": "5424654a6edc33d222f4e73e8acbb0ff5da79b340cddbe02ecda0c446118a3f0"
         },
         "Amazon": {
           "file": "rules/Loon/Amazon.list",
@@ -25739,10 +25725,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Loon/BaiShanYunKeJi.list",
-          "rule_updated_at": "2026-07-26T06:57:21.790005+00:00",
-          "bytes": 1742,
-          "sha256": "26ad4919943aff5e6e2c3534b7df1b0747154a75b302b8bfe43c1926b2143afe",
-          "semantic_sha256": "ac40cf64960c86d0159536fa7530393edd7abf7b3caee16b68898af83f491f75"
+          "rule_updated_at": "2026-11-26T03:26:51.267247+00:00",
+          "bytes": 1792,
+          "sha256": "2986c07cd38f205cb501837441a86b5c33c8e3b13775085c813517e0525fc4be",
+          "semantic_sha256": "5b481f19aaa67940411456b358e3670fe9bba96fcc7db9dfedcc25736b3a3a08"
         },
         "Bandcamp": {
           "file": "rules/Loon/Bandcamp.list",
@@ -26222,7 +26208,7 @@
         },
         "ChangYou": {
           "file": "rules/Loon/ChangYou.list",
-          "rule_updated_at": "2026-07-26T08:31:40.920718+00:00",
+          "rule_updated_at": "2026-11-26T03:24:37.567840+00:00",
           "bytes": 302,
           "sha256": "ec8016bc19799c54bafa850532925e4c37138ad2d5c6297e7f1a49bb414a4a9b",
           "semantic_sha256": "2ff3ba709188e05903cf6de84cbce6ec109ada2350fd0b93ddfecfa0eb0c4765"
@@ -26243,10 +26229,10 @@
         },
         "China": {
           "file": "rules/Loon/China.list",
-          "rule_updated_at": "2026-11-20T15:57:11.412373+00:00",
-          "bytes": 306812,
-          "sha256": "355a0ef8883b29ca3430716243d7ef42771e273d250bec3314c6e9227bbd4c32",
-          "semantic_sha256": "19f1ae54bab2912790ef3fd6694d6ba853996c94219e79159fdcec300bd1bb9e"
+          "rule_updated_at": "2026-11-26T03:30:28.059093+00:00",
+          "bytes": 306311,
+          "sha256": "c20a8b696baf0e372fbcf63e0e62e3ffbc4df55fe206a832a9a51f1b49681b4a",
+          "semantic_sha256": "8d0973ba6f0f92207bf33f641e6edfb0e808def1e5ac731600855101ffce35a4"
         },
         "ChinaASN": {
           "file": "rules/Loon/ChinaASN.list",
@@ -26264,17 +26250,17 @@
         },
         "ChinaGame": {
           "file": "rules/Loon/ChinaGame.list",
-          "rule_updated_at": "2026-11-18T16:27:48.728414+00:00",
+          "rule_updated_at": "2026-11-26T03:47:41.699493+00:00",
           "bytes": 8016,
           "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
           "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Loon/ChinaIPs.list",
-          "rule_updated_at": "2026-11-20T15:46:54.721906+00:00",
-          "bytes": 771489,
-          "sha256": "5754fd4ef19f0d3a552e9bffe7bb12369d782fafbbd2ef494162114e23dad673",
-          "semantic_sha256": "ce24b3984041c64ba7f7d994203bc103cef231a1212d76468ae9072db032e176"
+          "rule_updated_at": "2026-11-26T09:57:59.263250+00:00",
+          "bytes": 771249,
+          "sha256": "61df61ccbac45a7172b9c1d67d739812fbf4d88773ad0d9c0d84b3c1157821f1",
+          "semantic_sha256": "279cff24eb2a30790c0d04175d385e9729850e63790ed383362c49d72a2ab1f2"
         },
         "ChinaIPTV": {
           "file": "rules/Loon/ChinaIPTV.list",
@@ -26628,10 +26614,10 @@
         },
         "Copilot": {
           "file": "rules/Loon/Copilot.list",
-          "rule_updated_at": "2026-11-20T09:05:57.457553+00:00",
-          "bytes": 12130,
-          "sha256": "0a011b3406c965128685eabbd2adeceda4a8971109335d7a85b11b483673c8ad",
-          "semantic_sha256": "4af76730b78c8109809da2d52cd0aefb13f9b7b5eb00e57d2c43479544f1daf2"
+          "rule_updated_at": "2026-11-26T03:10:53.138685+00:00",
+          "bytes": 12153,
+          "sha256": "0d6fd3e9761da5ec56c3fc113376667d827d3ec90555a35d1999ad73169abdfa",
+          "semantic_sha256": "f5e3e1c3eb156468703814e7199ace6e0e5a39f2bced30968c264de057d823d3"
         },
         "CopyManga": {
           "file": "rules/Loon/CopyManga.list",
@@ -26747,7 +26733,7 @@
         },
         "Cygames": {
           "file": "rules/Loon/Cygames.list",
-          "rule_updated_at": "2026-07-26T08:36:25.601244+00:00",
+          "rule_updated_at": "2026-11-26T03:23:41.872674+00:00",
           "bytes": 286,
           "sha256": "706c02e2367cb7e2840bf20f3b3f913796aaaaa2ffa72590710270dc9b9d789e",
           "semantic_sha256": "48404d6f428f3b7fc6a6c8f2b51c7718a28d6d2a2a0723f052fa56239cfbd452"
@@ -26817,10 +26803,10 @@
         },
         "Debian": {
           "file": "rules/Loon/Debian.list",
-          "rule_updated_at": "2026-07-26T08:31:45.967010+00:00",
-          "bytes": 173,
-          "sha256": "7b99c9a5f77e4fe51a59da564a1cc8fb2e21301b3b4b55ca02639b644f76fede",
-          "semantic_sha256": "9202b1ceb9ace45ba956a4b10ee28ae7d774f32125b0b0ba23400c1fbd17ea23"
+          "rule_updated_at": "2026-11-26T03:28:20.828960+00:00",
+          "bytes": 212,
+          "sha256": "65c2765a32074d5c8a4b9dbc3b1d9815525d681f575bcd42fc068a37ecd97259",
+          "semantic_sha256": "ecaa6522be64a1bb0593b0fcd23770fb11a56b3ebec525ddd32d70711ac428b6"
         },
         "Dedao": {
           "file": "rules/Loon/Dedao.list",
@@ -26880,7 +26866,7 @@
         },
         "Developer": {
           "file": "rules/Loon/Developer.list",
-          "rule_updated_at": "2026-11-17T07:20:03.919673+00:00",
+          "rule_updated_at": "2026-11-26T03:12:44.942249+00:00",
           "bytes": 22585,
           "sha256": "33abede418be687baf437cd93241a9a552608948b88327090ba998ff5fb275d0",
           "semantic_sha256": "a9923da142a26464daaf34563ee02194f0602ebf546f6d2eacde23e948757c76"
@@ -27244,10 +27230,10 @@
         },
         "ECommerce": {
           "file": "rules/Loon/ECommerce.list",
-          "rule_updated_at": "2026-10-29T02:37:31.575767+00:00",
-          "bytes": 37304,
-          "sha256": "f22e61560ac96d09ee2bd54b4196ed95ae7c4aec3e15042d9992bdee2a857cf2",
-          "semantic_sha256": "dff95645ad9a23e9dfa4c7a2464c0b9b901fe524a774337f2cfac1f4c6ef0154"
+          "rule_updated_at": "2026-11-26T03:20:25.021216+00:00",
+          "bytes": 37327,
+          "sha256": "f26d30e19049720376d627a9772907fc07bc4e28c02110c97af46274c8a6a752",
+          "semantic_sha256": "2188ce079712bd73f899cbd68e3c024e226e30c20b38d5636a2cb8c11d355612"
         },
         "Economist": {
           "file": "rules/Loon/Economist.list",
@@ -27475,10 +27461,10 @@
         },
         "Fastly": {
           "file": "rules/Loon/Fastly.list",
-          "rule_updated_at": "2026-07-26T08:21:15.312556+00:00",
-          "bytes": 318,
-          "sha256": "a69e684880a497a78d4a3bf53c361705e78372b324c7e76c5169f3ab8ac5550f",
-          "semantic_sha256": "f14b8aa03871fa5a29e3badc8680e2dd21fc6fe987883ddac1a3f1cddf8ededc"
+          "rule_updated_at": "2026-11-26T03:23:52.674884+00:00",
+          "bytes": 380,
+          "sha256": "59545958065d2222b8ae46bc4cb2fb585c6eac2ef65f0063bd2fd508a125ff4a",
+          "semantic_sha256": "08f7d5e0fc40b212e1fd68e29ef9566be978ae4f4de4d2fb8423ea9fe13b2ae5"
         },
         "FastStone": {
           "file": "rules/Loon/FastStone.list",
@@ -27734,10 +27720,10 @@
         },
         "Game": {
           "file": "rules/Loon/Game.list",
-          "rule_updated_at": "2026-11-20T09:06:08.492081+00:00",
-          "bytes": 39263,
-          "sha256": "eed66ae10c600d7a0b8cadd80e8023a0e25aeda568c780b2a9c0dc5bbfd53005",
-          "semantic_sha256": "730a7319c5e73baabaa658ecd175078a9c4f99630229aa26f1c1c0f74fc197ce"
+          "rule_updated_at": "2026-11-26T03:25:12.838722+00:00",
+          "bytes": 39390,
+          "sha256": "aa86db33f191baf356b890efe694daaefc693357067b55ab8df10498890489c9",
+          "semantic_sha256": "df2acd96b8b2cc02c066e0925e50e82d7a4da4817617607924d1efeed3fb3a9d"
         },
         "GameDownload": {
           "file": "rules/Loon/GameDownload.list",
@@ -27811,7 +27797,7 @@
         },
         "Gemini": {
           "file": "rules/Loon/Gemini.list",
-          "rule_updated_at": "2026-10-29T02:37:36.539389+00:00",
+          "rule_updated_at": "2026-11-26T03:28:27.689375+00:00",
           "bytes": 2050,
           "sha256": "3546ca75c3f5e53e4bcc33578d58ce9791fbc1348f49328ad4b6c4f8e5d356b9",
           "semantic_sha256": "f4a420c6679b0e65213a2873b3dcaac13acd6445350db0e5c54acd4b00dd839c"
@@ -27881,24 +27867,24 @@
         },
         "Global": {
           "file": "rules/Loon/Global.list",
-          "rule_updated_at": "2026-11-20T09:08:39.304869+00:00",
-          "bytes": 696511,
-          "sha256": "ef7ab99c6dd6af0a20ccc289e66ac6002464cfc44fb7d97e4089a5ddf79d1fb8",
-          "semantic_sha256": "18ba25705ffbdc11f38deccb40e23ff46c1a00080520a3e6662aa3ef51aa76c3"
+          "rule_updated_at": "2026-11-26T03:14:50.611465+00:00",
+          "bytes": 693025,
+          "sha256": "e5d6d84dad55553c70c3ababd6d38543350ef051db6e6568fa799897ee84f153",
+          "semantic_sha256": "d3a5e34118463493e849581842bfeaaffd8e7dd2addd3e8c91a5912618d56829"
         },
         "GlobalAI": {
           "file": "rules/Loon/GlobalAI.list",
-          "rule_updated_at": "2026-11-20T09:02:32.559002+00:00",
-          "bytes": 13752,
-          "sha256": "7d59feba30377643dab89b50a7def953eacf790ad02d107b237ee09e09f5d030",
-          "semantic_sha256": "01abc50bddcef0b13a26c5c120053a041b802056bad5cd44567d6db6b1b2fc85"
+          "rule_updated_at": "2026-11-26T03:11:46.142397+00:00",
+          "bytes": 13775,
+          "sha256": "93ff24942caa6bdd5a7f79ba30bc650a7e4c877fd7715857dedfa9629940e94b",
+          "semantic_sha256": "dc27792549502254088a74d45d9067dc8d1e77ba02ddf2dc8c56926b598a8fbc"
         },
         "GlobalCDN": {
           "file": "rules/Loon/GlobalCDN.list",
-          "rule_updated_at": "2026-08-08T02:57:22.359891+00:00",
-          "bytes": 5908,
-          "sha256": "e78d7d1c56fe8ffba2b99e7beb100d9959dd6cd4238c644e4d871e9a328ca494",
-          "semantic_sha256": "d2927f053fd8ef2dc663f5e6bcc689e63c1289ac0745b6065d36b0438448fa2d"
+          "rule_updated_at": "2026-11-26T03:21:54.241807+00:00",
+          "bytes": 5970,
+          "sha256": "bd9ec27ac96f4fd1923d4c27b6b0145272d68ad8c65ed87ab05f3e7b651c2d16",
+          "semantic_sha256": "233a658e4c8071f0e7e3d130ed4a433aefebc408a33a4acf8d71eae384be1509"
         },
         "GlobalCloud": {
           "file": "rules/Loon/GlobalCloud.list",
@@ -28000,17 +27986,17 @@
         },
         "Google": {
           "file": "rules/Loon/Google.list",
-          "rule_updated_at": "2026-11-06T14:11:43.878701+00:00",
+          "rule_updated_at": "2026-11-26T03:22:59.090199+00:00",
           "bytes": 34033,
           "sha256": "c35e5e6d972a70d2dbf782f58b2c033ae215d120c04990cbbbcba878446319b1",
           "semantic_sha256": "ceb27d213badaa1f99cc5a1c0aa96fe5ff0bfc83c5adb4105dbb5c4261f163c9"
         },
         "GoogleDeepMind": {
           "file": "rules/Loon/GoogleDeepMind.list",
-          "rule_updated_at": "2026-10-29T02:37:20.506858+00:00",
-          "bytes": 1891,
-          "sha256": "83253f24e0bf8b8e9e01ad20381722a844618ced3ebb2af5ef02afcb54019e9a",
-          "semantic_sha256": "78f8c446a9646b6145986fdfc132292f6c1166854e4da052de8da02e7cca80a5"
+          "rule_updated_at": "2026-11-26T03:12:05.647880+00:00",
+          "bytes": 1914,
+          "sha256": "f12122afc01c8c620ebc75f15231b845d75574a16e3f506fb7e560542d4c0c23",
+          "semantic_sha256": "ff8fd03f2a5b02a01823a3e729a27a2a89cdc9526ec93c3e2eb5eedf3c296ad0"
         },
         "GoogleEarth": {
           "file": "rules/Loon/GoogleEarth.list",
@@ -29134,10 +29120,10 @@
         },
         "Lenovo": {
           "file": "rules/Loon/Lenovo.list",
-          "rule_updated_at": "2026-07-26T06:26:48.076956+00:00",
-          "bytes": 1824,
-          "sha256": "774421adf19b4af357dce9e49de0ea3ab2fdeafffd23547516e7901829c05bf0",
-          "semantic_sha256": "a5505b2f1ef50668c215ed507935f0fd0d6ca2dd8c163fe8972c755f2e0bc4fd"
+          "rule_updated_at": "2026-11-26T03:21:10.549729+00:00",
+          "bytes": 1919,
+          "sha256": "1bf598d9d148102d52920d82da7a3ad14656698f6b6a9f95b6f1ef0df776589c",
+          "semantic_sha256": "c460dd9cc7555891c10d1cf12cd4e6d183297163bf5fc327dfa713423f5b0a95"
         },
         "LetsEncrypt": {
           "file": "rules/Loon/LetsEncrypt.list",
@@ -29692,13 +29678,6 @@
           "sha256": "a8789c09dd60ea03c3841e3d3efa44e0282138cab30f44cc20f2aafd03fdc990",
           "semantic_sha256": "b332f717e03ddd6ffdb6e9a32c24387b38fbe198c418de4e9fef58ce09d7d553"
         },
-        "MOOMusic": {
-          "file": "rules/Loon/MOOMusic.list",
-          "rule_updated_at": "2026-07-26T07:16:20.508635+00:00",
-          "bytes": 153,
-          "sha256": "4faf44ae3883651786e20a3f371881ee88bcf37710e340e641af781524be3198",
-          "semantic_sha256": "5cc124fcc9d01cb48ca09cf0da08f615f5204ac01d29e6bac6a24401b6f8d76a"
-        },
         "Moonvy": {
           "file": "rules/Loon/Moonvy.list",
           "rule_updated_at": "2026-07-26T10:37:47.741524+00:00",
@@ -29855,7 +29834,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Loon/NBCUniversal.list",
-          "rule_updated_at": "2026-07-26T10:38:05.361363+00:00",
+          "rule_updated_at": "2026-11-26T03:26:05.823742+00:00",
           "bytes": 634,
           "sha256": "a4ef0c809f08780543c426fa92e5b6354b5737eaab222de8364f0ae2a69a52a5",
           "semantic_sha256": "fb6933feb30e33bc0d3ef33f280e290131bff8aac82ff906bb0f2de67c447348"
@@ -30345,10 +30324,10 @@
         },
         "PCCW": {
           "file": "rules/Loon/PCCW.list",
-          "rule_updated_at": "2026-07-26T06:53:01.185520+00:00",
-          "bytes": 1003,
-          "sha256": "e8c90a18bcebd05bc61588b51dbcbd2763863bef2c35656e504bcf8da3d70678",
-          "semantic_sha256": "c5baf0ad709fc0055bb9ffe3ff7d1e1ae36137e1e659bb5f3bde8bac3b77c1ab"
+          "rule_updated_at": "2026-11-26T03:26:39.141147+00:00",
+          "bytes": 1040,
+          "sha256": "aabce308209aba9da4e10549345605f1440c0a79a09df05c8531a63f16d95b79",
+          "semantic_sha256": "709597be56746681682a6fb9e01477dcd4c270794a240c9b8390812c662f5dfe"
         },
         "PChomeTW": {
           "file": "rules/Loon/PChomeTW.list",
@@ -30422,10 +30401,10 @@
         },
         "PingAn": {
           "file": "rules/Loon/PingAn.list",
-          "rule_updated_at": "2026-07-26T06:27:35.799754+00:00",
-          "bytes": 860,
-          "sha256": "08dade79d50ad3b872e9c3e7fadbb5fd6d5ce10580d45f4ac7d03f581f527b5d",
-          "semantic_sha256": "8039d902138b672105bb0a2b1ec563f55f7e1ec8019a5fc6a669b5c5348be413"
+          "rule_updated_at": "2026-11-26T03:24:10.508104+00:00",
+          "bytes": 1143,
+          "sha256": "6be1da42e610571138fd21168e6985d12540c869a477bb97da6cbe9b5dd23993",
+          "semantic_sha256": "5d6a8a3ee968e93bca157d8df6c7a32a5322017999aa888b360e308e06452880"
         },
         "Pinterest": {
           "file": "rules/Loon/Pinterest.list",
@@ -30555,10 +30534,10 @@
         },
         "Privacy": {
           "file": "rules/Loon/Privacy.list",
-          "rule_updated_at": "2026-11-06T07:11:22.943480+00:00",
-          "bytes": 1444006,
-          "sha256": "3681d6b26ea139c03e5ce2f42a7a964e070bc2ad937d5d7a0096f24758c58fba",
-          "semantic_sha256": "2ff44198aedf943fcf5f483807704d302fb5429e1e701a0cb8656fdd1225df63"
+          "rule_updated_at": "2026-11-26T03:28:40.448094+00:00",
+          "bytes": 1460427,
+          "sha256": "37da9524769e01b31e47fa36a0603ff80270abf5716101c01f8ac114106c0774",
+          "semantic_sha256": "0435724938e33d03bbf49111e03d6b64562865bdd82920d7175fa96c71ddb1ee"
         },
         "PrivateTracker": {
           "file": "rules/Loon/PrivateTracker.list",
@@ -31297,10 +31276,10 @@
         },
         "Sohu": {
           "file": "rules/Loon/Sohu.list",
-          "rule_updated_at": "2026-07-26T06:28:04.564078+00:00",
-          "bytes": 2203,
-          "sha256": "4b7126e5f232c00992217702301897c832e693f5c2667c0f15c661dd5566a4da",
-          "semantic_sha256": "3f6040e68f27707aad33a010db2e6ef950e03b4e8dd3b640ab2d5cef2ad5830e"
+          "rule_updated_at": "2026-11-26T03:25:29.472947+00:00",
+          "bytes": 2248,
+          "sha256": "d8241e77a5ef80ed02a653128e4aa1408a71de2830a415c66608dc3846e268cd",
+          "semantic_sha256": "4e1d1707d1882b4790de1cb3c3ea05e45dcfa8d0be34c9618f4125774f504edf"
         },
         "Sony": {
           "file": "rules/Loon/Sony.list",
@@ -31367,10 +31346,10 @@
         },
         "Speedtest": {
           "file": "rules/Loon/Speedtest.list",
-          "rule_updated_at": "2026-11-20T09:02:30.326043+00:00",
-          "bytes": 115139,
-          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
-          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
+          "rule_updated_at": "2026-11-26T03:48:08.025258+00:00",
+          "bytes": 115629,
+          "sha256": "8f985eda109e70d753fac451b3a5cfa404bcce3c7794d2d39a49013c8f5b2191",
+          "semantic_sha256": "227e5a6f0a305493d1993514391257f53d4d34dacdc02ef1d7851a49d73375ea"
         },
         "Spiceworks": {
           "file": "rules/Loon/Spiceworks.list",
@@ -32200,7 +32179,7 @@
         },
         "Unity": {
           "file": "rules/Loon/Unity.list",
-          "rule_updated_at": "2026-07-26T06:57:10.263000+00:00",
+          "rule_updated_at": "2026-11-26T03:22:13.175899+00:00",
           "bytes": 917,
           "sha256": "a7b158a21ba74930d84da7a89ca76396ec6c71621b6933a1fff00353b7392409",
           "semantic_sha256": "13aea43bbd09347bf8793fbbd1685f72a1a33d7390a6784fee88e27bf960ef67"
@@ -33230,7 +33209,7 @@
       }
     },
     "Shadowrocket": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/Shadowrocket/56.list",
@@ -33325,7 +33304,7 @@
         },
         "58TongCheng": {
           "file": "rules/Shadowrocket/58TongCheng.list",
-          "rule_updated_at": "2026-08-17T02:15:00.860829+00:00",
+          "rule_updated_at": "2026-11-26T03:28:29.891214+00:00",
           "bytes": 1994,
           "sha256": "2ea4220ef26ab787e9cf70a935f49bdcaa692ae1a6b89c720080ff6d522cbe8e",
           "semantic_sha256": "6748d2356a3df4bdc61c1b98dfa35bbcddd2d6256960e555d92da5c0d25a0a1e"
@@ -33437,7 +33416,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Shadowrocket/AdGuardSDNSFilterDirect.list",
-          "rule_updated_at": "2026-11-20T15:28:58.578349+00:00",
+          "rule_updated_at": "2026-11-26T09:45:18.444878+00:00",
           "bytes": 5370928,
           "sha256": "bb9343809fe317bad773dd7705f9f701d01802ee8be2aee2c24474847196838e",
           "semantic_sha256": "ddf3da42f13917040a0b6e75f84922dd002a1a880eb0de612c6438fc47d684ee"
@@ -33465,14 +33444,14 @@
         },
         "Advertising": {
           "file": "rules/Shadowrocket/Advertising.list",
-          "rule_updated_at": "2026-11-20T15:17:50.329792+00:00",
+          "rule_updated_at": "2026-11-26T07:36:08.547787+00:00",
           "bytes": 9174954,
           "sha256": "207a1cbd27c7edfbedc291e01a628a42fa53cb4577eab53bdffc015b17531222",
           "semantic_sha256": "742c9d31776450ebb74d82077f0570af8d8030792bfb8cb4b2a5b1cbc63b8372"
         },
         "AdvertisingLite": {
           "file": "rules/Shadowrocket/AdvertisingLite.list",
-          "rule_updated_at": "2026-11-20T15:15:51.818058+00:00",
+          "rule_updated_at": "2026-11-26T05:04:30.810278+00:00",
           "bytes": 6215823,
           "sha256": "c6e5eccef6b1ba0ff07b0bff0007ae55a041206bcdd17cb4f271988338c5688c",
           "semantic_sha256": "48fb0f380f0eecba2b69afa4529b579fd2e081efdaddd42a41d03d4e8dd2d4ba"
@@ -33563,10 +33542,10 @@
         },
         "Alibaba": {
           "file": "rules/Shadowrocket/Alibaba.list",
-          "rule_updated_at": "2026-11-04T15:55:14.253530+00:00",
-          "bytes": 47630,
-          "sha256": "503dcc24e6c5974fc962ae8048a5e9cc7ee2430c15c4b881182843a7fda689e0",
-          "semantic_sha256": "cc4e2ca96e83b753d8e294c02ddb7aaed01541afc13db8f31f6929ab8e899ceb"
+          "rule_updated_at": "2026-11-26T03:21:05.456952+00:00",
+          "bytes": 47666,
+          "sha256": "0df575b927eb95158637a263c4cb14d7b52c66f06470072bfe6c6f3659af24d7",
+          "semantic_sha256": "76fbb38159bda1690465c4dfb1781a6dff8a2e3f5ff0b29a403d7baae61252a6"
         },
         "AliGames": {
           "file": "rules/Shadowrocket/AliGames.list",
@@ -33584,10 +33563,10 @@
         },
         "Aliyun": {
           "file": "rules/Shadowrocket/Aliyun.list",
-          "rule_updated_at": "2026-08-10T09:19:13.545062+00:00",
-          "bytes": 3558,
-          "sha256": "1dc96965f45ee4e7c26e49c117618b9957deee151e9fd9f1c75926c4e3166108",
-          "semantic_sha256": "4b1a4ef46cd4061e3f34bbe24cbdabe981dcc6f5f649865228699441cd0f1f36"
+          "rule_updated_at": "2026-11-26T03:10:53.241397+00:00",
+          "bytes": 3594,
+          "sha256": "46ab74242c83cba4e4474c71c45f8c5c87e97440afad2421d9e8784d52110f1e",
+          "semantic_sha256": "fe89ce29fd63a2c52dd7a26d3944af5f5b97b6c65e2b94bf9bccdbaf45c52ef1"
         },
         "AliyunDrive": {
           "file": "rules/Shadowrocket/AliyunDrive.list",
@@ -33612,10 +33591,10 @@
         },
         "Alphabet": {
           "file": "rules/Shadowrocket/Alphabet.list",
-          "rule_updated_at": "2026-10-29T02:37:32.481964+00:00",
-          "bytes": 32202,
-          "sha256": "2d8f99f7bef606b166d7612486eaf116e842be3256efc8de4655d9ef525a0fe2",
-          "semantic_sha256": "d99e85815dfd018ea29ad386e29e0596ad9b92f016cf3881772fd7a579b49f13"
+          "rule_updated_at": "2026-11-26T03:26:10.192683+00:00",
+          "bytes": 32225,
+          "sha256": "9d11f55a033b8a962b4a8b9bad0ed1bb20b78be216f1cb517b4f02586713e59b",
+          "semantic_sha256": "5424654a6edc33d222f4e73e8acbb0ff5da79b340cddbe02ecda0c446118a3f0"
         },
         "Amazon": {
           "file": "rules/Shadowrocket/Amazon.list",
@@ -34046,10 +34025,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Shadowrocket/BaiShanYunKeJi.list",
-          "rule_updated_at": "2026-07-26T06:57:23.263411+00:00",
-          "bytes": 1742,
-          "sha256": "26ad4919943aff5e6e2c3534b7df1b0747154a75b302b8bfe43c1926b2143afe",
-          "semantic_sha256": "ac40cf64960c86d0159536fa7530393edd7abf7b3caee16b68898af83f491f75"
+          "rule_updated_at": "2026-11-26T03:26:51.450705+00:00",
+          "bytes": 1792,
+          "sha256": "2986c07cd38f205cb501837441a86b5c33c8e3b13775085c813517e0525fc4be",
+          "semantic_sha256": "5b481f19aaa67940411456b358e3670fe9bba96fcc7db9dfedcc25736b3a3a08"
         },
         "Bandcamp": {
           "file": "rules/Shadowrocket/Bandcamp.list",
@@ -34529,7 +34508,7 @@
         },
         "ChangYou": {
           "file": "rules/Shadowrocket/ChangYou.list",
-          "rule_updated_at": "2026-07-26T08:31:41.114720+00:00",
+          "rule_updated_at": "2026-11-26T03:24:37.690425+00:00",
           "bytes": 302,
           "sha256": "ec8016bc19799c54bafa850532925e4c37138ad2d5c6297e7f1a49bb414a4a9b",
           "semantic_sha256": "2ff3ba709188e05903cf6de84cbce6ec109ada2350fd0b93ddfecfa0eb0c4765"
@@ -34550,10 +34529,10 @@
         },
         "China": {
           "file": "rules/Shadowrocket/China.list",
-          "rule_updated_at": "2026-11-20T15:57:42.328236+00:00",
-          "bytes": 306812,
-          "sha256": "355a0ef8883b29ca3430716243d7ef42771e273d250bec3314c6e9227bbd4c32",
-          "semantic_sha256": "19f1ae54bab2912790ef3fd6694d6ba853996c94219e79159fdcec300bd1bb9e"
+          "rule_updated_at": "2026-11-26T03:30:51.596287+00:00",
+          "bytes": 306311,
+          "sha256": "c20a8b696baf0e372fbcf63e0e62e3ffbc4df55fe206a832a9a51f1b49681b4a",
+          "semantic_sha256": "8d0973ba6f0f92207bf33f641e6edfb0e808def1e5ac731600855101ffce35a4"
         },
         "ChinaASN": {
           "file": "rules/Shadowrocket/ChinaASN.list",
@@ -34571,17 +34550,17 @@
         },
         "ChinaGame": {
           "file": "rules/Shadowrocket/ChinaGame.list",
-          "rule_updated_at": "2026-11-18T16:27:48.849171+00:00",
+          "rule_updated_at": "2026-11-26T03:47:41.905296+00:00",
           "bytes": 8016,
           "sha256": "1e9c8d60c60956127bc8685160c6a39552981436b7ebf8c15b399865589c3119",
           "semantic_sha256": "127ca9e1424d0bec36044100735cd4cc3ea564e4e396134f1d50a76215d04d87"
         },
         "ChinaIPs": {
           "file": "rules/Shadowrocket/ChinaIPs.list",
-          "rule_updated_at": "2026-11-20T15:46:55.304183+00:00",
-          "bytes": 771489,
-          "sha256": "5754fd4ef19f0d3a552e9bffe7bb12369d782fafbbd2ef494162114e23dad673",
-          "semantic_sha256": "ce24b3984041c64ba7f7d994203bc103cef231a1212d76468ae9072db032e176"
+          "rule_updated_at": "2026-11-26T09:58:00.675091+00:00",
+          "bytes": 771249,
+          "sha256": "61df61ccbac45a7172b9c1d67d739812fbf4d88773ad0d9c0d84b3c1157821f1",
+          "semantic_sha256": "279cff24eb2a30790c0d04175d385e9729850e63790ed383362c49d72a2ab1f2"
         },
         "ChinaIPTV": {
           "file": "rules/Shadowrocket/ChinaIPTV.list",
@@ -34935,10 +34914,10 @@
         },
         "Copilot": {
           "file": "rules/Shadowrocket/Copilot.list",
-          "rule_updated_at": "2026-11-20T09:05:58.503497+00:00",
-          "bytes": 12130,
-          "sha256": "0a011b3406c965128685eabbd2adeceda4a8971109335d7a85b11b483673c8ad",
-          "semantic_sha256": "4af76730b78c8109809da2d52cd0aefb13f9b7b5eb00e57d2c43479544f1daf2"
+          "rule_updated_at": "2026-11-26T03:10:53.307513+00:00",
+          "bytes": 12153,
+          "sha256": "0d6fd3e9761da5ec56c3fc113376667d827d3ec90555a35d1999ad73169abdfa",
+          "semantic_sha256": "f5e3e1c3eb156468703814e7199ace6e0e5a39f2bced30968c264de057d823d3"
         },
         "CopyManga": {
           "file": "rules/Shadowrocket/CopyManga.list",
@@ -35054,7 +35033,7 @@
         },
         "Cygames": {
           "file": "rules/Shadowrocket/Cygames.list",
-          "rule_updated_at": "2026-07-26T08:36:25.643018+00:00",
+          "rule_updated_at": "2026-11-26T03:23:51.497052+00:00",
           "bytes": 286,
           "sha256": "706c02e2367cb7e2840bf20f3b3f913796aaaaa2ffa72590710270dc9b9d789e",
           "semantic_sha256": "48404d6f428f3b7fc6a6c8f2b51c7718a28d6d2a2a0723f052fa56239cfbd452"
@@ -35124,10 +35103,10 @@
         },
         "Debian": {
           "file": "rules/Shadowrocket/Debian.list",
-          "rule_updated_at": "2026-07-26T08:31:45.991115+00:00",
-          "bytes": 173,
-          "sha256": "14b25d2bc4fb2b36af0d4154a0bbb1345e3dc5c23141eab947785e771f6f890f",
-          "semantic_sha256": "9202b1ceb9ace45ba956a4b10ee28ae7d774f32125b0b0ba23400c1fbd17ea23"
+          "rule_updated_at": "2026-11-26T03:28:20.955234+00:00",
+          "bytes": 212,
+          "sha256": "65c2765a32074d5c8a4b9dbc3b1d9815525d681f575bcd42fc068a37ecd97259",
+          "semantic_sha256": "ecaa6522be64a1bb0593b0fcd23770fb11a56b3ebec525ddd32d70711ac428b6"
         },
         "Dedao": {
           "file": "rules/Shadowrocket/Dedao.list",
@@ -35187,7 +35166,7 @@
         },
         "Developer": {
           "file": "rules/Shadowrocket/Developer.list",
-          "rule_updated_at": "2026-11-17T07:20:03.985967+00:00",
+          "rule_updated_at": "2026-11-26T03:12:46.234361+00:00",
           "bytes": 22585,
           "sha256": "33abede418be687baf437cd93241a9a552608948b88327090ba998ff5fb275d0",
           "semantic_sha256": "a9923da142a26464daaf34563ee02194f0602ebf546f6d2eacde23e948757c76"
@@ -35551,10 +35530,10 @@
         },
         "ECommerce": {
           "file": "rules/Shadowrocket/ECommerce.list",
-          "rule_updated_at": "2026-10-29T02:37:31.613367+00:00",
-          "bytes": 37304,
-          "sha256": "f22e61560ac96d09ee2bd54b4196ed95ae7c4aec3e15042d9992bdee2a857cf2",
-          "semantic_sha256": "dff95645ad9a23e9dfa4c7a2464c0b9b901fe524a774337f2cfac1f4c6ef0154"
+          "rule_updated_at": "2026-11-26T03:20:25.502607+00:00",
+          "bytes": 37327,
+          "sha256": "f26d30e19049720376d627a9772907fc07bc4e28c02110c97af46274c8a6a752",
+          "semantic_sha256": "2188ce079712bd73f899cbd68e3c024e226e30c20b38d5636a2cb8c11d355612"
         },
         "Economist": {
           "file": "rules/Shadowrocket/Economist.list",
@@ -35782,10 +35761,10 @@
         },
         "Fastly": {
           "file": "rules/Shadowrocket/Fastly.list",
-          "rule_updated_at": "2026-07-26T08:21:15.489600+00:00",
-          "bytes": 318,
-          "sha256": "a8ff04b8237aba85f90bcfa22ff1558ed9fafb47a42d956dabfc8896e1883355",
-          "semantic_sha256": "f14b8aa03871fa5a29e3badc8680e2dd21fc6fe987883ddac1a3f1cddf8ededc"
+          "rule_updated_at": "2026-11-26T03:23:52.777054+00:00",
+          "bytes": 380,
+          "sha256": "59545958065d2222b8ae46bc4cb2fb585c6eac2ef65f0063bd2fd508a125ff4a",
+          "semantic_sha256": "08f7d5e0fc40b212e1fd68e29ef9566be978ae4f4de4d2fb8423ea9fe13b2ae5"
         },
         "FastStone": {
           "file": "rules/Shadowrocket/FastStone.list",
@@ -36041,10 +36020,10 @@
         },
         "Game": {
           "file": "rules/Shadowrocket/Game.list",
-          "rule_updated_at": "2026-11-20T09:06:13.722821+00:00",
-          "bytes": 39263,
-          "sha256": "eed66ae10c600d7a0b8cadd80e8023a0e25aeda568c780b2a9c0dc5bbfd53005",
-          "semantic_sha256": "730a7319c5e73baabaa658ecd175078a9c4f99630229aa26f1c1c0f74fc197ce"
+          "rule_updated_at": "2026-11-26T03:25:14.180926+00:00",
+          "bytes": 39390,
+          "sha256": "aa86db33f191baf356b890efe694daaefc693357067b55ab8df10498890489c9",
+          "semantic_sha256": "df2acd96b8b2cc02c066e0925e50e82d7a4da4817617607924d1efeed3fb3a9d"
         },
         "GameDownload": {
           "file": "rules/Shadowrocket/GameDownload.list",
@@ -36118,7 +36097,7 @@
         },
         "Gemini": {
           "file": "rules/Shadowrocket/Gemini.list",
-          "rule_updated_at": "2026-10-29T02:37:36.651435+00:00",
+          "rule_updated_at": "2026-11-26T03:28:27.903038+00:00",
           "bytes": 2050,
           "sha256": "536ae5fea947aa93cbb2a7ebe172b2c7a4cf9618131bc090371e509e4491058c",
           "semantic_sha256": "f4a420c6679b0e65213a2873b3dcaac13acd6445350db0e5c54acd4b00dd839c"
@@ -36188,24 +36167,24 @@
         },
         "Global": {
           "file": "rules/Shadowrocket/Global.list",
-          "rule_updated_at": "2026-11-20T09:10:26.366001+00:00",
-          "bytes": 696511,
-          "sha256": "3e3ae1add81a5946e9beff395db596f927be7450035e3514705dcf325a68cfe7",
-          "semantic_sha256": "18ba25705ffbdc11f38deccb40e23ff46c1a00080520a3e6662aa3ef51aa76c3"
+          "rule_updated_at": "2026-11-26T03:17:17.044300+00:00",
+          "bytes": 693025,
+          "sha256": "e5d6d84dad55553c70c3ababd6d38543350ef051db6e6568fa799897ee84f153",
+          "semantic_sha256": "d3a5e34118463493e849581842bfeaaffd8e7dd2addd3e8c91a5912618d56829"
         },
         "GlobalAI": {
           "file": "rules/Shadowrocket/GlobalAI.list",
-          "rule_updated_at": "2026-11-20T09:02:33.037970+00:00",
-          "bytes": 13752,
-          "sha256": "7d59feba30377643dab89b50a7def953eacf790ad02d107b237ee09e09f5d030",
-          "semantic_sha256": "01abc50bddcef0b13a26c5c120053a041b802056bad5cd44567d6db6b1b2fc85"
+          "rule_updated_at": "2026-11-26T03:12:06.129122+00:00",
+          "bytes": 13775,
+          "sha256": "93ff24942caa6bdd5a7f79ba30bc650a7e4c877fd7715857dedfa9629940e94b",
+          "semantic_sha256": "dc27792549502254088a74d45d9067dc8d1e77ba02ddf2dc8c56926b598a8fbc"
         },
         "GlobalCDN": {
           "file": "rules/Shadowrocket/GlobalCDN.list",
-          "rule_updated_at": "2026-08-08T02:57:23.496270+00:00",
-          "bytes": 5908,
-          "sha256": "d0bee9fc10999eecb551abf3414c85ffb15a8e1852aac68f35960b4b3962f9ee",
-          "semantic_sha256": "d2927f053fd8ef2dc663f5e6bcc689e63c1289ac0745b6065d36b0438448fa2d"
+          "rule_updated_at": "2026-11-26T03:21:55.962554+00:00",
+          "bytes": 5970,
+          "sha256": "bd9ec27ac96f4fd1923d4c27b6b0145272d68ad8c65ed87ab05f3e7b651c2d16",
+          "semantic_sha256": "233a658e4c8071f0e7e3d130ed4a433aefebc408a33a4acf8d71eae384be1509"
         },
         "GlobalCloud": {
           "file": "rules/Shadowrocket/GlobalCloud.list",
@@ -36307,17 +36286,17 @@
         },
         "Google": {
           "file": "rules/Shadowrocket/Google.list",
-          "rule_updated_at": "2026-10-29T03:07:13.553805+00:00",
+          "rule_updated_at": "2026-11-26T03:23:00.545373+00:00",
           "bytes": 34033,
           "sha256": "c35e5e6d972a70d2dbf782f58b2c033ae215d120c04990cbbbcba878446319b1",
           "semantic_sha256": "ceb27d213badaa1f99cc5a1c0aa96fe5ff0bfc83c5adb4105dbb5c4261f163c9"
         },
         "GoogleDeepMind": {
           "file": "rules/Shadowrocket/GoogleDeepMind.list",
-          "rule_updated_at": "2026-10-29T02:37:20.538889+00:00",
-          "bytes": 1891,
-          "sha256": "83253f24e0bf8b8e9e01ad20381722a844618ced3ebb2af5ef02afcb54019e9a",
-          "semantic_sha256": "78f8c446a9646b6145986fdfc132292f6c1166854e4da052de8da02e7cca80a5"
+          "rule_updated_at": "2026-11-26T03:12:09.955796+00:00",
+          "bytes": 1914,
+          "sha256": "f12122afc01c8c620ebc75f15231b845d75574a16e3f506fb7e560542d4c0c23",
+          "semantic_sha256": "ff8fd03f2a5b02a01823a3e729a27a2a89cdc9526ec93c3e2eb5eedf3c296ad0"
         },
         "GoogleEarth": {
           "file": "rules/Shadowrocket/GoogleEarth.list",
@@ -37441,10 +37420,10 @@
         },
         "Lenovo": {
           "file": "rules/Shadowrocket/Lenovo.list",
-          "rule_updated_at": "2026-07-26T06:26:49.550780+00:00",
-          "bytes": 1824,
-          "sha256": "774421adf19b4af357dce9e49de0ea3ab2fdeafffd23547516e7901829c05bf0",
-          "semantic_sha256": "a5505b2f1ef50668c215ed507935f0fd0d6ca2dd8c163fe8972c755f2e0bc4fd"
+          "rule_updated_at": "2026-11-26T03:21:10.677226+00:00",
+          "bytes": 1919,
+          "sha256": "1bf598d9d148102d52920d82da7a3ad14656698f6b6a9f95b6f1ef0df776589c",
+          "semantic_sha256": "c460dd9cc7555891c10d1cf12cd4e6d183297163bf5fc327dfa713423f5b0a95"
         },
         "LetsEncrypt": {
           "file": "rules/Shadowrocket/LetsEncrypt.list",
@@ -37999,13 +37978,6 @@
           "sha256": "a8789c09dd60ea03c3841e3d3efa44e0282138cab30f44cc20f2aafd03fdc990",
           "semantic_sha256": "b332f717e03ddd6ffdb6e9a32c24387b38fbe198c418de4e9fef58ce09d7d553"
         },
-        "MOOMusic": {
-          "file": "rules/Shadowrocket/MOOMusic.list",
-          "rule_updated_at": "2026-07-26T07:16:20.542431+00:00",
-          "bytes": 153,
-          "sha256": "f113e1de7ca144fc49654d12ce88c5dfec16fdbeb542023958932ef3963cb41c",
-          "semantic_sha256": "5cc124fcc9d01cb48ca09cf0da08f615f5204ac01d29e6bac6a24401b6f8d76a"
-        },
         "Moonvy": {
           "file": "rules/Shadowrocket/Moonvy.list",
           "rule_updated_at": "2026-07-26T10:37:47.810833+00:00",
@@ -38162,7 +38134,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Shadowrocket/NBCUniversal.list",
-          "rule_updated_at": "2026-07-26T10:38:05.395596+00:00",
+          "rule_updated_at": "2026-11-26T03:26:06.158630+00:00",
           "bytes": 634,
           "sha256": "a4ef0c809f08780543c426fa92e5b6354b5737eaab222de8364f0ae2a69a52a5",
           "semantic_sha256": "fb6933feb30e33bc0d3ef33f280e290131bff8aac82ff906bb0f2de67c447348"
@@ -38652,10 +38624,10 @@
         },
         "PCCW": {
           "file": "rules/Shadowrocket/PCCW.list",
-          "rule_updated_at": "2026-07-26T06:53:02.418813+00:00",
-          "bytes": 1003,
-          "sha256": "e8c90a18bcebd05bc61588b51dbcbd2763863bef2c35656e504bcf8da3d70678",
-          "semantic_sha256": "c5baf0ad709fc0055bb9ffe3ff7d1e1ae36137e1e659bb5f3bde8bac3b77c1ab"
+          "rule_updated_at": "2026-11-26T03:26:39.280989+00:00",
+          "bytes": 1040,
+          "sha256": "aabce308209aba9da4e10549345605f1440c0a79a09df05c8531a63f16d95b79",
+          "semantic_sha256": "709597be56746681682a6fb9e01477dcd4c270794a240c9b8390812c662f5dfe"
         },
         "PChomeTW": {
           "file": "rules/Shadowrocket/PChomeTW.list",
@@ -38729,10 +38701,10 @@
         },
         "PingAn": {
           "file": "rules/Shadowrocket/PingAn.list",
-          "rule_updated_at": "2026-07-26T06:27:37.021262+00:00",
-          "bytes": 860,
-          "sha256": "08dade79d50ad3b872e9c3e7fadbb5fd6d5ce10580d45f4ac7d03f581f527b5d",
-          "semantic_sha256": "8039d902138b672105bb0a2b1ec563f55f7e1ec8019a5fc6a669b5c5348be413"
+          "rule_updated_at": "2026-11-26T03:24:13.022714+00:00",
+          "bytes": 1143,
+          "sha256": "6be1da42e610571138fd21168e6985d12540c869a477bb97da6cbe9b5dd23993",
+          "semantic_sha256": "5d6a8a3ee968e93bca157d8df6c7a32a5322017999aa888b360e308e06452880"
         },
         "Pinterest": {
           "file": "rules/Shadowrocket/Pinterest.list",
@@ -38862,10 +38834,10 @@
         },
         "Privacy": {
           "file": "rules/Shadowrocket/Privacy.list",
-          "rule_updated_at": "2026-11-06T07:11:25.781045+00:00",
-          "bytes": 1444006,
-          "sha256": "3681d6b26ea139c03e5ce2f42a7a964e070bc2ad937d5d7a0096f24758c58fba",
-          "semantic_sha256": "2ff44198aedf943fcf5f483807704d302fb5429e1e701a0cb8656fdd1225df63"
+          "rule_updated_at": "2026-11-26T03:28:43.766968+00:00",
+          "bytes": 1460427,
+          "sha256": "37da9524769e01b31e47fa36a0603ff80270abf5716101c01f8ac114106c0774",
+          "semantic_sha256": "0435724938e33d03bbf49111e03d6b64562865bdd82920d7175fa96c71ddb1ee"
         },
         "PrivateTracker": {
           "file": "rules/Shadowrocket/PrivateTracker.list",
@@ -39604,10 +39576,10 @@
         },
         "Sohu": {
           "file": "rules/Shadowrocket/Sohu.list",
-          "rule_updated_at": "2026-07-26T06:28:06.309606+00:00",
-          "bytes": 2203,
-          "sha256": "4b7126e5f232c00992217702301897c832e693f5c2667c0f15c661dd5566a4da",
-          "semantic_sha256": "3f6040e68f27707aad33a010db2e6ef950e03b4e8dd3b640ab2d5cef2ad5830e"
+          "rule_updated_at": "2026-11-26T03:25:30.554558+00:00",
+          "bytes": 2248,
+          "sha256": "d8241e77a5ef80ed02a653128e4aa1408a71de2830a415c66608dc3846e268cd",
+          "semantic_sha256": "4e1d1707d1882b4790de1cb3c3ea05e45dcfa8d0be34c9618f4125774f504edf"
         },
         "Sony": {
           "file": "rules/Shadowrocket/Sony.list",
@@ -39674,10 +39646,10 @@
         },
         "Speedtest": {
           "file": "rules/Shadowrocket/Speedtest.list",
-          "rule_updated_at": "2026-11-20T09:02:30.731055+00:00",
-          "bytes": 115139,
-          "sha256": "93302b19e05589408eccf7de939274bee6c278e763b2fbb2910db45f4c9722b0",
-          "semantic_sha256": "0c4bd0bf54acbe6e23b8d9c24a58e32b3d186c1510182788449be70b88d0d5f5"
+          "rule_updated_at": "2026-11-26T03:48:08.567768+00:00",
+          "bytes": 115629,
+          "sha256": "8f985eda109e70d753fac451b3a5cfa404bcce3c7794d2d39a49013c8f5b2191",
+          "semantic_sha256": "227e5a6f0a305493d1993514391257f53d4d34dacdc02ef1d7851a49d73375ea"
         },
         "Spiceworks": {
           "file": "rules/Shadowrocket/Spiceworks.list",
@@ -40507,7 +40479,7 @@
         },
         "Unity": {
           "file": "rules/Shadowrocket/Unity.list",
-          "rule_updated_at": "2026-07-26T06:57:11.499627+00:00",
+          "rule_updated_at": "2026-11-26T03:22:15.031053+00:00",
           "bytes": 917,
           "sha256": "a7b158a21ba74930d84da7a89ca76396ec6c71621b6933a1fff00353b7392409",
           "semantic_sha256": "13aea43bbd09347bf8793fbbd1685f72a1a33d7390a6784fee88e27bf960ef67"
@@ -41537,7 +41509,7 @@
       }
     },
     "Stash": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/Stash/56.yaml",
@@ -41632,7 +41604,7 @@
         },
         "58TongCheng": {
           "file": "rules/Stash/58TongCheng.yaml",
-          "rule_updated_at": "2026-08-17T02:15:09.148562+00:00",
+          "rule_updated_at": "2026-11-26T03:28:31.443236+00:00",
           "bytes": 2305,
           "sha256": "8ea975df1dd5f276ab44cda72ace0b226a3235386209b172783f3ed6d5a8e370",
           "semantic_sha256": "f52771a1259102f31f7db9867b50988ae91369f6bb9291a3f693bfa89a25f112"
@@ -41744,7 +41716,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Stash/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-20T15:29:37.250508+00:00",
+          "rule_updated_at": "2026-11-26T10:02:05.589453+00:00",
           "bytes": 6134987,
           "sha256": "e90e92c14a26a809c70e6ea3e870458ecc4fc36ae36980835c63671b27da2eb8",
           "semantic_sha256": "8c3d0d446f8a9f9a40a103123745928112bdb8ca3adcf08957c5cf0601441474"
@@ -41772,14 +41744,14 @@
         },
         "Advertising": {
           "file": "rules/Stash/Advertising.yaml",
-          "rule_updated_at": "2026-11-20T15:21:47.557166+00:00",
+          "rule_updated_at": "2026-11-26T07:49:52.674738+00:00",
           "bytes": 10271597,
           "sha256": "216513c4de39f7921bde6c144e64af00b7a05612e0fd9b66c7c0d82dd53b542e",
           "semantic_sha256": "ef5ae2e8e213775631ec28c7c1f70a8e32c6c58d1e1b1bfc4379208d6fc79c29"
         },
         "AdvertisingLite": {
           "file": "rules/Stash/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-20T15:16:40.653027+00:00",
+          "rule_updated_at": "2026-11-26T05:11:58.518359+00:00",
           "bytes": 6960858,
           "sha256": "2e00d9c05011b32d257feb5c7414bd265c80b532aeae96b9dcdad1751e61c192",
           "semantic_sha256": "f5cc0e88be5aab70a6f10551bdc73c46e39260fd45a1763dc16a3cec16cb561c"
@@ -41870,10 +41842,10 @@
         },
         "Alibaba": {
           "file": "rules/Stash/Alibaba.yaml",
-          "rule_updated_at": "2026-11-04T15:55:14.420041+00:00",
-          "bytes": 53997,
-          "sha256": "f78fdf8f81caae0bc8cf6388df44a5d49e226a8c2c687e33964147a2328848d6",
-          "semantic_sha256": "30b48a6011ea896692a003d82f5fba54f5e0c4ec7fb1e726098621f7203063c0"
+          "rule_updated_at": "2026-11-26T03:21:07.901378+00:00",
+          "bytes": 54037,
+          "sha256": "b445bf1c29d52b6d3df5496354584ad53ac8be7cb32e64521c2dd9aa731b22b4",
+          "semantic_sha256": "afd95feba9cc68f0683ab7a7d5b32480b86066d62b2f72a5b9d361a9b65f5757"
         },
         "AliGames": {
           "file": "rules/Stash/AliGames.yaml",
@@ -41891,10 +41863,10 @@
         },
         "Aliyun": {
           "file": "rules/Stash/Aliyun.yaml",
-          "rule_updated_at": "2026-08-10T09:19:13.714811+00:00",
-          "bytes": 3989,
-          "sha256": "59a0b2be83c79b2075a1bc81945bbb208396afda3a1b63f210a40248e4c016b0",
-          "semantic_sha256": "fd2c3afd27fc6f6b9bdcad8e22a86773e4e85da1c17e03a91755bd3fe1cd95d4"
+          "rule_updated_at": "2026-11-26T03:11:23.888260+00:00",
+          "bytes": 4029,
+          "sha256": "8a7a23107ae95283ce20e7f561877f723200976f9efaa5452ba2802737869a08",
+          "semantic_sha256": "8666888022ff64ff7ec03c88202c41ed6bfcf004ee6b59930456637814679ac9"
         },
         "AliyunDrive": {
           "file": "rules/Stash/AliyunDrive.yaml",
@@ -41919,10 +41891,10 @@
         },
         "Alphabet": {
           "file": "rules/Stash/Alphabet.yaml",
-          "rule_updated_at": "2026-10-29T02:37:32.663152+00:00",
-          "bytes": 36937,
-          "sha256": "de0204a5bf1041f2e210ac1218507de7cbc90c14c960ee813dbc30c6a2853835",
-          "semantic_sha256": "74185770c031fe6e99df203102f91476fea527d189b11f87db9234992740107c"
+          "rule_updated_at": "2026-11-26T03:26:28.030086+00:00",
+          "bytes": 36964,
+          "sha256": "c96992cdcea5050a852a58af94a2187bca9c832a1a20366192d1c5f3819ac697",
+          "semantic_sha256": "f4fd608ad668bc6a09eb0b71a5e0856cfcb87ebbecf51d34dd45f1fff42b8476"
         },
         "Amazon": {
           "file": "rules/Stash/Amazon.yaml",
@@ -42353,10 +42325,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Stash/BaiShanYunKeJi.yaml",
-          "rule_updated_at": "2026-07-26T06:57:30.540533+00:00",
-          "bytes": 2009,
-          "sha256": "9ef7a4ac8fc6e1d7b4ff788ec6cb660ae8af49df3805d1c8077e149d58f63e86",
-          "semantic_sha256": "72ebb0f5d6fd69b4a887e8880a435b180daaed9484b6192160445bd62a83cf3f"
+          "rule_updated_at": "2026-11-26T03:27:06.869429+00:00",
+          "bytes": 2067,
+          "sha256": "c976f54917c743fffd0889f4f7b56661d2626ee34e14872f851a26ba79d7fef1",
+          "semantic_sha256": "82afff090b2e7d2781df3f769cca2b4e3d53c27eaeb2bf561b436050b086b9f6"
         },
         "Bandcamp": {
           "file": "rules/Stash/Bandcamp.yaml",
@@ -42836,7 +42808,7 @@
         },
         "ChangYou": {
           "file": "rules/Stash/ChangYou.yaml",
-          "rule_updated_at": "2026-07-26T08:31:41.992860+00:00",
+          "rule_updated_at": "2026-11-26T03:24:49.650895+00:00",
           "bytes": 361,
           "sha256": "038cd9502a1a1395edd676b9a2cea67532cd508c710e0306d968b31352f5602c",
           "semantic_sha256": "3984b9a77387d72e754ad31082bbbe56c755a2206b118912c892adff6d79268b"
@@ -42857,10 +42829,10 @@
         },
         "China": {
           "file": "rules/Stash/China.yaml",
-          "rule_updated_at": "2026-11-20T16:00:13.377635+00:00",
-          "bytes": 348442,
-          "sha256": "2b624652ad77bbdd94538fb56e3fcd83cf318f48b21462e18b7f4bd678e17d6e",
-          "semantic_sha256": "9490f30f221607cf2976b5414149b3a8dc1218bc6a242d7580c6b2b94e317c37"
+          "rule_updated_at": "2026-11-26T03:32:49.579850+00:00",
+          "bytes": 347889,
+          "sha256": "ee72350259d4ef6d0ed50dc1b18e3517427a05a713c7ca947b355d189bfca5d3",
+          "semantic_sha256": "1502c180f3f8c56c242b53c483c372dc589a02e63fab85facbd3d71293e74e4d"
         },
         "ChinaASN": {
           "file": "rules/Stash/ChinaASN.yaml",
@@ -42878,17 +42850,17 @@
         },
         "ChinaGame": {
           "file": "rules/Stash/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-18T16:27:49.457095+00:00",
+          "rule_updated_at": "2026-11-26T03:47:42.881509+00:00",
           "bytes": 9286,
           "sha256": "85a7a0526875cd743f5de3d2e43f9b0f4c8f15a6810117dad08d39dcfd8524d7",
           "semantic_sha256": "2ee0fea86256ad05875bf35a7da8c341da6f144989597225809427ca17e86cf4"
         },
         "ChinaIPs": {
           "file": "rules/Stash/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-20T15:46:58.812719+00:00",
-          "bytes": 863536,
-          "sha256": "8d5318a23b6438ec535e8179d995443e7ddcd466b3d4b2941e5bc0da4ac656b5",
-          "semantic_sha256": "aba1d92e1706eec69ce08cbce553d842a376bcec9eb16b0ebecd334ed30cb32e"
+          "rule_updated_at": "2026-11-26T09:58:50.320509+00:00",
+          "bytes": 863268,
+          "sha256": "91a75c1d6995dc19bf12b5ad5025ddbe51909e190af0aa118af8627cc4054199",
+          "semantic_sha256": "b18e7c9eb8bfb11bc94b17a318608e28873e0ec5619ea5fb8f41bb8d5eee5353"
         },
         "ChinaIPTV": {
           "file": "rules/Stash/ChinaIPTV.yaml",
@@ -43242,10 +43214,10 @@
         },
         "Copilot": {
           "file": "rules/Stash/Copilot.yaml",
-          "rule_updated_at": "2026-11-20T09:06:03.731834+00:00",
-          "bytes": 13769,
-          "sha256": "7e0d73e5f8eac823cfef8c90cd5ff2952b8bfa593b7c42f6f71c6d7372082f04",
-          "semantic_sha256": "005abdc1bfadd342f8a695e95f7320d3a05082cdf4ff16280c3683a2ed681b61"
+          "rule_updated_at": "2026-11-26T03:11:25.786630+00:00",
+          "bytes": 13796,
+          "sha256": "fd89c3b10f7bc76cde28053ea9cd2cbc9fd9d207a09e1b3317a7e96b12765a3d",
+          "semantic_sha256": "b01bf1f3d39df10f7f7e391d29aad88f6608ded7971f284469d7c88d5b65e1bf"
         },
         "CopyManga": {
           "file": "rules/Stash/CopyManga.yaml",
@@ -43361,7 +43333,7 @@
         },
         "Cygames": {
           "file": "rules/Stash/Cygames.yaml",
-          "rule_updated_at": "2026-07-26T08:36:25.875333+00:00",
+          "rule_updated_at": "2026-11-26T03:23:52.079116+00:00",
           "bytes": 337,
           "sha256": "3a9f6e8107266e14f4ed44554240df7c462791f53c1f060db31f6e4373ebe052",
           "semantic_sha256": "06d6e4f00960ce7b62a0c54c1d6bfe8187bfd5fd16b899d93057b7a4e9f3db20"
@@ -43431,10 +43403,10 @@
         },
         "Debian": {
           "file": "rules/Stash/Debian.yaml",
-          "rule_updated_at": "2026-07-26T08:31:46.137848+00:00",
-          "bytes": 212,
-          "sha256": "8c1a2013e2d0a10b1b5e8f678522bfcc2da1674f7233f1476cee1b6edaf01b04",
-          "semantic_sha256": "af20247b6ea7b89226dc53ec67cc53a06cf538f053c6cfc17857e84a874c1d79"
+          "rule_updated_at": "2026-11-26T03:28:24.948903+00:00",
+          "bytes": 255,
+          "sha256": "da0b447c43db92f009673991125d1b365c658426ed1e445887ac8634adfcf6e7",
+          "semantic_sha256": "a8b563850b216708c5e41b888ef516d5f71694faf819615c888e420f0e16eb62"
         },
         "Dedao": {
           "file": "rules/Stash/Dedao.yaml",
@@ -43494,7 +43466,7 @@
         },
         "Developer": {
           "file": "rules/Stash/Developer.yaml",
-          "rule_updated_at": "2026-11-17T07:20:05.002672+00:00",
+          "rule_updated_at": "2026-11-26T03:13:24.677269+00:00",
           "bytes": 25661,
           "sha256": "5c60b5c356f68c67ab00ec50e31c990ec4b2eb0f6086a0e00861fda285aa351a",
           "semantic_sha256": "88e3da440d268022a104456ca85256f3ccb69b1ac588a2941f3c2b97d186980c"
@@ -43858,10 +43830,10 @@
         },
         "ECommerce": {
           "file": "rules/Stash/ECommerce.yaml",
-          "rule_updated_at": "2026-10-29T02:37:31.755146+00:00",
-          "bytes": 42655,
-          "sha256": "19645f188fe0c97d51c08a1b155f0c43b81aa62a5d08d0407ed1892a89b1d449",
-          "semantic_sha256": "7fec9ab5e17d4ace86554ccd065d6d294df07b021843fd9ed848e93693f20f49"
+          "rule_updated_at": "2026-11-26T03:20:43.252712+00:00",
+          "bytes": 42682,
+          "sha256": "87af3a2a0a23d87e948b29d6027a9eb8db33288e5fd1b519a10d44b41aeeebc1",
+          "semantic_sha256": "55f57a52ed6f2a54444adc7757135d3d19a6b5c57d0feb7b2fb1a6cfc71fd2bb"
         },
         "Economist": {
           "file": "rules/Stash/Economist.yaml",
@@ -44089,10 +44061,10 @@
         },
         "Fastly": {
           "file": "rules/Stash/Fastly.yaml",
-          "rule_updated_at": "2026-07-26T08:21:16.408323+00:00",
-          "bytes": 377,
-          "sha256": "2b4d7a019d843a42fb8f26f25d004d09211d25533a889c9f025cc8749e85455c",
-          "semantic_sha256": "f5e006fa1ca59f933a041595b8c327a9f7e2f7bc01e2c4096222261d7ad8d2ce"
+          "rule_updated_at": "2026-11-26T03:23:54.661284+00:00",
+          "bytes": 447,
+          "sha256": "9e427d4c17d41ba63f547a3a46af652f26b558adc24267f59a167135504afdfa",
+          "semantic_sha256": "5ff38ff55d01665424c5de732ca8537ebf958e2e270c1c86545519f88b518a11"
         },
         "FastStone": {
           "file": "rules/Stash/FastStone.yaml",
@@ -44348,10 +44320,10 @@
         },
         "Game": {
           "file": "rules/Stash/Game.yaml",
-          "rule_updated_at": "2026-11-20T09:06:43.218963+00:00",
-          "bytes": 44738,
-          "sha256": "51e1033a94e7fc0c56efb5471ff36200e7d3b13d27defb867ad2c8aaeb18a025",
-          "semantic_sha256": "b8ae93f254cb5e583889ce5a0fbfe89f403bdefda9c32038d2bcb638eab07d55"
+          "rule_updated_at": "2026-11-26T03:25:27.571689+00:00",
+          "bytes": 44881,
+          "sha256": "076edb5e569f4632a2006f3189fc0e4777bc7917c47c66d1b41c52ee97930e5a",
+          "semantic_sha256": "5e05cc1eb44dcf9a6fc549f00f18b5fbc8c23e028f45b28dc52c90a35bc41e63"
         },
         "GameDownload": {
           "file": "rules/Stash/GameDownload.yaml",
@@ -44425,7 +44397,7 @@
         },
         "Gemini": {
           "file": "rules/Stash/Gemini.yaml",
-          "rule_updated_at": "2026-10-29T02:37:36.959684+00:00",
+          "rule_updated_at": "2026-11-26T03:28:28.689333+00:00",
           "bytes": 2297,
           "sha256": "3ed4396200f7be910c3ee48fda3e1c26c630e10d3db64b19b3b12c215cf265ae",
           "semantic_sha256": "463c8366a93c9bf4ad4003ac8a0b655b5be4bccab58a971149d73e955cb2f550"
@@ -44495,24 +44467,24 @@
         },
         "Global": {
           "file": "rules/Stash/Global.yaml",
-          "rule_updated_at": "2026-11-20T09:26:12.443942+00:00",
-          "bytes": 796553,
-          "sha256": "b0df2bbf1ceaedd496e94920dbaf111a66b0029d6c4c46e0439f349a7c42be1d",
-          "semantic_sha256": "535143798cf196c4c0708c69bdadb3843f1e934c33c8c4de92e0cc83c4a951a0"
+          "rule_updated_at": "2026-11-26T03:26:04.440301+00:00",
+          "bytes": 792587,
+          "sha256": "5652b5d3160a445f46b383ce8fa54f0d85f66f2a7a11fd29da9ec3a30362ada6",
+          "semantic_sha256": "9976e74a1786cb8964d10f4fbcdfc31c140ace5f23b7dc8772ca5cda9807eaa4"
         },
         "GlobalAI": {
           "file": "rules/Stash/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-20T09:02:35.215981+00:00",
-          "bytes": 15684,
-          "sha256": "707635a7f25ee6abe294996cdb76ba2e76aa70ef0fc8c292da292085998cbc25",
-          "semantic_sha256": "20655a2acd6fb1d5f96563b544e7be94a1dfad047340fbd6aa49497af17180d5"
+          "rule_updated_at": "2026-11-26T03:12:34.491015+00:00",
+          "bytes": 15711,
+          "sha256": "54141877834d35901b966563eb0f689eff18a794bd9c121f2ded43fd7c9f4652",
+          "semantic_sha256": "2eb05a0d672151381fd0d84a4234123ad135a45f224ff49d85e6c077df6e88df"
         },
         "GlobalCDN": {
           "file": "rules/Stash/GlobalCDN.yaml",
-          "rule_updated_at": "2026-08-08T02:57:29.117929+00:00",
-          "bytes": 6719,
-          "sha256": "0c214378d017762abdfed1bb16c475ffe3618302e536ce36ec2e0e7d3d6b4540",
-          "semantic_sha256": "b4e2f12e8a279cd138f6eec4e4c67e91975df25d2201b5c6f554cd4f481cfce4"
+          "rule_updated_at": "2026-11-26T03:22:10.734759+00:00",
+          "bytes": 6789,
+          "sha256": "a6389b7e436b5214ee5f3bfb7c40393aa7e83ae6a94779d7047eca7b25b0bf8a",
+          "semantic_sha256": "ccd119dac510c50c6f7432b949c6361a4ecbeeda08147b9d72d78672145b3e4c"
         },
         "GlobalCloud": {
           "file": "rules/Stash/GlobalCloud.yaml",
@@ -44614,17 +44586,17 @@
         },
         "Google": {
           "file": "rules/Stash/Google.yaml",
-          "rule_updated_at": "2026-10-29T03:07:14.417938+00:00",
+          "rule_updated_at": "2026-11-26T03:23:14.556214+00:00",
           "bytes": 38820,
           "sha256": "af8e5119f03b3ff7a9c4e3cbb9328593c16ad19aeb95b188e6b15bd5fe2f3954",
           "semantic_sha256": "e4f7424a8bea0e9c7fe0afc22510eecfc0180dffeab25b4c94879d7cadb42a3b"
         },
         "GoogleDeepMind": {
           "file": "rules/Stash/GoogleDeepMind.yaml",
-          "rule_updated_at": "2026-10-29T02:37:20.659086+00:00",
-          "bytes": 2118,
-          "sha256": "05fff7fca200cc281435d83daf6ebbe072ff98d8b8688ae310a3b2f106334464",
-          "semantic_sha256": "e371b7669623dc07393ae2481139b0def98dbf074f1060c6a0e51db44d964609"
+          "rule_updated_at": "2026-11-26T03:12:34.462706+00:00",
+          "bytes": 2145,
+          "sha256": "87323a758eede030e0508287b06789edec04972301a7ac4ea7f1164125277b4b",
+          "semantic_sha256": "60d980f5d7166cb631f6f33ef99c4b5d65514f33af697d7d8b12fdf6e239b47d"
         },
         "GoogleEarth": {
           "file": "rules/Stash/GoogleEarth.yaml",
@@ -45748,10 +45720,10 @@
         },
         "Lenovo": {
           "file": "rules/Stash/Lenovo.yaml",
-          "rule_updated_at": "2026-07-26T06:26:57.021060+00:00",
-          "bytes": 2002,
-          "sha256": "e816faeed0f46c0a215fe66363789f96870b51f04b07ad4a45863fe9019afb5a",
-          "semantic_sha256": "fcdca66c7d61577aad198f82199713c8af56f5900ca533ef8f21fea7d0ac3feb"
+          "rule_updated_at": "2026-11-26T03:21:14.079409+00:00",
+          "bytes": 2109,
+          "sha256": "eed0d92b54552b38a98132f83f280f2f5040cfb839093692e9ba62d8b923dfb8",
+          "semantic_sha256": "2ecd39baf000398067c8cc19f0f2b749fca9f0b1722651432ae0fc38f9a70848"
         },
         "LetsEncrypt": {
           "file": "rules/Stash/LetsEncrypt.yaml",
@@ -46306,13 +46278,6 @@
           "sha256": "cb78641c97911fbb65940c145b6bdf685720d553f7ba2442551888ee148f494e",
           "semantic_sha256": "f08ab90ccb2de2490571fe120ab52a5839e62e92254dd2616432c1d8ad20d5d2"
         },
-        "MOOMusic": {
-          "file": "rules/Stash/MOOMusic.yaml",
-          "rule_updated_at": "2026-07-26T07:16:20.620616+00:00",
-          "bytes": 188,
-          "sha256": "af1eb08d8a82749e689f10bfd6e30834bd6c68d403d09182556ea5ae2fedbb1a",
-          "semantic_sha256": "4609a762fb2a8aacb78c8361b2d46f60f7d3439642503c453554f289c8353915"
-        },
         "Moonvy": {
           "file": "rules/Stash/Moonvy.yaml",
           "rule_updated_at": "2026-07-26T10:37:48.037342+00:00",
@@ -46469,7 +46434,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Stash/NBCUniversal.yaml",
-          "rule_updated_at": "2026-07-26T10:38:05.593864+00:00",
+          "rule_updated_at": "2026-11-26T03:26:08.823131+00:00",
           "bytes": 733,
           "sha256": "efccad26e4c6c5067fe6f484456eb36286bc8b3b77d472761ae619358568cf88",
           "semantic_sha256": "ae13251522d2566f7e8c5b7d64d6750acbd0784e0dc5783e028b261b1503895a"
@@ -46959,10 +46924,10 @@
         },
         "PCCW": {
           "file": "rules/Stash/PCCW.yaml",
-          "rule_updated_at": "2026-07-26T06:53:08.557643+00:00",
-          "bytes": 1218,
-          "sha256": "5d7931f7781d2da53467b1d47aaaa50a002c55956d77360bc5aa83d6a5ea2984",
-          "semantic_sha256": "0df338fd90623a2202dbf1597c63c0a0eb8014ee754441cc3871bbc615abb42f"
+          "rule_updated_at": "2026-11-26T03:26:50.481641+00:00",
+          "bytes": 1263,
+          "sha256": "37fcb45d63f0298293fe57fd0c375e4537e310d381f50be494aec3c73af19b2a",
+          "semantic_sha256": "a2e8cd1182d0f98cc3474abc212712ec49c9bf79bf7d0454c4fd344c10f6275b"
         },
         "PChomeTW": {
           "file": "rules/Stash/PChomeTW.yaml",
@@ -47036,10 +47001,10 @@
         },
         "PingAn": {
           "file": "rules/Stash/PingAn.yaml",
-          "rule_updated_at": "2026-07-26T06:27:43.294982+00:00",
-          "bytes": 999,
-          "sha256": "0a1652c3cd35ee9aaa6661c3cbada351147b8630680893c15ba328c8a727b96e",
-          "semantic_sha256": "a0c8bfcf86f393d2b44c2716e82d9608b9cbaf13bdfe4d6fb9211713d30981a4"
+          "rule_updated_at": "2026-11-26T03:24:35.318429+00:00",
+          "bytes": 1326,
+          "sha256": "1d2b1d8b23f5d28832733c5b23d8b93b3fd9c13e67a2925de6c491d147fa3b71",
+          "semantic_sha256": "5b8783959f337b3cc558df08188ec800b1af4b0ad77234fc9e6b6001e1c5402b"
         },
         "Pinterest": {
           "file": "rules/Stash/Pinterest.yaml",
@@ -47169,10 +47134,10 @@
         },
         "Privacy": {
           "file": "rules/Stash/Privacy.yaml",
-          "rule_updated_at": "2026-11-06T07:11:34.128052+00:00",
-          "bytes": 1603926,
-          "sha256": "7e314c9de43ab75e9438cd5c249f80561869ec02d43efe464fd5b7b5d6ac058d",
-          "semantic_sha256": "60ec40c6468a02ae1f237d3f074a5965f789507fbd6cb71f9a36eccd6d41cb7e"
+          "rule_updated_at": "2026-11-26T03:29:10.361503+00:00",
+          "bytes": 1622275,
+          "sha256": "7502ed1c05e650062e2badea257f4bf695dfcbe63fcb9b39ada608c20f45c4b5",
+          "semantic_sha256": "bb0e2cfe7a6560e9f598a0e7e520c004b35a688c325a69583c92d13f666ca444"
         },
         "PrivateTracker": {
           "file": "rules/Stash/PrivateTracker.yaml",
@@ -47911,10 +47876,10 @@
         },
         "Sohu": {
           "file": "rules/Stash/Sohu.yaml",
-          "rule_updated_at": "2026-07-26T06:28:15.165702+00:00",
-          "bytes": 2558,
-          "sha256": "9bcdc88b9d583bc970ead4acd2d52a6bd9ce97d0aec58c14e5a4a3c0fc23a4bc",
-          "semantic_sha256": "7243513338a26229ce274399db5b504427ddbed65e5334d957c1284174437e20"
+          "rule_updated_at": "2026-11-26T03:25:46.337727+00:00",
+          "bytes": 2611,
+          "sha256": "f164381b4f386683801b4991a37d6747cbf21532708b7cd5762fb198604f51cb",
+          "semantic_sha256": "077982efc57c90ab45bb89819951e58bc51583d04d12f46bcf1b3cc34ef2a73e"
         },
         "Sony": {
           "file": "rules/Stash/Sony.yaml",
@@ -47981,10 +47946,10 @@
         },
         "Speedtest": {
           "file": "rules/Stash/Speedtest.yaml",
-          "rule_updated_at": "2026-11-20T09:02:32.751314+00:00",
-          "bytes": 129281,
-          "sha256": "1f94cfb1a85c703e0728a7e0bc1b044d605471a96f41a6b5228e2dea3b86cb9e",
-          "semantic_sha256": "d39beff3246996304fdbcb3f21aa3e912d2313389fdc6d34da2dbc32dee0f066"
+          "rule_updated_at": "2026-11-26T03:48:10.012567+00:00",
+          "bytes": 129831,
+          "sha256": "b4e6cbc0ed6f8f88bdf72fd1d0b2cba6b55bfd35a5c7d09b354deb00b3d55991",
+          "semantic_sha256": "15a1aea20eb4ddd62f686664a9f8bd3ada0c8855e1b0d66b40c4cc389da045b7"
         },
         "Spiceworks": {
           "file": "rules/Stash/Spiceworks.yaml",
@@ -48814,7 +48779,7 @@
         },
         "Unity": {
           "file": "rules/Stash/Unity.yaml",
-          "rule_updated_at": "2026-07-26T06:57:17.715239+00:00",
+          "rule_updated_at": "2026-11-26T03:22:33.231250+00:00",
           "bytes": 1044,
           "sha256": "cd03b6789e01a63ab4e5a47a2ba349dc1a008fc65f02e68c0320dd559b62cb8d",
           "semantic_sha256": "01bf0c2a7d0776998257db07a4e43daa48ceecfc001fbee71914ef1d1ee7a16f"
@@ -49939,7 +49904,7 @@
         },
         "58TongCheng": {
           "file": "rules/SingBox/58TongCheng.json",
-          "rule_updated_at": "2026-08-17T02:15:03.947096+00:00",
+          "rule_updated_at": "2026-11-26T03:28:30.481460+00:00",
           "bytes": 1737,
           "sha256": "a1ff50fb69be5bdac3375d0d734a23594f34ed563448ee55ec4bcf4e31df17e4",
           "semantic_sha256": null
@@ -50051,7 +50016,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/SingBox/AdGuardSDNSFilterDirect.json",
-          "rule_updated_at": "2026-11-20T15:29:13.331598+00:00",
+          "rule_updated_at": "2026-11-26T09:53:44.326675+00:00",
           "bytes": 6134004,
           "sha256": "14ca3d7563965a79e52bcc7d8d9be920be9153cb3868acab5d0f2c78a92595c0",
           "semantic_sha256": null
@@ -50079,14 +50044,14 @@
         },
         "Advertising": {
           "file": "rules/SingBox/Advertising.json",
-          "rule_updated_at": "2026-11-20T15:19:23.215094+00:00",
+          "rule_updated_at": "2026-11-26T07:48:50.394976+00:00",
           "bytes": 8468830,
           "sha256": "73d829c090db787274af7f579a833ccaf6ce81f0c01f77bc4a04e17ce9b751fb",
           "semantic_sha256": null
         },
         "AdvertisingLite": {
           "file": "rules/SingBox/AdvertisingLite.json",
-          "rule_updated_at": "2026-11-20T15:16:10.244072+00:00",
+          "rule_updated_at": "2026-11-26T05:07:26.296339+00:00",
           "bytes": 5816331,
           "sha256": "011e412f5ab6e98bd36b43c5aafd77c278aad169ec5cb71fab6f71847f47fc93",
           "semantic_sha256": null
@@ -50177,9 +50142,9 @@
         },
         "Alibaba": {
           "file": "rules/SingBox/Alibaba.json",
-          "rule_updated_at": "2026-11-04T15:55:14.323594+00:00",
-          "bytes": 42038,
-          "sha256": "b6f669bbbdd8a3b17313fb9e7be106e9b22cabde064a2524866bc3836fdd134e",
+          "rule_updated_at": "2026-11-26T03:21:05.839134+00:00",
+          "bytes": 42071,
+          "sha256": "77cf5027e612eea14a74a0256349603cf9d2a596fbe42abd4a97de458cd1beed",
           "semantic_sha256": null
         },
         "AliGames": {
@@ -50198,9 +50163,9 @@
         },
         "Aliyun": {
           "file": "rules/SingBox/Aliyun.json",
-          "rule_updated_at": "2026-08-10T09:19:13.616890+00:00",
-          "bytes": 3257,
-          "sha256": "1f148bade74e47590a6ec261d12913ef17694fe2cb3c7f28e938ed2967bde025",
+          "rule_updated_at": "2026-11-26T03:11:02.737637+00:00",
+          "bytes": 3290,
+          "sha256": "ce241e652f580c41a07ac311b42b08ef17c44ae14acb07002e777b8d84cc65c3",
           "semantic_sha256": null
         },
         "AliyunDrive": {
@@ -50226,9 +50191,9 @@
         },
         "Alphabet": {
           "file": "rules/SingBox/Alphabet.json",
-          "rule_updated_at": "2026-10-29T02:37:32.547464+00:00",
-          "bytes": 30442,
-          "sha256": "0d187e67ca16127dd8cc08fe5bceb2fa75eb79b6a3b3394112e813f8a1d2f0fd",
+          "rule_updated_at": "2026-11-26T03:26:14.528386+00:00",
+          "bytes": 30462,
+          "sha256": "4db0f01a3e90d15897ed5c022cdc3be30efbc6857b86c28a2e8e088e92365d32",
           "semantic_sha256": null
         },
         "Amazon": {
@@ -50660,9 +50625,9 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/SingBox/BaiShanYunKeJi.json",
-          "rule_updated_at": "2026-07-26T06:57:26.167537+00:00",
-          "bytes": 1515,
-          "sha256": "b373cffd022e1dd9c348194b414124362e2fb1911307133a6068b512f1b226a2",
+          "rule_updated_at": "2026-11-26T03:27:06.361323+00:00",
+          "bytes": 1559,
+          "sha256": "3b9aa800d0e5c843f09461d83ee09a48745f385da2e5ecad0f37067ffbb1840a",
           "semantic_sha256": null
         },
         "Bandcamp": {
@@ -51143,7 +51108,7 @@
         },
         "ChangYou": {
           "file": "rules/SingBox/ChangYou.json",
-          "rule_updated_at": "2026-07-26T08:31:41.512308+00:00",
+          "rule_updated_at": "2026-11-26T03:24:37.946822+00:00",
           "bytes": 237,
           "sha256": "3abe59d29482d4d03bfdacd339ae1523c4ff1bfa2f6cb72397539ff7bf58652d",
           "semantic_sha256": null
@@ -51164,9 +51129,9 @@
         },
         "China": {
           "file": "rules/SingBox/China.json",
-          "rule_updated_at": "2026-11-20T15:58:50.142246+00:00",
-          "bytes": 255822,
-          "sha256": "82b23dcf5894c8f08748e248a3740b3d36777d529036b8f78b8d24380edb8934",
+          "rule_updated_at": "2026-11-26T03:31:46.584610+00:00",
+          "bytes": 255465,
+          "sha256": "f011e575af6474c2e115b20ecd80d7504e26ab68493a056c4197c3db769ee99a",
           "semantic_sha256": null
         },
         "ChinaBroadnet": {
@@ -51178,16 +51143,16 @@
         },
         "ChinaGame": {
           "file": "rules/SingBox/ChinaGame.json",
-          "rule_updated_at": "2026-11-18T16:27:49.083443+00:00",
+          "rule_updated_at": "2026-11-26T03:47:42.255023+00:00",
           "bytes": 7115,
           "sha256": "6ad7ad44e01a2e7a2d376d5ff25787f381aed7bad3289ca73da10986e63d288b",
           "semantic_sha256": null
         },
         "ChinaIPs": {
           "file": "rules/SingBox/ChinaIPs.json",
-          "rule_updated_at": "2026-11-20T15:46:56.492103+00:00",
-          "bytes": 496119,
-          "sha256": "ebf36e8fd6f35dc984498f14cff1a1ae6ccbdab0f2d1c92c82ad5ee5c83bf787",
+          "rule_updated_at": "2026-11-26T09:58:47.618709+00:00",
+          "bytes": 495935,
+          "sha256": "d1745f9d642cdee449c4e55f5800f75410c8777eb58e2e6dc0d2a0db7c93d000",
           "semantic_sha256": null
         },
         "ChinaIPTV": {
@@ -51542,9 +51507,9 @@
         },
         "Copilot": {
           "file": "rules/SingBox/Copilot.json",
-          "rule_updated_at": "2026-11-20T09:06:01.583851+00:00",
-          "bytes": 11553,
-          "sha256": "9f82f8b3af7b41558de28602ff88343b2bf22e7557a793ac8f7e752ecb5e2918",
+          "rule_updated_at": "2026-11-26T03:11:03.820716+00:00",
+          "bytes": 11573,
+          "sha256": "7f9c45acc6e4fa499a793e66c56c3936667c093b30f6e41117fe43439230c833",
           "semantic_sha256": null
         },
         "CopyManga": {
@@ -51661,7 +51626,7 @@
         },
         "Cygames": {
           "file": "rules/SingBox/Cygames.json",
-          "rule_updated_at": "2026-07-26T08:36:25.736745+00:00",
+          "rule_updated_at": "2026-11-26T03:23:51.738932+00:00",
           "bytes": 228,
           "sha256": "b9067867a883339287e1ddf939b8ee1dd7fd583b905a10f2fee1bf6c096d6b6d",
           "semantic_sha256": null
@@ -51731,9 +51696,9 @@
         },
         "Debian": {
           "file": "rules/SingBox/Debian.json",
-          "rule_updated_at": "2026-07-26T08:31:46.044111+00:00",
-          "bytes": 125,
-          "sha256": "db89f622c1443cf081ed8a0a909598f8613ce628e7d7604145a8ec6bba7f1beb",
+          "rule_updated_at": "2026-11-26T03:28:21.286338+00:00",
+          "bytes": 161,
+          "sha256": "482e774bb592d193ff35b6b61c6205f8a16526efd6df7068d481c60958abc826",
           "semantic_sha256": null
         },
         "Dedao": {
@@ -51794,7 +51759,7 @@
         },
         "Developer": {
           "file": "rules/SingBox/Developer.json",
-          "rule_updated_at": "2026-11-17T07:20:04.130243+00:00",
+          "rule_updated_at": "2026-11-26T03:12:59.639623+00:00",
           "bytes": 20995,
           "sha256": "b422ba3feb6c73eef86b0756dffc55693a1530f9f48a18bdf4aa8c6767627b40",
           "semantic_sha256": null
@@ -52158,9 +52123,9 @@
         },
         "ECommerce": {
           "file": "rules/SingBox/ECommerce.json",
-          "rule_updated_at": "2026-10-29T02:37:31.677225+00:00",
-          "bytes": 33552,
-          "sha256": "9e815e51c19068c96916bc5f61f4b0ff44cb74b5621d582e29077dcb5b48a75f",
+          "rule_updated_at": "2026-11-26T03:20:42.700583+00:00",
+          "bytes": 33572,
+          "sha256": "9cad468deb0c1122b4203aacc9efc78d37f2200e87dc0aa7543429a204fa6b1d",
           "semantic_sha256": null
         },
         "Economist": {
@@ -52389,9 +52354,9 @@
         },
         "Fastly": {
           "file": "rules/SingBox/Fastly.json",
-          "rule_updated_at": "2026-07-26T08:21:15.825395+00:00",
-          "bytes": 255,
-          "sha256": "83bb0bc65fd3f555553fcee4c5dcc793d447a07e84d3a5a2e9d3a85ad2dab0f1",
+          "rule_updated_at": "2026-11-26T03:23:53.382253+00:00",
+          "bytes": 311,
+          "sha256": "8f24bb78ff6fe808d2a6514abd31eeb0e58b45ed2b14ac53c8f7ca441051fecc",
           "semantic_sha256": null
         },
         "FastStone": {
@@ -52648,9 +52613,9 @@
         },
         "Game": {
           "file": "rules/SingBox/Game.json",
-          "rule_updated_at": "2026-11-20T09:06:25.885006+00:00",
-          "bytes": 36171,
-          "sha256": "1275d6099f43bf6fc840aa30af458b8f95a52d3b64db2c476164214f525280c9",
+          "rule_updated_at": "2026-11-26T03:25:27.035084+00:00",
+          "bytes": 36286,
+          "sha256": "d360923d5e668d96854de0f6f0668ded95af83713a8361b42aad82452f71c0f6",
           "semantic_sha256": null
         },
         "GameDownload": {
@@ -52725,7 +52690,7 @@
         },
         "Gemini": {
           "file": "rules/SingBox/Gemini.json",
-          "rule_updated_at": "2026-10-29T02:37:36.797447+00:00",
+          "rule_updated_at": "2026-11-26T03:28:28.255232+00:00",
           "bytes": 1988,
           "sha256": "11434b4c92a7294445bce092d2fbd96751e45af00fea3ae69b73f56cb74a95f7",
           "semantic_sha256": null
@@ -52795,23 +52760,23 @@
         },
         "Global": {
           "file": "rules/SingBox/Global.json",
-          "rule_updated_at": "2026-11-20T09:16:57.316167+00:00",
-          "bytes": 635966,
-          "sha256": "aa0b7092318e3b062291798906bf0ddace7fadea0c5bfc4f2b169e745880c075",
+          "rule_updated_at": "2026-11-26T03:21:03.682173+00:00",
+          "bytes": 632829,
+          "sha256": "e02e7821a5649edff409c08d14ab43d70f0dbd153f083b1a7f461dfaa0fb5fa6",
           "semantic_sha256": null
         },
         "GlobalAI": {
           "file": "rules/SingBox/GlobalAI.json",
-          "rule_updated_at": "2026-11-20T09:02:34.096980+00:00",
-          "bytes": 12903,
-          "sha256": "238dc3a7ca3fc5fa176dd9a8c3e86ed30f5908d1e16502abaa4a9f1fca634a1d",
+          "rule_updated_at": "2026-11-26T03:12:12.403012+00:00",
+          "bytes": 12923,
+          "sha256": "8c9ff6ec34c4f82ad7a001ce3a9bbcfcd517b1e8b5a3a15eb110357e7903df78",
           "semantic_sha256": null
         },
         "GlobalCDN": {
           "file": "rules/SingBox/GlobalCDN.json",
-          "rule_updated_at": "2026-08-08T02:57:25.738777+00:00",
-          "bytes": 5276,
-          "sha256": "ffe2810cb26720059c169a9bff3ae2ebc33a0012fb0fcea969d5e7aec6a64d24",
+          "rule_updated_at": "2026-11-26T03:22:10.261114+00:00",
+          "bytes": 5332,
+          "sha256": "a2edee6348ee6a4616600325820f4d3ccbf503a1fc9c15a324e578fc9aa2880f",
           "semantic_sha256": null
         },
         "GlobalCloud": {
@@ -52914,16 +52879,16 @@
         },
         "Google": {
           "file": "rules/SingBox/Google.json",
-          "rule_updated_at": "2026-10-29T03:07:13.912108+00:00",
+          "rule_updated_at": "2026-11-26T03:23:05.208080+00:00",
           "bytes": 32322,
           "sha256": "bac78c3bc25ea8fcec301a758b43d1bbae2021cb361bd263f7937330233eac38",
           "semantic_sha256": null
         },
         "GoogleDeepMind": {
           "file": "rules/SingBox/GoogleDeepMind.json",
-          "rule_updated_at": "2026-10-29T02:37:20.586732+00:00",
-          "bytes": 1818,
-          "sha256": "c1c65b2ada5c8ac62441ab3d59d56a8c82eebd661c7b5edaa1bf39acb0720e33",
+          "rule_updated_at": "2026-11-26T03:12:30.634416+00:00",
+          "bytes": 1838,
+          "sha256": "bd82360c91cb7f07ccf27fae4892d4d4064ec8935b18a1c9372bee9d075a1487",
           "semantic_sha256": null
         },
         "GoogleEarth": {
@@ -54048,9 +54013,9 @@
         },
         "Lenovo": {
           "file": "rules/SingBox/Lenovo.json",
-          "rule_updated_at": "2026-07-26T06:26:52.525280+00:00",
-          "bytes": 1602,
-          "sha256": "2eec7b036629b7911d17703b94570c36be7e3c4c380966c63914c06f07e1a886",
+          "rule_updated_at": "2026-11-26T03:21:10.955503+00:00",
+          "bytes": 1688,
+          "sha256": "b04d3e6029ede3087c74559335e4e027a028d71718ac3a16368e939a9f585af1",
           "semantic_sha256": null
         },
         "LetsEncrypt": {
@@ -54762,7 +54727,7 @@
         },
         "NBCUniversal": {
           "file": "rules/SingBox/NBCUniversal.json",
-          "rule_updated_at": "2026-07-26T10:38:05.470358+00:00",
+          "rule_updated_at": "2026-11-26T03:26:06.682044+00:00",
           "bytes": 534,
           "sha256": "fe20094aad14679ae439be0a1e64c2aeb33d341f669a6eca81d296a917dd98ba",
           "semantic_sha256": null
@@ -55252,9 +55217,9 @@
         },
         "PCCW": {
           "file": "rules/SingBox/PCCW.json",
-          "rule_updated_at": "2026-07-26T06:53:04.967093+00:00",
-          "bytes": 912,
-          "sha256": "025e9dadaa696896090d179f6f5699b9f62d67488caa29e2bd94ab661c0425da",
+          "rule_updated_at": "2026-11-26T03:26:50.065314+00:00",
+          "bytes": 943,
+          "sha256": "71daaa7e78c57238ba888d06f23f1c5bee59f0d7d3c84e728f670ab630d5c453",
           "semantic_sha256": null
         },
         "PChomeTW": {
@@ -55329,9 +55294,9 @@
         },
         "PingAn": {
           "file": "rules/SingBox/PingAn.json",
-          "rule_updated_at": "2026-07-26T06:27:39.514923+00:00",
-          "bytes": 737,
-          "sha256": "5e069a95a710f516edd5800b0a500ce68e0ce0354228689b086b89c885ebfd35",
+          "rule_updated_at": "2026-11-26T03:24:33.328378+00:00",
+          "bytes": 987,
+          "sha256": "d2e8c54c1a74e257ef3980a43135046ff3caed6f0ca2f7ed4e6930d6091216cb",
           "semantic_sha256": null
         },
         "Pinterest": {
@@ -55462,9 +55427,9 @@
         },
         "Privacy": {
           "file": "rules/SingBox/Privacy.json",
-          "rule_updated_at": "2026-11-06T07:11:29.177960+00:00",
-          "bytes": 1324377,
-          "sha256": "232708e2831ac0df24feb39bacc45c877e76f249c1af6673ce9e5f4eb881ae24",
+          "rule_updated_at": "2026-11-26T03:28:52.062204+00:00",
+          "bytes": 1339352,
+          "sha256": "59a2dbe31d6eef224831881b06e7eb77be4c85a55d3e2abada11afb1a91615fa",
           "semantic_sha256": null
         },
         "PrivateTracker": {
@@ -56211,9 +56176,9 @@
         },
         "Sohu": {
           "file": "rules/SingBox/Sohu.json",
-          "rule_updated_at": "2026-07-26T06:28:09.873901+00:00",
-          "bytes": 1920,
-          "sha256": "f9a232a8b0eea10bad43aee89ed33fe2b785695e8890a5bb946c1761296eb17b",
+          "rule_updated_at": "2026-11-26T03:25:45.971731+00:00",
+          "bytes": 1959,
+          "sha256": "67f25b5984290bf57932610d5c25d5e9d7249b29821004537363003616f31526",
           "semantic_sha256": null
         },
         "Sony": {
@@ -56281,9 +56246,9 @@
         },
         "Speedtest": {
           "file": "rules/SingBox/Speedtest.json",
-          "rule_updated_at": "2026-11-20T09:02:31.400772+00:00",
-          "bytes": 128202,
-          "sha256": "f60988e570724eae22c33b3b3ccaf1b217c3d817bd20a04a22341d3697e3420e",
+          "rule_updated_at": "2026-11-26T03:48:09.265813+00:00",
+          "bytes": 128752,
+          "sha256": "417cad17c34cff232d89cf1d68ac657fe9f86544d1eb700b974201d5c8778fa0",
           "semantic_sha256": null
         },
         "Spiceworks": {
@@ -57114,7 +57079,7 @@
         },
         "Unity": {
           "file": "rules/SingBox/Unity.json",
-          "rule_updated_at": "2026-07-26T06:57:13.972668+00:00",
+          "rule_updated_at": "2026-11-26T03:22:32.837335+00:00",
           "bytes": 804,
           "sha256": "4965e4c5e2d227a8e3fb7db2b24b4c55663b2ade3ba9fdeb65f96a176392182b",
           "semantic_sha256": null
@@ -58144,7 +58109,7 @@
       }
     },
     "Egern": {
-      "rule_count": 1186,
+      "rule_count": 1185,
       "rules": {
         "56": {
           "file": "rules/Egern/56.yaml",
@@ -58239,7 +58204,7 @@
         },
         "58TongCheng": {
           "file": "rules/Egern/58TongCheng.yaml",
-          "rule_updated_at": "2026-08-17T02:15:05.937766+00:00",
+          "rule_updated_at": "2026-11-26T03:28:30.667590+00:00",
           "bytes": 1292,
           "sha256": "dd3d74646bfa1e125388425dd981cf852529f1a42f560612581d77d15c95bd43",
           "semantic_sha256": "3ac2916ff131e2562a826b478adc7d7906c6c50b65c9de1c4025d6261409601b"
@@ -58351,7 +58316,7 @@
         },
         "AdGuardSDNSFilterDirect": {
           "file": "rules/Egern/AdGuardSDNSFilterDirect.yaml",
-          "rule_updated_at": "2026-11-20T15:29:20.741976+00:00",
+          "rule_updated_at": "2026-11-26T09:59:30.581718+00:00",
           "bytes": 4797001,
           "sha256": "dd2d6f4bccd658d26e3dfae6667ffbd7667ed8f785918560aadd1e4c7795ba2c",
           "semantic_sha256": "46a1a76b7436f8051ec4ec533dcfac1c2c0040de9ab2974e93afcbb55b148ce5"
@@ -58379,14 +58344,14 @@
         },
         "Advertising": {
           "file": "rules/Egern/Advertising.yaml",
-          "rule_updated_at": "2026-11-20T15:20:18.992875+00:00",
+          "rule_updated_at": "2026-11-26T07:49:13.077373+00:00",
           "bytes": 6552937,
           "sha256": "432e5dbb988ca9e46b9f4ae6399de5c6047d3aba21d3e3978b493e20bf30f769",
           "semantic_sha256": "3c88d4a2cec896d1422ce50bd4d2bd889f4f69d0bed9cb42617406fe55f1d44e"
         },
         "AdvertisingLite": {
           "file": "rules/Egern/AdvertisingLite.yaml",
-          "rule_updated_at": "2026-11-20T15:16:20.544151+00:00",
+          "rule_updated_at": "2026-11-26T05:08:56.705392+00:00",
           "bytes": 4514344,
           "sha256": "ca337d1247da54ace460ccd7f8f2e3cdf1016612240403981262865cd0e5c1d6",
           "semantic_sha256": "6634b4385dd92d1af1320a94e6644276235fd6c3638073c6bb48567d0ba88ef3"
@@ -58477,10 +58442,10 @@
         },
         "Alibaba": {
           "file": "rules/Egern/Alibaba.yaml",
-          "rule_updated_at": "2026-11-04T15:55:14.355545+00:00",
-          "bytes": 30666,
-          "sha256": "4df64396c9bf8138080c72b57f4c01dba9c4377de1d58d9fb59868a4b2052c14",
-          "semantic_sha256": "123f43cabc95b7d1eca592f2a74c6e0d1a9388dcbb55a2db329830f41178f154"
+          "rule_updated_at": "2026-11-26T03:21:06.419656+00:00",
+          "bytes": 30692,
+          "sha256": "113327da6e3b513379a72bb713a589c667519ef8afe08325a4a62534ffa77fea",
+          "semantic_sha256": "0c8d08cfe7926b329a1933101e7863309cc7c763631924a2316d3056824ebd5a"
         },
         "AliGames": {
           "file": "rules/Egern/AliGames.yaml",
@@ -58498,10 +58463,10 @@
         },
         "Aliyun": {
           "file": "rules/Egern/Aliyun.yaml",
-          "rule_updated_at": "2026-08-10T09:19:13.646708+00:00",
-          "bytes": 2584,
-          "sha256": "783ae7c160a298b64006f029d42805b8457f680746c806c2f5e31b909efed1dd",
-          "semantic_sha256": "be69f96babd7c89205d402b33cbd6151c1f0a37ac7cc5ff83bc9bc533a3db26e"
+          "rule_updated_at": "2026-11-26T03:11:06.424792+00:00",
+          "bytes": 2610,
+          "sha256": "c4e982f649f710231a7a47db01902e334bd877af35837608d06e585c2f96ccd3",
+          "semantic_sha256": "0dfaf05ad515464ddfce71ed52bc64d2c8247de80be9a0265b6be57bc44a1ecb"
         },
         "AliyunDrive": {
           "file": "rules/Egern/AliyunDrive.yaml",
@@ -58526,10 +58491,10 @@
         },
         "Alphabet": {
           "file": "rules/Egern/Alphabet.yaml",
-          "rule_updated_at": "2026-11-17T09:12:38.261589+00:00",
-          "bytes": 22698,
-          "sha256": "e83e2d4842dfc142a8cdfa080da89ca54aba4221f23ed78d6308516ae2be9ae6",
-          "semantic_sha256": "8c8dd56fd0a6a1e30716d571ff171f98666aa4677d9968ec9f07f497a6e7a541"
+          "rule_updated_at": "2026-11-26T03:26:15.530939+00:00",
+          "bytes": 22711,
+          "sha256": "6b8fed38cae75816fc1a0530c444a95f374443a65126ae32360ed0cfdbf0ae8a",
+          "semantic_sha256": "f492effd5649c03074e3a2ebf747d9ebbf6e197ef22101b0bc09b61c4e863bf2"
         },
         "Amazon": {
           "file": "rules/Egern/Amazon.yaml",
@@ -58960,10 +58925,10 @@
         },
         "BaiShanYunKeJi": {
           "file": "rules/Egern/BaiShanYunKeJi.yaml",
-          "rule_updated_at": "2026-07-26T06:57:27.615070+00:00",
-          "bytes": 1150,
-          "sha256": "d02061addfb74e457dcf3ff8a5fe65873b05e068c1e40723faa910120eaace7a",
-          "semantic_sha256": "4091934effa130b275cc949784dc615c2aea0007a13f2790fd7214b1e1ec976c"
+          "rule_updated_at": "2026-11-26T03:27:06.527284+00:00",
+          "bytes": 1180,
+          "sha256": "0b70e14844b9797a5b83a359e084159a5a57959c4f7ac239da7fc412ba15276b",
+          "semantic_sha256": "642ad36cad42c1fe5eee4011f4f6171fd2cb0dc33c9bb156b40e69ec366ac708"
         },
         "Bandcamp": {
           "file": "rules/Egern/Bandcamp.yaml",
@@ -59443,7 +59408,7 @@
         },
         "ChangYou": {
           "file": "rules/Egern/ChangYou.yaml",
-          "rule_updated_at": "2026-07-26T08:31:41.666780+00:00",
+          "rule_updated_at": "2026-11-26T03:24:42.693382+00:00",
           "bytes": 231,
           "sha256": "5ea985dbb9dd4c399cecabe713db61b501d8a12aa43052e4ee812615b8761c88",
           "semantic_sha256": "564f6fba47f1f817936813a6c8ef72f4e567297603f81a13d4f335cc0aec552e"
@@ -59464,10 +59429,10 @@
         },
         "China": {
           "file": "rules/Egern/China.yaml",
-          "rule_updated_at": "2026-11-20T15:59:08.148003+00:00",
-          "bytes": 184703,
-          "sha256": "4dcf0a9088e7d400e4d181bff9ebd56206a6e6564b50161878be384aeee4778a",
-          "semantic_sha256": "a024fd4cca077d77c175cc649798633f3df6be0397514791082b9dbf12d39dd1"
+          "rule_updated_at": "2026-11-26T03:32:15.417159+00:00",
+          "bytes": 184437,
+          "sha256": "54dca57dcb385e3590e3c2facbbd6f380270d70b8871d4d148ce998ecaea8ee9",
+          "semantic_sha256": "ab879990cf65ce6c241c66f6261581285f29a37e4837c501aabc5de9b5a57e23"
         },
         "ChinaASN": {
           "file": "rules/Egern/ChinaASN.yaml",
@@ -59485,17 +59450,17 @@
         },
         "ChinaGame": {
           "file": "rules/Egern/ChinaGame.yaml",
-          "rule_updated_at": "2026-11-18T16:27:49.211117+00:00",
+          "rule_updated_at": "2026-11-26T03:47:42.393261+00:00",
           "bytes": 5141,
           "sha256": "ddd1db5b5b7f30309989f07bf4c765bc349cca679adb4cfa8bf34248e0dbc034",
           "semantic_sha256": "bbd5ed7fa361e682c9fb9225f9ee724d491fde86e5416d04f13068bf9da9e8d4"
         },
         "ChinaIPs": {
           "file": "rules/Egern/ChinaIPs.yaml",
-          "rule_updated_at": "2026-11-20T15:46:57.488505+00:00",
-          "bytes": 436936,
-          "sha256": "0076dac8621efff454c0d9cbacd2d0276744254f6be2a524ee1b1fa448694bb0",
-          "semantic_sha256": "755f7daa46125c96154a2e2fe93bdf35e75ce4532c02be5b3fd51b324f698a1d"
+          "rule_updated_at": "2026-11-26T09:58:48.892417+00:00",
+          "bytes": 436801,
+          "sha256": "d41eb193141a9f23097e23e681002ec793a9b54bbf8825a46379331161a23560",
+          "semantic_sha256": "c0b45370b5b2cc3246a1e633e1a14a7c8731058cfdfda9c5dbc5191ba69595a8"
         },
         "ChinaIPTV": {
           "file": "rules/Egern/ChinaIPTV.yaml",
@@ -59849,10 +59814,10 @@
         },
         "Copilot": {
           "file": "rules/Egern/Copilot.yaml",
-          "rule_updated_at": "2026-11-20T09:06:01.899139+00:00",
-          "bytes": 8412,
-          "sha256": "c0dddbbcf7ac016b3f0c956389b8b5742bd8ca4ac5ca9619c15ff1c4ae34b338",
-          "semantic_sha256": "05be20c2fcc6f6ef629f851548b0072274bc03ee6d6be2e077de0882730b974b"
+          "rule_updated_at": "2026-11-26T03:11:18.566116+00:00",
+          "bytes": 8425,
+          "sha256": "80660c3f50ffa904fd25a95cdd6bb950214a1efecdcf2243f9f978405d1c8c6f",
+          "semantic_sha256": "caaac9d427fb0303abaf5584d6334526a0b221e896100d62f4c8015e1db279e0"
         },
         "CopyManga": {
           "file": "rules/Egern/CopyManga.yaml",
@@ -59968,7 +59933,7 @@
         },
         "Cygames": {
           "file": "rules/Egern/Cygames.yaml",
-          "rule_updated_at": "2026-07-26T08:36:25.779641+00:00",
+          "rule_updated_at": "2026-11-26T03:23:51.859248+00:00",
           "bytes": 235,
           "sha256": "712208f431785dadcfe9b072dd19e5a0b9679428219c8f041af30423fb2372af",
           "semantic_sha256": "6f19063c68ff751f723e79f56432247bdb1e88e390cc43932c9dd340896ca037"
@@ -60038,10 +60003,10 @@
         },
         "Debian": {
           "file": "rules/Egern/Debian.yaml",
-          "rule_updated_at": "2026-07-26T08:31:46.077678+00:00",
-          "bytes": 152,
-          "sha256": "b1e4f189a360f3f11586ed92ed06b25a9bf1ebdb7838a669280c8465d9cee041",
-          "semantic_sha256": "9ef49b7a8b5e4193fe66bc3f48b1fe7fa146bc1feb2af78d0649f6e8dc24a6a6"
+          "rule_updated_at": "2026-11-26T03:28:22.715133+00:00",
+          "bytes": 181,
+          "sha256": "e3e6b00abf29dcff4a255f9e1ca208dbfb477a61d6fe82b3771759c6c96056bd",
+          "semantic_sha256": "33697ff5ebf65c3a3598783180376e27cb915c55949db305cff5dc851485d3e1"
         },
         "Dedao": {
           "file": "rules/Egern/Dedao.yaml",
@@ -60101,10 +60066,10 @@
         },
         "Developer": {
           "file": "rules/Egern/Developer.yaml",
-          "rule_updated_at": "2026-11-17T09:14:42.040995+00:00",
-          "bytes": 15891,
-          "sha256": "5ba61d19eacc56a4063bdd0eb8a3a85e371780413ed4ec530c5c9b735c216f08",
-          "semantic_sha256": "9be786118d14b7a2d231a481709e3fcc4803920877d94d9e0120f316f7046656"
+          "rule_updated_at": "2026-11-26T03:13:08.284619+00:00",
+          "bytes": 16041,
+          "sha256": "4ca8cf569702bb57a7cb9548a688662684f29074c6dc154a4856fbd53fd07132",
+          "semantic_sha256": "da90d03b5a8e6b7d6388ada7c036857bb061e101d31a7c1e2f7d6536779c3b99"
         },
         "DeviantArt": {
           "file": "rules/Egern/DeviantArt.yaml",
@@ -60465,10 +60430,10 @@
         },
         "ECommerce": {
           "file": "rules/Egern/ECommerce.yaml",
-          "rule_updated_at": "2026-10-29T02:37:31.701167+00:00",
-          "bytes": 24272,
-          "sha256": "a3293cba7f5f62b4e8080eab35e70d6dee2f2cb5fb04d097eceb145285ea038f",
-          "semantic_sha256": "f39ccf9d5d8a8f154ce7cab68f6b1d351de191b078816d5fcb983fb97d96cb0f"
+          "rule_updated_at": "2026-11-26T03:20:42.896681+00:00",
+          "bytes": 24285,
+          "sha256": "c2319e0d458c660a8b24323ebc94795a007a6e630bb42458ef6d23a5cbecb904",
+          "semantic_sha256": "8247434b167dc61dfe183d1d023e7ac6b11f17a21b9d635af8665926c38dbb24"
         },
         "Economist": {
           "file": "rules/Egern/Economist.yaml",
@@ -60696,7 +60661,7 @@
         },
         "Fastly": {
           "file": "rules/Egern/Fastly.yaml",
-          "rule_updated_at": "2026-07-26T08:21:15.993241+00:00",
+          "rule_updated_at": "2026-11-26T03:23:54.419339+00:00",
           "bytes": 247,
           "sha256": "15105f4471a37e34cae2db77abadf3fc8a624f745823b0f2a89b3dd6cc406640",
           "semantic_sha256": "fc5607b819629f2705d5e70b164dc4b16914b79fcdcf015f37f9c31729b4c08f"
@@ -60955,10 +60920,10 @@
         },
         "Game": {
           "file": "rules/Egern/Game.yaml",
-          "rule_updated_at": "2026-11-20T09:06:28.206426+00:00",
-          "bytes": 27299,
-          "sha256": "9ab23f1e14a634fbb2b82c1adde7067eada63cdade8d70b98d4b369b40c5e740",
-          "semantic_sha256": "b3ee244342795b7a8c71ae104d61168c4ea4f4221e13cd100ab7c39fdb03fbce"
+          "rule_updated_at": "2026-11-26T03:25:27.235307+00:00",
+          "bytes": 27386,
+          "sha256": "b1654bbde79ff5f3c400e8524f20cf9456a58220c81d2207f646005174b9f320",
+          "semantic_sha256": "9be48baad19eb33ba2edc25238b1d7453f010dcfc067f4a80b79bd2c6c64f8d6"
         },
         "GameDownload": {
           "file": "rules/Egern/GameDownload.yaml",
@@ -61032,7 +60997,7 @@
         },
         "Gemini": {
           "file": "rules/Egern/Gemini.yaml",
-          "rule_updated_at": "2026-10-29T02:37:36.881199+00:00",
+          "rule_updated_at": "2026-11-26T03:28:28.413450+00:00",
           "bytes": 1623,
           "sha256": "b45ad77b375a7370caffe19a6ead612f3252dea709ff73fbfb7d164b224a09a9",
           "semantic_sha256": "c39de5dfaf2375d08adf0e7ca08bcdfc348a6d52205421ad7e0c9de843b0210d"
@@ -61102,24 +61067,24 @@
         },
         "Global": {
           "file": "rules/Egern/Global.yaml",
-          "rule_updated_at": "2026-11-20T09:19:48.029458+00:00",
-          "bytes": 466561,
-          "sha256": "506032021a0142aa8a50d822a1a4f7d80824c18e00dd2c92aca891bab3c6a383",
-          "semantic_sha256": "aced472098d9f0fae74681c517326caaad6d2f93c0d19a8c048cc17b881ba0a2"
+          "rule_updated_at": "2026-11-26T03:22:56.631366+00:00",
+          "bytes": 464264,
+          "sha256": "8d25b213f92b22ea650ea70ad20a75b7f431d16f75d49a6e96986cbbfa85f736",
+          "semantic_sha256": "90b2961e74b7e1b9c944b272afba2200854e31b6d6c4de9d529bcb55d2df29b7"
         },
         "GlobalAI": {
           "file": "rules/Egern/GlobalAI.yaml",
-          "rule_updated_at": "2026-11-20T09:02:34.545393+00:00",
-          "bytes": 9419,
-          "sha256": "8a06dc3db49f7eeba086b74e690dcadb7c4caf42be65bd350cf2ec22cd60df84",
-          "semantic_sha256": "919d745ec9e652f6dfcd044ec40d49ab6e8048d3548653556c73da1015ec29e4"
+          "rule_updated_at": "2026-11-26T03:12:32.227664+00:00",
+          "bytes": 9590,
+          "sha256": "defeea2600e82753708622790dff80a9ee20ba3b8067b3829a010926afa2930d",
+          "semantic_sha256": "fde073c9286fa9d47833c3b0ebd3acd087cb59625fb7641d6c0ad837bc661a08"
         },
         "GlobalCDN": {
           "file": "rules/Egern/GlobalCDN.yaml",
-          "rule_updated_at": "2026-08-08T02:57:26.860950+00:00",
-          "bytes": 3955,
-          "sha256": "b7c13b2c778a2cd2ce4ff17afea63895d3500aa8b8df8e062fe61b661955db67",
-          "semantic_sha256": "717c324268c3bf72b8c157127f0c261fafe725c961746a8c6ba9315462ee9420"
+          "rule_updated_at": "2026-11-26T03:22:10.417022+00:00",
+          "bytes": 3997,
+          "sha256": "6485e02d7c951c119cd68f902a2f631ab0ad8a33ce7bd1d31dd14cf45ede0b3b",
+          "semantic_sha256": "821830db919baf7bf9f7e1014a26fd485726c69d6ea528f3460382942ece915b"
         },
         "GlobalCloud": {
           "file": "rules/Egern/GlobalCloud.yaml",
@@ -61221,17 +61186,17 @@
         },
         "Google": {
           "file": "rules/Egern/Google.yaml",
-          "rule_updated_at": "2026-11-17T09:15:58.141951+00:00",
+          "rule_updated_at": "2026-11-26T03:23:06.196297+00:00",
           "bytes": 24288,
           "sha256": "c6cf6e6bd75c96e630968c21bfeb16d2bb37a4e478ce78846a0941df83fa2461",
           "semantic_sha256": "cda5f92946cb60a53c883fc42999c4f2698c402e5c388608f91fd21c3e5d0b35"
         },
         "GoogleDeepMind": {
           "file": "rules/Egern/GoogleDeepMind.yaml",
-          "rule_updated_at": "2026-10-29T02:37:20.609064+00:00",
-          "bytes": 1510,
-          "sha256": "dea510deac56bab1e6dba76728640d9b864b41ae75b5a1e3fc9b60a34776d7a8",
-          "semantic_sha256": "c24f434e790d5334e8a32a83c9e7a03a5f6cf7b4ecf7de49a254ae1509fb636a"
+          "rule_updated_at": "2026-11-26T03:12:32.672641+00:00",
+          "bytes": 1523,
+          "sha256": "febe8b69aaf062d5e84529a43c8fec736c51d32b3cca4d8c88859e4684e5f3ac",
+          "semantic_sha256": "113216c2c91e856e10dd9b5908394ab984cda62122d8d869ff8d1f70aa8ea572"
         },
         "GoogleEarth": {
           "file": "rules/Egern/GoogleEarth.yaml",
@@ -62355,10 +62320,10 @@
         },
         "Lenovo": {
           "file": "rules/Egern/Lenovo.yaml",
-          "rule_updated_at": "2026-07-26T06:26:54.041790+00:00",
-          "bytes": 1222,
-          "sha256": "29e698a3784fa1dd42625e51f6cde8c75c8b8c3462163efce89769f3398c261b",
-          "semantic_sha256": "3888d177dfaee74ceb6439ec6a5f26634b4eaf7073128229380142d326aedd6f"
+          "rule_updated_at": "2026-11-26T03:21:11.077445+00:00",
+          "bytes": 1287,
+          "sha256": "7e288c874c7b6af94638d054049aa80436ff831d1dee2178cd323d972a2f8d26",
+          "semantic_sha256": "99ad2f24e38cff04bcd15098471a310b241d908fe0ab666190f8884c18ec1296"
         },
         "LetsEncrypt": {
           "file": "rules/Egern/LetsEncrypt.yaml",
@@ -62913,13 +62878,6 @@
           "sha256": "ebb71db0aca6b38a48cd519ff1e0dfca190d6955c932a48b1a70e81fbe272107",
           "semantic_sha256": "963a87964caa53f75c4348ee6d58a2b0329cae81719f1e52adf4d9b9ef1c0761"
         },
-        "MOOMusic": {
-          "file": "rules/Egern/MOOMusic.yaml",
-          "rule_updated_at": "2026-07-26T07:16:20.594652+00:00",
-          "bytes": 147,
-          "sha256": "7ab8fd351a44493dc9a1a52268269928e99f8b0ebdbd350d123135759946db29",
-          "semantic_sha256": "59c026510ddf0b5705d9557f4cc028aa9c80ad546c3bed0985c462ed5681bc6e"
-        },
         "Moonvy": {
           "file": "rules/Egern/Moonvy.yaml",
           "rule_updated_at": "2026-07-26T10:37:47.953267+00:00",
@@ -63076,7 +63034,7 @@
         },
         "NBCUniversal": {
           "file": "rules/Egern/NBCUniversal.yaml",
-          "rule_updated_at": "2026-07-26T10:38:05.507558+00:00",
+          "rule_updated_at": "2026-11-26T03:26:07.673577+00:00",
           "bytes": 462,
           "sha256": "2032e90ee8864ce080e3172679207ec1f49a022c30bf4266f9e55bf167a82e37",
           "semantic_sha256": "7a79529ed1733d41c3e921ac9df34c967a23b184f5469ff14d2b3b9651e22610"
@@ -63566,10 +63524,10 @@
         },
         "PCCW": {
           "file": "rules/Egern/PCCW.yaml",
-          "rule_updated_at": "2026-11-17T09:29:45.542775+00:00",
-          "bytes": 770,
-          "sha256": "1b98d02242ac446193b6626a0cc6ebf31e0240a9c43bab9b051e9abc14dc91bb",
-          "semantic_sha256": "ddb8ac9bf0e2d4f653af964d61b50aeaff1f04028e2a8fe5c58f2024fba37994"
+          "rule_updated_at": "2026-11-26T03:26:50.202982+00:00",
+          "bytes": 787,
+          "sha256": "1ad5be20f760393e093ef51a200bb5464d1c240bcdf15cfe9c5efb6adbc6164f",
+          "semantic_sha256": "852a716ad28cb850cebd4bbb4cc352fb1a60c6986f44f1680981ae4845a4267d"
         },
         "PChomeTW": {
           "file": "rules/Egern/PChomeTW.yaml",
@@ -63643,10 +63601,10 @@
         },
         "PingAn": {
           "file": "rules/Egern/PingAn.yaml",
-          "rule_updated_at": "2026-07-26T06:27:40.809703+00:00",
-          "bytes": 588,
-          "sha256": "a09ad5821ce3c05a1d3640347a4380548e7b220520916c310a736df7992a34d1",
-          "semantic_sha256": "db9e45e8e6216a0f46b6b50d1456a540b36af6d4133e098dda3ebd2e9046dd6b"
+          "rule_updated_at": "2026-11-26T03:24:34.141587+00:00",
+          "bytes": 761,
+          "sha256": "a0cf5f0c3ce6c948873e9324df10e2ae1e9896032388cf20e1431c695d51ee7a",
+          "semantic_sha256": "c4eb6fa3f563693b7030187b6a1496c8aa822cd5cb98d37ab3642f273d870c16"
         },
         "Pinterest": {
           "file": "rules/Egern/Pinterest.yaml",
@@ -63776,10 +63734,10 @@
         },
         "Privacy": {
           "file": "rules/Egern/Privacy.yaml",
-          "rule_updated_at": "2026-11-06T07:11:30.723657+00:00",
-          "bytes": 1045413,
-          "sha256": "82e567390958665e540a34ab9517e8347690660f42c6e406b74a677bdf465d49",
-          "semantic_sha256": "355f892ab4bb8963723001f9f6d9730b86c64f7062c4fab039d367fdce2c35f9"
+          "rule_updated_at": "2026-11-26T03:29:02.935050+00:00",
+          "bytes": 1057014,
+          "sha256": "4044cbe1bff32524010f114e98f9e4233daf2038bdc189dfbc5361545e692bf0",
+          "semantic_sha256": "842223504b2b5522c971af4659377c8009d204b6d43069967695d596cafc69fc"
         },
         "PrivateTracker": {
           "file": "rules/Egern/PrivateTracker.yaml",
@@ -64518,10 +64476,10 @@
         },
         "Sohu": {
           "file": "rules/Egern/Sohu.yaml",
-          "rule_updated_at": "2026-07-26T06:28:11.649035+00:00",
-          "bytes": 1391,
-          "sha256": "4d725cf7124f1e5d48a84e7893c682b0c7d7fca45828c49ca07f3464a211a280",
-          "semantic_sha256": "001824e18713cf56c56425a888d46993f04f125bc2586002fcbdc40dab2cb18b"
+          "rule_updated_at": "2026-11-26T03:25:46.097711+00:00",
+          "bytes": 1416,
+          "sha256": "968ac796f5a7fe50df1f47d171198c1a877b3d88d6946b5a0f23c12881dbf020",
+          "semantic_sha256": "7ed10dea9483e4c250604794fd0bed363759731847d8394d9a31a76a4e57a614"
         },
         "Sony": {
           "file": "rules/Egern/Sony.yaml",
@@ -64588,7 +64546,7 @@
         },
         "Speedtest": {
           "file": "rules/Egern/Speedtest.yaml",
-          "rule_updated_at": "2026-11-20T09:02:31.760802+00:00",
+          "rule_updated_at": "2026-11-26T03:48:09.505744+00:00",
           "bytes": 103849,
           "sha256": "29a4b5a2299288ddf687308e9c65c29ee1a061f088bc06e810afa169bd3e63d3",
           "semantic_sha256": "4a3819e19f93485fdfce2284a6801d8ec9a14f3724983d68959387cb0320b6c3"
@@ -65421,10 +65379,10 @@
         },
         "Unity": {
           "file": "rules/Egern/Unity.yaml",
-          "rule_updated_at": "2026-07-26T06:57:15.216550+00:00",
-          "bytes": 675,
-          "sha256": "d0d50bc2288363406e958df25c4ae0baca2fa05502227584eb73a3e820db7e4b",
-          "semantic_sha256": "6e8c87043a7df94545d800abb97bae12c3e5223b3534e7148202d8643f2614d7"
+          "rule_updated_at": "2026-11-26T03:22:32.974099+00:00",
+          "bytes": 689,
+          "sha256": "8be0a1ee6d213332887967fbb4ccc2e4839f730d0503a31e8aacc7f7a09c87e2",
+          "semantic_sha256": "5eb11bf1cbb3443d595cf879e661008094e35d4fd7210348a7a8b5621281b0e4"
         },
         "UOLiv": {
           "file": "rules/Egern/UOLiv.yaml",

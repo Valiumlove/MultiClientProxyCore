@@ -1,9 +1,9 @@
 # NAME: Alphabet
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:55:28
+# UPDATED: 2026-11-26 15:36:17
 # HOST: 239
-# HOST-SUFFIX: 894
+# HOST-SUFFIX: 895
 
 HOST,2mdn-cn.net,Alphabet
 HOST,2mdn.net,Alphabet
@@ -470,6 +470,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,Alphabet
 HOST-SUFFIX,gemini.google,Alphabet
 HOST-SUFFIX,gemini.google.com,Alphabet
 HOST-SUFFIX,gemini.gstatic.com,Alphabet
+HOST-SUFFIX,gemma.ai,Alphabet
 HOST-SUFFIX,generativeai.google,Alphabet
 HOST-SUFFIX,generativelanguage.googleapis.com,Alphabet
 HOST-SUFFIX,gerritcodereview.com,Alphabet

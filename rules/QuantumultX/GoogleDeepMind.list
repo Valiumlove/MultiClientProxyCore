@@ -1,9 +1,9 @@
 # NAME: GoogleDeepMind
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:38:25
+# UPDATED: 2026-11-26 14:20:08
 # HOST: 16
-# HOST-SUFFIX: 33
+# HOST-SUFFIX: 34
 
 HOST,ai.google.dev,GoogleDeepMind
 HOST,alkalicore-pa.clients6.google.com,GoogleDeepMind
@@ -37,6 +37,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,GoogleDeepMind
 HOST-SUFFIX,gemini.google,GoogleDeepMind
 HOST-SUFFIX,gemini.google.com,GoogleDeepMind
 HOST-SUFFIX,gemini.gstatic.com,GoogleDeepMind
+HOST-SUFFIX,gemma.ai,GoogleDeepMind
 HOST-SUFFIX,generativeai.google,GoogleDeepMind
 HOST-SUFFIX,generativelanguage.googleapis.com,GoogleDeepMind
 HOST-SUFFIX,jules.google,GoogleDeepMind

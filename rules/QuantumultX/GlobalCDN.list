@@ -1,8 +1,8 @@
 # NAME: GlobalCDN
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-08-27 09:47:41
-# HOST-SUFFIX: 195
+# UPDATED: 2026-11-26 14:52:03
+# HOST-SUFFIX: 197
 
 HOST-SUFFIX,accdn.com.cn,GlobalCDN
 HOST-SUFFIX,ak1.net,GlobalCDN
@@ -150,10 +150,12 @@ HOST-SUFFIX,esm.run,GlobalCDN
 HOST-SUFFIX,esm.sh,GlobalCDN
 HOST-SUFFIX,every1dns.net,GlobalCDN
 HOST-SUFFIX,fastly-edge.com,GlobalCDN
+HOST-SUFFIX,fastly-insights.com,GlobalCDN
 HOST-SUFFIX,fastly-terrarium.com,GlobalCDN
 HOST-SUFFIX,fastly.com,GlobalCDN
 HOST-SUFFIX,fastly.io,GlobalCDN
 HOST-SUFFIX,fastly.net,GlobalCDN
+HOST-SUFFIX,fastlydns.net,GlobalCDN
 HOST-SUFFIX,fastlylabs.com,GlobalCDN
 HOST-SUFFIX,fastlylb.net,GlobalCDN
 HOST-SUFFIX,foundationdns.com,GlobalCDN

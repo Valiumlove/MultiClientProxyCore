@@ -1,9 +1,9 @@
 # NAME: GlobalAI
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-20 17:23:48
+# UPDATED: 2026-11-26 13:40:08
 # HOST: 73
-# HOST-SUFFIX: 347
+# HOST-SUFFIX: 348
 # HOST-KEYWORD: 11
 # IP-CIDR: 1
 # IP6-CIDR: 2
@@ -226,6 +226,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,GlobalAI
 HOST-SUFFIX,gemini.google,GlobalAI
 HOST-SUFFIX,gemini.google.com,GlobalAI
 HOST-SUFFIX,gemini.gstatic.com,GlobalAI
+HOST-SUFFIX,gemma.ai,GlobalAI
 HOST-SUFFIX,generativeai.google,GlobalAI
 HOST-SUFFIX,generativelanguage.googleapis.com,GlobalAI
 HOST-SUFFIX,genspark.ai,GlobalAI

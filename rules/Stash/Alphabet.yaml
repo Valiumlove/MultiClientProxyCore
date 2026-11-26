@@ -1,10 +1,10 @@
 # NAME: Alphabet
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:55:30
+# UPDATED: 2026-11-26 15:36:19
 # BEHAVIOR: classical
 # DOMAIN: 239
-# DOMAIN-SUFFIX: 894
+# DOMAIN-SUFFIX: 895
 # DOMAIN-REGEX: 2
 
 payload:
@@ -473,6 +473,7 @@ payload:
 - 'DOMAIN-SUFFIX,gemini.google'
 - 'DOMAIN-SUFFIX,gemini.google.com'
 - 'DOMAIN-SUFFIX,gemini.gstatic.com'
+- 'DOMAIN-SUFFIX,gemma.ai'
 - 'DOMAIN-SUFFIX,generativeai.google'
 - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com'
 - 'DOMAIN-SUFFIX,gerritcodereview.com'

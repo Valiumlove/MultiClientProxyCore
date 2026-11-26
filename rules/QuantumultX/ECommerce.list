@@ -1,9 +1,9 @@
 # NAME: ECommerce
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:51:34
+# UPDATED: 2026-11-26 14:40:22
 # HOST: 39
-# HOST-SUFFIX: 1291
+# HOST-SUFFIX: 1292
 
 HOST,ad.ozone.ru,ECommerce
 HOST,ads-gate.wildberries.ru,ECommerce
@@ -576,6 +576,7 @@ HOST-SUFFIX,eu-consumer-empowerment.com,ECommerce
 HOST-SUFFIX,ewisdom.us.kg,ECommerce
 HOST-SUFFIX,expertmaker.com,ECommerce
 HOST-SUFFIX,fairmarket.com,ECommerce
+HOST-SUFFIX,fanza.jp,ECommerce
 HOST-SUFFIX,farfetch-apps.com,ECommerce
 HOST-SUFFIX,farfetch-contents.com,ECommerce
 HOST-SUFFIX,farfetch.cn,ECommerce

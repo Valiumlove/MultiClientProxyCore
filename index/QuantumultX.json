@@ -1,8 +1,8 @@
 {
   "client": "QuantumultX",
   "rule_file_extension": "list",
-  "rule_count": 1186,
-  "total_line_count": 829423,
+  "rule_count": 1185,
+  "total_line_count": 807033,
   "rules": [
     {
       "name": "115",
@@ -186,10 +186,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 70
+        "HOST-SUFFIX": 75
       },
-      "total_line_count": 70,
-      "rule_updated_at": "2026-08-17T02:14:57.072660+00:00",
+      "total_line_count": 75,
+      "rule_updated_at": "2026-11-26T03:28:29.551748+00:00",
       "file": "rules/QuantumultX/58TongCheng.list"
     },
     {
@@ -390,10 +390,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST": 184,
+        "HOST": 183,
         "HOST-SUFFIX": 4
       },
-      "total_line_count": 188,
+      "total_line_count": 187,
       "rule_updated_at": "2026-11-09T03:01:50.314949+00:00",
       "file": "rules/QuantumultX/AdGuardSDNSFilter.list"
     },
@@ -406,12 +406,12 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "HOST": 190929,
+        "HOST": 194077,
         "HOST-SUFFIX": 4,
         "IP-CIDR": 74
       },
-      "total_line_count": 191007,
-      "rule_updated_at": "2026-11-20T15:28:44.040925+00:00",
+      "total_line_count": 194155,
+      "rule_updated_at": "2026-11-26T09:37:35.770974+00:00",
       "file": "rules/QuantumultX/AdGuardSDNSFilterDirect.list"
     },
     {
@@ -472,18 +472,18 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 17421,
+        "HOST": 16404,
         "HOST-KEYWORD": 208,
-        "HOST-SUFFIX": 255234,
+        "HOST-SUFFIX": 228012,
         "HOST-WILDCARD": 22,
         "IP6-CIDR": 6,
         "IP-ASN": 15,
-        "IP-CIDR": 1025,
+        "IP-CIDR": 1018,
         "URL-REGEX": 11,
         "USER-AGENT": 1
       },
-      "total_line_count": 273943,
-      "rule_updated_at": "2026-11-20T15:16:58.793660+00:00",
+      "total_line_count": 245697,
+      "rule_updated_at": "2026-11-26T05:19:30.078303+00:00",
       "file": "rules/QuantumultX/Advertising.list"
     },
     {
@@ -499,16 +499,16 @@
         "URL-REGEX"
       ],
       "type_counts": {
-        "HOST": 22906,
-        "HOST-KEYWORD": 164,
-        "HOST-SUFFIX": 162783,
+        "HOST": 22855,
+        "HOST-KEYWORD": 163,
+        "HOST-SUFFIX": 165290,
         "HOST-WILDCARD": 15,
         "IP6-CIDR": 4,
         "IP-CIDR": 230,
         "URL-REGEX": 2
       },
-      "total_line_count": 186104,
-      "rule_updated_at": "2026-11-20T15:15:38.031966+00:00",
+      "total_line_count": 188559,
+      "rule_updated_at": "2026-11-26T05:01:35.162547+00:00",
       "file": "rules/QuantumultX/AdvertisingLite.list"
     },
     {
@@ -680,12 +680,12 @@
       ],
       "type_counts": {
         "HOST": 5,
-        "HOST-SUFFIX": 1470,
+        "HOST-SUFFIX": 1471,
         "IP6-CIDR": 9,
         "IP-CIDR": 139
       },
-      "total_line_count": 1623,
-      "rule_updated_at": "2026-11-04T15:55:14.187780+00:00",
+      "total_line_count": 1624,
+      "rule_updated_at": "2026-11-26T03:20:45.284992+00:00",
       "file": "rules/QuantumultX/Alibaba.list"
     },
     {
@@ -723,10 +723,10 @@
       ],
       "type_counts": {
         "HOST": 4,
-        "HOST-SUFFIX": 96
+        "HOST-SUFFIX": 97
       },
-      "total_line_count": 100,
-      "rule_updated_at": "2026-08-10T09:19:13.464580+00:00",
+      "total_line_count": 101,
+      "rule_updated_at": "2026-11-26T03:10:50.138460+00:00",
       "file": "rules/QuantumultX/Aliyun.list"
     },
     {
@@ -779,10 +779,10 @@
       ],
       "type_counts": {
         "HOST": 239,
-        "HOST-SUFFIX": 894
+        "HOST-SUFFIX": 895
       },
-      "total_line_count": 1133,
-      "rule_updated_at": "2026-10-29T02:37:32.385614+00:00",
+      "total_line_count": 1134,
+      "rule_updated_at": "2026-11-26T03:26:09.796106+00:00",
       "file": "rules/QuantumultX/Alphabet.list"
     },
     {
@@ -1126,13 +1126,13 @@
       "type_counts": {
         "HOST": 283,
         "HOST-KEYWORD": 5,
-        "HOST-SUFFIX": 1771,
+        "HOST-SUFFIX": 1642,
         "HOST-WILDCARD": 15,
         "IP6-CIDR": 3,
         "IP-CIDR": 10,
         "USER-AGENT": 5
       },
-      "total_line_count": 2092,
+      "total_line_count": 1963,
       "rule_updated_at": "2026-11-17T09:15:49.733705+00:00",
       "file": "rules/QuantumultX/Apple.list"
     },
@@ -1685,10 +1685,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 59
+        "HOST-SUFFIX": 61
       },
-      "total_line_count": 59,
-      "rule_updated_at": "2026-07-26T06:57:20.355427+00:00",
+      "total_line_count": 61,
+      "rule_updated_at": "2026-11-26T03:26:51.083485+00:00",
       "file": "rules/QuantumultX/BaiShanYunKeJi.list"
     },
     {
@@ -2614,10 +2614,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 7
+        "HOST-SUFFIX": 9
       },
-      "total_line_count": 7,
-      "rule_updated_at": "2026-07-26T08:31:40.589678+00:00",
+      "total_line_count": 9,
+      "rule_updated_at": "2026-11-26T03:24:37.444007+00:00",
       "file": "rules/QuantumultX/ChangYou.list"
     },
     {
@@ -2661,14 +2661,14 @@
       "type_counts": {
         "HOST": 20,
         "HOST-KEYWORD": 10,
-        "HOST-SUFFIX": 6390,
+        "HOST-SUFFIX": 6398,
         "HOST-WILDCARD": 2,
         "IP6-CIDR": 4,
-        "IP-CIDR": 3871,
+        "IP-CIDR": 3850,
         "USER-AGENT": 30
       },
-      "total_line_count": 10327,
-      "rule_updated_at": "2026-11-20T15:56:33.885640+00:00",
+      "total_line_count": 10314,
+      "rule_updated_at": "2026-11-26T03:29:55.913420+00:00",
       "file": "rules/QuantumultX/China.list"
     },
     {
@@ -2706,10 +2706,10 @@
       ],
       "type_counts": {
         "HOST": 2,
-        "HOST-SUFFIX": 292
+        "HOST-SUFFIX": 296
       },
-      "total_line_count": 294,
-      "rule_updated_at": "2026-11-18T16:27:48.541289+00:00",
+      "total_line_count": 298,
+      "rule_updated_at": "2026-11-26T03:47:41.529565+00:00",
       "file": "rules/QuantumultX/ChinaGame.list"
     },
     {
@@ -2723,10 +2723,10 @@
       "type_counts": {
         "IP6-CIDR": 5428,
         "IP-ASN": 5076,
-        "IP-CIDR": 12500
+        "IP-CIDR": 12493
       },
-      "total_line_count": 23004,
-      "rule_updated_at": "2026-11-20T15:46:54.016052+00:00",
+      "total_line_count": 22997,
+      "rule_updated_at": "2026-11-26T09:56:34.171354+00:00",
       "file": "rules/QuantumultX/ChinaIPs.list"
     },
     {
@@ -3425,13 +3425,13 @@
       "type_counts": {
         "HOST": 71,
         "HOST-KEYWORD": 5,
-        "HOST-SUFFIX": 306,
+        "HOST-SUFFIX": 307,
         "IP6-CIDR": 2,
         "IP-ASN": 3,
         "IP-CIDR": 1
       },
-      "total_line_count": 388,
-      "rule_updated_at": "2026-11-20T09:05:56.223802+00:00",
+      "total_line_count": 389,
+      "rule_updated_at": "2026-11-26T03:10:51.459955+00:00",
       "file": "rules/QuantumultX/Copilot.list"
     },
     {
@@ -3653,10 +3653,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 5
+        "HOST-SUFFIX": 6
       },
-      "total_line_count": 5,
-      "rule_updated_at": "2026-07-26T08:36:25.551645+00:00",
+      "total_line_count": 6,
+      "rule_updated_at": "2026-11-26T03:23:40.673030+00:00",
       "file": "rules/QuantumultX/Cygames.list"
     },
     {
@@ -3789,10 +3789,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 2
+        "HOST-SUFFIX": 3
       },
-      "total_line_count": 2,
-      "rule_updated_at": "2026-07-26T08:31:45.934272+00:00",
+      "total_line_count": 3,
+      "rule_updated_at": "2026-11-26T03:28:20.719209+00:00",
       "file": "rules/QuantumultX/Debian.list"
     },
     {
@@ -3914,10 +3914,10 @@
       ],
       "type_counts": {
         "HOST": 96,
-        "HOST-SUFFIX": 647
+        "HOST-SUFFIX": 656
       },
-      "total_line_count": 743,
-      "rule_updated_at": "2026-11-17T07:20:03.814941+00:00",
+      "total_line_count": 752,
+      "rule_updated_at": "2026-11-26T03:12:44.748213+00:00",
       "file": "rules/QuantumultX/Developer.list"
     },
     {
@@ -4624,10 +4624,10 @@
       ],
       "type_counts": {
         "HOST": 39,
-        "HOST-SUFFIX": 1291
+        "HOST-SUFFIX": 1292
       },
-      "total_line_count": 1330,
-      "rule_updated_at": "2026-10-29T02:37:31.537574+00:00",
+      "total_line_count": 1331,
+      "rule_updated_at": "2026-11-26T03:20:21.860824+00:00",
       "file": "rules/QuantumultX/ECommerce.list"
     },
     {
@@ -5077,10 +5077,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 7
+        "HOST-SUFFIX": 9
       },
-      "total_line_count": 7,
-      "rule_updated_at": "2026-07-26T08:21:15.134894+00:00",
+      "total_line_count": 9,
+      "rule_updated_at": "2026-11-26T03:23:52.563539+00:00",
       "file": "rules/QuantumultX/Fastly.list"
     },
     {
@@ -5571,11 +5571,11 @@
       "type_counts": {
         "HOST": 125,
         "HOST-KEYWORD": 4,
-        "HOST-SUFFIX": 1159,
+        "HOST-SUFFIX": 1163,
         "IP-CIDR": 12
       },
-      "total_line_count": 1300,
-      "rule_updated_at": "2026-11-20T09:06:04.734630+00:00",
+      "total_line_count": 1304,
+      "rule_updated_at": "2026-11-26T03:25:01.114582+00:00",
       "file": "rules/QuantumultX/Game.list"
     },
     {
@@ -5725,10 +5725,10 @@
       "type_counts": {
         "HOST": 17,
         "HOST-KEYWORD": 3,
-        "HOST-SUFFIX": 34
+        "HOST-SUFFIX": 35
       },
-      "total_line_count": 54,
-      "rule_updated_at": "2026-10-29T02:37:36.480907+00:00",
+      "total_line_count": 55,
+      "rule_updated_at": "2026-11-26T03:28:26.898527+00:00",
       "file": "rules/QuantumultX/Gemini.list"
     },
     {
@@ -5869,16 +5869,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 1918,
-        "HOST-KEYWORD": 53,
-        "HOST-SUFFIX": 22368,
+        "HOST": 1917,
+        "HOST-KEYWORD": 57,
+        "HOST-SUFFIX": 22245,
         "HOST-WILDCARD": 61,
         "IP6-CIDR": 4,
         "IP-CIDR": 80,
         "USER-AGENT": 9
       },
-      "total_line_count": 24493,
-      "rule_updated_at": "2026-11-20T09:06:40.252109+00:00",
+      "total_line_count": 24373,
+      "rule_updated_at": "2026-11-26T03:12:30.596441+00:00",
       "file": "rules/QuantumultX/Global.list"
     },
     {
@@ -5896,14 +5896,14 @@
       "type_counts": {
         "HOST": 73,
         "HOST-KEYWORD": 11,
-        "HOST-SUFFIX": 347,
+        "HOST-SUFFIX": 348,
         "IP6-CIDR": 2,
         "IP-ASN": 3,
         "IP-CIDR": 1,
         "URL-REGEX": 1
       },
-      "total_line_count": 438,
-      "rule_updated_at": "2026-11-20T09:02:32.101221+00:00",
+      "total_line_count": 439,
+      "rule_updated_at": "2026-11-26T03:11:42.109714+00:00",
       "file": "rules/QuantumultX/GlobalAI.list"
     },
     {
@@ -5913,10 +5913,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 195
+        "HOST-SUFFIX": 197
       },
-      "total_line_count": 195,
-      "rule_updated_at": "2026-08-08T02:57:21.024852+00:00",
+      "total_line_count": 197,
+      "rule_updated_at": "2026-11-26T03:21:40.740869+00:00",
       "file": "rules/QuantumultX/GlobalCDN.list"
     },
     {
@@ -5980,16 +5980,16 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 88,
-        "HOST-KEYWORD": 27,
-        "HOST-SUFFIX": 1114,
+        "HOST": 76,
+        "HOST-KEYWORD": 25,
+        "HOST-SUFFIX": 1084,
         "HOST-WILDCARD": 7,
         "IP6-CIDR": 200,
         "IP-CIDR": 266,
         "URL-REGEX": 1,
         "USER-AGENT": 19
       },
-      "total_line_count": 1722,
+      "total_line_count": 1678,
       "rule_updated_at": "2026-11-06T07:11:18.845664+00:00",
       "file": "rules/QuantumultX/GlobalMedia.list"
     },
@@ -6145,11 +6145,11 @@
       "type_counts": {
         "HOST": 241,
         "HOST-KEYWORD": 6,
-        "HOST-SUFFIX": 893,
+        "HOST-SUFFIX": 894,
         "IP-CIDR": 2
       },
-      "total_line_count": 1142,
-      "rule_updated_at": "2026-10-29T03:07:13.217974+00:00",
+      "total_line_count": 1143,
+      "rule_updated_at": "2026-11-26T03:22:37.081417+00:00",
       "file": "rules/QuantumultX/Google.list"
     },
     {
@@ -6161,10 +6161,10 @@
       ],
       "type_counts": {
         "HOST": 16,
-        "HOST-SUFFIX": 33
+        "HOST-SUFFIX": 34
       },
-      "total_line_count": 49,
-      "rule_updated_at": "2026-10-29T02:37:20.474806+00:00",
+      "total_line_count": 50,
+      "rule_updated_at": "2026-11-26T03:11:46.142743+00:00",
       "file": "rules/QuantumultX/GoogleDeepMind.list"
     },
     {
@@ -8356,10 +8356,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 60
+        "HOST-SUFFIX": 63
       },
-      "total_line_count": 60,
-      "rule_updated_at": "2026-07-26T06:26:46.620375+00:00",
+      "total_line_count": 63,
+      "rule_updated_at": "2026-11-26T03:21:10.427969+00:00",
       "file": "rules/QuantumultX/Lenovo.list"
     },
     {
@@ -9434,19 +9434,6 @@
       "file": "rules/QuantumultX/Monotype.list"
     },
     {
-      "name": "MOOMusic",
-      "chinese_name": "MOO音乐",
-      "types": [
-        "USER-AGENT"
-      ],
-      "type_counts": {
-        "USER-AGENT": 1
-      },
-      "total_line_count": 1,
-      "rule_updated_at": "2026-07-26T07:16:20.234574+00:00",
-      "file": "rules/QuantumultX/MOOMusic.list"
-    },
-    {
       "name": "Moonvy",
       "chinese_name": "Moonvy视频",
       "types": [
@@ -9761,10 +9748,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 17
+        "HOST-SUFFIX": 33
       },
-      "total_line_count": 17,
-      "rule_updated_at": "2026-07-26T10:38:05.323665+00:00",
+      "total_line_count": 33,
+      "rule_updated_at": "2026-11-26T03:25:49.888356+00:00",
       "file": "rules/QuantumultX/NBCUniversal.list"
     },
     {
@@ -10749,10 +10736,10 @@
       ],
       "type_counts": {
         "HOST": 4,
-        "HOST-SUFFIX": 27
+        "HOST-SUFFIX": 29
       },
-      "total_line_count": 31,
-      "rule_updated_at": "2026-07-26T06:52:59.977333+00:00",
+      "total_line_count": 33,
+      "rule_updated_at": "2026-11-26T03:26:38.980785+00:00",
       "file": "rules/QuantumultX/PCCW.list"
     },
     {
@@ -10900,10 +10887,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 27
+        "HOST-SUFFIX": 38
       },
-      "total_line_count": 27,
-      "rule_updated_at": "2026-07-26T06:27:34.522011+00:00",
+      "total_line_count": 38,
+      "rule_updated_at": "2026-11-26T03:24:10.321539+00:00",
       "file": "rules/QuantumultX/PingAn.list"
     },
     {
@@ -11157,12 +11144,12 @@
       "type_counts": {
         "HOST": 12,
         "HOST-KEYWORD": 2,
-        "HOST-SUFFIX": 39864,
+        "HOST-SUFFIX": 40346,
         "HOST-WILDCARD": 8,
         "IP-CIDR": 9
       },
-      "total_line_count": 39895,
-      "rule_updated_at": "2026-11-06T07:11:22.489239+00:00",
+      "total_line_count": 40377,
+      "rule_updated_at": "2026-11-26T03:28:37.190533+00:00",
       "file": "rules/QuantumultX/Privacy.list"
     },
     {
@@ -12577,10 +12564,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 81
+        "HOST-SUFFIX": 83
       },
-      "total_line_count": 81,
-      "rule_updated_at": "2026-07-26T06:28:02.847586+00:00",
+      "total_line_count": 83,
+      "rule_updated_at": "2026-11-26T03:25:28.325971+00:00",
       "file": "rules/QuantumultX/Sohu.list"
     },
     {
@@ -12714,13 +12701,13 @@
         "USER-AGENT"
       ],
       "type_counts": {
-        "HOST": 3383,
+        "HOST": 3394,
         "HOST-KEYWORD": 1,
         "HOST-SUFFIX": 130,
         "USER-AGENT": 1
       },
-      "total_line_count": 3515,
-      "rule_updated_at": "2026-11-20T09:02:29.931129+00:00",
+      "total_line_count": 3526,
+      "rule_updated_at": "2026-11-26T03:48:07.613857+00:00",
       "file": "rules/QuantumultX/Speedtest.list"
     },
     {
@@ -14358,10 +14345,10 @@
         "HOST-SUFFIX"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 24
+        "HOST-SUFFIX": 25
       },
-      "total_line_count": 24,
-      "rule_updated_at": "2026-07-26T06:57:09.031713+00:00",
+      "total_line_count": 25,
+      "rule_updated_at": "2026-11-26T03:22:11.388370+00:00",
       "file": "rules/QuantumultX/Unity.list"
     },
     {
@@ -15533,10 +15520,10 @@
         "IP-CIDR"
       ],
       "type_counts": {
-        "HOST-SUFFIX": 181,
+        "HOST-SUFFIX": 180,
         "IP-CIDR": 15
       },
-      "total_line_count": 196,
+      "total_line_count": 195,
       "rule_updated_at": "2026-10-09T15:59:09.283163+00:00",
       "file": "rules/QuantumultX/XiaoMi.list"
     },

@@ -1,9 +1,9 @@
 # NAME: Copilot
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-20 17:37:05
+# UPDATED: 2026-11-26 14:04:06
 # HOST: 71
-# HOST-SUFFIX: 306
+# HOST-SUFFIX: 307
 # HOST-KEYWORD: 5
 # IP-CIDR: 1
 # IP6-CIDR: 2
@@ -204,6 +204,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,Copilot
 HOST-SUFFIX,gemini.google,Copilot
 HOST-SUFFIX,gemini.google.com,Copilot
 HOST-SUFFIX,gemini.gstatic.com,Copilot
+HOST-SUFFIX,gemma.ai,Copilot
 HOST-SUFFIX,generativeai.google,Copilot
 HOST-SUFFIX,generativelanguage.googleapis.com,Copilot
 HOST-SUFFIX,genspark.ai,Copilot

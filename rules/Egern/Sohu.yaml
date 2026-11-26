@@ -1,10 +1,12 @@
 # NAME: Sohu
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:10:43
+# UPDATED: 2026-11-26 15:23:08
 domain_suffix_set:
   - 17173.com
   - 17173cdn.com
+  - 1y.com
+  - 1ycdn.com
   - 56.com
   - 56img.com
   - acoloo.com

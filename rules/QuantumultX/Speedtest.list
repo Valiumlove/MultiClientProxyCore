@@ -1,8 +1,8 @@
 # NAME: Speedtest
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-18 10:29:20
-# HOST: 3379
+# UPDATED: 2026-11-26 13:56:02
+# HOST: 3394
 # HOST-SUFFIX: 130
 # HOST-KEYWORD: 1
 # USER-AGENT: 1
@@ -160,7 +160,9 @@ HOST,falcon.its.utoronto.ca,Speedtest
 HOST,fast.blackbearfiber.com,Speedtest
 HOST,fast.kabi.tk,Speedtest
 HOST,fastme.ir,Speedtest
+HOST,fetdl2.seed.net.tw,Speedtest
 HOST,fetkt1.seed.net.tw,Speedtest
+HOST,fetml1.seed.net.tw,Speedtest
 HOST,fetnt1.seed.net.tw,Speedtest
 HOST,fetsz1.seed.net.tw,Speedtest
 HOST,fetyl1.seed.net.tw,Speedtest
@@ -250,6 +252,7 @@ HOST,karapinar.flix.net.tr,Speedtest
 HOST,karapinar.kentwifi.com.tr,Speedtest
 HOST,karnal.sitibroadband.co.in,Speedtest
 HOST,kay1speedtest.turktelekom.com.tr,Speedtest
+HOST,kc.speedtest.rustbanned.net,Speedtest
 HOST,kh1.chtm.hinet.net,Speedtest
 HOST,kl-speedtest.homeplus.net.tw,Speedtest
 HOST,kmlpbcnu-speedtest-01.telus.com,Speedtest
@@ -308,7 +311,9 @@ HOST,lg-vie.fdcservers.net,Speedtest
 HOST,lg-war.fdcservers.net,Speedtest
 HOST,lg.bcn1.es.everywan.com,Speedtest
 HOST,lg.mia.plasmarack.com,Speedtest
+HOST,lhr.speedtest.rustbanned.net,Speedtest
 HOST,librarian.comstar.ru,Speedtest
+HOST,librespeed-dtw.rackgenius.com,Speedtest
 HOST,librespeed-rs.ir,Speedtest
 HOST,librespeed.a573.net,Speedtest
 HOST,librespeed.lukas-heinrich.com,Speedtest
@@ -357,6 +362,7 @@ HOST,mobile.shunicomtest.com,Speedtest
 HOST,montsouris3.d2m.c2d.liveservices.fr,Speedtest
 HOST,mrutooklaspeed1.jioconnect.com,Speedtest
 HOST,msk-speedtest2.corbina.net,Speedtest
+HOST,msk.speedtest.reynard.cloud,Speedtest
 HOST,msk3.companion.t2.ru,Speedtest
 HOST,mspeedtest.linkceara.com.br,Speedtest
 HOST,mtcspeedtest.catskill.net,Speedtest
@@ -636,8 +642,11 @@ HOST,sea.st.spacecore.pro,Speedtest
 HOST,seacaftest.aptalaska.net,Speedtest
 HOST,seawa00-speedtest.etstelco.com,Speedtest
 HOST,secretspeedsterserver2364.cpe.nj.crnrstn.comcast.net,Speedtest
+HOST,seednet-hc1.seed.net.tw,Speedtest
+HOST,seednet-ntp2.seed.net.tw,Speedtest
 HOST,seednet-tc1.seed.net.tw,Speedtest
 HOST,seednet-tn1.seed.net.tw,Speedtest
+HOST,seednet-tp1.seed.net.tw,Speedtest
 HOST,seednet-ty1.seed.net.tw,Speedtest
 HOST,serv.qwistel.in,Speedtest
 HOST,serv8.a2jnetwork.in,Speedtest
@@ -809,6 +818,7 @@ HOST,speed-ams.bouwhuisit.nl,Speedtest
 HOST,speed-bhm2.cspirefiber.com,Speedtest
 HOST,speed-br2.gigacomm.net.au,Speedtest
 HOST,speed-ens.bouwhuisit.nl,Speedtest
+HOST,speed-fra.laudat.org,Speedtest
 HOST,speed-ist.veganet.com.tr,Speedtest
 HOST,speed-mel.gigacomm.net.au,Speedtest
 HOST,speed-miss.systemlifeline.com,Speedtest
@@ -1035,6 +1045,7 @@ HOST,speedtest-adelaide.optusnet.com.au,Speedtest
 HOST,speedtest-adl.optusnet.com.au,Speedtest
 HOST,speedtest-adl.sa.au.hostuniversal.com.au,Speedtest
 HOST,speedtest-albany.greenlightnetworks.com,Speedtest
+HOST,speedtest-albuquerque.resoundnetworks.com,Speedtest
 HOST,speedtest-alm-nl.as215248.net,Speedtest
 HOST,speedtest-altavilla.wifiweb.it,Speedtest
 HOST,speedtest-ams-nl.as215248.net,Speedtest
@@ -1609,6 +1620,7 @@ HOST,speedtest.ecfaccess.net,Speedtest
 HOST,speedtest.echonet.co.in,Speedtest
 HOST,speedtest.ecmnet.com.br,Speedtest
 HOST,speedtest.ed.shawcable.net,Speedtest
+HOST,speedtest.edgefox.net,Speedtest
 HOST,speedtest.ediscom.net,Speedtest
 HOST,speedtest.edv-kossmann.de,Speedtest
 HOST,speedtest.ehv.vodafone.nl,Speedtest
@@ -1774,6 +1786,7 @@ HOST,speedtest.iftecnologia.net.br,Speedtest
 HOST,speedtest.igennetworks.in,Speedtest
 HOST,speedtest.ihrtelecom.com,Speedtest
 HOST,speedtest.il.mycci.net,Speedtest
+HOST,speedtest.ilitha.com,Speedtest
 HOST,speedtest.image1tech.net,Speedtest
 HOST,speedtest.imais.com.br,Speedtest
 HOST,speedtest.imcloud.tw,Speedtest
@@ -2076,6 +2089,7 @@ HOST,speedtest.onetouchexpress.com,Speedtest
 HOST,speedtest.ontarionet.net,Speedtest
 HOST,speedtest.oopaya.com,Speedtest
 HOST,speedtest.opennetfortaleza.com.br,Speedtest
+HOST,speedtest.opiquad.it,Speedtest
 HOST,speedtest.optic-communications.com,Speedtest
 HOST,speedtest.optyxbroadband.com,Speedtest
 HOST,speedtest.ord1.hivelocity.net,Speedtest
@@ -2247,6 +2261,7 @@ HOST,speedtest.spectra.co,Speedtest
 HOST,speedtest.spectrumvoip.com,Speedtest
 HOST,speedtest.speedcom.in,Speedtest
 HOST,speedtest.speedfi.xyz,Speedtest
+HOST,speedtest.speednetmacapa.com.br,Speedtest
 HOST,speedtest.spl.vodafone.nl,Speedtest
 HOST,speedtest.springcom.com,Speedtest
 HOST,speedtest.springo.it,Speedtest

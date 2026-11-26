@@ -1,7 +1,7 @@
 # NAME: GoogleDeepMind
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-10-29 10:38:26
+# UPDATED: 2026-11-26 14:20:14
 domain_set:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
@@ -36,6 +36,7 @@ domain_suffix_set:
   - gemini.google
   - gemini.google.com
   - gemini.gstatic.com
+  - gemma.ai
   - generativeai.google
   - generativelanguage.googleapis.com
   - jules.google

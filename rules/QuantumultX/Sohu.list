@@ -1,11 +1,13 @@
 # NAME: Sohu
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:10:44
-# HOST-SUFFIX: 81
+# UPDATED: 2026-11-26 15:23:02
+# HOST-SUFFIX: 83
 
 HOST-SUFFIX,17173.com,Sohu
 HOST-SUFFIX,17173cdn.com,Sohu
+HOST-SUFFIX,1y.com,Sohu
+HOST-SUFFIX,1ycdn.com,Sohu
 HOST-SUFFIX,56.com,Sohu
 HOST-SUFFIX,56img.com,Sohu
 HOST-SUFFIX,acoloo.com,Sohu

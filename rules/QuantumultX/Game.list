@@ -1,9 +1,9 @@
 # NAME: Game
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-20 17:52:22
+# UPDATED: 2026-11-26 15:29:50
 # HOST: 125
-# HOST-SUFFIX: 1159
+# HOST-SUFFIX: 1163
 # HOST-KEYWORD: 4
 # IP-CIDR: 12
 
@@ -314,6 +314,7 @@ HOST-SUFFIX,cgyouxi.com,Game
 HOST-SUFFIX,championshipseriesleague.com,Game
 HOST-SUFFIX,changyou.com,Game
 HOST-SUFFIX,chillingo.com,Game
+HOST-SUFFIX,chunithm.wahlap.com,Game
 HOST-SUFFIX,chunkbase.com,Game
 HOST-SUFFIX,clash.com,Game
 HOST-SUFFIX,clashmini.com,Game
@@ -645,6 +646,7 @@ HOST-SUFFIX,mahjongcup.cn,Game
 HOST-SUFFIX,mahjongcup.com,Game
 HOST-SUFFIX,mahjongcup.net,Game
 HOST-SUFFIX,mail4399.com,Game
+HOST-SUFFIX,maimai.wahlap.com,Game
 HOST-SUFFIX,maindown4399.com,Game
 HOST-SUFFIX,makearmanotwar.com,Game
 HOST-SUFFIX,marioandluigidreamteam.com,Game
@@ -1108,6 +1110,7 @@ HOST-SUFFIX,testplus.cn,Game
 HOST-SUFFIX,texasholdemcup.cn,Game
 HOST-SUFFIX,texasholdemcup.com,Game
 HOST-SUFFIX,texasholdemcup.net,Game
+HOST-SUFFIX,tgk-wcaime.wahlap.com,Game
 HOST-SUFFIX,tgpro.top,Game
 HOST-SUFFIX,tgprocs.net,Game
 HOST-SUFFIX,thedreadwolfrises.com,Game
@@ -1167,6 +1170,7 @@ HOST-SUFFIX,vrzwk.cn,Game
 HOST-SUFFIX,vrzwk.com,Game
 HOST-SUFFIX,vrzwk.net,Game
 HOST-SUFFIX,vrzwk.top,Game
+HOST-SUFFIX,wahlap.net,Game
 HOST-SUFFIX,wanmei.com,Game
 HOST-SUFFIX,wanwan4399.com,Game
 HOST-SUFFIX,wargaming.com,Game

@@ -1,8 +1,8 @@
 # NAME: Lenovo
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-08-27 10:18:55
-# HOST-SUFFIX: 60
+# UPDATED: 2026-11-26 14:23:29
+# HOST-SUFFIX: 63
 
 HOST-SUFFIX,baiying.cn,Lenovo
 HOST-SUFFIX,baiying.com.cn,Lenovo
@@ -22,6 +22,7 @@ HOST-SUFFIX,juhuiwan.com,Lenovo
 HOST-SUFFIX,juhuiwan.com.cn,Lenovo
 HOST-SUFFIX,juhuiwan.net,Lenovo
 HOST-SUFFIX,lecoo.com,Lenovo
+HOST-SUFFIX,lefile.cn,Lenovo
 HOST-SUFFIX,lenauth.com,Lenovo
 HOST-SUFFIX,lenovo.cn,Lenovo
 HOST-SUFFIX,lenovo.com,Lenovo
@@ -33,6 +34,8 @@ HOST-SUFFIX,lenovocloudos.com,Lenovo
 HOST-SUFFIX,lenovocust.cn,Lenovo
 HOST-SUFFIX,lenovoeservice.com,Lenovo
 HOST-SUFFIX,lenovofile.com,Lenovo
+HOST-SUFFIX,lenovofoundation.cn,Lenovo
+HOST-SUFFIX,lenovofuturecenter.com,Lenovo
 HOST-SUFFIX,lenovogame.com,Lenovo
 HOST-SUFFIX,lenovoimage.cn,Lenovo
 HOST-SUFFIX,lenovoimage.com,Lenovo
