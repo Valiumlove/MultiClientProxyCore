@@ -1,23 +1,39 @@
 # NAME: NBCUniversal
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-08-27 09:45:45
-# HOST-SUFFIX: 17
+# UPDATED: 2026-11-27 09:29:48
+# HOST-SUFFIX: 33
 
-HOST-SUFFIX,cnbc.com,NBCUniversal
-HOST-SUFFIX,cnbcfm.com,NBCUniversal
+HOST-SUFFIX,bravotv.com,NBCUniversal
 HOST-SUFFIX,dreamworks.com,NBCUniversal
-HOST-SUFFIX,msnbc.com,NBCUniversal
+HOST-SUFFIX,focusfeatures.com,NBCUniversal
+HOST-SUFFIX,hayu.com,NBCUniversal
+HOST-SUFFIX,illumination.com,NBCUniversal
 HOST-SUFFIX,nbc.co,NBCUniversal
 HOST-SUFFIX,nbc.com,NBCUniversal
 HOST-SUFFIX,nbcnews.com,NBCUniversal
 HOST-SUFFIX,nbcolympics.com,NBCUniversal
 HOST-SUFFIX,nbcsports.com,NBCUniversal
+HOST-SUFFIX,nbcudigitaladops.com,NBCUniversal
+HOST-SUFFIX,nbcumv.com,NBCUniversal
 HOST-SUFFIX,nbcuni.com,NBCUniversal
+HOST-SUFFIX,nbcunicareers.com,NBCUniversal
 HOST-SUFFIX,nbcuniversal.com,NBCUniversal
+HOST-SUFFIX,nbcuniversalprivacy.com,NBCUniversal
 HOST-SUFFIX,peacocktv.com,NBCUniversal
 HOST-SUFFIX,s-nbcnews.com,NBCUniversal
+HOST-SUFFIX,telemundo.com,NBCUniversal
+HOST-SUFFIX,udxfpp.com,NBCUniversal
+HOST-SUFFIX,universalbeijingresort.com,NBCUniversal
+HOST-SUFFIX,universalhorrorunleashed.com,NBCUniversal
+HOST-SUFFIX,universalkidsresort.com,NBCUniversal
 HOST-SUFFIX,universalorlando.com,NBCUniversal
+HOST-SUFFIX,universalpictures.co.uk,NBCUniversal
 HOST-SUFFIX,universalpictures.com,NBCUniversal
+HOST-SUFFIX,universalpicturesathome.com,NBCUniversal
 HOST-SUFFIX,universalpicturesinternational.com,NBCUniversal
+HOST-SUFFIX,universalproductsexperiences.com,NBCUniversal
 HOST-SUFFIX,universalstudioshollywood.com,NBCUniversal
+HOST-SUFFIX,universalukproject.co.uk,NBCUniversal
+HOST-SUFFIX,uphe.com,NBCUniversal
+HOST-SUFFIX,usj.co.jp,NBCUniversal

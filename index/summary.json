@@ -4,57 +4,57 @@
     {
       "client": "Egern",
       "rule_count": 1185,
-      "total_line_count": 841928,
-      "bytes": 19800148,
+      "total_line_count": 809252,
+      "bytes": 19381844,
       "failed": 0
     },
     {
       "client": "Loon",
       "rule_count": 1185,
-      "total_line_count": 807057,
-      "bytes": 26605110,
+      "total_line_count": 809234,
+      "bytes": 25958330,
       "failed": 0
     },
     {
       "client": "Mihomo",
       "rule_count": 1186,
-      "total_line_count": 841917,
-      "bytes": 29961120,
+      "total_line_count": 809241,
+      "bytes": 29232104,
       "failed": 0
     },
     {
       "client": "QuantumultX",
       "rule_count": 1185,
-      "total_line_count": 807033,
-      "bytes": 36850268,
+      "total_line_count": 809210,
+      "bytes": 36049474,
       "failed": 0
     },
     {
       "client": "Shadowrocket",
       "rule_count": 1185,
-      "total_line_count": 841885,
-      "bytes": 26605110,
+      "total_line_count": 809234,
+      "bytes": 25958330,
       "failed": 0
     },
     {
       "client": "SingBox",
       "rule_count": 1185,
-      "total_line_count": 831553,
-      "bytes": 25355826,
+      "total_line_count": 798920,
+      "bytes": 24796634,
       "failed": 0
     },
     {
       "client": "Stash",
       "rule_count": 1185,
-      "total_line_count": 841945,
-      "bytes": 29963090,
+      "total_line_count": 809269,
+      "bytes": 29234074,
       "failed": 0
     },
     {
       "client": "Surge",
       "rule_count": 1185,
-      "total_line_count": 841867,
-      "bytes": 26605110,
+      "total_line_count": 809234,
+      "bytes": 25958330,
       "failed": 0
     }
   ]

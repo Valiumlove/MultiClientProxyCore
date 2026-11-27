@@ -1,8 +1,8 @@
 # NAME: XiaoMi
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-10-16 22:33:58
-# HOST-SUFFIX: 181
+# UPDATED: 2026-11-26 11:34:53
+# HOST-SUFFIX: 180
 # IP-CIDR: 15
 
 HOST-SUFFIX,408399.com,XiaoMi
@@ -126,7 +126,6 @@ HOST-SUFFIX,qinghedaxue.com,XiaoMi
 HOST-SUFFIX,qsb.browser.miui.srv,XiaoMi
 HOST-SUFFIX,res.mi.baidu.com,XiaoMi
 HOST-SUFFIX,restapi.amap.com,XiaoMi
-HOST-SUFFIX,saxyit.com,XiaoMi
 HOST-SUFFIX,sentry.d.mi.com,XiaoMi
 HOST-SUFFIX,sentry.d.xiaomi.net,XiaoMi
 HOST-SUFFIX,shunwei.cn,XiaoMi
